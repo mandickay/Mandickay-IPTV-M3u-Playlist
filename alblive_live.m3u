@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: alblive.org:80
-# Generated: 2025-12-22 18:31:06
+# Generated: 2025-12-23 07:06:43
 # Expires: 2026-01-15
 # Family Safe Edition
 # ==============================================
@@ -60,13 +60,13 @@ http://alblive.org:80/live/Vahid:Pulja/bije:0I:jo/80.m3u8
 http://alblive.org:80/live/Vahid:Pulja/bije:0I:jo/7838.m3u8
 #EXTINF:-1 tvg-logo="http://alblive.org/logo/albania/koha_vision.png" group-title="Albania",AL: KTV Kohavision HD
 http://alblive.org:80/live/Vahid:Pulja/bije:0I:jo/83.m3u8
-#EXTINF:-1 tvg-logo="http://alblive.org/logo/AL/bbk.png" group-title="Albania",AL: Big Brother 1 VIP KS FHD
+#EXTINF:-1 tvg-logo="http://alblive.org/logo/AL/bbk.png" group-title="Albania",AL: BB VIP Kosova 1 FHD
 http://alblive.org:80/live/Vahid:Pulja/bije:0I:jo/17003.m3u8
-#EXTINF:-1 tvg-logo="http://alblive.org/logo/AL/bbk.png" group-title="Albania",AL: Big Brother 2 VIP KS FHD
+#EXTINF:-1 tvg-logo="http://alblive.org/logo/AL/bbk.png" group-title="Albania",AL: BB VIP Kosova 2 FHD
 http://alblive.org:80/live/Vahid:Pulja/bije:0I:jo/17004.m3u8
-#EXTINF:-1 tvg-logo="http://alblive.org/logo/AL/bbk.png" group-title="Albania",AL: Big Brother 1 VIP KS HD
+#EXTINF:-1 tvg-logo="http://alblive.org/logo/AL/bbk.png" group-title="Albania",AL: BB VIP Kosova 1 HD
 http://alblive.org:80/live/Vahid:Pulja/bije:0I:jo/17001.m3u8
-#EXTINF:-1 tvg-logo="http://alblive.org/logo/AL/bbk.png" group-title="Albania",AL: Big Brother 2 VIP KS HD
+#EXTINF:-1 tvg-logo="http://alblive.org/logo/AL/bbk.png" group-title="Albania",AL: BB VIP Kosova 2 HD
 http://alblive.org:80/live/Vahid:Pulja/bije:0I:jo/17002.m3u8
 #EXTINF:-1 tvg-logo="http://alblive.org/logo/AL/bbal.png" group-title="Albania",AL: BB VIP Albania 1 FHD
 http://alblive.org:80/live/Vahid:Pulja/bije:0I:jo/17328.m3u8

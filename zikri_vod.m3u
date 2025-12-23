@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: zikri.xtpold.com
-# Generated: 2025-12-20 18:23:13
+# Generated: 2025-12-23 07:03:06
 # Expires: 2026-05-08
 # Family Safe Edition
 # ==============================================
@@ -25671,7 +25671,9 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/76674.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/d4BV6hJbNDTyV90yXTd3ZSx8r8D.jpg" group-title="Movies | TR► 4k Ve 3d Filmler",4k.Dual.Arthur.the.King.2024
 http://zikri.xtpold.com/movie/acr87/48mhrm35/76673.mkv
 
-# --- Movies | TR► Alt Yazili Filmler (226) ---
+# --- Movies | TR► Alt Yazili Filmler (227) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8kknNk7PbOcDUXynUZYZ7EHnKAA.jpg" group-title="Movies | TR► Alt Yazili Filmler",Avatar: Ateş ve Kül (Alt Yazılı)
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102335.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xjoPxBBNnblEKZh0Je9HOsG9kLz.jpg" group-title="Movies | TR► Alt Yazili Filmler",Geçmişten Ruhlar
 http://zikri.xtpold.com/movie/acr87/48mhrm35/101613.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/zgjU3hBztV4agGyiivPG2QHc6yY.jpg" group-title="Movies | TR► Alt Yazili Filmler",F1 Filmi (Alt)
@@ -26619,7 +26621,37 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/1201.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Arsiv Yerli Tv Dizileri",Emret Komutanım
 http://zikri.xtpold.com/movie/acr87/48mhrm35/1222.mp4
 
-# --- Movies | TR► Arşiv Dublaj Filmler (779) ---
+# --- Movies | TR► Arşiv Dublaj Filmler (794) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/23ILgoPSO5ShKcTZOuiTVfqFAUB.jpg" group-title="Movies | TR► Arşiv Dublaj Filmler",Barry Seal: Kaçakçı
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102338.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hdARrWgbmc0snYkO1VamEegSYO.jpg" group-title="Movies | TR► Arşiv Dublaj Filmler",Ateş Adası (1990)
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102245.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4srCf7BszzZWOfXuoHe9igrt7a0.jpg" group-title="Movies | TR► Arşiv Dublaj Filmler",Living in Fear (2000)
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102223.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYetboAljWR2N5A7MU3i63DvUtd.jpg" group-title="Movies | TR► Arşiv Dublaj Filmler",3 Men and a Baby (1987)
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102222.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5gShop7147X33ytbcC2u05KDuc.jpg" group-title="Movies | TR► Arşiv Dublaj Filmler",Pride & Prejudice (2005)
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102221.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArIJqMWe2NkaQq3ZMmmKAQdlUNv.jpg" group-title="Movies | TR► Arşiv Dublaj Filmler",1612: Chronicles of the Dark Time (2007)
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102220.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHYtq4wFaUy5Rfa8lRi24QMUwRY.jpg" group-title="Movies | TR► Arşiv Dublaj Filmler",The Presidio (1988)
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102219.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcDLqCS70LsPcovieuQrb311Qr1.jpg" group-title="Movies | TR► Arşiv Dublaj Filmler",No Good Deed (2014)
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102218.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeUOz7tYY8YuARrwAQL54DThscu.jpg" group-title="Movies | TR► Arşiv Dublaj Filmler",Bee Season (2005)
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102217.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czoCxjadYUT2oe9cKzSnU6ZrYoI.jpg" group-title="Movies | TR► Arşiv Dublaj Filmler",A Bittersweet Life (2005)
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102216.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHXQ3QL3gARVXZceeSaBtHUv3Bb.jpg" group-title="Movies | TR► Arşiv Dublaj Filmler",Malpractice (2001)
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102215.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Xy9uu5INNMnyF7W6BTEQkkGOZC.jpg" group-title="Movies | TR► Arşiv Dublaj Filmler",BloodRayne (2005)
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102214.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6YRCDCiauJFYltBklD1X8m6OQm.jpg" group-title="Movies | TR► Arşiv Dublaj Filmler",U.F.O. (2012)
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102213.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQFrkPwGAWWcJXdzJszA7AMRRox.jpg" group-title="Movies | TR► Arşiv Dublaj Filmler",En Uzun Mesafe (2005)
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102212.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6TfZVVzvrlGjxDlZK3CoHwaccc.jpg" group-title="Movies | TR► Arşiv Dublaj Filmler",The Crow: Kötülüğe Çağrı (2005)
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nthhHp805NtRdqoJiqTzaVTPVtV.jpg" group-title="Movies | TR► Arşiv Dublaj Filmler",Yedi Yaşam (2008)
 http://zikri.xtpold.com/movie/acr87/48mhrm35/101742.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epl5pprGt04gAJI8lzbKy83XkbE.jpg" group-title="Movies | TR► Arşiv Dublaj Filmler",Dream Lover (1994)
@@ -28457,7 +28489,7 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/13826.2
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Belgesel Filmler",BEL-72.Sevimli.Hayvan.1
 http://zikri.xtpold.com/movie/acr87/48mhrm35/13827.2
 
-# --- Movies | TR► Blutv - HBO Max (91) ---
+# --- Movies | TR► Blutv - HBO Max (97) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Blutv - HBO Max",Alef
 http://zikri.xtpold.com/movie/acr87/48mhrm35/2.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Blutv - HBO Max",Sokağın Çocukları
@@ -28472,6 +28504,8 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/16.mp4
 http://zikri.xtpold.com/movie/acr87/48mhrm35/22.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Blutv - HBO Max",Yarım Kalan Aşklar
 http://zikri.xtpold.com/movie/acr87/48mhrm35/56.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR► Blutv - HBO Max",Raised by Wolves
+http://zikri.xtpold.com/movie/acr87/48mhrm35/62.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Blutv - HBO Max",Saygı
 http://zikri.xtpold.com/movie/acr87/48mhrm35/91.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Blutv - HBO Max",Masum
@@ -28510,6 +28544,8 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/283.mp4
 http://zikri.xtpold.com/movie/acr87/48mhrm35/324.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Blutv - HBO Max",Bizden Olur Mu?
 http://zikri.xtpold.com/movie/acr87/48mhrm35/328.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR► Blutv - HBO Max",Succession
+http://zikri.xtpold.com/movie/acr87/48mhrm35/332.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Blutv - HBO Max",Yalnizim Mesut Bey
 http://zikri.xtpold.com/movie/acr87/48mhrm35/339.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Blutv - HBO Max",Kıyma
@@ -28640,8 +28676,18 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/1559.mp4
 http://zikri.xtpold.com/movie/acr87/48mhrm35/1563.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Blutv - HBO Max",Industry
 http://zikri.xtpold.com/movie/acr87/48mhrm35/1571.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR► Blutv - HBO Max",Kardeşler Takımı
+http://zikri.xtpold.com/movie/acr87/48mhrm35/1579.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR► Blutv - HBO Max",The Leftovers
+http://zikri.xtpold.com/movie/acr87/48mhrm35/1580.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR► Blutv - HBO Max",Watchmen
+http://zikri.xtpold.com/movie/acr87/48mhrm35/1581.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR► Blutv - HBO Max",My Brilliant Friend
+http://zikri.xtpold.com/movie/acr87/48mhrm35/1582.mp4
 
-# --- Movies | TR► Cocuk Filmleri (307) ---
+# --- Movies | TR► Cocuk Filmleri (308) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/3yIT5oIGPRPLIPJNeFan3l2yRso.jpg" group-title="Movies | TR► Cocuk Filmleri",Caretta Bobi
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102347.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/c1msaKf1wyuKcmLjjJd6rIBPFcd.jpg" group-title="Movies | TR► Cocuk Filmleri",Kim Demiş Kötüyüz Diye? 2
 http://zikri.xtpold.com/movie/acr87/48mhrm35/100677.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6LjiXXepZPvnQmrgV1pUh4kRFw1.jpg" group-title="Movies | TR► Cocuk Filmleri",Lego Disney Frozen Operation Puffins
@@ -29257,7 +29303,7 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/11378.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Cocuk Filmleri",DUAL-Madagascar-1-2005
 http://zikri.xtpold.com/movie/acr87/48mhrm35/11379.mkv
 
-# --- Movies | TR► Diger Yabanci Diziler (32) ---
+# --- Movies | TR► Diger Yabanci Diziler (31) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Diger Yabanci Diziler",Stargirl
 http://zikri.xtpold.com/movie/acr87/48mhrm35/23.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Diger Yabanci Diziler",Person of Interest
@@ -29274,8 +29320,6 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/48.mp4
 http://zikri.xtpold.com/movie/acr87/48mhrm35/49.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Diger Yabanci Diziler",Ay ve Işıklar
 http://zikri.xtpold.com/movie/acr87/48mhrm35/61.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TR► Diger Yabanci Diziler",Raised by Wolves
-http://zikri.xtpold.com/movie/acr87/48mhrm35/62.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Diger Yabanci Diziler",Merlin
 http://zikri.xtpold.com/movie/acr87/48mhrm35/63.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Diger Yabanci Diziler",Ash vs Evil Dead
@@ -29757,7 +29801,19 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/79939.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/3YojlWMQZ08h5ZcMi31Gvv9mkyW.jpg" group-title="Movies | TR► Gösteri - Tiyatro",Kırk Ambar Gece Tiyatrosu
 http://zikri.xtpold.com/movie/acr87/48mhrm35/67337.mkv
 
-# --- Movies | TR► Güncel Dublaj Filmler (2757) ---
+# --- Movies | TR► Güncel Dublaj Filmler (2763) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/dV24R0JoqXRctUwOc0UV7cGwcOL.jpg" group-title="Movies | TR► Güncel Dublaj Filmler",On Falling
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102348.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yI34K5DNJZhOTGiwHZkzMG7GJsS.jpg" group-title="Movies | TR► Güncel Dublaj Filmler",Gabby’nin Hayal Evi: Film
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102337.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/h4T8Xeydkw53h9uIbulYsss25UF.jpg" group-title="Movies | TR► Güncel Dublaj Filmler",Arcadian
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102336.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg" group-title="Movies | TR► Güncel Dublaj Filmler",Avatar: Ateş ve Kül (Sinema Çekimi)
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102273.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/y1FRYW3W9J7HYSWeOARqc9XEq39.jpg" group-title="Movies | TR► Güncel Dublaj Filmler",Four Letters of Love
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102209.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg" group-title="Movies | TR► Güncel Dublaj Filmler",Detective Knight: Rogue
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102208.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/oV5r8NlY2qJbttdoH0kVd3q2AnI.jpg" group-title="Movies | TR► Güncel Dublaj Filmler",Time for Them to Come Home for Christmas
 http://zikri.xtpold.com/movie/acr87/48mhrm35/102111.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/mHEoW8hVEmLj6VToyssPNcoYyKI.jpg" group-title="Movies | TR► Güncel Dublaj Filmler",Tufan
@@ -31880,7 +31936,7 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/62625.mp4
 http://zikri.xtpold.com/movie/acr87/48mhrm35/62624.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1zMicGEwmGJTcxKT6h7mORVmORL.jpg" group-title="Movies | TR► Güncel Dublaj Filmler",Seytan Tepesi
 http://zikri.xtpold.com/movie/acr87/48mhrm35/62623.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/lZIMxe0A4mJyzAWivS9lSRTNKuL.jpg" group-title="Movies | TR► Güncel Dublaj Filmler",Ciglik 6
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg" group-title="Movies | TR► Güncel Dublaj Filmler",Çığlık 6
 http://zikri.xtpold.com/movie/acr87/48mhrm35/62622.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg" group-title="Movies | TR► Güncel Dublaj Filmler",Heart of Stone
 http://zikri.xtpold.com/movie/acr87/48mhrm35/62620.mp4
@@ -35307,7 +35363,7 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/59711.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | TR► Hint Filmleri",Hint.Wasseypur.Ceteleri-2.2012
 http://zikri.xtpold.com/movie/acr87/48mhrm35/59710.mp4
 
-# --- Movies | TR► Netflix (447) ---
+# --- Movies | TR► Netflix (448) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Netflix",Atiye
 http://zikri.xtpold.com/movie/acr87/48mhrm35/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Netflix",Aşk 101
@@ -36202,20 +36258,20 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/1576.mp4
 http://zikri.xtpold.com/movie/acr87/48mhrm35/1577.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Netflix",Fuller House
 http://zikri.xtpold.com/movie/acr87/48mhrm35/1578.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR► Netflix",Sicilya Ekspresi
+http://zikri.xtpold.com/movie/acr87/48mhrm35/1583.mp4
 
 # --- Movies | TR► PuhuTv (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► PuhuTv",Dip
 http://zikri.xtpold.com/movie/acr87/48mhrm35/97.mp4
 
-# --- Movies | TR► TOD - beIN CONNECT (62) ---
+# --- Movies | TR► TOD - beIN CONNECT (61) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► TOD - beIN CONNECT",Aile Şirketi
 http://zikri.xtpold.com/movie/acr87/48mhrm35/133.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► TOD - beIN CONNECT",Erkek Severse
 http://zikri.xtpold.com/movie/acr87/48mhrm35/316.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► TOD - beIN CONNECT",Yellowstone
 http://zikri.xtpold.com/movie/acr87/48mhrm35/331.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TR► TOD - beIN CONNECT",Succession
-http://zikri.xtpold.com/movie/acr87/48mhrm35/332.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► TOD - beIN CONNECT",Hayaller ve Hayatlar
 http://zikri.xtpold.com/movie/acr87/48mhrm35/340.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► TOD - beIN CONNECT",İstanbulun İskeleleri
@@ -36567,7 +36623,9 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/1545.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR► Tv+",Pyramid Game
 http://zikri.xtpold.com/movie/acr87/48mhrm35/1552.mp4
 
-# --- Movies | TR► Türk Filmleri (710) ---
+# --- Movies | TR► Türk Filmleri (711) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/A5KX75fhJnVifZVg6z2dcm3wYe2.jpg" group-title="Movies | TR► Türk Filmleri",Atlet
+http://zikri.xtpold.com/movie/acr87/48mhrm35/102206.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/rlYUTume6SwwuE5eBc3llvApEHj.jpg" group-title="Movies | TR► Türk Filmleri",Ali Cevlik
 http://zikri.xtpold.com/movie/acr87/48mhrm35/102106.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/kVIddrEIwN1MUsu8WBNkbnlEKwI.jpg" group-title="Movies | TR► Türk Filmleri",On Saniye
@@ -38199,4 +38257,4 @@ http://zikri.xtpold.com/movie/acr87/48mhrm35/79835.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDFQPmc8o37SaIjgoXPQSkKTttS.jpg" group-title="Movies | TR► Western Filmleri",Altın Avcıları (1969)
 http://zikri.xtpold.com/movie/acr87/48mhrm35/79834.mp4
 
-# Total: 19045
+# Total: 19074

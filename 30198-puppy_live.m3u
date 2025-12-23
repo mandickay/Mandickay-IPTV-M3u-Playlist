@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 30198-puppy.ott-cdn.me
-# Generated: 2025-12-22 18:39:27
+# Generated: 2025-12-23 07:06:24
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -648,7 +648,7 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/494185.m3u8
 # --- |EU| SW MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",####### MAX PPV #######
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307816.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 1 - CHARLOTTE HORNETS @ CLEVELAND CAVALIERS | Tue 23 Dec 01:00 | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307815.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1307814.m3u8
@@ -1094,9 +1094,9 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/578518.m3u8
 # --- |EU| SWEDEN VIAPLAY PPV (51) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",##### VIAPLAY VIP EVENT #####
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1268976.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 1 - NHL NHL ON THE FLY | Mon 22 Dec 11:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 1 - NHL PHILADELPHIA - VANCOUVER | Tue 23 Dec 01:25 | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1268975.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 2 - VIAPLAY VINTER ALPINT (H) SLALOM | Mon 22 Dec 09:40 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 2 - NHL TAMPA BAY - ST. LOUIS | Tue 23 Dec 00:55 | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1268974.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/viaplay.png" group-title="|EU| SWEDEN VIAPLAY PPV",SE: VIAPLAY PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1268973.m3u8
@@ -4475,7 +4475,7 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/747372.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLO.png" group-title="|NA| USA FLO",USA - FLO 63: 2022 BISON DUALS
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/747371.m3u8
 
-# --- |NA| USA FLO PPV (984) ---
+# --- |NA| USA FLO PPV (987) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 001) | flowrestling: FloWrestling Radio Live _ December 22nd (FloWrestling Radio Live _ December 22nd) (2025-12-22 11:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337381.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 002) | varsity: 2025 REBROADCAST: CHAMPS Grand Nationals (CHAMPS Grand Nationals _ Rebroadcast) (2025-12-22 11:00:05)
@@ -4674,575 +4674,577 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337284.m3u8
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337283.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 100) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 15) (2025-12-27 08:01:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337282.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 101) | flowrestling: 2025 1st Annual Cherokee County Classic (Mat 4) (2025-12-19 11:01:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 101) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 16) (2025-12-27 08:01:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337281.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 102) | flohockey: 2025 Providence Capitals vs Seahawks Hockey Club (Home) (2025-12-19 11:01:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 102) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 17) (2025-12-27 08:01:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337280.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 103) | flowrestling: 53rd Annual El Cajon Invitational (Mat 1) (2025-12-19 12:00:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 103) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 18) (2025-12-27 08:01:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337279.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 104) | flowrestling: 53rd Annual El Cajon Invitational (Mat 2) (2025-12-19 12:00:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 104) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 19) (2025-12-27 08:01:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337278.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 105) | flowrestling: 53rd Annual El Cajon Invitational (Mat 3) (2025-12-19 12:00:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 105) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 20) (2025-12-27 08:01:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337277.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 106) | flowrestling: 53rd Annual El Cajon Invitational (Mat 4) (2025-12-19 12:00:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 106) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 21) (2025-12-27 08:01:40)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337276.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 107) | flowrestling: 53rd Annual El Cajon Invitational (Mat 5) (2025-12-19 12:00:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 107) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 22) (2025-12-27 08:01:45)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337275.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 108) | flowrestling: 53rd Annual El Cajon Invitational (Mat 6) (2025-12-19 12:00:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 108) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 23) (2025-12-27 08:01:50)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337274.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 109) | flowrestling: 53rd Annual El Cajon Invitational (Mat 7) (2025-12-19 12:00:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 109) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 24) (2025-12-27 08:01:55)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337273.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 110) | flowrestling: 2025 Reno TOC (Mat 2) (2025-12-19 12:00:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 110) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 25) (2025-12-27 08:02:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337272.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 111) | flowrestling: 2025 Reno TOC (Mat 4) (2025-12-19 12:00:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 111) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 26) (2025-12-27 08:02:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337271.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 112) | flowrestling: 2025 Reno TOC (Mat 3) (2025-12-19 12:00:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 112) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 27) (2025-12-27 08:02:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337270.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 113) | flowrestling: 2025 Reno TOC (Mat 8) (2025-12-19 12:00:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 113) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 28) (2025-12-27 08:02:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337269.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 114) | flowrestling: 2025 Reno TOC (Mat 1) (2025-12-19 12:00:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 114) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 29) (2025-12-27 08:02:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337268.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 115) | flowrestling: 2025 Reno TOC (Mat 9) (2025-12-19 12:01:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 115) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 30) (2025-12-27 08:02:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337267.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 116) | flowrestling: 2025 Reno TOC (Mat 11) (2025-12-19 12:01:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 116) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 31) (2025-12-27 08:02:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337266.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 117) | flowrestling: 2025 Reno TOC (Mat 13) (2025-12-19 12:01:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 117) | flowrestling: 2025 Tyrant Bison Winter Duals (Mat 32) (2025-12-27 08:02:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337265.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 118) | flowrestling: 2025 Reno TOC (Mat 7) (2025-12-19 12:01:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 118) | flowrestling: 2025 Powerade Wrestling Tournament (Powerade Wrestling Tournament) (2025-12-27 08:02:40)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337264.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 119) | flowrestling: 2025 Reno TOC (Mat 6) (2025-12-19 12:01:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 119) | florugby: 2025 Racing 92 vs Montauban (Racing 92 vs US Montauban) (2025-12-27 08:02:45)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337263.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 120) | flowrestling: 2025 Reno TOC (Mat 12) (2025-12-19 12:01:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 120) | florugby: 2025 Zebre Parma vs Benetton Rugby (Zebre Parma vs Benetton) (2025-12-27 09:30:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337262.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 121) | flowrestling: 2025 Reno TOC (Mat 14) (2025-12-19 12:01:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 121) | flowrestling: 2025 Marshfield Holiday Tournament (Marshfield Holiday Tournament) (2025-12-27 10:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337261.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 122) | flowrestling: 2025 Reno TOC (Mat 10) (2025-12-19 12:01:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 122) | florugby: 2025 Bristol Bears vs Newcastle Red Bulls (Bristol Bears vs Newcastle Falcons) (2025-12-27 10:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337260.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 123) | flowrestling: 2025 Reno TOC (Mat 5) (2025-12-19 12:01:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 123) | florugby: 2025 Castres vs Lyon (Castres Olympique vs Lyon OU) (2025-12-27 10:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337259.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 124) | flowrestling: 2025 Reno TOC (Boutboard) (2025-12-19 12:01:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 124) | florugby: 2025 Edinburgh Rugby vs Glasgow Warriors (Edinburgh vs Glasgow Warriors) (2025-12-27 10:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337258.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 125) | flowrestling: 2025 HS Christmas Clash (Mat 1) (2025-12-19 12:01:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 125) | florugby: 2025 Gloucester Rugby vs Saracens F.C. (Gloucester Rugby vs Saracens F.C.) (2025-12-27 10:05:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337257.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 126) | flowrestling: 2025 HS Christmas Clash (Mat 2) (2025-12-19 12:01:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 126) | flohockey: 2025 Moose Jaw Winmar Warriors vs RHA Kelowna U18 (Home) (2025-12-27 12:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337256.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 127) | flowrestling: 2025 HS Christmas Clash (Mat 3) (2025-12-19 12:02:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 127) | flohockey: 2025 BWC Academy U18 Prep vs Fort Sask. U18 (BWC vs Rangers) (2025-12-27 12:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337255.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 128) | flowrestling: 2025 HS Christmas Clash (Mat 4) (2025-12-19 12:02:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 128) | florugby: 2025 Bayonne vs Stade Francais (Aviron Bayonnais vs Stade Francais) (2025-12-27 12:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337254.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 129) | flowrestling: 2025 HS Christmas Clash (Mat 5) (2025-12-19 12:02:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 129) | flohoops: 2025 Columbia College (SC) vs UNC Wilmington _ Men`s (Columbia College ( vs UNCW) (2025-12-27 12:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337253.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 130) | flowrestling: 2025 HS Christmas Clash (Mat 6) (2025-12-19 12:02:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 130) | flohockey: 2025 Illinois U18 vs Buffaloes U18 (Home) (2025-12-27 12:30:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337252.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 131) | flowrestling: 2025 HS Christmas Clash (Mat 7) (2025-12-19 12:02:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 131) | flohockey: 2025 Shawnigan Lake U18 Prep vs Regina Pat Canadians (Home) (2025-12-27 12:30:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337251.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 132) | flowrestling: 2025 HS Christmas Clash (Mat 8) (2025-12-19 12:02:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 132) | flohockey: 2025 Cloverdale HC vs Surrey Knights (Home) (2025-12-27 12:30:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337250.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 133) | flowrestling: 2025 HS Christmas Clash (Mat 9) (2025-12-19 12:02:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 133) | florugby: 2025 Bath Rugby vs Northampton Saints (Bath Rugby vs Northampton Saints) (2025-12-27 12:30:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337249.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 134) | flowrestling: 2025 HS Christmas Clash (Mat 10) (2025-12-19 12:02:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 134) | florugby: 2025 Connacht Rugby vs Ulster Rugby (Connacht vs Ulster) (2025-12-27 12:30:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337248.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 135) | flowrestling: 2025 HS Christmas Clash (Mat 11) (2025-12-19 12:02:40)
-http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337247.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 136) | flowrestling: 2025 HS Christmas Clash (Mat 12) (2025-12-19 12:02:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 136) | flohockey: 2025 N. Alberta U18 Prep vs Team Maryland U18 (Home) (2025-12-27 14:45:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337246.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 137) | flowrestling: 2025 HS Christmas Clash (Hold) (2025-12-19 12:02:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 137) | florugby: 2025 Munster Rugby vs Leinster Rugby (Munster vs Leinster) (2025-12-27 14:45:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337245.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 138) | flowrestling: 2025 HS Christmas Clash (Mat 13) (2025-12-19 12:02:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 138) | florugby: 2025 Vodacom Bulls vs DHL Stormers (Vodacom Bulls vs DHL Stormers) (2025-12-27 14:45:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337244.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 139) | flowrestling: 2025 HS Christmas Clash (Mat 14) (2025-12-19 12:03:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 139) | flohockey: 2025 Trois_Rivières vs Maine Mariners (Home) (2025-12-27 15:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337243.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 140) | flowrestling: 2025 HS Christmas Clash (Mat 15) (2025-12-19 12:03:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 140) | flohockey: 2025 Trois_Rivières vs Maine Mariners (Away) (2025-12-27 15:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337242.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 141) | flowrestling: 2025 HS Christmas Clash (Mat 16) (2025-12-19 12:03:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 141) | flohockey: 2025 Mississauga Chargers vs Georgetown Raiders (Home) (2025-12-27 15:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337241.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 142) | flowrestling: 2025 HS Christmas Clash (Mat 17) (2025-12-19 12:03:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 142) | flohockey: 2025 Syracuse Crunch vs Laval Rocket (Home) (2025-12-27 15:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337240.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 143) | flowrestling: 2025 HS Christmas Clash (Mat 18) (2025-12-19 12:03:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 143) | flohockey: 2025 Syracuse Crunch vs Laval Rocket (Away) (2025-12-27 15:00:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337239.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 144) | flowrestling: 2025 HS Christmas Clash (Mat 19) (2025-12-19 12:03:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 144) | florugby: 2025 Clermont vs Bordeaux_Begles (ASM_Rugby vs Union Bordeaux) (2025-12-27 15:00:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337238.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 145) | flowrestling: 2025 HS Christmas Clash (Mat 20) (2025-12-19 12:03:30)
-http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337237.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 146) | flowrestling: 2025 HS Christmas Clash (Mat 21) (2025-12-19 12:03:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 146) | flohockey: 2025 Cariboo Cougars vs Royals U18 (Home) (2025-12-27 15:15:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337236.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 147) | flowrestling: 2025 HS Christmas Clash (Mat 22) (2025-12-19 12:03:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 147) | flowrestling: 2025 Sam Cali Invitational (Sam Cali Invitational) (2025-12-27 17:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337235.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 148) | flowrestling: 2025 HS Christmas Clash (Mat 23) (2025-12-19 12:03:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 148) | flohockey: 2025 Hartford Wolf Pack vs Bridgeport Islanders (Home) (2025-12-27 17:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337234.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 149) | flowrestling: 2025 HS Christmas Clash (Mat 24) (2025-12-19 12:03:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 149) | flohockey: 2025 Hartford Wolf Pack vs Bridgeport Islanders (Away) (2025-12-27 17:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337233.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 150) | flowrestling: Canby 2025 Girls Tournament (Mat 4) (2025-12-19 12:03:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 150) | flohockey: 2025 Cleveland Monsters vs Rochester Americans (Home) (2025-12-27 17:05:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337232.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 151) | flowrestling: Canby 2025 Girls Tournament (Mat 3) (2025-12-19 12:04:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 151) | flohockey: 2025 Cleveland Monsters vs Rochester Americans (Away) (2025-12-27 17:05:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337231.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 152) | flowrestling: Canby 2025 Girls Tournament (Mat 2) (2025-12-19 12:04:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 152) | flohockey: 2025 White Rock Whalers vs Port Moody Panthers (Home) (2025-12-27 17:30:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337230.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 153) | flowrestling: Canby 2025 Girls Tournament (Mat 1) (2025-12-19 12:04:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 153) | flohockey: 2025 St. Albert U18 vs Warman Wildcats (Home) (2025-12-27 17:30:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337229.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 154) | flohoops: 2025 IU Southeast vs Kentucky Wesleyan _ Men`s (IU Southeast vs Kentucky Wesleyan) (2025-12-19 12:04:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 154) | flohockey: 2025 Lake Forest Academy U18 vs Vancouver (Lake Forest vs Van. Chiefs) (2025-12-27 17:30:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337228.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 155) | flohoops: 2025 Grove City College vs Carleton College _ Men`s (Grove City vs Carleton) (2025-12-19 12:04:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 155) | flohockey: 2025 Estevan Great North Bears vs Eastman Selects U18 AAA (Estevan vs EastmanU18 AAA) (2025-12-27 18:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337227.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 156) | flohoops: 2025 Goldey_Beacom vs Franklin Pierce _ Women`s (Goldey_Beacom vs Franklin Pierce) (2025-12-19 12:04:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 156) | flohockey: 2025 South Alberta U18 Prep vs Northstars U18 (Home) (2025-12-27 18:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337226.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 157) | flowrestling: 2025 Matboss MN Christmas Tournament (Mat 1) (2025-12-19 13:00:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 157) | flohockey: 2025 Edge U18 Prep vs Sioux Falls U18 (Home) (2025-12-27 18:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337225.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 158) | flowrestling: 2025 Matboss MN Christmas Tournament (Mat 2) (2025-12-19 13:00:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 158) | flohockey: 2025 Toronto Marlies vs Utica Comets (Home) (2025-12-27 18:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337224.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 159) | flowrestling: 2025 Matboss MN Christmas Tournament (Mat 3) (2025-12-19 13:00:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 159) | flohockey: 2025 Toronto Marlies vs Utica Comets (Away) (2025-12-27 18:00:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337223.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 160) | flowrestling: 2025 Matboss MN Christmas Tournament (Mat 4) (2025-12-19 13:00:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 160) | flohockey: 2025 Adirondack Thunder vs Worcester Railers (Home) (2025-12-27 18:05:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337222.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 161) | flowrestling: 2025 Matboss MN Christmas Tournament (Mat 5) (2025-12-19 13:00:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 161) | flohockey: 2025 Adirondack Thunder vs Worcester Railers (Away) (2025-12-27 18:05:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337221.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 162) | flowrestling: 2025 Matboss MN Christmas Tournament (Mat 6) (2025-12-19 13:00:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 162) | flohockey: 2025 Orlando Solar Bears vs South Carolina Stingrays (Home) (2025-12-27 18:05:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337220.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 163) | flowrestling: 2025 Matboss MN Christmas Tournament (Mat 7) (2025-12-19 13:00:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 163) | flohockey: 2025 Orlando Solar Bears vs South Carolina Stingrays (Away) (2025-12-27 18:05:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337219.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 164) | flowrestling: 2025 Matboss MN Christmas Tournament (Mat 8) (2025-12-19 13:00:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 164) | flohockey: 2025 Hershey Bears vs Wilkes_Barre/Scranton Penguins (Home) (2025-12-27 18:05:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337218.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 165) | flowrestling: 2025 Matboss MN Christmas Tournament (Mat 9) (2025-12-19 13:00:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 165) | flohockey: 2025 Hershey Bears vs Wilkes_Barre/Scranton Penguins (Away) (2025-12-27 18:05:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337217.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 166) | flowrestling: 2025 Matboss MN Christmas Tournament (Mat 10) (2025-12-19 13:00:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 166) | flohockey: 2025 Providence Bruins vs Springfield Thunderbirds (Home) (2025-12-27 18:05:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337216.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 167) | flowrestling: 2025 Matboss MN Christmas Tournament (Mat 11) (2025-12-19 13:00:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 167) | flohockey: 2025 Providence Bruins vs Springfield Thunderbirds (Away) (2025-12-27 18:05:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337215.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 168) | flowrestling: 2025 Matboss MN Christmas Tournament (Mat 12) (2025-12-19 13:00:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 168) | flohockey: 2025 Norfolk Admirals vs Greensboro Gargoyles (Home) (2025-12-27 19:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337214.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 169) | flowrestling: 2025 Linda C. Knuutila Memorial (Mat2) (2025-12-19 13:01:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 169) | flohockey: 2025 Norfolk Admirals vs Greensboro Gargoyles (Away) (2025-12-27 19:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337213.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 170) | flowrestling: 2025 Linda C. Knuutila Memorial (Mat 8) (2025-12-19 13:01:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 170) | flohockey: 2025 Chicago Wolves vs Iowa Wild (Home) (2025-12-27 19:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337212.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 171) | flowrestling: 2025 Linda C. Knuutila Memorial (Mat 7) (2025-12-19 13:01:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 171) | flohockey: 2025 Chicago Wolves vs Iowa Wild (Away) (2025-12-27 19:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337211.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 172) | flowrestling: 2025 Linda C. Knuutila Memorial (Mat 6) (2025-12-19 13:01:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 172) | flohockey: 2025 Grand Rapids Griffins vs Milwaukee Admirals (Home) (2025-12-27 19:00:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337210.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 173) | flowrestling: 2025 Linda C. Knuutila Memorial (Mat 5) (2025-12-19 13:01:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 173) | flohockey: 2025 Grand Rapids Griffins vs Milwaukee Admirals (Away) (2025-12-27 19:00:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337209.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 174) | flowrestling: 2025 Linda C. Knuutila Memorial (Mat 4) (2025-12-19 13:01:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 174) | flohockey: 2025 Reading Royals vs Florida Everblades (Home) (2025-12-27 19:00:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337208.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 175) | flowrestling: 2025 Linda C. Knuutila Memorial (Mat 3) (2025-12-19 13:01:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 175) | flohockey: 2025 Reading Royals vs Florida Everblades (Away) (2025-12-27 19:00:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337207.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 176) | flowrestling: 2025 Linda C. Knuutila Memorial (Mat 2) (2025-12-19 13:01:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 176) | flohoops: 2025 UC Santa Cruz vs Puget Sound _ Men`s (UC Santa Cruz vs Puget Sound) (2025-12-27 19:00:40)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337206.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 177) | flowrestling: 2025 Linda C. Knuutila Memorial (Mat5) (2025-12-19 13:01:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 177) | flohockey: 2025 Lincoln Stars vs Omaha Lancers (Home) (2025-12-27 19:05:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337205.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 178) | flowrestling: 2025 Linda C. Knuutila Memorial (Mat8) (2025-12-19 13:01:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 178) | flohockey: 2025 Lincoln Stars vs Omaha Lancers (Away) (2025-12-27 19:05:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337204.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 179) | flowrestling: 2025 Linda C. Knuutila Memorial (Mat7) (2025-12-19 13:01:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 179) | flohockey: 2025 Jacksonville Icemen vs Greenville Swamp Rabbits (Home) (2025-12-27 19:05:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337203.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 180) | flowrestling: 2025 Linda C. Knuutila Memorial (Mat4) (2025-12-19 13:01:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 180) | flohockey: 2025 Jacksonville Icemen vs Greenville Swamp Rabbits (Away) (2025-12-27 19:05:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337202.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 181) | flowrestling: 2025 Linda C. Knuutila Memorial (Mat3) (2025-12-19 13:02:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 181) | flohockey: 2025 Tulsa Oilers vs Wichita Thunder (Home) (2025-12-27 19:05:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337201.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 182) | flowrestling: 2025 Linda C. Knuutila Memorial (Mat6) (2025-12-19 13:02:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 182) | flohockey: 2025 Tulsa Oilers vs Wichita Thunder (Away) (2025-12-27 19:05:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337200.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 183) | flowrestling: 2025 Linda C. Knuutila Memorial (Mat1) (2025-12-19 13:02:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 183) | flohockey: 2025 Knoxville Ice Bears vs Roanoke Rail Yard Dawgs (Home) (2025-12-27 19:05:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337199.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 184) | flowrestling: 2025 Linda C. Knuutila Memorial (Mat 1) (2025-12-19 13:02:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 184) | flohockey: 2025 Knoxville Ice Bears vs Roanoke Rail Yard Dawgs (Away) (2025-12-27 19:05:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337198.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 185) | flowrestling: Tri_State 2025 (Mat 2) (2025-12-19 13:02:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 185) | flohockey: 2025 Charlotte Checkers vs Lehigh Valley Phantoms (Home) (2025-12-27 19:05:40)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337197.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 186) | flowrestling: Tri_State 2025 (Mat 3) (2025-12-19 13:02:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 186) | flohockey: 2025 Charlotte Checkers vs Lehigh Valley Phantoms (Away) (2025-12-27 19:05:45)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337196.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 187) | flowrestling: Tri_State 2025 (Mat 4) (2025-12-19 13:02:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 187) | flohockey: 2025 Fargo Force vs Sioux Falls Stampede (Home) (2025-12-27 19:05:50)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337195.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 188) | flowrestling: Tri_State 2025 (Mat 5) (2025-12-19 13:02:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 188) | flohockey: 2025 Fargo Force vs Sioux Falls Stampede (Away) (2025-12-27 19:05:55)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337194.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 189) | flowrestling: Tri_State 2025 (Mat 6) (2025-12-19 13:02:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 189) | flohockey: 2025 Youngstown Phantoms vs Chicago Steel (Home) (2025-12-27 19:06:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337193.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 190) | flowrestling: Tri_State 2025 (Mat 7) (2025-12-19 13:02:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 190) | flohockey: 2025 Youngstown Phantoms vs Chicago Steel (Away) (2025-12-27 19:06:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337192.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 191) | flowrestling: Tri_State 2025 (Mat 8) (2025-12-19 13:02:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 191) | flohockey: 2025 Indy Fuel vs Wheeling Nailers (Home) (2025-12-27 19:10:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337191.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 192) | flowrestling: Tri_State 2025 (Mat 1) (2025-12-19 13:02:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 192) | flohockey: 2025 Indy Fuel vs Wheeling Nailers (Away) (2025-12-27 19:10:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337190.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 193) | flowrestling: Raul Huerta Memorial (Mat 5) (2025-12-19 13:03:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 193) | flohockey: 2025 Savannah Ghost Pirates vs Atlanta Gladiators (Home) (2025-12-27 19:10:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337189.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 194) | flowrestling: Raul Huerta Memorial (Mat 4) (2025-12-19 13:03:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 194) | flohockey: 2025 Savannah Ghost Pirates vs Atlanta Gladiators (Away) (2025-12-27 19:10:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337188.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 195) | flowrestling: Raul Huerta Memorial (Mat 3) (2025-12-19 13:03:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 195) | flohockey: 2025 Toledo Walleye vs Fort Wayne Komets (Home) (2025-12-27 19:35:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337187.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 196) | flowrestling: Raul Huerta Memorial (Mat 2) (2025-12-19 13:03:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 196) | flohockey: 2025 Toledo Walleye vs Fort Wayne Komets (Away) (2025-12-27 19:35:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337186.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 197) | flowrestling: Raul Huerta Memorial (Mat 1) (2025-12-19 13:03:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 197) | flohockey: 2025 Kalamazoo Wings vs Cincinnati Cyclones (Home) (2025-12-27 19:35:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337185.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 198) | flowrestling: Raul Huerta Memorial (Mat 6) (2025-12-19 13:03:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 198) | flohockey: 2025 Kalamazoo Wings vs Cincinnati Cyclones (Away) (2025-12-27 19:35:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337184.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 199) | flowrestling: Raul Huerta Memorial (Mat 7) (2025-12-19 13:03:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 199) | flohockey: 2025 Madison Capitols vs Waterloo Black Hawks (Home) (2025-12-27 19:35:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337183.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 200) | flohoops: 2025 Algoma vs Lake Superior State _ Men`s (Algoma vs Lake Superior) (2025-12-19 13:03:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 200) | flohockey: 2025 Madison Capitols vs Waterloo Black Hawks (Away) (2025-12-27 19:35:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337182.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 201) | flohoops: 2025 Dominican (CA) vs American International _ Women`s (Dominican (CA) vs AIC) (2025-12-19 13:30:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 201) | flohockey: 2025 Iowa Heartlanders vs Bloomington (Home) (2025-12-27 20:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337181.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 202) | flohockey: 2025 Northern Alberta Xtreme U15 Prep vs Calgary International Hockey (Home) (2025-12-19 13:45:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 202) | flohockey: 2025 Iowa Heartlanders vs Bloomington (Away) (2025-12-27 20:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337180.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 203) | flowrestling: 2025 Findlay Inv. Girls High School (Mat #1) (2025-12-19 14:00:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 203) | flohockey: 2025 Texas Stars vs Rockford IceHogs (Home) (2025-12-27 20:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337179.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 204) | flowrestling: 2025 Findlay Inv. Girls High School (Mat #2) (2025-12-19 14:00:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 204) | flohockey: 2025 Texas Stars vs Rockford IceHogs (Away) (2025-12-27 20:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337178.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 205) | flowrestling: 2025 Findlay Inv. Girls High School (Mat #3) (2025-12-19 14:00:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 205) | flohockey: 2025 Macon Mayhem vs Birmingham Bulls (Home) (2025-12-27 20:00:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337177.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 206) | flowrestling: 2025 Findlay Inv. Girls High School (Mat #4) (2025-12-19 14:00:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 206) | flohockey: 2025 Macon Mayhem vs Birmingham Bulls (Away) (2025-12-27 20:00:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337176.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 207) | flowrestling: 2025 Findlay Inv. Girls High School (Mat #5) (2025-12-19 14:00:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 207) | flohockey: 2025 Huntsville Havoc vs Pensacola Ice Flyers (Home) (2025-12-27 20:05:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337175.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 208) | flowrestling: 2025 Findlay Inv. Girls High School (Mat #6) (2025-12-19 14:00:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 208) | flohockey: 2025 Huntsville Havoc vs Pensacola Ice Flyers (Away) (2025-12-27 20:05:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337174.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 209) | flowrestling: 2025 Findlay Inv. Girls High School (Mat #7) (2025-12-19 14:00:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 209) | flohockey: 2025 Tri_City Storm vs Des Moines Buccaneers (Home) (2025-12-27 20:05:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337173.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 210) | flowrestling: 2025 Findlay Inv. Girls High School (Mat #8) (2025-12-19 14:00:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 210) | flohockey: 2025 Tri_City Storm vs Des Moines Buccaneers (Away) (2025-12-27 20:05:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337172.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 211) | flowrestling: 2025 Findlay Inv. Girls High School (Mat #9) (2025-12-19 14:00:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 211) | flohockey: 2025 Green Bay Gamblers vs Dubuque Fighting Saints (Home) (2025-12-27 20:05:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337171.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 212) | flowrestling: 2025 Findlay Inv. Girls High School (Mat #10) (2025-12-19 14:00:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 212) | flohockey: 2025 Green Bay Gamblers vs Dubuque Fighting Saints (Away) (2025-12-27 20:05:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337170.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 213) | flohockey: 2025 CBHA Bulls U17 vs LJAC Oil Kings U17 AAA (Home) (2025-12-19 14:00:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 213) | flohockey: 2025 Sioux City Musketeers vs Cedar Rapids RoughRiders (Home) (2025-12-27 20:05:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337169.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 214) | flohoops: 2025 SUNY Maritime vs UW_River Falls _ Men`s (SUNY Maritime vs UW_River Falls) (2025-12-19 14:00:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 214) | flohockey: 2025 Sioux City Musketeers vs Cedar Rapids RoughRiders (Away) (2025-12-27 20:05:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337168.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 215) | flohoops: 2025 Willamette vs Cal Lutheran _ Women`s (Willamette vs Cal Lutheran) (2025-12-19 14:01:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 215) | flohockey: 2025 Kansas City Mavericks vs Allen Americans (Home) (2025-12-27 20:10:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337167.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 216) | flohoops: 2025 Texas Lutheran vs Concordia (TX) _ Women`s (Texas Lutheran vs Concordia (TX)) (2025-12-19 14:01:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 216) | flohockey: 2025 Kansas City Mavericks vs Allen Americans (Away) (2025-12-27 20:10:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337166.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 217) | flohoops: 2025 Augustana College vs WashU _ Women`s (Augustana College vs WashU) (2025-12-19 14:01:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 217) | flohockey: 2025 Evansville Thunderbolts vs Quad City Storm (Home) (2025-12-27 20:10:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337165.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 218) | flohockey: 2025 Red Deer U17 vs St. Albert U17 (Home) (2025-12-19 14:15:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 218) | flohockey: 2025 Evansville Thunderbolts vs Quad City Storm (Away) (2025-12-27 20:10:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337164.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 219) | flowrestling: 2025 Battle in the Big Horns (Mat 6) (2025-12-19 14:30:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 219) | flohockey: 2025 Fayetteville Marksmen vs Peoria Rivermen (Home) (2025-12-27 20:15:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337163.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 220) | flowrestling: 2025 Battle in the Big Horns (Mat 7) (2025-12-19 14:30:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 220) | flohockey: 2025 Fayetteville Marksmen vs Peoria Rivermen (Away) (2025-12-27 20:15:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337162.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 221) | flowrestling: 2025 Battle in the Big Horns (Mat 8) (2025-12-19 14:30:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 221) | flohockey: 2025 Okanagan Rockets vs Okotoks U18 (Home) (2025-12-27 20:15:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337161.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 222) | flowrestling: 2025 Battle in the Big Horns (Mat 1) (2025-12-19 14:30:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 222) | flohockey: 2025 Chicago Mission vs Calgary IHA U18 (Home) (2025-12-27 20:45:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337160.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 223) | flowrestling: 2025 Battle in the Big Horns (Mat 2) (2025-12-19 14:30:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 223) | flohockey: 2025 Grande Peace U18 vs Prince Albert Mintos U18 AAA (Grande Peace vs Prince Albert) (2025-12-27 21:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337159.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 224) | flowrestling: 2025 Battle in the Big Horns (Mat 3) (2025-12-19 14:30:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 224) | flohockey: 2025 Abbotsford Canucks vs Coachella Valley Firebirds (Home) (2025-12-27 21:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337158.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 225) | flowrestling: 2025 Battle in the Big Horns (Mat 4) (2025-12-19 14:30:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 225) | flohockey: 2025 Abbotsford Canucks vs Coachella Valley Firebirds (Away) (2025-12-27 21:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337157.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 226) | flowrestling: 2025 Battle in the Big Horns (Mat 5) (2025-12-19 14:30:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 226) | flohockey: 2025 Calgary Wranglers vs Tucson Roadrunners (Home) (2025-12-27 21:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337156.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 227) | flowrestling: 2025 Battle in the Big Horns (Mt 4) (2025-12-19 14:30:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 227) | flohockey: 2025 Calgary Wranglers vs Tucson Roadrunners (Away) (2025-12-27 21:00:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337155.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 228) | florugby: 2025 Cardiff vs Scarlets (Cardiff vs Scarlets) (2025-12-19 14:45:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 228) | flohockey: 2025 Ontario Reign vs San Jose Barracuda (Home) (2025-12-27 21:00:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337154.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 229) | florugby: 2025 Leicester Tigers vs Gloucester Rugby (Leicester Tigers vs Gloucester Rugby) (2025-12-19 14:45:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 229) | flohockey: 2025 Ontario Reign vs San Jose Barracuda (Away) (2025-12-27 21:00:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337153.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 230) | florugby: 2025 Leinster Rugby vs Ulster Rugby (Leinster vs Ulster) (2025-12-19 14:45:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 230) | flohockey: 2025 Tahoe Knight Monsters vs Rapid City Rush (Home) (2025-12-27 21:05:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337152.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 231) | flowrestling: 2025 TSSAA Middle School Girls Individual Wrestling Championships (Mat 1) (2025-12-19 15:00:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 231) | flohockey: 2025 Tahoe Knight Monsters vs Rapid City Rush (Away) (2025-12-27 21:05:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337151.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 232) | flowrestling: 2025 TSSAA Middle School Girls Individual Wrestling Championships (Mat 2) (2025-12-19 15:00:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 232) | flohockey: 2025 Idaho Steelheads vs Utah Grizzlies (Home) (2025-12-27 21:10:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337150.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 233) | flowrestling: 2025 TSSAA Middle School Girls Individual Wrestling Championships (Mat 3) (2025-12-19 15:00:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 233) | flohockey: 2025 Idaho Steelheads vs Utah Grizzlies (Away) (2025-12-27 21:10:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337149.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 234) | flowrestling: 2025 TSSAA Middle School Girls Individual Wrestling Championships (Mat 4) (2025-12-19 15:00:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 234) | flohockey: 2025 OHA Edmonton U18 vs Thompson (Home) (2025-12-27 21:15:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337148.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 235) | flohoops: 2025 Post vs Saint Anselm _ Men`s (Post vs Saint Anselm) (2025-12-19 15:00:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 235) | flohockey: 2025 Phoenix vs Flames U18 (Home) (2025-12-27 21:30:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337147.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 236) | flohockey: 2025 Pacific Coast U15 Prep vs North Shore U15 Prep (Home) (2025-12-19 15:30:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 236) | flohockey: 2025 San Diego Gulls vs Bakersfield Condors (Home) (2025-12-27 22:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337146.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 237) | flohockey: 2025 Edge U15 AAA vs OHA Edmonton U15 (Home) (2025-12-19 15:30:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 237) | flohockey: 2025 San Diego Gulls vs Bakersfield Condors (Away) (2025-12-27 22:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337145.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 238) | flohockey: 2025 BWC Academy U18 Prep vs Pacific Coast U18 (Home) (2025-12-19 15:45:00)
-http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337144.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 239) | flohockey: 2025 Okanagan U18 Prep vs RHA Kelowna U18 (Home) (2025-12-19 16:00:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 239) | florugby: 2025 Yokohama Conon Eagles vs Toshiba Brave Lupus (Eagles vs Brave Lupus) (2025-12-28 00:30:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337143.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 240) | flohockey: 2025 BWC Academy U15 vs St. George`s School U15 (Home) (2025-12-19 16:00:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 240) | florugby: 2025 Mitsubishi Sagamihara Dynaboars vs Saitama Wild Knights (Dynaboars vs Wild Knights) (2025-12-28 00:30:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337142.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 241) | flohockey: 2025 N. Alberta U18 Prep vs Edge U18 Prep (Home) (2025-12-19 16:00:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 241) | floracing: 2025 High Limit Racing International at Perth Motorplex (High Limit Racing at Perth Motorplex) (2025-12-28 03:30:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337141.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 242) | flohoops: 2025 Emerson College vs Cal Lutheran _ Men`s (Emerson vs Cal Lutheran) (2025-12-19 16:00:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 242) | flobikes: 2025 UCI Cyclocross World Cup Round 8 _ Dendermonde (BEL) (UCI Cyclocross World Cup: Dendermonde) (2025-12-28 07:30:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337140.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 243) | flohoops: 2025 Williams College vs Knox _ Men`s (Williams vs Knox) (2025-12-19 16:00:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 243) | flowrestling: 2025 Brushy Christmas Brawl (Brushy Christmas Brawl) (2025-12-28 10:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337139.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 244) | flohockey: 2025 NWCAA Flames U17 vs PAC Saints U17 (Home) (2025-12-19 16:30:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 244) | florugby: 2025 Exeter Chiefs vs Leicester Tigers (Exeter Chiefs vs Leicester Tigers) (2025-12-28 10:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337138.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 245) | flohockey: 2025 AC Avalanche U17 AAA vs Sherwood Park U17 (Home) (2025-12-19 16:45:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 245) | florugby: 2025 Pau vs Montpellier (Section Paloise vs MHR) (2025-12-28 10:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337137.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 246) | flowrestling: 2025 Redwood River Riot (Redwood River Riot) (2025-12-19 17:00:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 246) | flohockey: 2025 Djurgardens IF Hockey vs Skelleftea AIK (Home) (2025-12-28 12:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337136.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 247) | flowrestling: 2025 Redwood River Riot (Mat 1) (2025-12-19 17:00:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 247) | flohockey: 2025 Vancouver vs South Alberta U18 Prep (Home) (2025-12-28 12:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337135.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 248) | flowrestling: 2025 Redwood River Riot (Mat 2) (2025-12-19 17:00:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 248) | flohockey: 2025 Sioux Falls U18 vs St. Albert U18 (Home) (2025-12-28 12:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337134.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 249) | flowrestling: 2025 Redwood River Riot (Mat 3) (2025-12-19 17:00:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 249) | florugby: 2025 Toulon vs Perpignan (RC Toulonnais vs Perpignan) (2025-12-28 12:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337133.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 250) | flowrestling: 2025 Redwood River Riot (Mat 4) (2025-12-19 17:00:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 250) | flohockey: 2025 Warman Wildcats vs Edge U18 Prep (Warman vs Edge) (2025-12-28 12:30:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337132.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 251) | flowrestling: 2025 Redwood River Riot (Mat 5) (2025-12-19 17:00:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 251) | flohockey: 2025 Northstars U18 vs Lake Forest Academy U18 (Home) (2025-12-28 12:30:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337131.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 252) | flowrestling: 2025 Redwood River Riot (Mat 6) (2025-12-19 17:00:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 252) | flohockey: 2025 Brantford Bulldogs vs Owen Sound Attack (Home) (2025-12-28 14:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337130.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 253) | flohoops: 2025 Redlands vs Roanoke _ Men`s (Redlands vs Roanoke) (2025-12-19 17:00:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 253) | flohockey: 2025 Brampton Steelheads vs Niagara IceDogs (Home) (2025-12-28 14:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337129.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 254) | flohoops: 2025 Hardin_Simmons vs Wartburg College _ Women`s (Hardin_Simmons vs Wartburg College) (2025-12-19 17:00:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 254) | flohockey: 2025 Barrie Colts vs North Bay Battalion (Home) (2025-12-28 14:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337128.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 255) | flohoops: 2025 Northwood vs Michigan Tech _ Women`s (Northwood vs Michigan Tech) (2025-12-19 17:30:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 255) | flohockey: 2025 Erie Otters vs Kitchener Rangers (Home) (2025-12-28 14:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337127.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 256) | flohoops: 2025 Baldwin Wallace vs Capital University _ Men`s (Baldwin Wallace vs Capital) (2025-12-19 17:50:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 256) | flohockey: 2025 Moncton Wildcats vs Cape Breton Eagles (Home) (2025-12-28 14:00:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337126.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 257) | flohoops: 2025 Denison vs Otterbein _ Women`s (Denison vs Otterbein) (2025-12-19 17:50:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 257) | flohockey: 2025 Moncton Wildcats vs Cape Breton Eagles (Away) (2025-12-28 14:00:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337125.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 259) | flohockey: 2025 West Kent Steamers vs Chaleur Lightning (Home) (2025-12-19 18:00:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 258) | flohockey: 2025 Charlottetown Islanders vs Saint John Sea Dogs (Home) (2025-12-28 14:00:30)
+http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337124.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 259) | flohockey: 2025 Charlottetown Islanders vs Saint John Sea Dogs (Away) (2025-12-28 14:00:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337123.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 260) | flohockey: 2025 St. George`s School U17 Prep vs North Shore Warriors U17 Prep (Home) (2025-12-19 18:00:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 260) | flohockey: 2025 Newfoundland Regiment vs Halifax Mooseheads (Home) (2025-12-28 14:00:40)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337122.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 261) | flohockey: 2025 Thunder Bay U18 vs Soo Greyhounds U16 (Home) (2025-12-19 18:00:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 261) | flohockey: 2025 Newfoundland Regiment vs Halifax Mooseheads (Away) (2025-12-28 14:00:45)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337121.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 262) | flohoops: 2025 Western Colorado vs Washburn _ Women`s (Western Colorado vs Washburn) (2025-12-19 18:00:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 262) | flohoops: 2025 UW_Stevens Point vs Haverford _ Women`s (UW_Stevens Point vs Haverford) (2025-12-28 14:00:50)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337120.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 263) | flohoops: 2025 Notre Dame of Maryland vs Towson _ Men`s (NDMU vs Towson) (2025-12-19 18:00:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 263) | flohoops: 2025 St. Mary`s (MD) vs Guilford _ Women`s (St. Mary`s (MD) vs Guilford) (2025-12-28 14:00:55)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337119.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 264) | flohoops: 2025 Alma College vs Regis (CO) _ Women`s (Alma College vs Regis (CO)) (2025-12-19 18:00:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 264) | flohockey: 2025 Saginaw Spirit vs Soo Greyhounds (Home) (2025-12-28 14:07:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337118.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 265) | flohockey: 2025 Wenatchee Wild U17 Prep vs STAR HA (Home) (2025-12-19 18:15:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 265) | flohockey: 2025 Thompson vs Phoenix (Home) (2025-12-28 14:45:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337117.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 266) | flohockey: 2025 Miramichi Timberwolves vs Edmundston Blizzard (Home) (2025-12-19 18:30:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 266) | flohockey: 2025 Okotoks U18 vs Chicago Mission (Home) (2025-12-28 14:45:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337116.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 267) | flohoops: 2025 Southwestern University vs Dallas _ Men`s (Southwestern vs Dallas) (2025-12-19 18:30:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 267) | flohockey: 2025 Norfolk Admirals vs Greensboro Gargoyles (Home) (2025-12-28 15:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337115.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 268) | flohoops: 2025 Mary Hardin_Baylor vs Centenary (LA) _ Men`s (Mary Hardin_Baylor vs Centenary (LA)) (2025-12-19 18:55:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 268) | flohockey: 2025 Norfolk Admirals vs Greensboro Gargoyles (Away) (2025-12-28 15:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337114.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 269) | flowrestling: 2025 Gannon vs Edinboro _ Men`s (Gannon vs Edinboro) (2025-12-19 19:00:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 269) | flohockey: 2025 Utica Comets vs Belleville Senators (Home) (2025-12-28 15:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337113.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 270) | flohockey: 2025 Welland Jr. Canadians vs Port Colborne Sailors (Home) (2025-12-19 19:00:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 270) | flohockey: 2025 Utica Comets vs Belleville Senators (Away) (2025-12-28 15:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337112.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 271) | flohockey: 2025 Hamilton Kilty B`s vs St. Catharines Falcons (Home) (2025-12-19 19:00:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 271) | flohockey: 2025 Rouyn_Noranda Huskies vs Val_d`Or Foreurs (Home) (2025-12-28 15:00:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337111.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 272) | flohockey: 2025 South Carolina Stingrays vs Orlando Solar Bears (Home) (2025-12-19 19:00:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 272) | flohockey: 2025 Rouyn_Noranda Huskies vs Val_d`Or Foreurs (Away) (2025-12-28 15:00:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337110.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 273) | flohockey: 2025 South Carolina Stingrays vs Orlando Solar Bears (Away) (2025-12-19 19:00:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 273) | flohockey: 2025 Baie_Comeau Drakkar vs Sherbrooke Phoenix (Home) (2025-12-28 15:00:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337109.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 274) | flohockey: 2025 Powassan Voodoos vs Kirkland Lake Gold Miners (Home) (2025-12-19 19:00:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 274) | flohockey: 2025 Baie_Comeau Drakkar vs Sherbrooke Phoenix (Away) (2025-12-28 15:00:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337108.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 276) | flohockey: 2025 Haliburton County Huskies vs Lindsay Muskies (Home) (2025-12-19 19:00:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 275) | flohockey: 2025 Chicoutimi Sagueneens vs Blainville_Boisbriand Armada (Home) (2025-12-28 15:00:40)
+http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337107.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 276) | flohockey: 2025 Chicoutimi Sagueneens vs Blainville_Boisbriand Armada (Away) (2025-12-28 15:00:45)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337106.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 277) | flohockey: 2025 Wheeling Nailers vs Greensboro Gargoyles (Home) (2025-12-19 19:00:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 277) | flohockey: 2025 Syracuse Crunch vs Laval Rocket (Home) (2025-12-28 15:00:50)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337105.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 278) | flohockey: 2025 Wheeling Nailers vs Greensboro Gargoyles (Away) (2025-12-19 19:00:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 278) | flohockey: 2025 Syracuse Crunch vs Laval Rocket (Away) (2025-12-28 15:00:55)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337104.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 279) | flohockey: 2025 Syracuse Crunch vs Hartford Wolf Pack (Home) (2025-12-19 19:00:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 279) | flohockey: 2025 Maine Mariners vs Trois_Rivières (Home) (2025-12-28 15:01:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337103.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 280) | flohockey: 2025 Syracuse Crunch vs Hartford Wolf Pack (Away) (2025-12-19 19:00:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 280) | flohockey: 2025 Maine Mariners vs Trois_Rivières (Away) (2025-12-28 15:01:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337102.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 281) | flohockey: 2025 Peterborough Petes vs Ottawa 67`s (Home) (2025-12-19 19:01:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 281) | flohockey: 2025 Kingston Frontenacs vs Ottawa 67`s (Home) (2025-12-28 15:01:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337101.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 282) | flohockey: 2025 Wilkes_Barre/Scranton Penguins vs Utica Comets (Home) (2025-12-19 19:01:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 282) | flohockey: 2025 Gatineau Olympiques vs Quebec Remparts (Home) (2025-12-28 15:01:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337100.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 283) | flohockey: 2025 Wilkes_Barre/Scranton Penguins vs Utica Comets (Away) (2025-12-19 19:01:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 283) | flohockey: 2025 Gatineau Olympiques vs Quebec Remparts (Away) (2025-12-28 15:01:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337099.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 284) | flohockey: 2025 Sarnia Sting vs Erie Otters (Home) (2025-12-19 19:01:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 284) | flohockey: 2025 Victoriaville Tigres vs Rimouski Oceanic (Home) (2025-12-28 15:01:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337098.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 285) | flohockey: 2025 Georgetown Raiders vs Niagara Falls Canucks (Home) (2025-12-19 19:01:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 285) | flohockey: 2025 Victoriaville Tigres vs Rimouski Oceanic (Away) (2025-12-28 15:01:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337097.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 286) | flohockey: 2025 Leamington Flyers vs St. Michael`s Buzzers (Home) (2025-12-19 19:01:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 286) | flohoops: 2025 Manchester vs St. Thomas (TX) _ Women`s (Manchester vs St. Thomas (TX)) (2025-12-28 15:01:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337096.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 287) | flohockey: 2025 Adirondack Thunder vs Reading Royals (Home) (2025-12-19 19:01:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 287) | flohockey: 2025 Adirondack Thunder vs Worcester Railers (Home) (2025-12-28 15:05:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337095.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 288) | flohockey: 2025 Adirondack Thunder vs Reading Royals (Away) (2025-12-19 19:01:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 288) | flohockey: 2025 Adirondack Thunder vs Worcester Railers (Away) (2025-12-28 15:05:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337094.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 289) | flohockey: 2025 Maine Mariners vs Trois_Rivières (Home) (2025-12-19 19:01:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 289) | flohockey: 2025 Team USA vs Muskegon Lumberjacks (Home) (2025-12-28 15:05:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337093.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 290) | flohockey: 2025 Maine Mariners vs Trois_Rivières (Away) (2025-12-19 19:01:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 290) | flohockey: 2025 Team USA vs Muskegon Lumberjacks (Away) (2025-12-28 15:05:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337092.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 291) | flohockey: 2025 Roanoke Rail Yard Dawgs vs Fayetteville Marksmen (Home) (2025-12-19 19:01:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 291) | flohockey: 2025 Bridgeport Islanders vs Springfield Thunderbirds (Home) (2025-12-28 15:05:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337091.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 292) | flohockey: 2025 Roanoke Rail Yard Dawgs vs Fayetteville Marksmen (Away) (2025-12-19 19:01:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 292) | flohockey: 2025 Bridgeport Islanders vs Springfield Thunderbirds (Away) (2025-12-28 15:05:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337090.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 293) | flohockey: 2025 Quad City Storm vs Macon Mayhem (Home) (2025-12-19 19:02:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 293) | flohockey: 2025 Wilkes_Barre/Scranton Penguins vs Lehigh Valley Phantoms (Home) (2025-12-28 15:05:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337089.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 294) | flohockey: 2025 Quad City Storm vs Macon Mayhem (Away) (2025-12-19 19:02:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 294) | flohockey: 2025 Wilkes_Barre/Scranton Penguins vs Lehigh Valley Phantoms (Away) (2025-12-28 15:05:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337088.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 295) | flohockey: 2025 Northstars U17 vs MLAC Leafs U17 (Home) (2025-12-19 19:02:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 295) | flohockey: 2025 Jacksonville Icemen vs Greenville Swamp Rabbits (Home) (2025-12-28 15:05:40)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337087.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 296) | flohockey: 2025 Buffalo Jr. Sabres vs Aurora Tigers (Home) (2025-12-19 19:02:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 296) | flohockey: 2025 Jacksonville Icemen vs Greenville Swamp Rabbits (Away) (2025-12-28 15:05:45)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337086.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 297) | flohockey: 2025 Florida Everblades vs Savannah Ghost Pirates (Home) (2025-12-19 19:02:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 297) | florugby: 2025 Toulouse vs La Rochelle (Stade Toulousain vs Stade Rochelais) (2025-12-28 15:05:50)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337085.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 298) | flohockey: 2025 Florida Everblades vs Savannah Ghost Pirates (Away) (2025-12-19 19:02:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 298) | flohockey: 2025 Savannah Ghost Pirates vs Atlanta Gladiators (Home) (2025-12-28 15:10:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337084.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 299) | flohockey: 2025 Grand Rapids Griffins vs Iowa Wild (Home) (2025-12-19 19:02:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 299) | flohockey: 2025 Savannah Ghost Pirates vs Atlanta Gladiators (Away) (2025-12-28 15:10:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337083.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 300) | flohockey: 2025 Grand Rapids Griffins vs Iowa Wild (Away) (2025-12-19 19:02:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 300) | flohockey: 2025 Flames U18 vs OHA Edmonton U18 (Home) (2025-12-28 15:15:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337082.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 301) | flohockey: 2025 Barrie Colts vs Brampton Steelheads (Home) (2025-12-19 19:02:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 301) | flohockey: 2025 Calgary IHA U18 vs Okanagan Rockets (Calgary IHA vs Okanagan) (2025-12-28 15:15:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337081.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 302) | flohockey: 2025 Flint Firebirds vs Niagara IceDogs (Home) (2025-12-19 19:02:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 302) | flohockey: 2025 Windsor Spitfires vs Flint Firebirds (Home) (2025-12-28 16:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337080.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 303) | flohockey: 2025 Owen Sound Attack vs Kitchener Rangers (Home) (2025-12-19 19:02:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 303) | flohockey: 2025 Toledo Walleye vs Indy Fuel (Home) (2025-12-28 16:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337079.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 304) | flohockey: 2025 Oshawa Generals vs London Knights (Home) (2025-12-19 19:02:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 304) | flohockey: 2025 Toledo Walleye vs Indy Fuel (Away) (2025-12-28 16:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337078.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 305) | flohoops: 2025 Howard Payne vs Hendrix College _ Women`s (Howard Payne vs Hendrix College) (2025-12-19 19:03:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 305) | flohockey: 2025 Drummondville Voltigeurs vs Shawinigan Cataractes (Home) (2025-12-28 16:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337077.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 306) | flohoops: 2025 Mount St. Mary`s vs Drexel _ Men`s (Mount Saint Mary`S vs Drexel) (2025-12-19 19:03:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 306) | flohockey: 2025 Drummondville Voltigeurs vs Shawinigan Cataractes (Away) (2025-12-28 16:00:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337076.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 307) | flohoops: 2025 Miami (OH) vs Thomas More _ Men`s (Miami (OH) vs Thomas More) (2025-12-19 19:03:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 307) | flohoops: 2025 Transylvania vs Gustavus Adolphus _ Men`s (Transylvania vs Gustavus Adolphus) (2025-12-28 16:00:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337075.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 308) | flohockey: 2025 Guelph Storm vs Sudbury Wolves (Home) (2025-12-19 19:05:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 308) | flohockey: 2025 Sioux City Musketeers vs Waterloo Black Hawks (Home) (2025-12-28 16:05:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337074.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 309) | flohockey: 2025 Norfolk Admirals vs Worcester Railers (Home) (2025-12-19 19:05:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 309) | flohockey: 2025 Sioux City Musketeers vs Waterloo Black Hawks (Away) (2025-12-28 16:05:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337073.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 310) | flohockey: 2025 Norfolk Admirals vs Worcester Railers (Away) (2025-12-19 19:05:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 310) | flohockey: 2025 Youngstown Phantoms vs Chicago Steel (Home) (2025-12-28 16:05:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337072.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 311) | flohockey: 2025 Belleville Senators vs Rochester Americans (Home) (2025-12-19 19:05:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 311) | flohockey: 2025 Youngstown Phantoms vs Chicago Steel (Away) (2025-12-28 16:05:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337071.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 312) | flohockey: 2025 Belleville Senators vs Rochester Americans (Away) (2025-12-19 19:05:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 312) | flohockey: 2025 Cedar Rapids RoughRiders vs Madison Capitols (Home) (2025-12-28 16:05:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337070.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 313) | flohockey: 2025 Bridgeport Islanders vs Lehigh Valley Phantoms (Home) (2025-12-19 19:05:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 313) | flohockey: 2025 Cedar Rapids RoughRiders vs Madison Capitols (Away) (2025-12-28 16:05:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337069.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 314) | flohockey: 2025 Bridgeport Islanders vs Lehigh Valley Phantoms (Away) (2025-12-19 19:05:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 314) | flohockey: 2025 Cincinnati Cyclones vs Wheeling Nailers (Home) (2025-12-28 16:10:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337068.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 315) | flohockey: 2025 Brantford Bulldogs vs Kingston Frontenacs (Home) (2025-12-19 19:05:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 315) | flohockey: 2025 Cincinnati Cyclones vs Wheeling Nailers (Away) (2025-12-28 16:10:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337067.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 316) | flohockey: 2025 Jacksonville Icemen vs Atlanta Gladiators (Home) (2025-12-19 19:10:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 316) | flohockey: 2025 Fayetteville Marksmen vs Peoria Rivermen (Home) (2025-12-28 16:15:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337066.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 317) | flohockey: 2025 Jacksonville Icemen vs Atlanta Gladiators (Away) (2025-12-19 19:10:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 317) | flohockey: 2025 Fayetteville Marksmen vs Peoria Rivermen (Away) (2025-12-28 16:15:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337065.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 318) | flohockey: 2025 Iowa Heartlanders vs Toledo Walleye (Home) (2025-12-19 19:15:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 318) | flohockey: 2025 Mission City Outlaws vs North Vancouver Wolf Pack (Home) (2025-12-28 16:30:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337064.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 319) | flohockey: 2025 Iowa Heartlanders vs Toledo Walleye (Away) (2025-12-19 19:15:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 319) | flohockey: 2025 Army vs Long Island University _ Men`s Hockey (Home) (2025-12-28 17:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337063.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 320) | flohockey: 2025 Delta Black vs Yale Lions U15 (Home) (2025-12-19 19:15:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 320) | flohockey: 2025 Iowa Heartlanders vs Bloomington (Home) (2025-12-28 17:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337062.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 321) | flohockey: 2025 Okotoks U17 vs Fort Sask. U17 (Home) (2025-12-19 19:15:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 321) | flohockey: 2025 Iowa Heartlanders vs Bloomington (Away) (2025-12-28 17:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337061.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 322) | flohockey: 2025 North York Rangers vs Pickering Panthers (Home) (2025-12-19 19:30:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 322) | flohockey: 2025 Charlotte Checkers vs Hershey Bears (Home) (2025-12-28 17:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337060.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 323) | flohockey: 2025 Elmira Sugar Kings vs Stratford Warriors (Home) (2025-12-19 19:30:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 323) | flohockey: 2025 Charlotte Checkers vs Hershey Bears (Away) (2025-12-28 17:00:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337059.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 324) | flohockey: 2025 Blind River Beavers vs Soo Eagles (Home) (2025-12-19 19:30:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 324) | flohoops: 2025 UC Santa Cruz vs Pacific Lutheran _ Men`s (UC Santa Cruz vs Pacific Lutheran) (2025-12-28 17:00:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337058.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 325) | flohockey: 2025 Newmarket Hurricanes vs Markham Royals (Home) (2025-12-19 19:30:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 325) | flohockey: 2025 Kalamazoo Wings vs Fort Wayne Komets (Home) (2025-12-28 17:05:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337057.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 326) | flohockey: 2025 Chatham Maroons vs Waterloo Siskins (Home) (2025-12-19 19:30:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 326) | flohockey: 2025 Kalamazoo Wings vs Fort Wayne Komets (Away) (2025-12-28 17:05:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337056.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 327) | flohockey: 2025 Hearst Lumberjacks vs Timmins Rock (Home) (2025-12-19 19:30:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 327) | flohockey: 2025 Lincoln Stars vs Sioux Falls Stampede (Home) (2025-12-28 17:05:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337055.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 328) | flohockey: 2025 Renfrew Timberwolves vs Arnprior Packers (Home) (2025-12-19 19:30:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 328) | flohockey: 2025 Lincoln Stars vs Sioux Falls Stampede (Away) (2025-12-28 17:05:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337054.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 330) | flohockey: 2025 Birmingham Bulls vs Knoxville Ice Bears (Home) (2025-12-19 19:30:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 329) | flohockey: 2025 Red Deer U18 vs Prairie Hockey U18 Prep (Home) (2025-12-28 17:30:00)
+http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337053.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 330) | flohockey: 2025 Team Maryland U18 vs Cariboo Cougars (Home) (2025-12-28 17:30:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337052.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 331) | flohockey: 2025 Birmingham Bulls vs Knoxville Ice Bears (Away) (2025-12-19 19:30:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 331) | flohockey: 2025 Reading Royals vs Florida Everblades (Home) (2025-12-28 18:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337051.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 332) | flohockey: 2025 LaSalle Vipers vs Listowel Cyclones (Home) (2025-12-19 19:30:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 332) | flohockey: 2025 Reading Royals vs Florida Everblades (Away) (2025-12-28 18:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337050.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 333) | flohockey: 2025 Komoka Kings vs St. Marys Lincolns (Home) (2025-12-19 19:30:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 333) | flohockey: 2025 Calgary Wranglers vs Tucson Roadrunners (Home) (2025-12-28 18:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337049.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 334) | flohockey: 2025 Cobourg Cougars vs Trenton Golden Hawks (Home) (2025-12-19 19:31:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 334) | flohockey: 2025 Calgary Wranglers vs Tucson Roadrunners (Away) (2025-12-28 18:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337048.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 335) | flohockey: 2025 Milton Menace vs Burlington Cougars (Home) (2025-12-19 19:31:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 335) | flohockey: 2025 Royals U18 vs N. Alberta U18 Prep (Home) (2025-12-28 18:00:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337047.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 336) | flohoops: 2025 Wilson vs Hampden_Sydney _ Men`s (Wilson vs Hampden_Sydney) (2025-12-19 19:31:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 336) | flohockey: 2025 Eastman Selects U18 AAA vs Saskatoon Blazers (EastmanU18 AAA vs Sask. Blazers) (2025-12-28 18:00:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337046.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 337) | flohockey: 2025 Indy Fuel vs Fort Wayne Komets (Home) (2025-12-19 19:35:00)
-http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337045.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 338) | flohockey: 2025 Indy Fuel vs Fort Wayne Komets (Away) (2025-12-19 19:35:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 338) | flohockey: 2025 South Carolina Stingrays vs Orlando Solar Bears (Home) (2025-12-28 18:00:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337044.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 340) | flohockey: 2025 Melville Millionaires vs Weyburn Red Wings (Home) (2025-12-19 20:00:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 339) | flohockey: 2025 South Carolina Stingrays vs Orlando Solar Bears (Away) (2025-12-28 18:00:40)
+http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337043.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 340) | flohoops: 2025 SUNY Cortland vs Dubuque _ Men`s (Cortland vs Dubuque) (2025-12-28 18:00:45)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337042.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 341) | flohockey: 2025 Estevan Bruins vs Yorkton Terriers (Home) (2025-12-19 20:00:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 341) | flohoops: 2025 Hamline vs Claremont M_S _ Women`s (Hamline vs CMS) (2025-12-28 18:00:50)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337041.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 342) | flohockey: 2025 Ottawa Jr Canadians vs Embrun Panthers (Home) (2025-12-19 20:00:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 342) | flohockey: 2025 Peterborough Petes vs Oshawa Generals (Home) (2025-12-28 18:05:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337040.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 343) | flohockey: 2025 Evansville Thunderbolts vs Huntsville Havoc (Home) (2025-12-19 20:00:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 343) | flohockey: 2025 Fargo Force vs Omaha Lancers (Home) (2025-12-28 18:05:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337039.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 344) | flohockey: 2025 Evansville Thunderbolts vs Huntsville Havoc (Away) (2025-12-19 20:00:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 344) | flohockey: 2025 Fargo Force vs Omaha Lancers (Away) (2025-12-28 18:05:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337038.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 345) | flohockey: 2025 Winkler Flyers vs Steinbach Pistons (Home) (2025-12-19 20:00:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 345) | flohockey: 2025 Tahoe Knight Monsters vs Rapid City Rush (Home) (2025-12-28 18:05:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337037.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 346) | flohockey: 2025 Kalamazoo Wings vs Bloomington (Home) (2025-12-19 20:00:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 346) | flohockey: 2025 Tahoe Knight Monsters vs Rapid City Rush (Away) (2025-12-28 18:05:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337036.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 347) | flohockey: 2025 Kalamazoo Wings vs Bloomington (Away) (2025-12-19 20:00:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 347) | flohockey: 2025 Port Coquitlam vs Ridge Meadows Flames (Home) (2025-12-28 19:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337035.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 348) | flohockey: 2025 Milwaukee Admirals vs Texas Stars (Home) (2025-12-19 20:00:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 348) | flohoops: 2025 East Texas Baptist vs Dallas _ Men`s (East Texas Baptist vs Dallas) (2025-12-28 19:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337034.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 349) | flohockey: 2025 Milwaukee Admirals vs Texas Stars (Away) (2025-12-19 20:00:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 349) | flohoops: 2025 Nazareth vs Cal Lutheran _ Women`s (Nazareth vs Cal Lutheran) (2025-12-28 19:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337033.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 350) | flohockey: 2025 Winchester Hawks vs Glengarry Brigade (Home) (2025-12-19 20:00:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 350) | flohockey: 2025 London Knights vs Sarnia Sting (Home) (2025-12-28 19:05:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337032.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 351) | flohockey: 2025 Yellowhead Chiefs U18 AAA vs Winnipeg Bruins U18 AAA (Home) (2025-12-19 20:01:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 351) | flohockey: 2025 Coachella Valley Firebirds vs Henderson Silver Knights (Home) (2025-12-28 20:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337031.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 352) | flohockey: 2025 Pelham Panthers vs Caledon Bombers (Home) (2025-12-19 20:01:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 352) | flohockey: 2025 Coachella Valley Firebirds vs Henderson Silver Knights (Away) (2025-12-28 20:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337030.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 353) | flohockey: 2025 Sudbury Wolves U16 AAA vs New Liskeard U18 (Home) (2025-12-19 20:01:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 353) | flohockey: 2025 Abbotsford Canucks vs San Diego Gulls (Home) (2025-12-28 20:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337029.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 354) | flohoops: 2025 Carroll (WI) vs WPI _ Women`s (Carroll (WI) vs WPI) (2025-12-19 20:01:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 354) | flohockey: 2025 Abbotsford Canucks vs San Diego Gulls (Away) (2025-12-28 20:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337028.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 356) | flohoops: 2025 Lyon vs Ozarks (AR) _ Men`s (Lyon vs Ozarks (AR)) (2025-12-19 20:01:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 355) | flohockey: 2025 Fort Sask. U18 vs Shawnigan Lake U18 Prep (Home) (2025-12-28 20:15:00)
+http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337027.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 356) | flohockey: 2025 RHA Kelowna U18 vs Illinois U18 (Home) (2025-12-28 20:15:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337026.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 357) | flohockey: 2025 Utah Grizzlies vs Kansas City Mavericks (Home) (2025-12-19 20:05:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 357) | flohockey: 2025 Buffaloes U18 vs Moose Jaw Winmar Warriors (Home) (2025-12-28 20:45:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337025.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 358) | flohockey: 2025 Utah Grizzlies vs Kansas City Mavericks (Away) (2025-12-19 20:05:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 358) | flohockey: 2025 Regina Pat Canadians vs BWC Academy U18 Prep (Home) (2025-12-28 20:45:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337024.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 359) | flohockey: 2025 Tulsa Oilers vs Allen Americans (Home) (2025-12-19 20:10:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 359) | flohockey: 2025 Tisdale Trojans vs Grande Peace U18 (Tisdale vs Grande Peace) (2025-12-28 21:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337023.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 360) | flohockey: 2025 Tulsa Oilers vs Allen Americans (Away) (2025-12-19 20:10:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 360) | flohockey: 2025 Abbotsford Pilots vs White Rock Whalers (Home) (2025-12-28 21:30:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337022.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 361) | flohockey: 2025 Winnipeg Bruins U17 vs Winnipeg Thrashers U17 (Home) (2025-12-19 20:15:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 361) | flohockey: 2025 Richmond Sockeyes vs Delta Ice Hawks (Home) (2025-12-28 22:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337021.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 362) | flohoops: 2025 Cal State San Bernardino vs Stanislaus State _ Women`s (CSUSB vs Stanislaus St.) (2025-12-19 20:15:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 362) | flohockey: 2025 Richmond Sockeyes vs Delta Ice Hawks (Home) (2025-12-28 22:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337020.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 363) | flohockey: 2025 Flin Flon Bombers vs La Ronge Ice Wolves (Home) (2025-12-19 20:30:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 363) | flowrestling: Brecksville Invitational Holiday Tourn (Mat 1) (2025-12-29 09:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337019.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 364) | flohockey: 2025 Nipawin Hawks vs Melfort Mustangs (Home) (2025-12-19 20:30:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 364) | flowrestling: Brecksville Invitational Holiday Tourn (Mat 2) (2025-12-29 09:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337018.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 365) | flohockey: 2025 Selkirk Steelers vs Niverville Nighthawks (Home) (2025-12-19 20:30:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 365) | flowrestling: Brecksville Invitational Holiday Tourn (Mat 3) (2025-12-29 09:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337017.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 366) | flohockey: 2025 Swan Valley Stampeders vs Virden Oil Capitals (Home) (2025-12-19 20:30:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 366) | flowrestling: Brecksville Invitational Holiday Tourn (Mat 4) (2025-12-29 09:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337016.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 367) | flohockey: 2025 Eastman Selects U17 vs Interlake Lightning U17 (Home) (2025-12-19 20:30:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 367) | flowrestling: Brecksville Invitational Holiday Tourn (Mat 5) (2025-12-29 09:00:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337015.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 368) | flohockey: 2025 Brandon Wheat Kings U15 vs Yellowhead Chiefs U15 (Home) (2025-12-19 20:30:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 368) | flowrestling: Brecksville Invitational Holiday Tourn (Mat 6) (2025-12-29 09:00:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337014.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 369) | flohockey: 2025 Winnipeg Monarchs vs Waywayseecappo Wolverines (Home) (2025-12-19 20:30:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 369) | flowrestling: Brecksville Invitational Holiday Tourn (Mat 7) (2025-12-29 09:00:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337013.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 370) | flohockey: 2025 Northern Manitoba Blizzard vs Neepawa Titans (Home) (2025-12-19 20:30:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 370) | flowrestling: Brecksville Invitational Holiday Tourn (Mat 8) (2025-12-29 09:00:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337012.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 371) | flohockey: 2025 Warman Wildcats vs Humboldt Broncos (Home) (2025-12-19 20:30:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 371) | flowrestling: Brecksville Invitational Holiday Tourn (Mat 9) (2025-12-29 09:00:40)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337011.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 372) | flohockey: 2025 Eastman Selects U18 AAA vs Winnipeg Wild U18 AAA (Home) (2025-12-19 20:30:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 372) | flowrestling: Southmoreland Holiday Classic (Mat 1) (2025-12-29 09:00:45)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337010.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 373) | flohockey: 2025 Brandon Wheat Kings U18 AAA vs Parkland Rangers U18 AAA (Home) (2025-12-19 20:30:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 373) | flowrestling: Southmoreland Holiday Classic (Mat 2) (2025-12-29 09:00:50)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337009.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 374) | flohockey: 2025 Winnipeg Wild Red U15 vs Southwest Cougars U15 (Home) (2025-12-19 20:30:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 374) | flowrestling: Southmoreland Holiday Classic (Mat 3) (2025-12-29 09:00:55)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337008.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 375) | flohoops: 2025 San Francisco State vs Cal State LA _ Women`s (SF State vs Cal State LA) (2025-12-19 20:31:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 375) | flowrestling: Southmoreland Holiday Classic (Mat 4) (2025-12-29 09:01:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337007.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 376) | flohoops: 2025 Chico State vs Cal State Monterey Bay _ Women`s (Chico State vs CSUMB) (2025-12-19 20:31:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 376) | flowrestling: 2025 Defiance Tri_State Border War (MAT 1) (2025-12-29 10:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337006.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 377) | flohoops: 2025 Cal State East Bay vs Cal State Dominguez Hills _ Women`s (CSUEB vs CSUDH) (2025-12-19 20:31:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 377) | flowrestling: 2025 Defiance Tri_State Border War (MAT 2) (2025-12-29 10:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337005.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 378) | flohoops: 2025 Cal Poly Pomona vs UC Merced _ Women`s (Cal Poly Pomona vs UC Merced) (2025-12-19 20:31:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 378) | flowrestling: 2025 Defiance Tri_State Border War (MAT 3) (2025-12-29 10:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337004.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 379) | flohoops: 2025 Cal Poly Humboldt vs Cal State San Marcos _ Women`s (Humboldt vs CSUSM) (2025-12-19 20:31:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 379) | flowrestling: 2025 Defiance Tri_State Border War (MAT 4) (2025-12-29 10:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337003.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 380) | flohockey: 2025 Central Alberta Twins U13 vs Southern Express U13 (Home) (2025-12-19 20:45:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 380) | flowrestling: 2025 Defiance Tri_State Border War (MAT 5) (2025-12-29 10:00:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337002.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 381) | flohockey: 2025 Grande Prairie Storm vs Canmore Eagles (Home) (2025-12-19 21:00:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 381) | flowrestling: 2025 Defiance Tri_State Border War (MAT 6) (2025-12-29 10:00:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337001.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 382) | flohockey: 2025 Grande Prairie Storm vs Canmore Eagles (Away) (2025-12-19 21:00:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 382) | flowrestling: 2025 Defiance Tri_State Border War (MAT 7) (2025-12-29 10:00:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1337000.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 383) | flohockey: 2025 Okotoks Oilers vs Cranbrook Bucks (Home) (2025-12-19 21:00:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 383) | flowrestling: 2025 Defiance Tri_State Border War (MAT 8) (2025-12-29 10:00:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336999.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 384) | flohockey: 2025 Okotoks Oilers vs Cranbrook Bucks (Away) (2025-12-19 21:00:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 384) | flowrestling: 2025 Skiatook SMAKdown (Skiatook SMAKdown) (2025-12-29 10:00:40)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336998.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 385) | flohockey: 2025 Fort McMurray Oil Barons vs Drumheller Dragons (Home) (2025-12-19 21:00:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 385) | flowrestling: 2025 Wonder Woman Wrestling Tournament (Wonder Woman Wrestling Tournament) (2025-12-29 10:00:45)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336997.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 386) | flohockey: 2025 Fort McMurray Oil Barons vs Drumheller Dragons (Away) (2025-12-19 21:00:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 386) | flowrestling: 2025 Wonder Woman Wrestling Tournament (Mat 1) (2025-12-29 10:00:50)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336996.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 387) | flohockey: 2025 Columbia Valley Rockies vs Fernie Ghostriders (Home) (2025-12-19 21:00:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 387) | flowrestling: 2025 Wonder Woman Wrestling Tournament (Mat 2) (2025-12-29 10:00:55)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336995.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 388) | flohockey: 2025 Tisdale Trojans vs Saskatoon Blazers (Home) (2025-12-19 21:00:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 388) | flowrestling: 2025 Wonder Woman Wrestling Tournament (Mat 3) (2025-12-29 10:01:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336994.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 389) | flohockey: 2025 Spruce Grove Saints vs Brooks Bandits (Home) (2025-12-19 21:00:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 389) | flowrestling: 2025 Wonder Woman Wrestling Tournament (Mat 4) (2025-12-29 10:01:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336993.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 390) | flohockey: 2025 Spruce Grove Saints vs Brooks Bandits (Away) (2025-12-19 21:00:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 390) | flowrestling: 2025 Wonder Woman Wrestling Tournament (Mat 5) (2025-12-29 10:01:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336992.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",US (Flo 391) | [Volleyball|2025 Valdosta State vs UAH _ Women`s] (2025-11-01 15:00:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336991.m3u8
@@ -5264,199 +5266,203 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336984.m3u8
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336983.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",US (Flo 400) | [Volleyball|2025 West Texas A&M vs Angelo State _ Women`s] (2025-11-01 15:01:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336982.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 401) | flohockey: 2025 San Diego Gulls vs Calgary Wranglers (Away) (2025-12-19 21:01:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 401) | flowrestling: 2025 Sierra Nevada (Sierra Nevada) (2025-12-29 12:00:40)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336981.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 402) | flohoops: 2025 Asbury University vs George Fox University _ Men`s (Asbury University vs George Fox) (2025-12-19 21:01:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 402) | flowrestling: 2025 Sierra Nevada (Mat 1) (2025-12-29 12:00:45)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336980.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 403) | flohockey: 2025 Rapid City Rush vs Idaho Steelheads (Home) (2025-12-19 21:10:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 403) | flowrestling: 2025 Sierra Nevada (Mat 2) (2025-12-29 12:00:50)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336979.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 404) | flohockey: 2025 Rapid City Rush vs Idaho Steelheads (Away) (2025-12-19 21:10:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 404) | flowrestling: 2025 Sierra Nevada (Mat 3) (2025-12-29 12:00:55)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336978.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 405) | flohockey: 2025 Okotoks U15 vs Lethbridge U15 (Home) (2025-12-19 21:15:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 405) | flowrestling: 2025 Sierra Nevada (Mat 4) (2025-12-29 12:01:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336977.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 406) | flohockey: 2025 Red Deer Topco Oilsite Products vs Calgary Fire White (Home) (2025-12-19 21:15:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 406) | flowrestling: 2025 Sierra Nevada (Mat 5) (2025-12-29 12:01:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336976.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 407) | flohockey: 2025 Coaldale Copperheads vs Medicine Hat Cubs (Home) (2025-12-19 21:30:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 407) | flowrestling: 2025 Sierra Nevada (Mat 6) (2025-12-29 12:01:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336975.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 408) | flohockey: 2025 Nanaimo Buccaneers vs Saanich Predators (Home) (2025-12-19 21:30:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 408) | flowrestling: 2025 Sierra Nevada (Mat 7) (2025-12-29 12:01:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336974.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 409) | flohockey: 2025 Carstar Okotoks Bisons vs Cannex Cochrane Generals (Home) (2025-12-19 21:30:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 409) | flowrestling: 2025 Sierra Nevada (Mat 8) (2025-12-29 12:01:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336973.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 410) | flohockey: 2025 N. Alberta U17 vs South Alberta U17 (Home) (2025-12-19 21:45:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 410) | flowrestling: 2025 Sierra Nevada (Mat 9) (2025-12-29 12:01:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336972.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 411) | flohockey: 2025 Cowichan Valley Capitals vs Prince George Spruce Kings (Home) (2025-12-19 22:00:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 411) | flowrestling: 2025 Sierra Nevada (Mat 10) (2025-12-29 12:01:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336971.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 412) | flohockey: 2025 Cowichan Valley Capitals vs Prince George Spruce Kings (Away) (2025-12-19 22:00:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 412) | flowrestling: 2025 Sierra Nevada (Mat 11) (2025-12-29 12:01:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336970.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 413) | flohockey: 2025 Alberni Valley Bulldogs vs Nanaimo Clippers (Home) (2025-12-19 22:00:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 413) | flowrestling: 2025 Sierra Nevada (Mat 12) (2025-12-29 12:01:40)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336969.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 414) | flohockey: 2025 Alberni Valley Bulldogs vs Nanaimo Clippers (Away) (2025-12-19 22:00:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 414) | flowrestling: 2025 Sierra Nevada (Mat 13) (2025-12-29 12:01:45)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336968.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 415) | flohockey: 2025 Grand Forks Border Bruins vs Nelson Leafs (Home) (2025-12-19 22:00:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 415) | flowrestling: 2025 Sierra Nevada (Mat 14) (2025-12-29 12:01:50)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336967.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 416) | flohockey: 2025 Merritt Centennials vs Chase Heat (Home) (2025-12-19 22:00:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 416) | flowrestling: 2025 Sierra Nevada (Mat 15) (2025-12-29 12:01:55)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336966.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 417) | flohockey: 2025 Quesnel River Rush vs Williams Lake Mustangs (Home) (2025-12-19 22:00:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 417) | flowrestling: 2025 Sierra Nevada (Match Display) (2025-12-29 12:02:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336965.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 419) | flohockey: 2025 Edmonton Ice White vs St. Albert U15 (Home) (2025-12-19 22:00:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 418) | flowrestling: 2025 Cimarron Spartan Invitational (Mat 8) (2025-12-29 12:02:05)
+http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336964.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 419) | flowrestling: 2025 Cimarron Spartan Invitational (Mat 7) (2025-12-29 12:02:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336963.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 420) | flohockey: 2025 Coquitlam Express vs Chilliwack Chiefs (Home) (2025-12-19 22:00:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 420) | flowrestling: 2025 Cimarron Spartan Invitational (Mat 3) (2025-12-29 12:02:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336962.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 421) | flohockey: 2025 Coquitlam Express vs Chilliwack Chiefs (Away) (2025-12-19 22:00:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 421) | flowrestling: 2025 Cimarron Spartan Invitational (Mat 6) (2025-12-29 12:02:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336961.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 422) | flohockey: 2025 Delta Ice Hawks vs Port Coquitlam (Home) (2025-12-19 22:00:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 422) | flowrestling: 2025 Cimarron Spartan Invitational (Mat 5) (2025-12-29 12:02:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336960.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 424) | flohockey: 2025 Castlegar Rebels vs Beaver Valley Nitehawks (Home) (2025-12-19 22:01:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 423) | flowrestling: 2025 Cimarron Spartan Invitational (Mat 4) (2025-12-29 12:02:30)
+http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336959.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 424) | flowrestling: 2025 Cimarron Spartan Invitational (Mat 2) (2025-12-29 12:02:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336958.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 425) | flohockey: 2025 Kelowna Chiefs vs Princeton Posse (Home) (2025-12-19 22:01:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 425) | flowrestling: 2025 Cimarron Spartan Invitational (Mat 1) (2025-12-29 12:02:40)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336957.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 426) | flohockey: 2025 Victoria Grizzlies vs Powell River Kings (Home) (2025-12-19 22:01:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 426) | flohockey: 2025 Prairie Hockey U18 Prep vs St. Louis (Home) (2025-12-29 12:02:45)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336956.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 427) | flohockey: 2025 Victoria Grizzlies vs Powell River Kings (Away) (2025-12-19 22:01:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 427) | flohockey: 2025 N. Alberta U18 Prep vs Cariboo Cougars (Home) (2025-12-29 12:02:50)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336955.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 428) | flohockey: 2025 Blackfalds Bulldogs vs Salmon Arm Silverbacks (Home) (2025-12-19 22:01:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 428) | flohoops: 2025 Brooklyn vs Mary Washington _ Women`s (Brooklyn vs Mary Washington) (2025-12-29 12:02:55)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336954.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 429) | flohockey: 2025 Blackfalds Bulldogs vs Salmon Arm Silverbacks (Away) (2025-12-19 22:01:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 429) | flohoops: 2025 Husson vs Roanoke _ Men`s (Husson vs Roanoke) (2025-12-29 12:03:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336953.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 430) | flohockey: 2025 West Kelowna Warriors vs Vernon Vipers (Home) (2025-12-19 22:01:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 430) | flohockey: 2025 Team Maryland U18 vs Royals U18 (Home) (2025-12-29 12:30:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336952.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 431) | flohockey: 2025 West Kelowna Warriors vs Vernon Vipers (Away) (2025-12-19 22:01:40)
-http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336951.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 432) | flohockey: 2025 LJAC Oil Kings U18 vs Red Deer U18 (Home) (2025-12-19 22:01:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 432) | flohoops: 2025 Washington & Jefferson vs Otterbein _ Women`s (Washington & Jeffers vs Otterbein) (2025-12-29 12:45:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336950.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 433) | flohockey: 2025 SSAC IP U15 vs MLAC Traxx U15 (Home) (2025-12-19 22:01:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 433) | flowrestling: 12th Annual Queen of the Hill (Mat 7) (2025-12-29 13:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336949.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 434) | flohockey: 2025 Grande Prairie vs Dawson Creek (Home) (2025-12-19 22:01:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 434) | flowrestling: 12th Annual Queen of the Hill (Mat 6) (2025-12-29 13:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336948.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 435) | flohockey: 2025 Fairview vs Fort St. John (Home) (2025-12-19 22:02:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 435) | flowrestling: 12th Annual Queen of the Hill (Mat 5) (2025-12-29 13:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336947.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 436) | flohockey: 2025 Wichita Thunder vs Tahoe Knight Monsters (Home) (2025-12-19 22:02:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 436) | flowrestling: 12th Annual Queen of the Hill (Mat 4) (2025-12-29 13:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336946.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 437) | flohockey: 2025 Wichita Thunder vs Tahoe Knight Monsters (Away) (2025-12-19 22:02:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 437) | flowrestling: 12th Annual Queen of the Hill (Mat 3) (2025-12-29 13:00:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336945.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 438) | flohockey: 2025 Bakersfield Condors vs Coachella Valley Firebirds (Home) (2025-12-19 22:02:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 438) | flowrestling: 12th Annual Queen of the Hill (Mat 2) (2025-12-29 13:00:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336944.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 439) | flohockey: 2025 Bakersfield Condors vs Coachella Valley Firebirds (Away) (2025-12-19 22:02:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 439) | flowrestling: 12th Annual Queen of the Hill (Mat 1) (2025-12-29 13:00:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336943.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 440) | flohockey: 2025 Rocky Mountain House Rams vs Airdrie Techmation Thunder (Home) (2025-12-19 22:02:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 440) | flowrestling: 12th Annual Queen of the Hill (Mat 8) (2025-12-29 13:00:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336942.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 441) | flohoops: 2025 UC Santa Cruz vs Puget Sound _ Women`s (UC Santa Cruz vs Puget Sound) (2025-12-19 22:02:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 441) | flowrestling: 12th Annual Queen of the Hill (Mat 9) (2025-12-29 13:00:40)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336941.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 442) | flohockey: 2025 Surrey Eagles vs Langley Rivermen (Home) (2025-12-19 22:15:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 442) | flowrestling: 12th Annual Queen of the Hill (Mat 10) (2025-12-29 13:00:45)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336940.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 443) | flohockey: 2025 Surrey Eagles vs Langley Rivermen (Away) (2025-12-19 22:15:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 443) | flohoops: 2025 Fort Lauderdale vs Valdosta State _ Women`s (Ft. Lauderdale vs Valdosta State) (2025-12-29 13:00:50)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336939.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 444) | flohoops: 2025 Cal State San Bernardino vs Stanislaus State _ Men`s (CSUSB vs Stanislaus St.) (2025-12-19 22:15:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 444) | flohoops: 2025 Keene State vs UW_Stevens Point _ Women`s (Keene State vs UW_Stevens Point) (2025-12-29 14:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336938.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 445) | flohockey: 2025 Victoria Cougars vs Westshore Wolves (Home) (2025-12-19 22:30:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 445) | flohoops: 2025 Wilkes vs Gettysburg _ Men`s (Wilkes vs W&L) (2025-12-29 14:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336937.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 447) | flohockey: 2025 Oceanside Generals vs Peninsula Panthers (Home) (2025-12-19 22:30:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 446) | flohoops: 2025 St. Mary`s (MD) vs Piedmont _ Women`s (St. Mary`s (MD) vs W&L) (2025-12-29 14:00:10)
+http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336936.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 447) | flohoops: 2025 Cedar Crest vs Moravian _ Women`s (Cedar Crest vs Moravian) (2025-12-29 14:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336935.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 448) | flohockey: 2025 Port Moody Panthers vs Abbotsford Pilots (Home) (2025-12-19 22:30:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 448) | flohoops: 2025 Hampden_Sydney vs Maryville College _ Men`s (Hampden_Sydney vs Maryville (Tenn.)) (2025-12-29 14:00:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336934.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 449) | flohockey: 2025 Richmond Sockeyes vs Ridge Meadows Flames (Home) (2025-12-19 22:30:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 449) | flohoops: 2025 Mount St. Mary (NY) vs Washington and Lee _ Men`s (Mount St. Mary vs W&L) (2025-12-29 14:00:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336933.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 450) | flohockey: 2025 Agra Risk Wheatland Kings vs High River Flyers (Home) (2025-12-19 22:30:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 450) | flohockey: 2025 Moose Jaw Winmar Warriors vs Illinois U18 (Home) (2025-12-29 14:45:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336932.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 451) | flohoops: 2025 Cal Poly Pomona vs UC Merced _ Men`s (Cal Poly Pomona vs UC Merced) (2025-12-19 22:30:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 451) | flohockey: 2025 Shawnigan Lake U18 Prep vs BWC Academy U18 Prep (Home) (2025-12-29 14:45:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336931.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 452) | flohoops: 2025 Cal State East Bay vs Cal State Dominguez Hills _ Men`s (CSUEB vs CSUDH) (2025-12-19 22:30:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 452) | flohoops: 2025 Oberlin vs Case Western Reserve _ Women`s (Oberlin vs CWRU) (2025-12-29 14:50:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336930.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 453) | flohoops: 2025 Chico State vs Cal State Monterey Bay _ Men`s (Chico State vs CSUMB) (2025-12-19 22:30:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 453) | flohoops: 2025 Mount Aloysius vs Allegheny _ Women`s (Mount Aloysius vs Allegheny) (2025-12-29 14:55:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336929.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 454) | flohoops: 2025 Cal Poly Humboldt vs Cal State San Marcos _ Men`s (Humboldt vs CSUSM) (2025-12-19 22:30:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 454) | flohoops: 2025 UC Santa Cruz vs UMass_Dartmouth _ Women`s (UC Santa Cruz vs UMass_Dartmouth) (2025-12-29 15:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336928.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 455) | flohoops: 2025 San Francisco State vs Cal State LA _ Men`s (SF State vs Cal State LA) (2025-12-19 22:30:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 455) | flohoops: 2025 Nichols vs Wesleyan University _ Men`s (Nichols vs Wesleyan (CT)) (2025-12-29 15:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336927.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 456) | florugby: 2025 Kubota Spears vs BlackRams (Spears vs BlackRams) (2025-12-20 00:30:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 456) | flohockey: 2025 Regina Pat Canadians vs Fort Sask. U18 (Regina Pat vs Rangers) (2025-12-29 15:15:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336926.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 457) | florugby: 2025 Tokyo Sungoliath vs Toyota Verblitz (Sungoliath vs Verblitz) (2025-12-20 00:30:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 457) | flohockey: 2025 RHA Kelowna U18 vs Buffaloes U18 (Home) (2025-12-29 15:15:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336925.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 458) | flobikes: 2025 UCI Cyclocross World Cup Round 5 _ Antwerpen (BEL) (UCI Cyclocross World Cup: Antwerpen) (2025-12-20 07:30:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 458) | flohockey: 2025 Aldergrove Ironmen vs Surrey Knights (Home) (2025-12-29 15:30:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336924.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 459) | flowrestling: 2025 Tyrant Junior Beast (Mat 4) (2025-12-20 08:00:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 459) | flowrestling: Aztec Duals (Mat 1) (2025-12-29 16:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336923.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 460) | flowrestling: 2025 Tyrant Junior Beast (Mat 2) (2025-12-20 08:00:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 460) | flowrestling: Aztec Duals (Mat 2) (2025-12-29 16:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336922.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 461) | flowrestling: 2025 Tyrant Junior Beast (Mat 1) (2025-12-20 08:00:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 461) | flohockey: 2025 Gatineau Olympiques vs Victoriaville Tigres (Home) (2025-12-29 16:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336921.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 462) | flowrestling: 2025 Tyrant Junior Beast (Mat 10) (2025-12-20 08:00:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 462) | flohockey: 2025 Gatineau Olympiques vs Victoriaville Tigres (Away) (2025-12-29 16:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336920.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 463) | flowrestling: 2025 Tyrant Junior Beast (Mat 9) (2025-12-20 08:00:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 463) | flohoops: 2025 Coast Guard Academy vs Guilford _ Men`s (USCGA vs Guilford) (2025-12-29 16:00:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336919.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 464) | flowrestling: 2025 Tyrant Junior Beast (Mat 8) (2025-12-20 08:00:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 464) | flohoops: 2025 Marywood vs Kenyon _ Men`s (Marywood vs Kenyon) (2025-12-29 16:00:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336918.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 465) | flowrestling: 2025 Tyrant Junior Beast (Mat 7) (2025-12-20 08:00:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 465) | flohoops: 2025 Bates College vs Emory _ Men`s (Bates vs Emory) (2025-12-29 16:00:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336917.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 466) | flowrestling: 2025 Tyrant Junior Beast (Mat 3) (2025-12-20 08:00:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 466) | flohoops: 2025 Notre Dame of Maryland vs Goucher _ Men`s (NDMU vs Goucher) (2025-12-29 16:00:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336916.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 467) | flowrestling: 2025 Tyrant Junior Beast (Mat 6) (2025-12-20 08:00:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 467) | flohoops: 2025 Curry College vs Framingham State _ Women`s (Curry College vs Framingham State) (2025-12-29 16:00:40)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336915.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 468) | flowrestling: 2025 Tyrant Junior Beast (Mat 5) (2025-12-20 08:00:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 468) | flohoops: 2025 Misericordia vs Randolph_Macon College _ Men`s (Misericordia vs Randolph_Macon College) (2025-12-29 16:00:45)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336914.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 469) | flowrestling: 2025 Tyrant Scuffle (Tyrant Scuffle) (2025-12-20 08:00:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 469) | flohoops: 2025 Fairleigh Dickinson_Florham vs Moravian _ Men`s (FDU_Florham vs Moravian) (2025-12-29 16:30:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336913.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 470) | flowrestling: 2025 Tyrant Scuffle (Mat 12) (2025-12-20 08:00:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 470) | flohoops: 2025 Allegheny vs Otterbein _ Men`s (Allegheny vs Otterbein) (2025-12-29 16:50:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336912.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 471) | flowrestling: 2025 Tyrant Scuffle (Mat 11) (2025-12-20 08:01:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 471) | flohoops: 2025 Calvin vs Wilmington College _ Men`s (Calvin vs Wilmington) (2025-12-29 16:50:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336911.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 472) | flowrestling: 2025 Tyrant Scuffle (Mat 10) (2025-12-20 08:01:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 472) | flohoops: 2025 Stevenson University vs Baldwin Wallace _ Women`s (Stevenson vs Baldwin Wallace) (2025-12-29 16:50:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336910.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 473) | flowrestling: 2025 Tyrant Scuffle (Mat 9) (2025-12-20 08:01:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 473) | flohoops: 2025 Hartford vs Babson College _ Women`s (Hartford vs Babson) (2025-12-29 17:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336909.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 474) | flowrestling: 2025 Tyrant Scuffle (Mat 4) (2025-12-20 08:01:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 474) | flohoops: 2025 Middlebury vs Puget Sound _ Women`s (Middlebury vs Puget Sound) (2025-12-29 17:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336908.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 475) | flowrestling: 2025 Tyrant Scuffle (Mat 8) (2025-12-20 08:01:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 475) | flohoops: 2025 Towson vs William & Mary _ Men`s (Towson vs William & Mary) (2025-12-29 17:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336907.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 476) | flowrestling: 2025 Tyrant Scuffle (Mat 7) (2025-12-20 08:01:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 476) | flohoops: 2025 St. Joseph`s (ME) vs Pomona_Pitzer _ Women`s (St. Joseph`s (ME) vs Pomona_Pitzer) (2025-12-29 17:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336906.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 477) | flowrestling: 2025 Tyrant Scuffle (Mat 6) (2025-12-20 08:01:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 477) | flohoops: 2025 Penn College vs Eastern Connecticut State _ Men`s (Penn College vs ECSU) (2025-12-29 17:00:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336905.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 478) | flowrestling: 2025 Tyrant Scuffle (Mat 5) (2025-12-20 08:01:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 478) | flohoops: 2025 Emmanuel (MA) vs Western Connecticut State _ Men`s (Emmanuel vs WestConn) (2025-12-29 17:00:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336904.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 479) | flowrestling: 2025 Tyrant Scuffle (Mat 3) (2025-12-20 08:01:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 479) | flohoops: 2025 Geneva College vs Roanoke _ Women`s (Geneva College vs Roanoke) (2025-12-29 17:00:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336903.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 480) | flowrestling: 2025 Tyrant Scuffle (Mat 2) (2025-12-20 08:01:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 480) | flohoops: 2025 Franciscan vs Stevenson University _ Men`s (Franciscan vs Stevenson) (2025-12-29 17:00:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336902.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 481) | flowrestling: 2025 Tyrant Scuffle (Mat 1) (2025-12-20 08:01:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 481) | flohoops: 2025 Hardin_Simmons vs Chapman _ Men`s (Hardin_Simmons vs Chapman) (2025-12-29 17:00:40)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336901.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 482) | flograppling: 2025 ADCC Charlotte Open (Mat 1) (2025-12-20 08:01:55)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 482) | flohockey: 2025 OHA Edmonton U18 vs Phoenix (OHA Edmonton vs Coyotes) (2025-12-29 17:30:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336900.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 483) | flograppling: 2025 ADCC Charlotte Open (Mat 2) (2025-12-20 08:02:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 483) | flohockey: 2025 Okotoks U18 vs Calgary IHA U18 (Home) (2025-12-29 17:30:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336899.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 484) | flograppling: 2025 ADCC Charlotte Open (Mat 3) (2025-12-20 08:02:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 484) | flohockey: 2025 TBD vs TBD (TBD vs TBD) (2025-12-29 18:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336898.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 485) | flograppling: 2025 ADCC Charlotte Open (Mat 4) (2025-12-20 08:02:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 485) | flohockey: 2025 Chicago Mission vs Okanagan Rockets (Home) (2025-12-29 18:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336897.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 486) | flograppling: 2025 ADCC Charlotte Open (Mat 5) (2025-12-20 08:02:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 486) | flohockey: 2025 Saint John Sea Dogs vs Charlottetown Islanders (Home) (2025-12-29 18:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336896.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 487) | flograppling: 2025 ADCC Charlotte Open (Mat 7) (2025-12-20 08:02:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 487) | flohockey: 2025 Saint John Sea Dogs vs Charlottetown Islanders (Away) (2025-12-29 18:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336895.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 488) | flograppling: 2025 ADCC Charlotte Open (Mat 11) (2025-12-20 08:02:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 488) | flohockey: 2025 Thompson vs Flames U18 (Home) (2025-12-29 18:00:20)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336894.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 489) | flograppling: 2025 ADCC Charlotte Open (Mat 6) (2025-12-20 08:02:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 489) | flohoops: 2025 Dubuque vs Transylvania _ Men`s (Dubuque vs Transylvania) (2025-12-29 18:00:25)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336893.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 490) | flograppling: 2025 ADCC Charlotte Open (Mat 9) (2025-12-20 08:02:35)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 490) | flohoops: 2025 Concordia_Minnesota vs Skidmore _ Men`s (Concordia_Moorhead vs Skidmore) (2025-12-29 18:00:30)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336892.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 491) | flograppling: 2025 ADCC Charlotte Open (Mat 8) (2025-12-20 08:02:40)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 491) | flohockey: 2025 Team White vs Team Orange (Home) (2025-12-29 18:30:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336891.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 492) | flograppling: 2025 ADCC Charlotte Open (Mat 10) (2025-12-20 08:02:45)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 492) | flohockey: 2025 Rochester Americans vs Cleveland Monsters (Home) (2025-12-29 18:30:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336890.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 493) | flograppling: 2025 ADCC Charlotte Open (Mat 12) (2025-12-20 08:02:50)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 493) | flohockey: 2025 Rochester Americans vs Cleveland Monsters (Away) (2025-12-29 18:30:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336889.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 494) | flowrestling: 2025 Beast of the East (Mat 14) (2025-12-20 08:30:00)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 494) | flohoops: 2025 Ursinus College vs Hunter _ Men`s (Ursinus vs Hunter) (2025-12-29 18:30:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336888.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 495) | flowrestling: 2025 Beast of the East (Mat 13) (2025-12-20 08:30:05)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 495) | flohoops: 2025 Mount Aloysius vs Mount Union _ Men`s (Mount Aloysius vs Mount Union) (2025-12-29 18:50:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336887.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 496) | flowrestling: 2025 Beast of the East (Mat 12) (2025-12-20 08:30:10)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 496) | flohoops: 2025 Albion vs Westminster College (PA) _ Men`s (Albion vs Westminister) (2025-12-29 18:50:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336886.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 497) | flowrestling: 2025 Beast of the East (Mat 11) (2025-12-20 08:30:15)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 497) | flohockey: 2025 Drummondville Voltigeurs vs Rimouski Oceanic (Home) (2025-12-29 19:00:00)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336885.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 498) | flowrestling: 2025 Beast of the East (Mat 10) (2025-12-20 08:30:20)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 498) | flohockey: 2025 Drummondville Voltigeurs vs Rimouski Oceanic (Away) (2025-12-29 19:00:05)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336884.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 499) | flowrestling: 2025 Beast of the East (Mat 9) (2025-12-20 08:30:25)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 499) | flohockey: 2025 Niagara IceDogs vs Brampton Steelheads (Home) (2025-12-29 19:00:10)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336883.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 500) | flowrestling: 2025 Beast of the East (Mat 8) (2025-12-20 08:30:30)
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 500) | flohockey: 2025 Chilliwack Jets vs Burnaby Steelers (Home) (2025-12-29 19:00:15)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336882.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="|NA| USA FLO PPV",(FLSP 501) | flowrestling: 2025 Beast of the East (Mat 7) (2025-12-20 08:30:35)
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1336881.m3u8
@@ -9820,9 +9826,9 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/725885.m3u8
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/725886.m3u8
 
 # --- |UK| DAZN PPV (30) ---
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 1 - AMERICAN UNIVERSITY @ VIRGINIA | Mon 22 Dec 23:50 | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1277882.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 2 - SIENA @ INDIANA | Mon 22 Dec 23:50 | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1277881.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/1277880.m3u8
@@ -12669,4 +12675,4 @@ http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/828028.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/setantasports.png" group-title="|UK| WORLD SPORTS",UK - SETANTA SPORTS 12
 http://30198-puppy.ott-cdn.me/live/190492996f/e1510e6ac83e/828027.m3u8
 
-# Total: 6257
+# Total: 6260

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: italians-app.net:8080
-# Generated: 2025-12-22 18:36:47
+# Generated: 2025-12-23 07:09:56
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -8045,9 +8045,13 @@ http://italians-app.net:8080/movie/hele/cart@/18135.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON COMICO",Made in Sud  I Gomorroidi con Salvatore Conte   Made in Sud 12042017
 http://italians-app.net:8080/movie/hele/cart@/18158.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (964) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (966) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://italians-app.net:8080/movie/hele/cart@/1659.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/3944636bec8aec8f9e8714722a718d51.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Tutta colpa del rock (2025)
+http://italians-app.net:8080/movie/hele/cart@/86167.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/aa8b4916053e62467052418e92a0aba2.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Tu Quoque (2025)
+http://italians-app.net:8080/movie/hele/cart@/86168.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/34a980b0e5e3389f0c5fed83c6eb8f20.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Eroi cercasi (2025)
 http://italians-app.net:8080/movie/hele/cart@/86090.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/366347ed3615760bd49de0d7fc234147.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",School of Mafia (2021)
@@ -21293,7 +21297,7 @@ http://italians-app.net:8080/movie/hele/cart@/1350.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",BAT-FAM
 http://italians-app.net:8080/movie/hele/cart@/1550.mp4
 
-# --- Movies | SERIE-TV (494) ---
+# --- Movies | SERIE-TV (496) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
 http://italians-app.net:8080/movie/hele/cart@/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
@@ -22282,8 +22286,12 @@ http://italians-app.net:8080/movie/hele/cart@/1580.mp4
 http://italians-app.net:8080/movie/hele/cart@/1583.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Law e Order Criminal Intent
 http://italians-app.net:8080/movie/hele/cart@/1584.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Squadra Fluviale Elbe
+http://italians-app.net:8080/movie/hele/cart@/1585.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Mistletoe Murders Delitti sotto l’albero
+http://italians-app.net:8080/movie/hele/cart@/1586.mp4
 
-# --- Movies | SERIE-TV-ITALIA (141) ---
+# --- Movies | SERIE-TV-ITALIA (142) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://italians-app.net:8080/movie/hele/cart@/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22566,6 +22574,8 @@ http://italians-app.net:8080/movie/hele/cart@/1569.mp4
 http://italians-app.net:8080/movie/hele/cart@/1570.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Sicilia Express
 http://italians-app.net:8080/movie/hele/cart@/1572.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Tutta scena
+http://italians-app.net:8080/movie/hele/cart@/1587.mp4
 
 # --- Movies | Serie-Tv-Ita (1231) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | Serie-Tv-Ita",==== Serie Tv Italia ====
@@ -32771,4 +32781,4 @@ http://italians-app.net:8080/movie/hele/cart@/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://italians-app.net:8080/movie/hele/cart@/20654.mkv
 
-# Total: 16354
+# Total: 16359

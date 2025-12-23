@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2025-12-22 18:38:51
+# Generated: 2025-12-23 07:14:31
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -7677,9 +7677,13 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/44491.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/342baf3fbe69391f255aa4405bb042c8.jpg" group-title="Movies | NETFLIX AMAZON COMICO",Jerry e Marge giocano alla lotteria (2022)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/61271.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (964) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (966) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1659.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/3944636bec8aec8f9e8714722a718d51.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Tutta colpa del rock (2025)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/86167.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/aa8b4916053e62467052418e92a0aba2.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Tu Quoque (2025)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/86168.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/34a980b0e5e3389f0c5fed83c6eb8f20.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Eroi cercasi (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/86090.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/366347ed3615760bd49de0d7fc234147.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",School of Mafia (2021)
@@ -20911,7 +20915,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1350.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",BAT-FAM
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1550.mp4
 
-# --- Movies | SERIE-TV (492) ---
+# --- Movies | SERIE-TV (494) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
@@ -21896,8 +21900,12 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1580.mp4
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1583.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Law e Order Criminal Intent
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1584.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Squadra Fluviale Elbe
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1585.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Mistletoe Murders Delitti sotto l’albero
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1586.mp4
 
-# --- Movies | SERIE-TV-ITALIA (141) ---
+# --- Movies | SERIE-TV-ITALIA (142) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22180,6 +22188,8 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1569.mp4
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1570.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Sicilia Express
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1572.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Tutta scena
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1587.mp4
 
 # --- Movies | Saghe Film (18) ---
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | Saghe Film",========IL SIGNORE DEGLI ANELLI========
@@ -32421,4 +32431,4 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50888.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/96e97ef7e316fab54d133aa6fcdf30a2.jpg" group-title="Movies | SerieTV",Turner and Hooch 01x12 La Resa Dei Conti
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50889.mkv
 
-# Total: 16179
+# Total: 16184

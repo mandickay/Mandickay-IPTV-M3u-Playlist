@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2025-12-23 07:08:13
+# Generated: 2025-12-23 18:30:06
 # Expires: 2026-12-23
 # Family Safe Edition
 # ==============================================
@@ -19420,6 +19420,10 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814821.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814823.m3u8
 
 # --- TR  ✨ DIZI SON BÖLÜMLER (66) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Cennetin Çocukları ⚜️ SON BOLUM
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/853202.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",UZAK SEHIR ⚜️ SON BOLUM
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/786549.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",TESKILAT ⚜️ SON BOLUM
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/638071.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Sahtekarlar ⚜️ SON BOLUM
@@ -19464,10 +19468,6 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/853296.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/643890.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylpluerF3X4QQYBXEwztfYNMkOh.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Rüya Gibi ⚜️ SON BOLUM
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/866583.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Cennetin Çocukları ⚜️ SON BOLUM
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/853202.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",UZAK SEHIR ⚜️ SON BOLUM
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/786549.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0kk5PUB850OlrVA1w7hgc41E9T.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",KRAL KAYBEDERSE ⚜️ SON BOLUM
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/811550.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxyhUSVOh9RYsdVynVWKIRGGGg7.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",CARPINTI ⚜️ SON BOLUM
@@ -20972,7 +20972,7 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/124.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/132.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/atv.png" group-title="TR ✨ HEVC ⁕ RAW",ATV RAW
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/133.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/STARTV_eno.png" group-title="TR ✨ HEVC ⁕ RAW",STAR TV  RAW
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/STARTV_eno.png" group-title="TR ✨ HEVC ⁕ RAW",STAR TV RAW
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/134.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/showtv.png" group-title="TR ✨ HEVC ⁕ RAW",SHOW TV RAW
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/135.m3u8

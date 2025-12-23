@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpromas.com:8080
-# Generated: 2025-12-23 07:04:13
+# Generated: 2025-12-23 18:29:53
 # Expires: 2027-01-08
 # Family Safe Edition
 # ==============================================
@@ -2249,7 +2249,7 @@ http://tvpromas.com:8080/live/stksared/9520/41798.m3u8
 #EXTINF:-1 tvg-logo="https://www.tv-online.es/wp-content/uploads/2022/02/Be-Mad-en-Directo-Logo.png" group-title="ESPAÑA",Be Mad
 http://tvpromas.com:8080/live/stksared/9520/77026.m3u8
 
-# --- ESTADOS UNIDOS (255) ---
+# --- ESTADOS UNIDOS (253) ---
 #EXTINF:-1 tvg-logo="http://pluspng.com/img-png/abc-logo-png-file-abc-logo-png-400.png" group-title="ESTADOS UNIDOS",ABC
 http://tvpromas.com:8080/live/stksared/9520/450.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYBYXM9k/usa2.png" group-title="ESTADOS UNIDOS",30A Sidewalks
@@ -2756,10 +2756,6 @@ http://tvpromas.com:8080/live/stksared/9520/42764.m3u8
 http://tvpromas.com:8080/live/stksared/9520/44711.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/100/409/png-clipart-fox-news-ureport-united-states-breaking-news-united-states-television-text-thumbnail.png" group-title="ESTADOS UNIDOS",Fox News
 http://tvpromas.com:8080/live/stksared/9520/80101.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="ESTADOS UNIDOS",Tele*mundo New York
-http://tvpromas.com:8080/live/stksared/9520/128107.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="ESTADOS UNIDOS",Tele*mudo new inglat
-http://tvpromas.com:8080/live/stksared/9520/128109.m3u8
 
 # --- EVENTOS 24/7 (21) ---
 #EXTINF:-1 tvg-logo="https://historia.nationalgeographic.com.es/medio/2022/10/28/calabaza_98056d65_1280x854.jpg" group-title="EVENTOS 24/7",HALLOWEEN DARK TV
@@ -3923,7 +3919,7 @@ http://tvpromas.com:8080/live/stksared/9520/81385.m3u8
 #EXTINF:-1 tvg-logo="https://masmusica.lanacion.com.ar/assets/img/logo-masmusica.png" group-title="Unknown",LN+ Musica (Argentina)
 http://tvpromas.com:8080/live/stksared/9520/81956.m3u8
 
-# --- VARIEDADES (63) ---
+# --- VARIEDADES (65) ---
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f40e8d9331b1b4bcde803699fa46f7fd.webp" group-title="VARIEDADES",Andorra Difusión
 http://tvpromas.com:8080/live/stksared/9520/6897.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="VARIEDADES",CNN en Español
@@ -4050,6 +4046,10 @@ http://tvpromas.com:8080/live/stksared/9520/128111.m3u8
 http://tvpromas.com:8080/live/stksared/9520/128112.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="VARIEDADES",Tele*mundo Internacional
 http://tvpromas.com:8080/live/stksared/9520/128113.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="VARIEDADES",Tele*mundo New York
+http://tvpromas.com:8080/live/stksared/9520/128107.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="VARIEDADES",Tele*mudo new inglat
+http://tvpromas.com:8080/live/stksared/9520/128109.m3u8
 
 # --- VENEZUELA (15) ---
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108656_Catatumbo_TV.png" group-title="VENEZUELA",Catatumbo TV

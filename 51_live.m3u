@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2025-12-23 07:03:06
+# Generated: 2025-12-23 18:27:43
 # Expires: 2026-12-31
 # Family Safe Edition
 # ==============================================
@@ -1017,21 +1017,7 @@ http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/170928.m3u8
 
-# --- DE-DAZN EVENT (83) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3ubowpy39jcqj6l0gebpizd04_image-header_pDach_1763473598000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 12 (Session 2) (2025-12-22 20:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/173412.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3hef50x2pm57k4yba0f2idptn_image-header_pDach_1764647897000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 12 (Session 2 mit Originalkommentar) (2025-12-22 20:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/173414.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/14tfs3hfot4r41crtt48bdtfvm_image-header_pDach_1765299427000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Potato Bowl: Utah State vs. Washington State (2025-12-22 20:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/173415.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7d9ld29916ulj0ogf31h3eb64_image-header_pDach_1765930134000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Finale (2025-12-22 20:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/173416.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4fbx5ntj5lwoyzm4omyg5ln00_image-header_pDach_1728316462000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bilbao - Espanyol (2025-12-22 21:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/173417.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b4lg4hf9hsmxj0kqv9bmdeyky_image-header_pDach_1764932514000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ägypten - Simbabwe (2025-12-22 21:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/173418.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/10ufgvoyhq3py1slew42ldvsjr_image-header_pDach_1766005434000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Siena @ Indiana (2025-12-23 00:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/173419.m3u8
+# --- DE-DAZN EVENT (76) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cg1m1dydtw72tqiucf1zly9ap_image-header_pDach_1763513032000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",49ers @ Colts (deutscher Kommentar) (2025-12-23 02:15:00)
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/173638.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7y54qcjmok40zzh8eruzu2wq_image-header_pDach_1765992655000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",The Ring V: Grand Arrivals (2025-12-23 10:30:00)
@@ -6911,4 +6897,4 @@ http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/165884.m3u8
 
-# Total: 3395
+# Total: 3388

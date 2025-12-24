@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2025-12-24 07:13:42
+# Generated: 2025-12-24 18:32:36
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -4809,7 +4809,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/53579.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/AuQjsUXA4h4PaeGhs5NWdodZmBr.jpg" group-title="Movies | Filme 2023",Bucha (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/16298.mp4
 
-# --- Movies | Filme 2024 (531) ---
+# --- Movies | Filme 2024 (532) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNusIXksXCMYize9ldIeBOZORcY.jpg" group-title="Movies | Filme 2024",Two Scoops of Italy - 2024
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65670.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE6UNLmcpjaHGrLVsBjeF2OPoiS.jpg" group-title="Movies | Filme 2024",Witchy Ways - 2024
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65478.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mjcOc84MApgwrSuM4wDo7fIpYi.jpg" group-title="Movies | Filme 2024",Vares X (2024)
@@ -5873,7 +5875,19 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (582) ---
+# --- Movies | Filme 2025 (588) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg" group-title="Movies | Filme 2025",Nuremberg - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65677.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWnADMIkTzzg1phq7dBgLbL3uRp.jpg" group-title="Movies | Filme 2025",The Forbidden City (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65676.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udAxQEORq2I5wxI97N2TEqdhzBE.jpg" group-title="Movies | Filme 2025",Five Nights at Freddy's 2 - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65675.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAg254rEBdzBXqLysWTZkkcfGZV.jpg" group-title="Movies | Filme 2025",Stone Creek Killer - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65673.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xT88rTDQzZ1TOsiSpSY2jbvXVGM.jpg" group-title="Movies | Filme 2025",Guns & Moses - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65672.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iL7cTCTcq4i69VQ2VFBlr2AElvW.jpg" group-title="Movies | Filme 2025",Dashing Through the Snow - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65671.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCv29VdgoJgO3Jp3d07llEELvs6.jpg" group-title="Movies | Filme 2025",Wizard of Oz: Dead Walk - 2025
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65661.mp4
 #EXTINF:-1 tvg-logo="https://static.cinemagia.ro/img/resize/db/movie/33/24/439/radu-esti-ok-119823l-175x0-w-de030d07.jpg" group-title="Movies | Filme 2025",Radu esti ok? (2025)
@@ -16703,6 +16717,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/701.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Hudutsuz Sevda - Iubire fara limite",Hudutsuz Sevda - Iubire fara limite
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/805.mp4
 
+# --- Movies | Human (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Human",Human (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1127.mp4
+
 # --- Movies | Human Error (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Human Error",Human Error (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1048.mp4
@@ -19519,4 +19537,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8596
+# Total: 8604

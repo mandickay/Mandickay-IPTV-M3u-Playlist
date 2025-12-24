@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2025-12-24 07:06:03
+# Generated: 2025-12-24 18:38:00
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -13245,7 +13245,9 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (256) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (257) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Five Nights at Freddy's 2 (2025)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/278777.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlDwhPwaCGXAPCtT2gDgON7AZBr.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",El sobreviviente (2025)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/278773.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fw2sJqvY6wzRLhhAMsPlINVuPOQ.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Los ilusionistas 3: Ahora me ves, ahora no (2025)
@@ -19555,4 +19557,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9702
+# Total: 9703

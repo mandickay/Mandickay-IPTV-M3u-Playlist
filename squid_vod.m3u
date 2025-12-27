@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2025-12-26 18:36:23
+# Generated: 2025-12-27 07:05:42
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -19407,6 +19407,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/618.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Wizards of Waverly Place",Wizards of Waverly Place (2007)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/652.mp4
 
+# --- Movies | Wolf Hall (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Wolf Hall",Wolf Hall (2015)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1130.mp4
+
 # --- Movies | Wolf King (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Wolf King",Wolf King
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/891.mp4
@@ -19555,4 +19559,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8611
+# Total: 8612

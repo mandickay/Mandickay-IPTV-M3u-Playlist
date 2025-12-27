@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 4smarts.xyz
-# Generated: 2025-12-26 18:30:49
+# Generated: 2025-12-27 07:01:40
 # Expires: 2026-01-01
 # Family Safe Edition
 # ==============================================
@@ -2355,7 +2355,13 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/10332.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | GREECE",GR - ezel
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/9809.mp4
 
-# --- Movies | SRS | ITALY (2268) ---
+# --- Movies | SRS | ITALY (2271) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Dragonero - I Paladini
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/49191.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Super GALS
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/49190.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Atomic Ant
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/49188.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Hurricane Polimar
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/49138.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | ITALY",IT - Inside Job
@@ -9625,7 +9631,9 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/10505.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | NETHERLAND",NL - Cook at all Costs
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/10500.mp4
 
-# --- Movies | SRS | PORTUGAL (1334) ---
+# --- Movies | SRS | PORTUGAL (1335) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | SRS | PORTUGAL",PT - Cashero
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/49186.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | PORTUGAL",PT - Badly in Love
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/49097.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SRS | PORTUGAL",PT - Twisted Metal
@@ -22369,7 +22377,7 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/349037.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rWlqhy76Az3L0C016cLZRSVqcZ.jpg" group-title="Movies | VOD | BRAZIL",BR - Velozes & Furiosos 9 - 2021
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/349036.mp4
 
-# --- Movies | VOD | FR - THÉÂTRE & SPECTACLE (51) ---
+# --- Movies | VOD | FR - THÉÂTRE & SPECTACLE (50) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3Nlu93X0MOkJKTgJnEep0p78Da.jpg" group-title="Movies | VOD | FR - THÉÂTRE & SPECTACLE",FR - Mustapha El Atrassi - Communautaire - 2019
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/1179961.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LyWn3TTlF1v7D8GfZ1wNyx5t6P.jpg" group-title="Movies | VOD | FR - THÉÂTRE & SPECTACLE",FR - Le syndrome de l'écossais - 2017
@@ -22386,8 +22394,6 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/622936.mkv
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/622933.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGhXJdLLwf0rQfhMw9kZW2UrfAl.jpg" group-title="Movies | VOD | FR - THÉÂTRE & SPECTACLE",FR - Lafesse : Lafesse-Noz - 2011
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/622646.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7M44PO08U8EQD1LKQgOJNV4fWYf.jpg" group-title="Movies | VOD | FR - THÉÂTRE & SPECTACLE",FR - La Réouverture de Lafesse - 2009
-http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/622553.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfQSBFfxZbdjKhoMJYFfUqT7jXE.jpg" group-title="Movies | VOD | FR - THÉÂTRE & SPECTACLE",FR - Blanche Gardin - Je parle toute seule - 2017
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/533102.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EgnrRMIq52NqiUanIjGxDypnfR.jpg" group-title="Movies | VOD | FR - THÉÂTRE & SPECTACLE",FR - Didier Benureau Best Of - 2013
@@ -34423,7 +34429,9 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/112243.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD | IN | TELUGU",SIN - Amrutharamam  2020  Telugu
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/112221.mp4
 
-# --- Movies | VOD | NETHERLAND (1800) ---
+# --- Movies | VOD | NETHERLAND (1801) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mTvApPqq1Lbjy6aVNqqJZ7MsDd.jpg" group-title="Movies | VOD | NETHERLAND",NL - Mr. & Mrs. Aslan - 2025
+http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/1359634.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gm0e0W7QRTpima3aIGz2ZLU9pgm.jpg" group-title="Movies | VOD | NETHERLAND",NL - Diabolisch - 2025
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/1346076.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmzvqxzCeBf5a715kohfuiIbAqU.jpg" group-title="Movies | VOD | NETHERLAND",NL - Tallon: Under Pressure - 2025
@@ -39657,4 +39665,4 @@ http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/77935.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5l0fbsSD46Xm7bYXnQxczG5WGjn.jpg" group-title="Movies | VOD | SPORTS",FR - The Champions League - 2018
 http://4smarts.xyz/movie/7774524853730437/B5B4C814716C/45591.mkv
 
-# Total: 19801
+# Total: 19805

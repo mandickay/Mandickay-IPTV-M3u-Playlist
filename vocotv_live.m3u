@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: vocotv.pro
-# Generated: 2025-12-26 18:38:20
+# Generated: 2025-12-27 07:02:35
 # Expires: 2026-06-28
 # Family Safe Edition
 # ==============================================
@@ -6016,9 +6016,9 @@ http://vocotv.pro/live/nowak1/nowak1/710258.m3u8
 http://vocotv.pro/live/nowak1/nowak1/710257.m3u8
 
 # --- LIVE | PPV Events (59) ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 01:  Christmas Santa Tracker 2025
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 01:  WWE : FRIDAY NIGHT SMACKDOWN 8:00 PM
 http://vocotv.pro/live/nowak1/nowak1/2395.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 02:   Santa NORAD Tracker Live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 02:
 http://vocotv.pro/live/nowak1/nowak1/2394.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 03:
 http://vocotv.pro/live/nowak1/nowak1/2393.m3u8
@@ -12701,7 +12701,9 @@ http://vocotv.pro/live/nowak1/nowak1/759590.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/NCAA_football_icon_logo.svg/375px-NCAA_football_icon_logo.svg.png" group-title="USA | NCAAF",NCAAF 150
 http://vocotv.pro/live/nowak1/nowak1/759589.m3u8
 
-# --- USA | NEWS (99) ---
+# --- USA | NEWS (100) ---
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/16db7cbda3ce09a9312c895627b7b612.png" group-title="USA | NEWS",USA PA WFMZ Allentown
+http://vocotv.pro/live/nowak1/nowak1/796016.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="USA | NEWS",USA Fox News
 http://vocotv.pro/live/nowak1/nowak1/1038.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="USA | NEWS",USA CNN
@@ -17213,4 +17215,4 @@ http://vocotv.pro/live/nowak1/nowak1/782969.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/29/1/christmas-tree-logo-png_seeklogo-294102.png" group-title="❄ Xmas Specials",❄  Ambient 5 ᴴᴰ
 http://vocotv.pro/live/nowak1/nowak1/782968.m3u8
 
-# Total: 8515
+# Total: 8516

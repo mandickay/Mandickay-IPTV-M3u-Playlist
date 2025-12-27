@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cname.dino.ws:80
-# Generated: 2025-12-26 18:30:41
+# Generated: 2025-12-27 07:07:37
 # Expires: 2026-01-31
 # Family Safe Edition
 # ==============================================
@@ -16439,7 +16439,7 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/813099.m3u8
 #EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportbundesliga.png" group-title="|DE| SPORT",DE - SKY SPORT BUNDESLIGA FHD
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/750139.m3u8
 
-# --- |DE| SPORT DEUTSCHLAND PPV (101) ---
+# --- |DE| SPORT DEUTSCHLAND PPV (100) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",####### SPORT DEUTSCHLAND PPV #######
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1142828.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 1 - NO EVENT STREAMING -
@@ -16454,13 +16454,11 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177696.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177695.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 6 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177694.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 7 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 7 - DEL2: ESV KAUFBEUREN VS. EHC FREIBURG | Fri 26 Dec 17:00
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177693.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 8 - NO EVENT STREAMING -
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177692.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 9 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 9 - PROA: NÜRNBERG FALCONS BC VS. GIESSEN 46ERS | Fri 26 Dec 17:00
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177691.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 10 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 10 - SPENGLER CUP 2025: TEAM CANADA VS. U.S. COLLEGIATE SELECTS | Fri 26 Dec 19:00
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177690.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 11 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177689.m3u8
@@ -17064,10 +17062,10 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/807507.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/807500.m3u8
 
 # --- |ES| DAZN ACB (8) ---
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 01 | Liga Endesa: Río Breogán x Surne Bilbao 11:50 h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 01 | Liga Endesa: Baskonia x Longevida San Pablo Burgos 17:50 h
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1327705.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 02 | Liga Endesa: FC Barcelona Joventut Badalona 12:20 h
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1327704.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 03 | Liga Endesa: Joventut Badalona x Río Breogán 20:50 h
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1327703.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 04 | Liga Endesa: Casademont Zaragoza x MoraBanc Andorra 17:50 h
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1327702.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|ES| DAZN ACB",ACB EVENTO 05 | Liga Endesa: Unicaja x Baskonia 18:50 h
@@ -18508,11 +18506,11 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/258151.m3u8
 # --- |EU| BE DAZN PPV (51) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|EU| BE DAZN PPV",####### BE| DAZN PPV #######
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1291475.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|EU| BE DAZN PPV",BE: DAZN PPV 1 - THE RING V: WEIGH-IN | Fri 26 Dec 11:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|EU| BE DAZN PPV",BE: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1291474.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|EU| BE DAZN PPV",BE: DAZN PPV 2 - ROYAL CUPS RACE NIGHT 1 | Fri 26 Dec 11:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|EU| BE DAZN PPV",BE: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1291473.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|EU| BE DAZN PPV",BE: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|EU| BE DAZN PPV",BE: DAZN PPV 3 - RATE BOWL: NEW MEXICO VS. MINNESOTA | Fri 26 Dec 21:20 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1291472.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="|EU| BE DAZN PPV",BE: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1291471.m3u8
@@ -35690,19 +35688,19 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/891385.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/891386.m3u8
 
 # --- |NL| ESPN PPV (50) ---
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 1 - TERUGBLIK EERSTE SEIZOENSHELFT EUROJACKPOT VROUWEN EREDIVISIE | Fri 26 Dec 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 1 - TERUGBLIK EERSTE SEIZOENSHELFT VRIENDENLOTERIJ EREDIVISIE | Sat 27 Dec 00:53 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317799.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 2 - NBA: LAKERS VS ROCKETS | Fri 26 Dec 12:15 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 2 - NFL: COMMANDERS VS COWBOYS | Fri 26 Dec 22:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317798.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 3 - ESPN TOP 25 GOALS | Fri 26 Dec 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 3 - CFB: MINNESOTA  VS NEW MEXICO  | Fri 26 Dec 21:30 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317797.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 4 - NO EVENT STREAMING - 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 4 - ESPN VANDAAG | Sat 27 Dec 00:30 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317796.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 5 - ESPN FUNNIEST | Fri 26 Dec 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 5 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317795.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 6 - ESPN ORIGINALS: HOME OF EUS: EAGLES ON TOUR (AFL. 1) | Fri 26 Dec 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 6 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317794.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 2 - NBA: LAKERS VS ROCKETS | Fri 26 Dec 12:15 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 2 - NFL: COMMANDERS VS COWBOYS | Fri 26 Dec 22:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317793.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 8 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317792.m3u8
@@ -38670,13 +38668,13 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/725885.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/725886.m3u8
 
 # --- |UK| DAZN PPV (30) ---
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 1 - THE RING V: WEIGH-IN | Fri 26 Dec 12:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1277882.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 2 - ROYAL CUPS RACE NIGHT 1 | Fri 26 Dec 12:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1277881.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 3 - POKERSTARS #10 | Fri 26 Dec 21:50 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1277880.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 4 - RATE BOWL: NEW MEXICO VS. MINNESOTA | Fri 26 Dec 22:20 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1277879.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="|UK| DAZN PPV",UK: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1277878.m3u8
@@ -41519,4 +41517,4 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/828028.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/setantasports.png" group-title="|UK| WORLD SPORTS",UK - SETANTA SPORTS 12
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/828027.m3u8
 
-# Total: 20414
+# Total: 20413

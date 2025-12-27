@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: nocable.cc:8080
-# Generated: 2025-12-26 18:29:07
+# Generated: 2025-12-27 07:03:09
 # Expires: 2026-01-18
 # Family Safe Edition
 # ==============================================
@@ -3385,7 +3385,7 @@ http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/21091.m3u8
 
-# --- NBA (5) ---
+# --- NBA (28) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
@@ -3396,6 +3396,52 @@ http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258103.m3u8
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258104.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258105.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Toronto Raptors @ Washington Wizards | Home Stream | 12/26/2025 7:00 PM ET
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258106.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: Miami Heat vs Atlanta Hawks @ 07:00 PM EST
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258107.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Toronto Raptors @ Washington Wizards | Away Stream | 12/26/2025 7:00 PM ET
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258108.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Charlotte Hornets vs Orlando Magic @ 07:00 PM EST
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258109.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Charlotte Hornets @ Orlando Magic | Home Stream | 12/26/2025 7:00 PM ET
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258110.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Toronto Raptors vs Washington Wizards @ 07:00 PM EST
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258111.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Charlotte Hornets @ Orlando Magic | Away Stream | 12/26/2025 7:00 PM ET
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258112.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Boston Celtics vs Indiana Pacers @ 07:00 PM EST
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258113.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Miami Heat @ Atlanta Hawks | Home Stream | 12/26/2025 7:00 PM ET
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258114.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Philadelphia 76ers vs Chicago Bulls @ 07:30 PM  EST
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258115.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Miami Heat @ Atlanta Hawks | Away Stream | 12/26/2025 7:00 PM ET
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258116.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Milwaukee Bucks vs Memphis Grizzlies @ 08:00 PM EST
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258117.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Boston Celtics @ Indiana Pacers | Home Stream | 12/26/2025 7:00 PM ET
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258118.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Phoenix Suns vs New Orleans Pelicans @ 08:00 PM EST
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258119.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Boston Celtics @ Indiana Pacers | Away Stream | 12/26/2025 7:00 PM ET
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258120.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 08: Detroit Pistons vs Utah Jazz @ 09:30 PM EST
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258121.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Phoenix Suns @ New Orleans Pelicans | Home Stream | 12/26/2025 8:00 PM ET
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258122.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 09: LA Clippers vs Portland Trail Blazers @ 10:00 PM EST
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258123.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Phoenix Suns @ New Orleans Pelicans | Away Stream | 12/26/2025 8:00 PM ET
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258124.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Milwaukee Bucks @ Memphis Grizzlies | Home Stream | 12/26/2025 8:00 PM ET
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258125.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Milwaukee Bucks @ Memphis Grizzlies | Away Stream | 12/26/2025 8:00 PM ET
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258126.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13: Detroit Pistons @ Utah Jazz | Home Stream | 12/26/2025 9:30 PM ET
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258127.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 14: Detroit Pistons @ Utah Jazz | Away Stream | 12/26/2025 9:30 PM ET
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/258128.m3u8
 
 # --- NFL (23) ---
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" group-title="NFL",US NFL Network
@@ -13283,4 +13329,4 @@ http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/121048.m3u8
 
-# Total: 6602
+# Total: 6625

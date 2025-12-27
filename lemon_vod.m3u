@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2025-12-26 18:36:10
+# Generated: 2025-12-27 07:13:12
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -17949,7 +17949,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/189678.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg" group-title="Movies | Nieuwe Releases 2024",Thelma De Eenhoorn (2024) NL Gesproken
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190125.mkv
 
-# --- Movies | Nieuwe Releases 2025 (409) ---
+# --- Movies | Nieuwe Releases 2025 (410) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHcG8FPk9yILRVPnHEcrwtrkAAN.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 16: Dolphins @ Jets
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/119331.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldEVs1GQiYLGXZEwa93tb5t3gsD.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 17: Chiefs @ Broncos
@@ -18768,6 +18768,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/192435.mkv
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/192438.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGidrBsBBxUkmdQpIeFI09oLL8F.jpg" group-title="Movies | Nieuwe Releases 2025",Tinsel Town (2025)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/192440.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg" group-title="Movies | Nieuwe Releases 2025",Nuremberg (2025)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/192445.mkv
 
 # --- Movies | Oorlog / War (59) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg" group-title="Movies | Oorlog / War",Jarhead: Law of Return
@@ -19316,7 +19318,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/75174.mkv
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/75984.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rO3nV9d1wzHEWsC7xgwxotjZQpM.jpg" group-title="Movies | Sciencefiction / Sci-Fi",Mother/Android (2021)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/76232.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | Sciencefiction / Sci-Fi",The Time Machine (2002)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QB6wIc6XOtoi02uUCLSvY0onSL.jpg" group-title="Movies | Sciencefiction / Sci-Fi",The Time Machine (2002)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/78151.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prINReSbCkoktcRbrIgmbY4f0tp.jpg" group-title="Movies | Sciencefiction / Sci-Fi",Captain Nova (2021)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/95329.mkv
@@ -22129,4 +22131,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11009
+# Total: 11010

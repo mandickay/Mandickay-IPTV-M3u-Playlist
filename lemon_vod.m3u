@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2025-12-27 18:31:27
+# Generated: 2025-12-28 07:11:38
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -17949,7 +17949,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/189678.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg" group-title="Movies | Nieuwe Releases 2024",Thelma De Eenhoorn (2024) NL Gesproken
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190125.mkv
 
-# --- Movies | Nieuwe Releases 2025 (410) ---
+# --- Movies | Nieuwe Releases 2025 (412) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHcG8FPk9yILRVPnHEcrwtrkAAN.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 16: Dolphins @ Jets
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/119331.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldEVs1GQiYLGXZEwa93tb5t3gsD.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 17: Chiefs @ Broncos
@@ -18770,6 +18770,10 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/192438.mkv
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/192440.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg" group-title="Movies | Nieuwe Releases 2025",Nuremberg (2025)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/192445.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mTvApPqq1Lbjy6aVNqqJZ7MsDd.jpg" group-title="Movies | Nieuwe Releases 2025",Mr. & Mrs. Aslan (2025)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/192451.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5RsqfCF9Wd8TB7Qy5e7hn5JRlm.jpg" group-title="Movies | Nieuwe Releases 2025",Voor de Meisjes (2025)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/192452.mkv
 
 # --- Movies | Oorlog / War (59) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg" group-title="Movies | Oorlog / War",Jarhead: Law of Return
@@ -22131,4 +22135,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11010
+# Total: 11012

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2025-12-27 18:29:25
+# Generated: 2025-12-28 07:12:25
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -9321,7 +9321,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/197617.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9zdqkbwVGrUl0biGCqCOgvbgaM5.jpg" group-title="Movies | |DE| FILME 2024",Sasquatch Sunset (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/197931.mkv
 
-# --- Movies | |DE| FILME 2025 (390) ---
+# --- Movies | |DE| FILME 2025 (393) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VqUPN0oRHfYV9hdZcal1ZzffmV.jpg" group-title="Movies | |DE| FILME 2025",Don't Die: Der Mann, der unsterblich sein will (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/182037.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg" group-title="Movies | |DE| FILME 2025",Ad Vitam (2025)
@@ -10102,6 +10102,12 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/198197.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/198198.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/msWrCK8wOYdkspqA5ByqqSpCulE.jpg" group-title="Movies | |DE| FILME 2025",Border Hunters (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/198301.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7EUq0vuSL1UtLMl9yOhER3SFL6k.jpg" group-title="Movies | |DE| FILME 2025",Quiet Life (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/198302.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6iseyProRsPyu3rOCzsXDDnDGrl.jpg" group-title="Movies | |DE| FILME 2025",The Cut (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/198303.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dvebFZgb6HczmYkOA43bGfSrvYl.jpg" group-title="Movies | |DE| FILME 2025",Tell Me Softly (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/198304.mkv
 
 # --- Movies | |DE| Filme Collection (68) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5PArFW3kdOAbIDxsieE1g5418u.jpg" group-title="Movies | |DE| Filme Collection",The Fast and the Furious (2001)
@@ -18831,7 +18837,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/196236.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cRw9czK3hOnNenW1iVVpGM3kbn7.jpg" group-title="Movies | |EXYU| DRAMA",The Front Line (2011)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/196662.mp4
 
-# --- Movies | |EXYU| FAMILY (112) ---
+# --- Movies | |EXYU| FAMILY (113) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSaQUPchu29YssiQH4sP1d015wk.jpg" group-title="Movies | |EXYU| FAMILY",A Cowgirl's Story (2017)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/14155.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxbAepXQjsGFDHaR3dPndFSxDU0.jpg" group-title="Movies | |EXYU| FAMILY",Alexander and the Terrible, Horrible, No Good, Very Bad Day (2014)
@@ -19056,6 +19062,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/193165.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/193166.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7kbQkUJe7xkLcdZFXwwGFn0CTsT.jpg" group-title="Movies | |EXYU| FAMILY",Return to Halloweentown (2006)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/193167.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZtUdyKkLVs4tXenBCeduJsFfly.jpg" group-title="Movies | |EXYU| FAMILY",7 Hours on Earth (2020)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/198305.mkv
 
 # --- Movies | |EXYU| FANTASY (190) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8hfZCD2fSsz6LE6FA5uk5mMv11.jpg" group-title="Movies | |EXYU| FANTASY",5th Passenger (2018)
@@ -27449,7 +27457,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/198196.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5yUPKpy6ijvEBI5b6L0kJC30NHm.jpg" group-title="Movies | |EXYU| STRANI 2024",Handsome Guys (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/198284.mkv
 
-# --- Movies | |EXYU| STRANI 2025 (561) ---
+# --- Movies | |EXYU| STRANI 2025 (562) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qJfjFhNwpTONNAoE6gUSx2yGpg.jpg" group-title="Movies | |EXYU| STRANI 2025",Ad Vitam  (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/183381.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDdwuxEr6GTtl0o7PbVvVo4ht5i.jpg" group-title="Movies | |EXYU| STRANI 2025",Back in Action  (2025)
@@ -28572,6 +28580,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/198288.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/198289.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg" group-title="Movies | |EXYU| STRANI 2025",Fackham Hall (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/198290.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wm8vkpJmY7UbUXME8lXkxqIalX6.jpg" group-title="Movies | |EXYU| STRANI 2025",Lake Jesup: Bonecrusher's Revenge (2024)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/198306.mkv
 
 # --- Movies | |EXYU| STRANI ARHIVA (720) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDiAfxcjz5bydpbqTtBYBfaYHKD.jpg" group-title="Movies | |EXYU| STRANI ARHIVA",1 Buck (2017)
@@ -32889,4 +32899,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 16380
+# Total: 16385

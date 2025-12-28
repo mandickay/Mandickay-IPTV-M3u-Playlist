@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2025-12-27 18:27:48
+# Generated: 2025-12-28 07:12:10
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -6143,9 +6143,11 @@ http://allone8k.info:8080/live/hany/hany1234/143529.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Somalia.png" group-title="AR | SOMALIA | الصومال",SOM: Somalia News
 http://allone8k.info:8080/live/hany/hany1234/143530.m3u8
 
-# --- AR | STARZPLAY SPORTS 4K الدوري الإيطالي (13) ---
-#EXTINF:-1 tvg-logo="https://cdn.sportfeeds.io/sdl/images/competition/badge/large/1r097lpxe0xn03ihb7wi98kao.png?quality=60&auto=webp&format=pjpg" group-title="AR | STARZPLAY SPORTS 4K الدوري الإيطالي",SHASHA TV SPORTS HD
+# --- AR | STARZPLAY SPORTS 4K الدوري الإيطالي (14) ---
+#EXTINF:-1 tvg-logo="https://cdn.sportfeeds.io/sdl/images/competition/badge/large/1r097lpxe0xn03ihb7wi98kao.png?quality=60&auto=webp&format=pjpg" group-title="AR | STARZPLAY SPORTS 4K الدوري الإيطالي",SHASHA TV SPORTS 1 HD
 http://allone8k.info:8080/live/hany/hany1234/597262.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sportfeeds.io/sdl/images/competition/badge/large/1r097lpxe0xn03ihb7wi98kao.png?quality=60&auto=webp&format=pjpg" group-title="AR | STARZPLAY SPORTS 4K الدوري الإيطالي",SHASHA TV SPORTS 2 HD
+http://allone8k.info:8080/live/hany/hany1234/638733.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sportfeeds.io/sdl/images/competition/badge/large/1r097lpxe0xn03ihb7wi98kao.png?quality=60&auto=webp&format=pjpg" group-title="AR | STARZPLAY SPORTS 4K الدوري الإيطالي",STARZPLAY SPORTS 1 HD (◉)
 http://allone8k.info:8080/live/hany/hany1234/463314.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sportfeeds.io/sdl/images/competition/badge/large/1r097lpxe0xn03ihb7wi98kao.png?quality=60&auto=webp&format=pjpg" group-title="AR | STARZPLAY SPORTS 4K الدوري الإيطالي",STARZPLAY SPORTS 2 HD (◉)
@@ -18209,7 +18211,7 @@ http://allone8k.info:8080/live/hany/hany1234/229157.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[AR] KURDISTAN",AR:KU-ISHTAR TV
 http://allone8k.info:8080/live/hany/hany1234/453199.m3u8
 
-# --- كأس الأمم الإفريقية CAN المغرب 2025™ (24) ---
+# --- كأس الأمم الإفريقية CAN المغرب 2025™ (25) ---
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="كأس الأمم الإفريقية CAN المغرب 2025™",beIN SPORTS MAX 1 (F)
 http://allone8k.info:8080/live/hany/hany1234/314984.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="كأس الأمم الإفريقية CAN المغرب 2025™",beIN SPORTS MAX 2 (F)
@@ -18258,9 +18260,11 @@ http://allone8k.info:8080/live/hany/hany1234/619067.m3u8
 http://allone8k.info:8080/live/hany/hany1234/618320.m3u8
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/68zplepppndhl8bfdvgy9vgu1.128.png?ver=03-06-2025" group-title="كأس الأمم الإفريقية CAN المغرب 2025™",2025 Africa Cup of Nations BG
 http://allone8k.info:8080/live/hany/hany1234/618316.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/68zplepppndhl8bfdvgy9vgu1.128.png?ver=03-06-2025" group-title="كأس الأمم الإفريقية CAN المغرب 2025™",2025 Africa Cup of Nations AF
+http://allone8k.info:8080/live/hany/hany1234/618315.m3u8
 
 # --- مهم (1) ---
 #EXTINF:-1 tvg-logo="" group-title="مهم",mbc masr test
 http://allone8k.info:8080/live/hany/hany1234/473269.m3u8
 
-# Total: 8922
+# Total: 8924

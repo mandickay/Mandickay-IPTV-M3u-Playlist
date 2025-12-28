@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2025-12-27 18:32:17
+# Generated: 2025-12-28 07:22:21
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -4285,7 +4285,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/127686.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg" group-title="Movies | ACCION",Matar o Morir (2018)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/128728.mp4
 
-# --- Movies | ACCION & AVENTURA (79) ---
+# --- Movies | ACCION & AVENTURA (81) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Bichos Raros
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/1005.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Oni: La leyenda del dios del trueno
@@ -4444,6 +4444,10 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2474.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2480.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Robin Hood
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2505.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Los saqueadores del tiempo
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2510.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Cashman
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2512.mp4
 
 # --- Movies | ANIME (185) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFCwkeCvuRdBeMnabtYdoLgjOqA.jpg" group-title="Movies | ANIME",Ancien y el mundo mágico (2017)
@@ -10747,7 +10751,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/89336.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdjD1JRmZvHrmG69C4NJSaVVkYq.jpg" group-title="Movies | CONCIERTOS & SHOWS",Ricardo Arjona Festival de Viña del Mar (2015)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/89337.mp4
 
-# --- Movies | CRIMEN & MISTERIO (155) ---
+# --- Movies | CRIMEN & MISTERIO (157) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",La primera muerte
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/857.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",61st Street
@@ -11058,6 +11062,10 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2500.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2502.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",Walking on thin Ice
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2503.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",Casos siniestros en Shendu
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2508.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",Fated Hearts
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2509.mp4
 
 # --- Movies | DISNEY (188) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzUvS1tW6WuJHYB4bbFOW89aNVc.jpg" group-title="Movies | DISNEY",101 dálmatas: ¡Ahora la magia es real! (1996)
@@ -21401,7 +21409,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/89878.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRRe7UqPvkMSRgUk1xRNayRvBiO.jpg" group-title="Movies | WESTERN",Dos mulas para la hermana Sara (1970)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/90187.mkv
 
-# --- Series | TELESERIES (128) ---
+# --- Series | TELESERIES (129) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",La familia P. Luche
 http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/1417
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Vencer el Desamor
@@ -21658,5 +21666,7 @@ http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2446
 http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2451
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Apuesta por un amor
 http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2452
+#EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Doménica Montero
+http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2511
 
-# Total: 10796
+# Total: 10801

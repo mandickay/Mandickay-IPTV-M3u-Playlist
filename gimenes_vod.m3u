@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: gimenes.top:8080
-# Generated: 2025-12-27 18:33:34
+# Generated: 2025-12-28 07:20:17
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
@@ -3973,7 +3973,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022727.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",TRAVELERS
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022728.mp4
 
-# --- Movies | > NOVELAS & MINISSÉRIE (199) ---
+# --- Movies | > NOVELAS & MINISSÉRIE (200) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS & MINISSÉRIE",JOSÉ DO EGITO
 http://gimenes.top:8080/movie/denisfonseca/4915334/629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS & MINISSÉRIE",A CASA DAS SETE MULHERES
@@ -4372,6 +4372,8 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022705.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022706.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS & MINISSÉRIE",VIDAS OPOSTAS
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022724.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS & MINISSÉRIE",BELISSIMA
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022730.mp4
 
 # --- Movies | > NOVELAS TURCAS (64) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS TURCAS",UM MILAGRE
@@ -21193,7 +21195,15 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/142362.mp4
 #EXTINF:-1 tvg-logo="http://fiqueemcasa.club/images/omKzydOrom9kpdfQUE0G9Y9sPl0_small.jpg" group-title="Movies | FILMES GUERRA",WHERE HANDS TOUCH
 http://gimenes.top:8080/movie/denisfonseca/4915334/48749.mp4
 
-# --- Movies | FILMES LANÇAMENTOS (470) ---
+# --- Movies | FILMES LANÇAMENTOS (474) ---
+#EXTINF:-1 tvg-logo="http://barserven.link:80/images/ppiw8K6xKibFY9u9u7HUWeBskuX_big.jpg" group-title="Movies | FILMES LANÇAMENTOS",FAREJANDO VINGANÇA 2: CIDADE DOS LOBOS (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/256720.mp4
+#EXTINF:-1 tvg-logo="http://barserven.link:80/images/ytdK03kYesKHtBHJvlCQjLNtMre_big.jpg" group-title="Movies | FILMES LANÇAMENTOS",O REI DA FEIRA (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/256719.mp4
+#EXTINF:-1 tvg-logo="http://barserven.link:80/images/bQFJ7TzCfGZEDxzV19mcidROBA8_big.jpg" group-title="Movies | FILMES LANÇAMENTOS",DISPUTA FINAL (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/256718.mp4
+#EXTINF:-1 tvg-logo="http://barserven.link:80/images/1GZIKUc6Zvl5SPtLMatlY1AZaDF_big.jpg" group-title="Movies | FILMES LANÇAMENTOS",O NATAL DA PATRULHA CANINA (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/256717.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogU6WEsb6NexwUIPorHcSnkvISx.jpg" group-title="Movies | FILMES LANÇAMENTOS",ETERNIDADE (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/256487.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fv4tSQb0ukuNcGHcxBsMSmxiXpV.jpg" group-title="Movies | FILMES LANÇAMENTOS",GUERRA 2 (2025)
@@ -28069,7 +28079,9 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/8691.mp4
 #EXTINF:-1 tvg-logo="https://lv2.sh/kUo" group-title="Movies | FILMES SUSPENSE",NA ESCURIDÃO
 http://gimenes.top:8080/movie/denisfonseca/4915334/8411.mp4
 
-# --- Movies | FILMES TERROR (1002) ---
+# --- Movies | FILMES TERROR (1003) ---
+#EXTINF:-1 tvg-logo="http://barserven.link:80/images/tWkjPi69XT4YvGoU2aZn6UZOXO8_big.jpg" group-title="Movies | FILMES TERROR",A LISTA PERVERSA DO SR. SCROOGE (2024)
+http://gimenes.top:8080/movie/denisfonseca/4915334/256716.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Qlxv51KwChVV4TpGkZrG5rv9FA.jpg" group-title="Movies | FILMES TERROR",MATADOURO 2: DEATH METAL (2024)
 http://gimenes.top:8080/movie/denisfonseca/4915334/256471.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hq0Shff0iLh9OJuByHzKJDsjI7a.jpg" group-title="Movies | FILMES TERROR",O AMIGO OCULTO (2005)
@@ -30089,4 +30101,4 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/166843.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhTm83svrLTM4JdwzJ1FjL63SQN.jpg" group-title="Movies | SHOWS",BEBE REXHA - THE TOWN (2023)
 http://gimenes.top:8080/movie/denisfonseca/4915334/166842.mp4
 
-# Total: 15000
+# Total: 15006

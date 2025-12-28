@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: vocotv.pro
-# Generated: 2025-12-27 18:27:22
+# Generated: 2025-12-28 07:13:08
 # Expires: 2026-06-28
 # Family Safe Edition
 # ==============================================
@@ -6016,13 +6016,13 @@ http://vocotv.pro/live/nowak1/nowak1/710258.m3u8
 http://vocotv.pro/live/nowak1/nowak1/710257.m3u8
 
 # --- LIVE | PPV Events (59) ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 01:  WWE : FRIDAY NIGHT SMACKDOWN 8:00 PM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 01:  Ring V: Night of the Samurai @ 05:00 AM
 http://vocotv.pro/live/nowak1/nowak1/2395.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 02:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 02: AEW Worlds End 8:00 pm
 http://vocotv.pro/live/nowak1/nowak1/2394.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 03:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 03: CFFC BJJ 16 8:00pm
 http://vocotv.pro/live/nowak1/nowak1/2393.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 04:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 04: The Love Alive Charity Revelation 6:00 pm
 http://vocotv.pro/live/nowak1/nowak1/2392.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 05 :
 http://vocotv.pro/live/nowak1/nowak1/2391.m3u8
@@ -6616,10 +6616,6 @@ http://vocotv.pro/live/nowak1/nowak1/636616.m3u8
 http://vocotv.pro/live/nowak1/nowak1/636614.m3u8
 
 # --- USA | ENTERTAINMENT (184) ---
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy8EGduW0GaVNWcdnUd7ULO2NLcjsM-RWLOQ&s" group-title="USA | ENTERTAINMENT",USA BET x Tyler Perry Comedy
-http://vocotv.pro/live/nowak1/nowak1/794730.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/TWN_LOGO_1.png" group-title="USA | ENTERTAINMENT",USA The Word Network
-http://vocotv.pro/live/nowak1/nowak1/794072.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0dcdc1c519e1f78b74fb7d5147a81707.png" group-title="USA | ENTERTAINMENT",USA Laff More
 http://vocotv.pro/live/nowak1/nowak1/622239.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="USA | ENTERTAINMENT",USA ABC
@@ -6944,6 +6940,10 @@ http://vocotv.pro/live/nowak1/nowak1/636627.m3u8
 http://vocotv.pro/live/nowak1/nowak1/636626.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Failarmy.svg/revision/latest?cb=20200106164932" group-title="USA | ENTERTAINMENT",USA | Fail Army
 http://vocotv.pro/live/nowak1/nowak1/636623.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy8EGduW0GaVNWcdnUd7ULO2NLcjsM-RWLOQ&s" group-title="USA | ENTERTAINMENT",USA BET x Tyler Perry Comedy
+http://vocotv.pro/live/nowak1/nowak1/794730.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/TWN_LOGO_1.png" group-title="USA | ENTERTAINMENT",USA The Word Network
+http://vocotv.pro/live/nowak1/nowak1/794072.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Fox-Soul-logo-network.png/220px-Fox-Soul-logo-network.png" group-title="USA | ENTERTAINMENT",USA | FOX Soul
 http://vocotv.pro/live/nowak1/nowak1/636622.m3u8
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F372bce94-1a57-41c5-b2cf-821006b7c124%2FHerSphere_3840X2160_Horizontal.jpg" group-title="USA | ENTERTAINMENT",USA | HerSphere
@@ -12698,8 +12698,6 @@ http://vocotv.pro/live/nowak1/nowak1/759590.m3u8
 http://vocotv.pro/live/nowak1/nowak1/759589.m3u8
 
 # --- USA | NEWS (100) ---
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/16db7cbda3ce09a9312c895627b7b612.png" group-title="USA | NEWS",USA PA WFMZ Allentown
-http://vocotv.pro/live/nowak1/nowak1/796016.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="USA | NEWS",USA Fox News
 http://vocotv.pro/live/nowak1/nowak1/1038.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="USA | NEWS",USA CNN
@@ -12762,8 +12760,6 @@ http://vocotv.pro/live/nowak1/nowak1/1044.m3u8
 http://vocotv.pro/live/nowak1/nowak1/1045.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="USA | NEWS",USA CGTN (English)
 http://vocotv.pro/live/nowak1/nowak1/1046.m3u8
-#EXTINF:-1 tvg-logo="https://ropercenter.cornell.edu/sites/default/files/styles/800x600/public/Images/CBS_News_logo8x6.png" group-title="USA | NEWS",USA CBS News 24/7
-http://vocotv.pro/live/nowak1/nowak1/1057.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="USA | NEWS",USA France 24 (English)
 http://vocotv.pro/live/nowak1/nowak1/1037.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Logo-HLN.svg/1200px-Logo-HLN.svg.png" group-title="USA | NEWS",USA HLN
@@ -12888,6 +12884,10 @@ http://vocotv.pro/live/nowak1/nowak1/634226.m3u8
 http://vocotv.pro/live/nowak1/nowak1/634225.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/CNBC_World_2024.svg/revision/latest?cb=20240830010112" group-title="USA | NEWS",USA | CNBC World
 http://vocotv.pro/live/nowak1/nowak1/636630.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/16db7cbda3ce09a9312c895627b7b612.png" group-title="USA | NEWS",USA PA WFMZ Allentown
+http://vocotv.pro/live/nowak1/nowak1/796016.m3u8
+#EXTINF:-1 tvg-logo="https://ropercenter.cornell.edu/sites/default/files/styles/800x600/public/Images/CBS_News_logo8x6.png" group-title="USA | NEWS",USA CBS News 24/7
+http://vocotv.pro/live/nowak1/nowak1/1057.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/220px-Scripps_News_logo.svg.png" group-title="USA | NEWS",USA | Scripps News
 http://vocotv.pro/live/nowak1/nowak1/636600.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Yahoo%21_Finance_logo_2021.png/800px-Yahoo%21_Finance_logo_2021.png" group-title="USA | NEWS",USA | Yahoo Finance
@@ -14679,7 +14679,7 @@ http://vocotv.pro/live/nowak1/nowak1/271119.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/wajkCb.md.png" group-title="USA | PrimeVideo Series",PrimeVideo Serie info
 http://vocotv.pro/live/nowak1/nowak1/271129.m3u8
 
-# --- USA | SAMSUNG TV+ (295) ---
+# --- USA | SAMSUNG TV+ (277) ---
 #EXTINF:-1 tvg-logo="https://s10.gifyu.com/images/St2AG.png" group-title="USA | SAMSUNG TV+",[US] National Lampoon FHD [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623478.m3u8
 #EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/St2BK.png" group-title="USA | SAMSUNG TV+",[US] Miramax Channel FHD [sᴛᴠ+]
@@ -15106,7 +15106,7 @@ http://vocotv.pro/live/nowak1/nowak1/623227.m3u8
 http://vocotv.pro/live/nowak1/nowak1/623226.m3u8
 #EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/Sa85w.png" group-title="USA | SAMSUNG TV+",[US] MODERN MARVELS PRESENTED by HISTORY FHD [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623225.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-4k-ca.png" group-title="USA | SAMSUNG TV+",[US] LOVE NATURE 4K UHD [sᴛᴠ+]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-4k-ca.png" group-title="USA | SAMSUNG TV+",[US] LOVE NATURE [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623224.m3u8
 #EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/SanPl.png" group-title="USA | SAMSUNG TV+",[US] BBC EARTH FHD [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623223.m3u8
@@ -15118,7 +15118,7 @@ http://vocotv.pro/live/nowak1/nowak1/623221.m3u8
 http://vocotv.pro/live/nowak1/nowak1/623220.m3u8
 #EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/SaigO.png" group-title="USA | SAMSUNG TV+",[US] ROVR PETS FHD [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623219.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/magellan-tv-vod-us.png" group-title="USA | SAMSUNG TV+",[US] MAGELLANTV NOW FHD [sᴛᴠ+]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ340000677_20250408T020751SQUARE.png" group-title="USA | SAMSUNG TV+",[US] MagellanTV Wildest [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623217.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/weather-spy-vod.png" group-title="USA | SAMSUNG TV+",[US] WEATHERSPY HD [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623216.m3u8
@@ -15130,9 +15130,7 @@ http://vocotv.pro/live/nowak1/nowak1/623214.m3u8
 http://vocotv.pro/live/nowak1/nowak1/623213.m3u8
 #EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/Saigq.png" group-title="USA | SAMSUNG TV+",[US] PBS DIGITAL STUDIOS HD [sᴛᴠ+] *
 http://vocotv.pro/live/nowak1/nowak1/623212.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/loupe-vod.png" group-title="USA | SAMSUNG TV+",[US] LOUPE 4K UHD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623211.m3u8
-#EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/SaWsC.png" group-title="USA | SAMSUNG TV+",[US] FIREPLACE 4K [sᴛᴠ+]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20241105T185655SQUARE.png" group-title="USA | SAMSUNG TV+",[US] Fireplace Vibes [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623210.m3u8
 #EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/SaicC.png" group-title="USA | SAMSUNG TV+",[US] STINGRAY HOLIDAYSCAPES FHD [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623209.m3u8
@@ -15166,25 +15164,19 @@ http://vocotv.pro/live/nowak1/nowak1/623196.m3u8
 http://vocotv.pro/live/nowak1/nowak1/623195.m3u8
 #EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/Saiq2.png" group-title="USA | SAMSUNG TV+",[US] XITE 90s THROWBACK FHD [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623194.m3u8
-#EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/SaiIS.png" group-title="USA | SAMSUNG TV+",[US] XITE CELEBRATES FHD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623193.m3u8
-#EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/Saiqn.png" group-title="USA | SAMSUNG TV+",[US] XITE COUNTRY'S FINEST FHD [sᴛᴠ+]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240716T002641SQUARE.png" group-title="USA | SAMSUNG TV+",[US] XITE Classic Country [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623192.m3u8
 #EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/SaiqH.png" group-title="USA | SAMSUNG TV+",[US] XITE COUNTRY TODAY FHD [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623191.m3u8
 #EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/SaimY.png" group-title="USA | SAMSUNG TV+",[US] XITE HITS FHD [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623190.m3u8
-#EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/Sai7B.png" group-title="USA | SAMSUNG TV+",[US] XITE ICONS FHD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623189.m3u8
 #EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/Sai7G.png" group-title="USA | SAMSUNG TV+",[US] XITE JUST CHILL FHD [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623188.m3u8
 #EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/Sai7l.png" group-title="USA | SAMSUNG TV+",[US] XITE NUEVO LATINO FHD [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623187.m3u8
-#EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/Sai7X.png" group-title="USA | SAMSUNG TV+",[US] XITE ONLY LOVE FHD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623186.m3u8
 #EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/Sai7V.png" group-title="USA | SAMSUNG TV+",[US] XITE R&B CLASSIC JAMS FHD [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623185.m3u8
-#EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/Sai7t.png" group-title="USA | SAMSUNG TV+",[US] XITE ROCK ON FHD [sᴛᴠ+]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="USA | SAMSUNG TV+",[US] XITE Rock x Metal [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623184.m3u8
 #EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/Sai76.png" group-title="USA | SAMSUNG TV+",[US] XITE SIEMPRE LATINO FHD [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623183.m3u8
@@ -15216,30 +15208,6 @@ http://vocotv.pro/live/nowak1/nowak1/623170.m3u8
 http://vocotv.pro/live/nowak1/nowak1/623169.m3u8
 #EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/SaiQr.png" group-title="USA | SAMSUNG TV+",[US] STINGRAY TODAY'S LATIN POP FHD [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623168.m3u8
-#EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/SVvVm.png" group-title="USA | SAMSUNG TV+",[US] VEVO '70s FHD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623167.m3u8
-#EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/SVvVv.png" group-title="USA | SAMSUNG TV+",[US] VEVO '80s FHD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623166.m3u8
-#EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/SaiIm.png" group-title="USA | SAMSUNG TV+",[US] VEVO '90s FHD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623165.m3u8
-#EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/SaidL.png" group-title="USA | SAMSUNG TV+",[US] VEVO 2010s FHD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623163.m3u8
-#EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/Sailu.png" group-title="USA | SAMSUNG TV+",[US] VEVO COUNTRY FHD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623162.m3u8
-#EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/Sail1.png" group-title="USA | SAMSUNG TV+",[US] VEVO FEATURES FHD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623161.m3u8
-#EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/SaidB.png" group-title="USA | SAMSUNG TV+",[US] VEVO HIP-HOP FHD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623160.m3u8
-#EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/SVvVl.png" group-title="USA | SAMSUNG TV+",[US] VEVO LATINO FHD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623159.m3u8
-#EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/SZoH2.png" group-title="USA | SAMSUNG TV+",[US] VEVO POP FHD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623158.m3u8
-#EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/SVvVF.png" group-title="USA | SAMSUNG TV+",[US] VEVO R&B FHD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623157.m3u8
-#EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/Said3.png" group-title="USA | SAMSUNG TV+",[US] VEVO RETRO ROCK FHD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623156.m3u8
-#EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/Saic9.png" group-title="USA | SAMSUNG TV+",[US] NEW K-POP HD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623155.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-news-network-ca.png" group-title="USA | SAMSUNG TV+",[US] CBC NEWS INTERNATIONAL FHD [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623153.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" group-title="USA | SAMSUNG TV+",[US] CBS NEWS HD [sᴛᴠ+]
@@ -15264,11 +15232,7 @@ http://vocotv.pro/live/nowak1/nowak1/623138.m3u8
 http://vocotv.pro/live/nowak1/nowak1/623137.m3u8
 #EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/SU8nc.png" group-title="USA | SAMSUNG TV+",[US] THE FIRST FHD [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623136.m3u8
-#EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/Sai40.png" group-title="USA | SAMSUNG TV+",[US] NBC BAY AREA NEWS FHD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623135.m3u8
-#EXTINF:-1 tvg-logo="https://s9.gifyu.com/images/Sai4r.png" group-title="USA | SAMSUNG TV+",[US] WEATHERNATION SAN FRANCISCO HD [sᴛᴠ+]
-http://vocotv.pro/live/nowak1/nowak1/623133.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5eb1afb21486df0007abc57c/colorLogoPNG.png" group-title="USA | SAMSUNG TV+",[US] CBS NEWS BAY AREA HD [sᴛᴠ+]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3200012O8_20251209T010005SQUARE.png" group-title="USA | SAMSUNG TV+",[US] Yahoo! Sports Network [sᴛᴠ+]
 http://vocotv.pro/live/nowak1/nowak1/623131.m3u8
 
 # --- USA | SEC+ (200) ---
@@ -17207,4 +17171,4 @@ http://vocotv.pro/live/nowak1/nowak1/782969.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/29/1/christmas-tree-logo-png_seeklogo-294102.png" group-title="❄ Xmas Specials",❄  Ambient 5 ᴴᴰ
 http://vocotv.pro/live/nowak1/nowak1/782968.m3u8
 
-# Total: 8512
+# Total: 8494

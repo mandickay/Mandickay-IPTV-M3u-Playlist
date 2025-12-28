@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2025-12-27 18:32:17
+# Generated: 2025-12-28 07:22:21
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -193,7 +193,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/75035.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="BOLIVIA",Cadena A
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/67067.m3u8
 
-# --- BRASIL (238) ---
+# --- BRASIL (239) ---
 #EXTINF:-1 tvg-logo="https://tv.defferrari.com.br/logo/1567621908.0943148.png" group-title="BRASIL",Agro Brasil TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/9408.m3u8
 #EXTINF:-1 tvg-logo="https://www.instagram.com/davidtomera/posts/?l=1" group-title="BRASIL",Anime Tv BR DTC
@@ -202,6 +202,8 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52637.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52634.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_01/GLOBO2021_.png.e17c82dfd6aadc8757dfa0f3a623a3b6.png" group-title="BRASIL",Globo BR
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/81262.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1024px-Logotipo_da_GloboNews.png" group-title="BRASIL",Globo New
+http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/129980.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",BR TV Cine
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26928.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e015a80a3d45e6087556b4e4556e08cb.webp" group-title="BRASIL",BR Animax
@@ -1766,7 +1768,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/50968.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/51270.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png" group-title="DEPORTES",Es*pn Premium Chile
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/81532.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wGdsjwD/espn.png" group-title="DEPORTES",ES*PN 2 Chile HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wGdsjwD/espn.png" group-title="DEPORTES",ES*PN 2 Chile
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/79153.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wGdsjwD/espn.png" group-title="DEPORTES",ES*PN Colombia
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/54850.m3u8
@@ -16901,4 +16903,4 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/2429.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision 2
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/74736.m3u8
 
-# Total: 8415
+# Total: 8416

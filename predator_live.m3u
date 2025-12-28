@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2025-12-27 18:34:17
+# Generated: 2025-12-28 07:11:16
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3990,6 +3990,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/2964.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/10315.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-21.png" group-title="Shqiptare",AL: Syri Vizion
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/3199.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Syri TV
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81935.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/tv%20LIRIA.png" group-title="Shqiptare",AL: TV Liria
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/76424.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Tv Festina HD
@@ -4472,8 +4474,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/782.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/19454.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/MELODY%20TV.png" group-title="Shqiptare",AL: Melody TV ♫
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/3128.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1Hwy3DWut1SQ1ktRp-1qsJjaQ-nW4aU_X/view?usp=drivesdk" group-title="Shqiptare",AL: Ari TV ♫
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/67433.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/AMOL.png" group-title="Shqiptare",AL: Amol ♫
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13137.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/elrodi-1.png" group-title="Shqiptare",AL: Elrodi ♫

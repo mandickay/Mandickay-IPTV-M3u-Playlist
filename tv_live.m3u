@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2025-12-27 18:29:22
+# Generated: 2025-12-28 07:16:22
 # Expires: 2026-05-25
 # Family Safe Edition
 # ==============================================
@@ -1961,39 +1961,45 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/184135.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AU - ÖSTERREICH",(AU) ProSieben HD Austria
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/184134.m3u8
 
-# --- AZ : AZARBAYCAN (16) ---
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) ARB
+# --- AZ : AZARBAYCAN (19) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Arb
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/100390.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) ARB 24
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Arb 24
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/100391.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) ARB Güneş
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Arb Güneş
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/100392.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Az TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31401.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Azad TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31402.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) CBC Sport HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31400.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) CBC
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31399.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AZ : AZARBAYCAN",(AZ) Dalga TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/211130.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Dünya TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/100394.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Dalga TV
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Real TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/100393.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Günaz TV
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/100395.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Lider TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31396.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Xezer TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31393.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) SPACE TV
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Space TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31394.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Ictimai TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31398.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AZ : AZARBAYCAN",(AZ) Atv AZ
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/211128.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AZ : AZARBAYCAN",AZ : Amc TV
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/211129.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Idman TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31397.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Medeniyyet TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31395.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Cbc
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31399.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Cbc Azerbajan
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/100395.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Cbc Sport HD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/31400.m3u8
 
 # --- BA : BAANGLAADESH (10) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/banglades_bayrak.gif" group-title="BA : BAANGLAADESH",(BA) Banglavision
@@ -2080,45 +2086,53 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/169025.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/169027.m3u8
 
 # --- BE - SPORT (29) ---
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/dazn1hd.png" group-title="BE - SPORT",(BE) DAZN 1 4K
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/dazn1hd.png" group-title="BE - SPORT",(BE) Dazn 1 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/15490.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/dazn2hd.png" group-title="BE - SPORT",(BE) DAZN 2 4K
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/dazn2hd.png" group-title="BE - SPORT",(BE) Dazn 2 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/15491.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/dazn1hd.png" group-title="BE - SPORT",(BE) DAZN 1 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/186743.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/dazn2hd.png" group-title="BE - SPORT",(BE) DAZN 2 HD
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/186742.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/dazn3hd.png" group-title="BE - SPORT",(BE) DAZN 3 HD
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/dazn3hd.png" group-title="BE - SPORT",(BE) Dazn 3 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/186741.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/logo-dazn-1-pl.png" group-title="BE - SPORT",(BE) DAZN Pro League 1 NL
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/186747.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/logo-dazn-2-pl.png" group-title="BE - SPORT",(BE) DAZN Pro League 2 NL
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/186746.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/logo-dazn-3-pl.png" group-title="BE - SPORT",(BE) DAZN Pro League 3 NL
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/logo-dazn-3-pl.png" group-title="BE - SPORT",(BE) Dazn Pro League 1
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/186745.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/sport-10.png" group-title="BE - SPORT",(BE) Sport 10 4K
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/dazn1hd.png" group-title="BE - SPORT",(BE) Dazn Pro League 2
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/186743.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/dazn2hd.png" group-title="BE - SPORT",(BE) Dazn Pro League 3
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/186742.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/logo-dazn-1-pl.png" group-title="BE - SPORT",(BE) Dazn Pro League 1 NL
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/186747.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/logo-dazn-2-pl.png" group-title="BE - SPORT",(BE) Dazn Pro League 2 NL
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/186746.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/playsports1.png" group-title="BE - SPORT",(BE) Play Sports 1 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/45472.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/playsports2.png" group-title="BE - SPORT",(BE) Play Sports 2 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/45473.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/playsports3.png" group-title="BE - SPORT",(BE) Play Sports 3 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/96326.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/playsports4.png" group-title="BE - SPORT",(BE) Play Sports 4 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/96327.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Play Sports 1 Hevc
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/149597.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Play Sports 2 Hevc
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/149598.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Play Sports 3 Hevc
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/149599.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/vooportsworld1.png" group-title="BE - SPORT",(BE) Voo Sport World 1 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7907.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/vooportsworld1.png" group-title="BE - SPORT",(BE) Voo Sport World 2 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7918.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Voo Sport World 3 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/149600.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voosport1.png" group-title="BE - SPORT",(BE) Voo Sport 1 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7920.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voosport2.png" group-title="BE - SPORT",(BE) Voo Sport 2 FHD
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7919.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/sport-10.png" group-title="BE - SPORT",(BE) Sport 10 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/169047.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/sport-10.png" group-title="BE - SPORT",(BE) Sport 10 HD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/186744.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voosport1.png" group-title="BE - SPORT",(BE) Voo Sport 1 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7920.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voosport2.png" group-title="BE - SPORT",(BE) Voo Sport 2 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7919.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/vooportsworld1.png" group-title="BE - SPORT",(BE) Voo Sport World 1 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7907.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/vooportsworld1.png" group-title="BE - SPORT",(BE) Voo Sport World 2 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/7918.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/playsports1.png" group-title="BE - SPORT",(BE) Play Sports 1 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/45472.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/playsports2.png" group-title="BE - SPORT",(BE) Play Sports 2 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/45473.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/playsports3.png" group-title="BE - SPORT",(BE) Play Sports 3 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/96326.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/playsports4.png" group-title="BE - SPORT",(BE) Play Sports 4 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/96327.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/playsports5.png" group-title="BE - SPORT",(BE) Play Sports 5 4K
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/playsports5.png" group-title="BE - SPORT",(BE) Play Sports 5 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/96328.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 1 4K
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 1 FHD
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/149595.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 2 4K
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/149596.m3u8
@@ -2130,14 +2144,6 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/149603.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/149602.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 6 4K
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/149601.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 7 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/149600.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 8 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/149599.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 9 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/149598.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 10 4K
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/149597.m3u8
 
 # --- BE - WALLONIE (50) ---
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/launehd.png" group-title="BE - WALLONIE",(BE) La Une HD
@@ -10655,4 +10661,4 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/153506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="İR : PERSİAN",(IR) TIN TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/153497.m3u8
 
-# Total: 5181
+# Total: 5184

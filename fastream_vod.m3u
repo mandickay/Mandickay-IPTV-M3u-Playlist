@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2025-12-28 07:24:35
+# Generated: 2025-12-28 18:33:23
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -13781,7 +13781,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/268613.mp4
 
-# --- Movies | → VOD ESTRENOS SUBTITULADOS ← (53) ---
+# --- Movies | → VOD ESTRENOS SUBTITULADOS ← (54) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iANU8C9n6lH7Wx0MbOdM4aATfrW.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",Predator: Badlands (2025)(SUB)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/278821.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOFkG4AGmMQcsXNRZ2bA1Gm7EkK.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",Materialistas SUB (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/277656.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6N21gcFbhT4ocdTU4MGREAaM5Vz.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",Kimetsu no Yaiba La fortaleza infinita (2025) SUB
@@ -15953,7 +15955,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/3432.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg" group-title="Movies | → VOD STAR WARS ←",Rogue One: Una historia de Star Wars (2016)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/3546.mp4
 
-# --- Movies | → VOD SUSPENSO ← (217) ---
+# --- Movies | → VOD SUSPENSO ← (218) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1Pg71Z60BweXmJui2H8o49MohO.jpg" group-title="Movies | → VOD SUSPENSO ←",El Buen Vecino
+http://fastream.xyz:8080/movie/940246862tv/12ws79/278822.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/23/bd/11/23bd11d075f63fcb8bd5e71d5c32332e.jpg" group-title="Movies | → VOD SUSPENSO ←",Detras de las Paredes
 http://fastream.xyz:8080/movie/940246862tv/12ws79/278093.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sd6LML87wa9UPZgfuPnGwic82YH.jpg" group-title="Movies | → VOD SUSPENSO ←",El secreto de sus ojos
@@ -17578,8 +17582,6 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/298
 http://fastream.xyz:8080/series/940246862tv/12ws79/299
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Haikyuu!! Los ases del vóley
 http://fastream.xyz:8080/series/940246862tv/12ws79/304
-#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Espíritu de lucha (Hajime no Ippo)
-http://fastream.xyz:8080/series/940246862tv/12ws79/305
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",InuYasha
 http://fastream.xyz:8080/series/940246862tv/12ws79/323
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Naruto
@@ -17728,6 +17730,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2465
 http://fastream.xyz:8080/series/940246862tv/12ws79/2474
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Los tipos malos: Malos comienzos
 http://fastream.xyz:8080/series/940246862tv/12ws79/2496
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Espíritu de lucha: Hajime no Ippo
+http://fastream.xyz:8080/series/940246862tv/12ws79/2514
 
 # --- Series | → SERIES CIENCIA FICCIÓN ← (66) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Cuentos asombrosos
@@ -19579,4 +19583,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9714
+# Total: 9716

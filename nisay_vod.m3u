@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-28 07:22:18
+# Generated: 2025-12-28 18:36:27
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -17201,7 +17201,13 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (307) ---
+# --- Movies | SON EKLENEN 300 FILM (308) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrPKVQGjc3YZXm07OYMriIB47HM.jpg" group-title="Movies | SON EKLENEN 300 FILM",Detective Knight: Independence (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159607.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Pq9YCayI788MXeLnCcOJijWNZD.jpg" group-title="Movies | SON EKLENEN 300 FILM",Five More Minutes (2021)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159609.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEE73FsCLs800A9aUEbDs4qrQQg.jpg" group-title="Movies | SON EKLENEN 300 FILM",Venüs'te Görüşürüz (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159615.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abN3CJlaCZKmTpmYFHlcyd0e4bL.jpg" group-title="Movies | SON EKLENEN 300 FILM",Kuş (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159542.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acCIjyszhmit8k5eWVGNTustYRK.jpg" group-title="Movies | SON EKLENEN 300 FILM",Detective Knight: Redemption (2022)
@@ -17812,10 +17818,6 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153639.mkv
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153628.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOwERSSssBydVjLT0lcrM1SEFnL.jpg" group-title="Movies | SON EKLENEN 300 FILM",Tezgah (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/153113.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrPKVQGjc3YZXm07OYMriIB47HM.jpg" group-title="Movies | SON EKLENEN 300 FILM",Detective Knight: Independence (2023)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159607.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Pq9YCayI788MXeLnCcOJijWNZD.jpg" group-title="Movies | SON EKLENEN 300 FILM",Five More Minutes (2021)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159609.mkv
 
 # --- Movies | STAND UP (12) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkuO0SvdNTyIQIbFWBgIxkOj2Y4.jpg" group-title="Movies | STAND UP",Ali Congun - Aşk Acısı (2025)
@@ -18129,10 +18131,22 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1743.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Rüya Gibi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1812.mp4
 
-# --- Movies | TURKCE ALTYAZI FILMLER (494) ---
+# --- Movies | TURKCE ALTYAZI FILMLER (498) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t64xhKvMKgfePvTUB8OYXH2jnm.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Sonsuza Dek (2025) TRAltyazi
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159608.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Nürnberg (2025) TRAltyazi
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159610.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLD460f5fh1K6UeA85ZdOZjqVR0.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Dreams (2025) TRAltyazi
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159611.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZqZ1olQyizSwwPTpYlTRH2Vguv.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Freddy'nin Pizza Dükkanında Beş Gece 2 (2025) TRAltyazi
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159612.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",I Swear (2025) TRAltyazi
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159613.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2l3FkvKhu5BhA3kqdJQMOhEV61E.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Manevi Değer (2025) TRALtyazi
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159614.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQdgrY0mvmyBH4JROceFjauWzUH.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Sihirbazlar Çetesi: Daha Bir Şey Görmediniz (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159353.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUiAm0jbrPgbUDCOhRKsvdT0u5h.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Sisu: Road to Revenge (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUiAm0jbrPgbUDCOhRKsvdT0u5h.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Sisu: Road to Revenge (2025) TRAltyazi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159354.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PdAODwR9amGEq5ER42FsuzV7op.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Turbulence (2025) TRAltyazi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159329.mkv
@@ -19114,12 +19128,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/76330.mkv
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/79637.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebo8C1dZeQyYy295VIDKrlYtNK2.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Bir Yilan Hikayesi 2020
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/76564.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t64xhKvMKgfePvTUB8OYXH2jnm.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Sonsuza Dek (2025) TRAltyazi
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159608.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Nürnberg (2025)
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159610.mkv
 
-# --- Movies | TURKCELL TV (33) ---
+# --- Movies | TURKCELL TV (34) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURKCELL TV",11.22.63
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/189.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURKCELL TV",Clique
@@ -19186,6 +19196,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1792.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1793.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURKCELL TV",The Truth About the Harry Quebert Affair
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1809.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TURKCELL TV",Sanctuary: A Witch's Tale
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1844.mp4
 
 # --- Movies | WESTERN FILM (75) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Mvue0WIqWABfVvO1GcRN7hgvtO.jpg" group-title="Movies | WESTERN FILM",Muhteşem Yedili (2016)
@@ -19877,4 +19889,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9871
+# Total: 9877

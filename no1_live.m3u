@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2025-12-28 07:21:00
+# Generated: 2025-12-28 18:26:03
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1153,77 +1153,503 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (35) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8enpbd32ifsdnkennx6fdrpj7_image-header_pDach_1763473997000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Wintersport-Samstag | 27. Dezember (2025-12-27 09:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173679.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1nhupo14h7lwj1606qz8134uqg_image-header_pDach_1764843942000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ring V: Night of the Samurai (2025-12-27 10:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173680.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/32no99vglmad4d6b07nl3b2my_image-header_pDach_1766401426000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",LALIGA Futures | Gruppenphase (1. Spieltag) (2025-12-27 10:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173681.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e3vrzid95chuvqhtik9a6ehjr_image-header_pDach_1765555624000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rajadamnern World Series | Daniel Rodriguez vs Petchmorakot (2025-12-27 12:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173682.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d43tsliaybyug8ndc2d55b0rf_image-header_pDach_1763022317000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Parma - Fiorentina (italienischer Kommentar) (2025-12-27 12:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173683.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6f8ngboxn1qg2fue4k570pbcz_image-header_pDach_1763022317000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Parma - Fiorentina (2025-12-27 12:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173684.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5mrwdstdawyaq75ibkk4v2qf7_image-header_pDach_1763473598000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 14 (Session 1) (2025-12-27 13:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173685.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d692x21l78lgux6f7fduzepn1_image-header_pDach_1764647897000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 14 (Session 1 mit Originalkommentar) (2025-12-27 13:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173686.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eko0z8v9bccm19rounfbicz77_image-header_pDach_1764931697000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Benin - Botswana (2025-12-27 13:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173687.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2kmagxfpx5c5shcscop5b2di7_image-header_pDach_1760626183000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Royal Cups Race Night 2 (2025-12-27 14:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173688.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b9jsxdjd7lz4nntlxnclqa29x_image-header_pDach_1765353452000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lecce - Como (2025-12-27 15:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173689.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b8v5t31s0wf8v0mpap19vp36k_image-header_pDach_1763403773000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FC Turin - Cagliari (italienischer Kommentar) (2025-12-27 15:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173690.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/72lxrunyzqb5h5dc8pxgg7ar3_image-header_pDach_1763403773000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FC Turin - Cagliari (2025-12-27 15:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173691.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/87onkwarcuqjf3mtnerx20khp_image-header_pDach_1765353452000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lecce - Como (italienischer Kommentar) (2025-12-27 15:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173692.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/amj6ejyy9wqhmm8wsioz8mpah_image-header_pDach_1760875948000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Al-Nassr - Al-Okhdood (2025-12-27 15:50:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173693.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5kekz2rdp87jcxo1agaa3w60j_image-header_pDach_1764931612000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Senegal - DR Kongo (2025-12-27 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173694.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/biolvg030ok56oycb2w5zsoar_image-header_pDach_1766402197000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",LALIGA Futures | Gruppenphase (2. Spieltag) (2025-12-27 17:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173695.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1s429udhlgp7m1tupcvqf6yu31_image-header_pDach_1765318337000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Military Bowl: Pittsburgh vs. East Carolina (2025-12-27 17:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173696.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1v3yemcjaeuew1bw4c6tvmyoml_image-header_pDach_1765299452000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Pinstripe Bowl: Clemson vs. Penn State (2025-12-27 18:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173697.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cv309z8zwqjl4uw5l79mik7y0_image-header_pDach_1763022392000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Udinese - Lazio (italienischer Kommentar) (2025-12-27 18:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173698.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vet948rimc82vol05oml9avt_image-header_pDach_1763022392000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Udinese - Lazio (2025-12-27 18:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173699.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c5gmgqjsmdioaqsr0rjakidwj_image-header_pDach_1760875930000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Al-Ittihad - Al-Shabab (2025-12-27 18:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173700.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d0792zyhpht422xw1mpo37ooo_image-header_pDach_1764931484000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Uganda - Tansania (2025-12-27 18:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173701.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/j43b7lgmsn5a556o0ll5cfsp_image-header_pDach_1763473582000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 14 (Session 2) (2025-12-27 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173702.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eedane93bodo6n41sxx0goj5v_image-header_pDach_1764647897000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 14 (Session 2 mit Originalkommentar) (2025-12-27 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173703.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/m75359od42vn1bt7m5ynsfams_image-header_pDach_1765318337000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Fenway Bowl: UConn vs. Army (2025-12-27 20:15:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173704.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8cvdph3237frui9n1217yfva1_image-header_pDach_1762995837000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Leicester Riders - London Lions (2025-12-27 20:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173705.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c3p49s3bigyx893wgjwegi7eo_image-header_pDach_1763022441000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Pisa - Juventus (italienischer Kommentar) (2025-12-27 20:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173706.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e0uvkihl6gwk2gica45wclz10_image-header_pDach_1763022441000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Pisa - Juventus (2025-12-27 20:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173707.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3ssaqo9ikwcql2kcfpcrgce11_image-header_pDach_1764931389000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Nigeria - Tunesien (2025-12-27 21:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173708.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/sr7jvzkm06v314a6b5ekrfhgg_image-header_pDach_1765299583000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Pop Tarts Bowl: BYU vs. Georgia Tech (2025-12-27 21:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173709.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1loqfaulfjpso0amkzuboqb4q_image-header_pDach_1765980481000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Texans @ Chargers (deutscher Kommentar) (2025-12-27 22:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173710.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1wzlax4hegz7415npupi431v6z_image-header_pDach_1751971159000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Texans @ Chargers (2025-12-27 22:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173711.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/km1khvvhb74s147je6uhja7vt_image-header_pDach_1765351718000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",New Mexico Bowl: North Texas vs. San Diego State (2025-12-27 23:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173712.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/12oh1wu0txzan1vzof6a42ymwn_image-header_pDach_1765299209000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Gator Bowl: Missouri vs. Virginia (2025-12-28 01:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173713.m3u8
+# --- DE-DAZN EVENT (248) ---
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/tbpjn3ljgjv6tknxlbhy00as_image-header_pDach_1766401426000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",LALIGA Futures | Gruppenphase (3. Spieltag) (2025-12-28 09:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174154.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/v7jxxvtf6j1pn290quccsvba_image-header_pDach_1763473974000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Wintersport-Sonntag | 28. Dezember (2025-12-28 10:40:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174155.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ezgdbwl5y1601ifh2cedavwhu_image-header_pDach_1763022371000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Milan - Hellas Verona (italienischer Kommentar) (2025-12-28 10:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174156.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9niqiz7ocbtuutn3jdfcado90_image-header_pDach_1763022371000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Milan - Hellas Verona (2025-12-28 11:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174157.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/f3frndtc9c3rbv9rqjmi44sbr_image-header_pDach_1766656310000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 15 (Session 1) (2025-12-28 12:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174158.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9rdgy8ow1egi9v75w7zdei7nm_image-header_pDach_1766656330000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 15 (Session 1 mit Originalkommentar) (2025-12-28 12:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174159.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6j0253hn14ubaa12xufxl95h2_image-header_pDach_1764931304000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Gabun - Mosambik (2025-12-28 12:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174160.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b52krx7bntlswmg81zx6wchbk_image-header_pDach_1761920005000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cremonese - Neapel (italienischer Kommentar) (2025-12-28 13:15:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174161.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d4or7698owvt2ptuzh9om18bm_image-header_pDach_1761920005000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cremonese - Neapel (2025-12-28 14:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174162.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5ocpdc2zpq0w0i8f577a3cmul_image-header_pDach_1756977965000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bristol Flyers - Surrey 89ers (2025-12-28 15:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174163.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/by9oxqlbhrj8ehuiyl2j66gqg_image-header_pDach_1766425273000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Globe Soccer Awards (2025-12-28 15:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174164.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5qnc3rkltbdvvuzmpzhir4chg_image-header_pDach_1764931186000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Äquatorialguinea - Sudan (2025-12-28 15:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174165.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/p1bfab6w21uk8fccapkala2q_image-header_pDach_1765819249000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Vierschanzentournee | Oberstdorf (Qualifikation) (2025-12-28 15:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174166.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4z6v50fv46c1evw9uxk7mi1fi_image-header_pDach_1763635596000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bologna - Sassuolo (italienischer Kommentar) (2025-12-28 16:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174167.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e755jtpw621rv18w7zorrt349_image-header_pDach_1763635596000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bologna - Sassuolo (2025-12-28 17:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174168.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8m8s24cecoqdywy5h4yoykr11_image-header_pDach_1756895350000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Newcastle Eagles - Caledonia Gladiators (2025-12-28 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174169.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9ag8fxs6auw9om60kvlavpygf_image-header_pDach_1764930545000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Algerien - Burkina Faso (2025-12-28 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174170.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6ierp6zsoz97o84qh37d46gfu_image-header_pDach_1765869981000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",NFL Konferenz | Week 17 (2025-12-28 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174171.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5ibfaw1mwc1ba2t81xdeht7li_image-header_pDach_1766402197000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",LALIGA Futures | Viertelfinale (2025-12-28 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174172.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4xtvv3ykylfvvy13ao0k8i7cg_image-header_pDach_1756896320000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cheshire Phoenix - Manchester Basketball (2025-12-28 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174173.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7of90kpj7av3dn26hdrhrqlrt_image-header_pDach_1765974329000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Jaguars @ Colts (deutscher Kommentar) (2025-12-28 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174174.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5ugdc1qc482t1lrlq7w01wlr9_image-header_pDach_1751971159000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Steelers @ Browns (2025-12-28 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174175.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/15gpnlw33qyw51hx7hlseykwzp_image-header_pDach_1751971159000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Jaguars @ Colts (2025-12-28 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174176.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/35h6y5mwryuhg0mt271sbwmx0_image-header_pDach_1748442209000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",NFL RedZone | Week 17 (2025-12-28 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174177.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/zsfeh52zgn451utqba89idksf_image-header_pDach_1751971159000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Patriots @ Jets (2025-12-28 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174178.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cdcf5lcw18bl19njaiz8nyh36_image-header_pDach_1751971159000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Saints @ Titans (2025-12-28 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174179.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/pypfce6633y510wm2cy728iq8_image-header_pDach_1751971159000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Buccaneers @ Dolphins (2025-12-28 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174180.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/28s82wpl85ibzdnbz04onuul4_image-header_pDach_1763022289000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Atalanta - Inter (italienischer Kommentar) (2025-12-28 18:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174181.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/199oucgy6qkgsqhkl8u9yltnn_image-header_pDach_1766656579000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 15 (Session 2 mit Originalkommentar) (2025-12-28 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174182.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cc1jx1qlyrshfx68swwqjiko3_image-header_pDach_1766656529000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 15 (Session 2) (2025-12-28 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174183.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3eou5r6mrogz6yzpsgc6ml0qq_image-header_pDach_1765880744000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Atalanta - Inter (2025-12-28 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174184.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/65smnhxb44xy8x00fy8kl0jgf_image-header_pDach_1764930286000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Elfenbeinküste - Kamerun (2025-12-28 20:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174185.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/qczijhqzr1w717m1arv6f0gkv_image-header_pDach_1751971159000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Eagles @ Bills (2025-12-28 21:25:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174186.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8pfadzrs2l92ah3dyphpqho7z_image-header_pDach_1765974566000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Eagles @ Bills (deutscher Kommentar) (2025-12-28 21:25:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174187.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/15ighz05ltnon1ioghg1f7ek4q_image-header_pDach_1766005434000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Old Dominion @ Maryland (2025-12-28 23:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174188.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1byx2tpt9h76q1qgttshbk62vv_image-header_pDach_1751971159000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bears @ 49ers (2025-12-29 01:20:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174189.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1t3012px1umy34m8z3za41lfb_image-header_pDach_1764927033000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bears @ 49ers (deutscher Kommentar) (2025-12-29 01:20:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174190.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9qtzium1jdz7t6dp3p6p0h7a4_image-header_pDach_1766401426000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",LALIGA Futures | Halbfinale (2025-12-29 10:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174191.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/81k1c0ymjhccvg4raw51e36jv_image-header_pDach_1766656673000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 16 (Session 1 mit Originalkommentar) (2025-12-29 12:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174192.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bsm8q9210twwp05q47vt4mvk3_image-header_pDach_1766656691000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 16 (Session 1) (2025-12-29 12:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174193.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ey3stlhoy602ow2uvkdmtv61f_image-header_pDach_1734766109000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Vierschanzentournee | Oberstdorf (2025-12-29 15:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174194.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/demc7v4dafiopuoo2c4madkb_image-header_pDach_1766413326000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AFCON-Konferenz | Angola - Ägypten & Simbabwe - Südafrika (2025-12-29 16:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174195.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6sk7nhg0swj09cx81q78s370p_image-header_pDach_1766402197000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",LALIGA Futures | Finale (2025-12-29 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174196.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aks4l01n0lemeaedtwi52bxwm_image-header_pDach_1763473565000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 16 (Session 2) (2025-12-29 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174197.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8l3kioy37xmbkukn9uw8tjpyl_image-header_pDach_1763022333000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AS Rom - CFC Genua (italienischer Kommentar) (2025-12-29 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174198.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7k9eot7nnqy5wst9lgyrxkmvf_image-header_pDach_1763473598000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 16 (Session 2 mit Originalkommentar) (2025-12-29 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174199.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1gsv08y6w7vy31mekgs4ag8ukc_image-header_pDach_1765299316000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Birmingham Bowl: Appalachian State vs. Georgia Southern (2025-12-29 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174200.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/caovqioosahi4gs7bwlzlz6m4_image-header_pDach_1766413239000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AFCON-Konferenz | Komoren - Mali & Sambia - Marokko (2025-12-29 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174201.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1cht1rm2vytl91lddytnz3896s_image-header_pDach_1765451865000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Inside The Ring - Dec. 29 (2025-12-29 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174202.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e5ew9zq1czu692uytd1d1csqs_image-header_pDach_1763022333000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AS Rom - CFC Genua (2025-12-29 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174203.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5ipjaeoojglk1wbkeft6kq5fh_image-header_pDach_1766154869000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Southern U. @ Illinois (2025-12-29 20:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174204.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/zuomui61ping1oggzyi5qx6t2_image-header_pDach_1766155925000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",U-Mass Lowell @ Iowa (2025-12-29 22:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174205.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1kjh4skptawf810vnsorso45ku_image-header_pDach_1766155925000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cornell @ Michigan State (2025-12-30 00:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174206.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/f1yeugq3oz2nzf4oolm6n9ndb_image-header_pDach_1764934308000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rams @ Falcons (deutscher Kommentar) (2025-12-30 01:15:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174207.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/187scf43ieohp1frqwkt86iicp_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Michigan @ Oregon (2025-12-30 02:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174208.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aex7f4rycoiqrypqujps35txo_image-header_pDach_1763473598000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 17 (Session 1) (2025-12-30 12:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174209.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4letwvqbdyo3xj98xmxpqlp5_image-header_pDach_1763473565000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 17 (Session 1 mit Originalkommentar) (2025-12-30 12:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174210.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7o64ohqkt69ndxxgv127p5d8w_image-header_pDach_1766413431000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AFCON-Konferenz | Uganda - Nigeria & Tansania - Tunesien (2025-12-30 16:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174211.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7eaw7qbwonr0oqtsc77z4w28s_image-header_pDach_1765815938000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Al-Ettifaq - Al-Nassr (2025-12-30 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174212.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/earjng2h0qynbbp5niibqujsv_image-header_pDach_1763473582000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 17 (Session 2) (2025-12-30 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174213.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8fct5e4xoeri3gazgmco4702t_image-header_pDach_1756896413000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Caledonia Gladiators - Manchester Basketball (2025-12-30 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174214.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9w75gnf4lkm36fnabx9t4y1q9_image-header_pDach_1763473565000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 17 (Session 2 mit Originalkommentar) (2025-12-30 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174215.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/h7n6hgvrq5yy1t68hhqb82cso_image-header_pDach_1765299186000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Independence Bowl: Louisiana Tech vs. Coastal Carolina (2025-12-30 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174216.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5eywpy6o96vmd3sf8xr7ojds6_image-header_pDach_1766413154000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AFCON-Konferenz | Botswana - DR Congo & Benin - Senegal (2025-12-30 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174217.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8ivgzz4sxt1rdj94i1b1tvso5_image-header_pDach_1756977969000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Leicester Riders - Bristol Flyers (2025-12-30 19:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174218.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d6gnacrsmjsx9sgyqw56awjxj_image-header_pDach_1756895917000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Sheffield Sharks - Cheshire Phoenix (2025-12-30 19:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174219.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5udice111qlzlcjdqlgv2aj6o_image-header_pDach_1756895896000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Surrey 89ers - Newcastle Eagles (2025-12-30 19:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174220.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ekz8jbrg2p8u1ld92664w6a2j_image-header_pDach_1765299570000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Music City Bowl: Illinois vs. Tennessee (2025-12-30 22:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174221.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1hq7futrypopr142f1j43t97tb_image-header_pDach_1765299414000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Alamo Bowl: TCU vs. USC (2025-12-31 02:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174222.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5x3fqehznbegjcnhnfc26a60b_image-header_pDach_1765817114000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Two Nights Tour | Garmisch-Partenkirchen (Frauen) (2025-12-31 11:50:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174223.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/afkshusd2yw5q69qokoqqsj41_image-header_pDach_1734766433000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Vierschanzentournee | Garmisch-Partenkirchen (Qualifikation) (2025-12-31 15:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174224.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/70oqb1m45sy16yasmkrjouxtl_image-header_pDach_1765819586000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",NEOM - Al-Ittihad (2025-12-31 15:25:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174225.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d7ergtnvv4ymf23eppirgwxqx_image-header_pDach_1766413075000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AFCON-Konferenz | Äquatorialguinea - Algerien & Sudan - Burkina Faso (2025-12-31 16:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174226.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1nd99mzssolox1b38bmmlu7uz7_image-header_pDach_1765299368000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",ReliaQuest Bowl: Vanderbilt vs. Iowa (2025-12-31 17:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174227.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/kywi403y4r8w1asececvubkpa_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ohio State @ Purdue (2025-12-31 17:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174228.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bvizzf3ilhnafsunr0r1y5uc4_image-header_pDach_1765819862000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Al-Kholood - Al-Hilal (2025-12-31 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174229.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/21krydukdrr27za3vsvznadet_image-header_pDach_1766412964000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AFCON-Konferenz | Mosambik - Kamerun & Gabun - Elfenbeinküste (2025-12-31 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174230.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cfuruq7h1dxz1n3ekaisqtup2_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",UCLA @ Penn State (2025-12-31 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174231.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ex7zq2si0k0c143zcq4cn9v7a_image-header_pDach_1765299472000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Citrus Bowl: Texas vs. Michigan (2025-12-31 20:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174232.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/11jgnesd2yyr11dts6v68lhxm3_image-header_pDach_1765319044000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Las Vegas Bowl: Nebraska vs. Utah (2025-12-31 20:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174233.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/18saw12x1q3vz1n17g3azbqwdp_image-header_pDach_1766423031000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",CFP Quarter Final: Cotton Bowl Classic - Miami vs Ohio State (2026-01-01 00:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174234.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/psjypqzec2db1144i099flbij_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",St. John's @ Georgetown (2026-01-01 01:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174235.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/afxsmx4rgj2fk0wlabnacdbp5_image-header_pDach_1763473565000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | 1. & 2. Viertelfinale (2026-01-01 12:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174236.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/epmc14s8ryjk18ovtaqmd7rj7_image-header_pDach_1763473565000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | 1. & 2. Viertelfinale (Originalkommentar) (2026-01-01 12:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174237.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7ojcl1g9pec8tmaipdrdesvxq_image-header_pDach_1765818628000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Vierschanzentournee | Garmisch-Partenkirchen (2026-01-01 12:40:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174238.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2eejt2s9u9w7h85qsy76an4tx_image-header_pDach_1760438381000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Riyadh Racing Season Race Night 13 (2026-01-01 13:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174239.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4424cuiss7rzgn04u7m83oyay_image-header_pDach_1765872096000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Two Nights Tour | Oberstdorf (Frauen) (2026-01-01 15:05:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174240.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1uhyntvzl6a951nxe0zyd9bgu5_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Michigan State @ Indiana (2026-01-01 17:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174241.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/88ub6sjtudyv1tokn6ohmoz0s_image-header_pDach_1766422518000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",CFP Quarter-Final: Orange Bowl - Oregon vs. Texas Tech (2026-01-01 17:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174242.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bwxfpa040xrt6dl4p5rwub8om_image-header_pDach_1763473598000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | 3. & 4. Viertelfinale (2026-01-01 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174243.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a4nw3gzhfhpvg0ssw1tbfwbm9_image-header_pDach_1763473598000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | 3. & 4. Viertelfinale (Originalkommentar) (2026-01-01 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174244.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/mucyt9if257k1pefp9rcjx2z4_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Nebraska @ Iowa (2026-01-01 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174245.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ixi2334g2dol1irvwgq0txmlg_image-header_pDach_1766422679000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",CFP Quarter Final: Rose Bowl - Alabama vs. Indiana (2026-01-01 21:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174246.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xlul8unl92d913rq52arj7265_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Maryland @ Illinois (2026-01-01 21:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174247.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ot431sy8w578114p8dwii0mqa_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Michigan @ Washington (2026-01-01 23:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174248.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/gtx92ohte9zk1kd70pc0z45w0_image-header_pDach_1766422817000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",CFP Quarter Final: Sugar Bowl - Ole Miss vs. Georgia (2026-01-02 01:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174249.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/53x9z9xb3jtrm39ukqx8o5fcu_image-header_pDach_1760438201000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bin Jalawi Cups Race Night (2026-01-02 13:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174250.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1wimgru04l2y616mc3z6rmagx_image-header_pDach_1766304446000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Al-Ahli - Al-Nassr (2026-01-02 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174251.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/r58jiaicquav1di6yhg8py6hp_image-header_pDach_1765672167000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Armed Forces Bowl: Rice vs. Texas State (2026-01-02 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174252.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7qdoty8j6eze1skmqchw5z4gu_image-header_pDach_1765872911000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Gil Vicente - Sporting (2026-01-02 18:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174253.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c2whciz06fc9iae6cv9bghyai_image-header_pDach_1765893717000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",London Lions - Bristol Flyers | Halbfinale (Hinspiel) (2026-01-02 19:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174254.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4l5nzhf0uirmn0ek6d8u4soym_image-header_pDach_1763473582000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Halbfinale (2026-01-02 19:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174255.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3or7mgf0jrhmm0k61no6mgil2_image-header_pDach_1763473598000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Halbfinale (Originalkommentar) (2026-01-02 19:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174256.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/93g62xr0r20zcp2lxh1eeuqu6_image-header_pDach_1765791943000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Newcastle Eagles - Cheshire Phoenix | Halbfinale (Hinspiel) (2026-01-02 19:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174257.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c12q1ky38q3yz8l5772xbn55p_image-header_pDach_1765862099000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Eibar - Mirandes (2026-01-02 19:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174258.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5tszh09vincrpw9zkzhb50ud2_image-header_pDach_1764240778000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cagliari - Milan (2026-01-02 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174259.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dgk2ttqg5yt9h1nwzz0c7rhec_image-header_pDach_1764240778000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cagliari - Milan (italienischer Kommentar) (2026-01-02 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174260.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4i85gvlkodx0shh64rx00c615_image-header_pDach_1765968023000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Toulouse - Lens (2026-01-02 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174261.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8cg2rollwmn871884ln09dath_image-header_pDach_1765284287000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Vallecano - Getafe (2026-01-02 20:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174262.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1nh1hh5q3ex0g19irc06floatt_image-header_pDach_1765805116000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Liberty Bowl: Navy vs. Cincinnati (2026-01-02 21:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174263.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1j5dnmz65lykm1voyw4c4sbtpq_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",USC @ Michigan (2026-01-03 00:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174264.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1n8h1mliul60v1ag8u7hb0yc5o_image-header_pDach_1766154963000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Oregon @ Maryland (2026-01-03 00:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174265.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1uh2xe1t1n6vx1wcvmz5enysq5_image-header_pDach_1765672181000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Mayo Bowl: Wake Forest vs. Mississippi State (2026-01-03 01:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174266.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/10t6z893kf00p1p67grbz6a0kq_image-header_pDach_1766250724000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Michigan State @ Nebraska (2026-01-03 02:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174267.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/11n7vesxhjw2gut7tkehsg69r_image-header_pDach_1763473997000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Wintersport-Samstag | 3. Januar (2026-01-03 08:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174268.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3j9z86vfg2vfn3xebl9tfd5e2_image-header_pDach_1764241478000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Como - Udinese (italienischer Kommentar) (2026-01-03 11:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174269.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/383csmx92djw2p7p77ujiqmf5_image-header_pDach_1764241259000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Como - Udinese (2026-01-03 11:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174270.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1z26h46ehpvuc89ds6qdc9eyp_image-header_pDach_1766413122000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rajadamnern World Series | Tapaokaew vs Saenpon 2 (2026-01-03 12:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174271.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a0ghmsyh76spj1abgz3q3eyhf_image-header_pDach_1765970408000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Celtic - Rangers (2026-01-03 12:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174272.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/944lb90gkklr3cu38bp6iuexy_image-header_pDach_1765284476000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Celta Vigo - Valencia (2026-01-03 13:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174273.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2l3wmogepv7qk9cozc4h2oukr_image-header_pDach_1760437988000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",King Khaled University Cup, Saudi Broadcasting Authorities Cup & Ministry of Sports Cup Race Night (2026-01-03 13:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174274.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/43719x7f1ca7x7xth1ui3uog1_image-header_pDach_1765874015000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Vierschanzentournee | Innsbruck (Qualifikation) (2026-01-03 13:15:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174275.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1jx2hry6f3pr34avul5pomlko_image-header_pDach_1764242742000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Sassuolo - Parma (2026-01-03 14:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174276.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/93kq8y8m0y6ykvbevcvf0gbwa_image-header_pDach_1764242742000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Sassuolo - Parma (italienischer Kommentar) (2026-01-03 14:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174277.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6od2vo19jpf7ypsnkui2d4phj_image-header_pDach_1764241786000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",CFC Genua - Pisa (2026-01-03 14:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174278.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/29yq1fh8p6lc6apwc4pravrti_image-header_pDach_1764241786000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",CFC Genua - Pisa (italienischer Kommentar) (2026-01-03 14:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174279.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1fsig9n0g783ej8ry1i46xdfw_image-header_pDach_1765971028000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Budenzauber Emsland 2026 (2026-01-03 15:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174280.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5q3qe7zj4688wvklrx783ig1f_image-header_pDach_1765284664000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Osasuna - Bilbao (2026-01-03 15:15:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174281.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e8o3adxdnzw4jrhfuerway91g_image-header_pDach_1745970298000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Monaco - Lyon (2026-01-03 16:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174282.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/rm6d94d092st124ruxhryvy80_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Providence @ St. John’s (2026-01-03 17:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174283.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4tkm7dyypho3x3j9b5sax0fgo_image-header_pDach_1734711384000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Kings World Cup Nations | Tag 1 (2026-01-03 17:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174284.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2ed983cprr8gsa12ax2yxz04z_image-header_pDach_1764242272000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Juventus - Lecce (2026-01-03 17:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174285.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/qmgajdoei4eridyv91unve_image-header_pDach_1764242272000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Juventus - Lecce (italienischer Kommentar) (2026-01-03 17:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174286.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/tqug2kfz1wqq17x0etloq7ck5_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Seton Hall @ UConn (2026-01-03 17:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174287.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vo8vbbvif30lac6q7afbax08_image-header_pDach_1766304471000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Al-Ittihad - Al-Taawoun (2026-01-03 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174288.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/283wnbspx97cny6wn2hwwyyn7_image-header_pDach_1765284827000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Elche - Villarreal (2026-01-03 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174289.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4oftkppk9uxmbmcq42xem4ta5_image-header_pDach_1765975920000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Nizza - Straßburg (2026-01-03 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174290.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b1mdxls6pmzhfsdpiqg0tsdn8_image-header_pDach_1765976848000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Le Mans - St. Etienne (2026-01-03 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174291.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/14jlow8lroynz1714d2kha61vl_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Houston @ Cincinnati (2026-01-03 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174292.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bacnjlw95uxxmgja57rbg3atn_image-header_pDach_1763473565000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Finale (2026-01-03 19:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174293.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3ow7cjwl8837laafwotyf9ebp_image-header_pDach_1763473598000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Finale (Originalkommentar) (2026-01-03 19:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174294.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/btr86066a0grzbd54xqbbokgm_image-header_pDach_1764243943000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Atalanta - AS Rom (2026-01-03 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174295.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bjadufnrzvz9yftomug1dnihk_image-header_pDach_1764243943000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Atalanta - AS Rom (italienischer Kommentar) (2026-01-03 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174296.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bs28s0m9726upf9nmji65khg_image-header_pDach_1765285009000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Espanyol - FC Barcelona (2026-01-03 20:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174297.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9aghxwhmag0hbgbr8ixlwq4ms_image-header_pDach_1765977463000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lille - Rennes (2026-01-03 20:05:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174298.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/jti9s2c9unfn1jeu9rsbkys09_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",UCLA @ Iowa (2026-01-03 23:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174299.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/gqiuv2bvr4gg1wrdo9k8ohtx4_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Illinois @ Penn State (2026-01-04 00:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174300.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/akvwsj7lceox1sbyrqv3phws1_image-header_pDach_1766151719000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Serrano vs. Tellez (2026-01-04 01:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174301.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/qd5q5r35c95g1avyreg8phwyv_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Purdue @ Wisconsin (2026-01-04 01:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174302.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dh6zipoin6vi1finj07f2vg5i_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",USC @ UCLA (2026-01-04 01:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174303.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/92ju37njpjsfsc2sjkly4klkz_image-header_pDach_1763473974000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Wintersport-Sonntag | 4. Januar (2026-01-04 08:15:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174304.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aagmxdbjwwcwlq3332gz8xw26_image-header_pDach_1764246432000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lazio - Neapel (2026-01-04 11:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174305.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/26qiilqzpylvl1f3qbtul5hl6_image-header_pDach_1764247345000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lazio - Neapel (italienischer Kommentar) (2026-01-04 11:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174306.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3dkh9oz8fcth270cgi5irf5fn_image-header_pDach_1765874640000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Vierschanzentournee | Innsbruck (2026-01-04 12:15:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174307.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9zwq2txy6ac3hwcgdfeh32mb3_image-header_pDach_1765285220000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FC Sevilla - Levante (2026-01-04 13:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174308.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9uwt2e5t5d8llxwrtcgrux3ta_image-header_pDach_1764247864000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Fiorentina - Cremonese (2026-01-04 14:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174309.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5ftf35zezriiss15f5yfo3kae_image-header_pDach_1765928560000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Marseille - Nantes (2026-01-04 14:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174310.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2sj7tlgziymb58dtiqi6kinra_image-header_pDach_1764247864000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Fiorentina - Cremonese (italienischer Kommentar) (2026-01-04 14:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174311.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/div33s1mma4ae0irobkstbos7_image-header_pDach_1765893647000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bristol Flyers - London Lions | Halbfinale (Rückspiel) (2026-01-04 15:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174312.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a9ico7lw7eoiegaa6f4ahdq75_image-header_pDach_1765285466000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Real Madrid - Real Betis (2026-01-04 15:15:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174313.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/36a0vibr2htksqxh5y6uixm2s_image-header_pDach_1756896064000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Sheffield Sharks - Surrey 89ers (2026-01-04 16:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174314.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1afjpxn6j7dkvp60kkroimj5o_image-header_pDach_1732487624000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Le Havre - Angers (2026-01-04 16:15:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174315.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/10gqap8p8ljh3q8nxaevv1rnb_image-header_pDach_1738603547000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Brest - Auxerre (2026-01-04 16:15:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174316.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6cu2femknyly2dm3mxemjb8ka_image-header_pDach_1766061716000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lorient - Metz (2026-01-04 16:15:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174317.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1sndjnxpfxrob1kgqb31spjwpg_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Illinois @ Michigan State (2026-01-04 17:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174318.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/29alw8ofjjzqj7jcen5a7whsn_image-header_pDach_1760448721000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Kings World Cup Nations | Tag 2 (2026-01-04 17:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174319.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6bzhkphukisxfbg2xy38znp3g_image-header_pDach_1764248351000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Hellas Verona - FC Turin (2026-01-04 17:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174320.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ee3x029lhttqk46n902824u6d_image-header_pDach_1764248351000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Hellas Verona - FC Turin (italienischer Kommentar) (2026-01-04 17:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174321.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/enjsaj11iu0h4mrlcbu7crjbk_image-header_pDach_1725461401000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",NFL Konferenz | Week 18 (2026-01-04 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174322.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9nfz6g0vccziyd2x0vbdgtge5_image-header_pDach_1766304453000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Damac - Al-Hilal (2026-01-04 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174323.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5ehd87i5uo8bqplfb4i664znl_image-header_pDach_1765875548000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Alaves - Oviedo (2026-01-04 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174324.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2fyeqcqye5ck9ji34m0fws9zb_image-header_pDach_1758274875000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Mallorca - Girona (2026-01-04 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174325.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/an8thzicciibpum9v23hd935p_image-header_pDach_1765791924000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cheshire Phoenix - Newcastle Eagles | Halbfinale (Rückspiel) (2026-01-04 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174326.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/jqj347at34dg1o6dj1o9zxlvm_image-header_pDach_1751972102000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Jets @ Bills (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174327.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1jmehtmizkfpl15zzp5s5j6oxl_image-header_pDach_1751972102000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Saints @ Falcons (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174328.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ynomtr9zna9h124a4bhyr28kr_image-header_pDach_1751972102000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lions @ Bears (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174329.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1dl8j2exqsp7k1xp3brhawceve_image-header_pDach_1751972102000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Chargers @ Broncos (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174330.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8i5787t2enpv1wt8b8isggew7_image-header_pDach_1751972103000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Colts @ Texans (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174331.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vnlcwniez18l14hp93ejcz66y_image-header_pDach_1751972103000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Titans @ Jaguars (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174332.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ubbkq9mzddu41ml9ryje96qrz_image-header_pDach_1751972102000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cardinals @ Rams (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174333.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/15f03aluzeda21kytzmab74i8p_image-header_pDach_1724327650000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",RedZone | Week 18 (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174334.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/18m66xaao89fr1bkwxpgy5bun3_image-header_pDach_1751972102000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Packers @ Vikings (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174335.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1nhacdd4dw7a21dbpgfj48oqz3_image-header_pDach_1751731715000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Panthers @ Buccaneers (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174336.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1llm5pwmeo3vkzzqxy05nnma6_image-header_pDach_1751972103000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cowboys @ Giants (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174337.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vltztf70qrxn1w0dclmknn7vf_image-header_pDach_1751972103000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Commanders @ Eagles (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174338.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ihc0smsclp8219ba2a3szmm84_image-header_pDach_1751972103000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ravens @ Steelers (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174339.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5rivh7200gwz1tur17xvxfdcj_image-header_pDach_1751972103000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Seahawks @ 49ers (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174340.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8fi0ym76yyaus2onh2k3z8jac_image-header_pDach_1748442209000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",NFL RedZone | Week 18 (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174341.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/sebsxfnwh4f1v554fxns28m9_image-header_pDach_1751972102000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Browns @ Bengals (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174342.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1awqfkaahxp7w1ppe069x92690_image-header_pDach_1751972102000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Chiefs @ Raiders (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174343.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ah2yay6tvov51ukjkx0t1y1r3_image-header_pDach_1751972102000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Dolphins @ Patriots (2026-01-04 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174344.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6qjbl9ys7fwlxuohflkh6vu2_image-header_pDach_1766066519000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",PSG - Paris FC (2026-01-04 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174345.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3jei9ubv9gcxvab0zv3z7t1x0_image-header_pDach_1764250759000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Inter - Bologna (2026-01-04 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174346.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5poha31trw9x80rfo1nb5tjj0_image-header_pDach_1764250759000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Inter - Bologna (italienischer Kommentar) (2026-01-04 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174347.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2wd3cm34brlrysbtdhalfyw1w_image-header_pDach_1765878314000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Real Sociedad - Atletico Madrid (2026-01-04 20:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174348.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1kvev5rrfbabz12dmfbjsgxce6_image-header_pDach_1766154870000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Indiana @ Maryland (2026-01-04 23:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174349.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d6x2f09nf1j3kfn38lyxnn7vx_image-header_pDach_1765879846000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Vierschanzentournee | Bischofshofen (Qualifikation) (2026-01-05 15:15:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174350.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/jk02z02bozx91syjqxpgzujnh_image-header_pDach_1765451865000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Inside The Ring - Jan. 5 (2026-01-05 19:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174351.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2jrsps2t3qo6h7473jontv42y_image-header_pDach_1760448721000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Kings World Cup Nations | Tag 3 (2026-01-05 21:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174352.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7nfrof2t26g668ggfc7jfd6qv_image-header_pDach_1764248803000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Pisa - Como (2026-01-06 14:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174353.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3egt2t1ywq52xeiojuyzjs8nk_image-header_pDach_1764248803000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Pisa - Como (italienischer Kommentar) (2026-01-06 14:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174354.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3a33eoen64iqk7tgz8d4hczh0_image-header_pDach_1765880187000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Vierschanzentournee | Bischofshofen (2026-01-06 15:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174355.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b5u9z6fx8upp1hnq5zzhq2mvl_image-header_pDach_1764250045000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lecce - AS Rom (2026-01-06 17:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174356.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eqqzrm0k7y6na07qfewu4smkf_image-header_pDach_1764250045000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lecce - AS Rom (italienischer Kommentar) (2026-01-06 17:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174357.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/96srerp653he795ngqmyhqik4_image-header_pDach_1765459929000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Granada - Vallecano (2026-01-06 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174358.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d5vg9isz2e9tu48iymkwoe5rl_image-header_pDach_1764251217000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Sassuolo - Juventus (2026-01-06 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174359.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/m3mo36lbd918r12qopxy6vyq_image-header_pDach_1764251217000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Sassuolo - Juventus (italienischer Kommentar) (2026-01-06 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174360.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/w5u980docf3iclcm8ixebj0w_image-header_pDach_1760448721000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Kings World Cup Nations | Tag 4 (2026-01-06 21:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174361.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5b7eiyacg2977ynjzzouzscw7_image-header_pDach_1764252685000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Neapel - Hellas Verona (2026-01-07 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174362.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9u774wnaw28on48i1mow11n9c_image-header_pDach_1764252685000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Neapel - Hellas Verona (italienischer Kommentar) (2026-01-07 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174363.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dh331pnqequxt81jrethfjtav_image-header_pDach_1764251693000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bologna - Atalanta (2026-01-07 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174364.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9f6azg5fa6tw6glrhjpyuvziw_image-header_pDach_1764251693000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bologna - Atalanta (italienischer Kommentar) (2026-01-07 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174365.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eydeoiy31o3iaev45qtivlacw_image-header_pDach_1764253200000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Parma - Inter (2026-01-07 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174366.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6zct9rem57l0i4scslmksgdpq_image-header_pDach_1764253905000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lazio - Fiorentina (2026-01-07 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174367.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/pxac50rmblvncv0ej9zhnj66_image-header_pDach_1764253905000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Lazio - Fiorentina (italienischer Kommentar) (2026-01-07 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174368.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5zcueqwiw2x4dlf2xknqiz2el_image-header_pDach_1763022328000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FC Turin - Udinese (2026-01-07 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174369.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2wz8p1xa60s8rpb3s5l111ywg_image-header_pDach_1764253200000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Parma - Inter (italienischer Kommentar) (2026-01-07 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174370.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bjc11t3beno97zeih8s3xwjth_image-header_pDach_1763022328000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FC Turin - Udinese (italienischer Kommentar) (2026-01-07 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174371.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4j8wf71698seznxg08056wyfr_image-header_pDach_1763738802000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Kings World Cup Nations | Tag 5 (2026-01-07 21:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174372.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3irp84h1xpraof29i7ggpzs31_image-header_pDach_1764947526000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Biathlon WC Oberhof | Sprint Männer (2026-01-08 12:55:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174373.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ez7zhi5hco3tn4dk4fyhmlcyp_image-header_pDach_1760437789000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Prince Sultan Bin Abdulaziz Festival Race Night 1 (2026-01-08 13:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174374.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a5bm571j42prabjs2xr79u40j_image-header_pDach_1766304482000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Al-Hilal - Al-Hazem (2026-01-08 14:55:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174375.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cejo38yjkphvnyh9l12j8zzjc_image-header_pDach_1763022435000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cremonese - Cagliari (italienischer Kommentar) (2026-01-08 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174376.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1hglbswvmy56v6crq30zg01j1_image-header_pDach_1763022435000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cremonese - Cagliari (2026-01-08 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174377.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7ipsr2awmahz0gajeesy8g7dz_image-header_pDach_1766304431000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Al-Nassr - Al-Qadsiah (2026-01-08 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174378.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dvp8u0co7c59ihg4d73n9lohl_image-header_pDach_1766574992000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",PSG - Marseille (2026-01-08 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174379.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6lb1zsdc1dnodbcrmib08nvrt_image-header_pDach_1763022355000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Milan - CFC Genua (2026-01-08 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174380.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9817o4qacm6vozqheiyo82z58_image-header_pDach_1763022355000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Milan - CFC Genua (italienischer Kommentar) (2026-01-08 19:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174381.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6cig7rt1knhbq8t6olehp3jgu_image-header_pDach_1760448721000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Kings World Cup Nations | Tag 6 (2026-01-08 21:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174382.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/12nse72rwga94sil2j96kkp5f_image-header_pDach_1763473997000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Wintersport-Freitag | 9. Januar (2026-01-09 11:35:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174383.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/44e0k36qm1e5mxi263qfuxaak_image-header_pDach_1760437789000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Prince Sultan Bin Abdulaziz Festival Race Night 2 (2026-01-09 13:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174384.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/erlgdt4ev2z4adxaxpodhg8v_image-header_pDach_1765881938000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Biathlon WC Oberhof | Sprint Frauen (2026-01-09 13:10:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174385.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7d2n1a0pxx0ffx9up9bkk6z7u_image-header_pDach_1766304414000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Al-Kholood - Al-Ittihad (2026-01-09 17:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174386.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/39fsi41im4ivj7799mgyg4e3n_image-header_pDach_1765788853000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Wrexham - Nottingham (2026-01-09 19:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174387.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ejk0sqmr968gl10t78i4yokyo_image-header_pDach_1761358444000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Manchester Basketball - Sheffield Sharks (2026-01-09 19:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174388.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5pqj20mg4ix8ctcf4sf17cnrt_image-header_pDach_1760090192000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Newcastle Eagles - London Lions (2026-01-09 19:30:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174389.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7bh8pw4b7gcxs0u7h0bzs18wd_image-header_pDach_1763473974000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Wintersport-Samstag | 10. Januar (2026-01-10 08:20:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174390.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/etmmpv1rfqtok01nizret5eu4_image-header_pDach_1765823963000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Everton - Sunderland (2026-01-10 12:15:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174391.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5ll4bucc7suscm4j90kc11aly_image-header_pDach_1765823680000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Macclesfield - Crystal Palace (2026-01-10 12:15:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174392.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6ujuxt8z5p6gf6tofiqkkh0ys_image-header_pDach_1765785448000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bundesliga-Konferenz | 16. Spieltag (2026-01-10 13:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174393.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a7okltccqifkyoknaakypkar7_image-header_pDach_1760431767000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AL-Jouf Region Governorate Cup & MEWA Cup Race Night (2026-01-10 13:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174394.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3kjd0rnxpzrrnmqnb4o0iep24_image-header_pDach_1765788905000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Newcastle - Bournemouth (2026-01-10 15:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174395.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1o9iinwzao0afcz7hzotdcqe8_image-header_pDach_1765824066000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Man City - Exeter (2026-01-10 15:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174396.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2xa8prf8tic79usx1lgqfk3tl_image-header_pDach_1765823556000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Salford - Swindon (2026-01-10 15:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174397.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1k1g2a39cogd4ikm0cnhwos30_image-header_pDach_1766399304000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Goals Show | 10. Januar (2026-01-10 15:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174398.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dcpsgbrgj3jtn9epihudhgkvu_image-header_pDach_1765823884000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Tottenham - Aston Villa (2026-01-10 17:45:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174399.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/yyfvt5cw1b4d1xfa5zxba95j2_image-header_pDach_1765365985000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Agit Kabayel vs Damian Knyba (2026-01-10 18:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174400.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4lqguncyfgkce9q4djo3tai0x_image-header_pDach_1765823737000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Charlton - Chelsea (2026-01-10 20:00:00)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/174401.m3u8
 
 # --- DE-DOKU/NEWS/KULTUR (54) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-DOKU/NEWS/KULTUR",##### DE DOKU/NEWS/KULTUR #####
@@ -6615,4 +7041,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165884.m3u8
 
-# Total: 3248
+# Total: 3461

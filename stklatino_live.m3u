@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2025-12-28 07:22:21
+# Generated: 2025-12-28 18:25:29
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -193,11 +193,9 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/75035.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="BOLIVIA",Cadena A
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/67067.m3u8
 
-# --- BRASIL (239) ---
-#EXTINF:-1 tvg-logo="https://tv.defferrari.com.br/logo/1567621908.0943148.png" group-title="BRASIL",Agro Brasil TV
+# --- BRASIL (182) ---
+#EXTINF:-1 tvg-logo="https://tv.defferrari.com.br/logo/1567621908.0943148.png" group-title="BRASIL",Arauna TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/9408.m3u8
-#EXTINF:-1 tvg-logo="https://www.instagram.com/davidtomera/posts/?l=1" group-title="BRASIL",Anime Tv BR DTC
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52637.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3eabf05ad0127a53af71227f1fe132a1.webp" group-title="BRASIL",ANITV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52634.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_01/GLOBO2021_.png.e17c82dfd6aadc8757dfa0f3a623a3b6.png" group-title="BRASIL",Globo BR
@@ -206,186 +204,92 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/81262.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/129980.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",BR TV Cine
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26928.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e015a80a3d45e6087556b4e4556e08cb.webp" group-title="BRASIL",BR Animax
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e015a80a3d45e6087556b4e4556e08cb.webp" group-title="BRASIL",Record News
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52679.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="BRASIL",Bons Tempos
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="BRASIL",Rede Brasil
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52649.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d697ec8c1724e5dc37d8999e9aa71ac3.webp" group-title="BRASIL",Catedral do Rock TV
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",Teleweb
+http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26927.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f57a9beaaa83cbdce4d9512730333d21.webp" group-title="BRASIL",TV A Plateia
+http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52671.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b5fef447f62d556b33598a4abcfbf60.webp" group-title="BRASIL",TV Água Boa
+http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52654.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d697ec8c1724e5dc37d8999e9aa71ac3.webp" group-title="BRASIL",TV Curuça
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52655.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",CATVE
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26931.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",CBN Rio
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26932.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",CBN S Paulo
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Destak
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26933.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/84998832d7465ef731fc0e141e6c5efa.webp" group-title="BRASIL",Central TV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/84998832d7465ef731fc0e141e6c5efa.webp" group-title="BRASIL",TV Difusora Leste
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52639.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-HQBJBhBPPf8/XNE5asrRP9I/AAAAAAAAARE/9tvN-yu7NrMZZ1krUPCI6Q8ASpBDfl1EgCLcBGAs/s1600/CINE%252B-Logo.jpg" group-title="BRASIL",Cine+ Brasil
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-HQBJBhBPPf8/XNE5asrRP9I/AAAAAAAAARE/9tvN-yu7NrMZZ1krUPCI6Q8ASpBDfl1EgCLcBGAs/s1600/CINE%252B-Logo.jpg" group-title="BRASIL",TV Grande Natal HDTV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/9406.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Cine Trianon TV
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Sim Colatina
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26929.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Classique TV
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Mana
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26930.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="BRASIL",CinePIX TV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="BRASIL",TV Sul
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52656.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/defbef096dfcaadf33b5108f84c4d867.webp" group-title="BRASIL",Classique TV 2
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52636.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/db24d44b23d48de613d70881b8f1d013.webp" group-title="BRASIL",Classique Western TV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52659.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0afdd44b3421eba3df482110f4393658.webp" group-title="BRASIL",Colina TV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0afdd44b3421eba3df482110f4393658.webp" group-title="BRASIL",Classique TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52645.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",COM Brasil
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26934.m3u8
 #EXTINF:-1 tvg-logo="http://www.paranaeducativa.pr.gov.br/arquivos/Image/Logomarcas/e_Parana_Release_teste_azul.jpg" group-title="BRASIL",E-Parana
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/6923.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",FM O Dia
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26936.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",Fonte TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26937.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",FURG TV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26938.m3u8
-#EXTINF:-1 tvg-logo="https://www.meioemensagem.com.br/wp-content/uploads/2016/10/Logo-G-Gazeta-2014-e1394566177583-300x157.jpg" group-title="BRASIL",Gazeta TV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/6922.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3988457040bce0bd05af600734dd1f0.webp" group-title="BRASIL",GHOST TV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52667.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="BRASIL",GLN TV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52642.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5ce59e5a4f52bbc5c6419fe5a8674447.webp" group-title="BRASIL",Gospel Cartoon
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52669.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/75cea551f496b790ce1326e2a203366d.webp" group-title="BRASIL",HITS TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52643.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",IMPD TV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26939.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dca3e8515eaaa4f897e40ec0ee001cb7.webp" group-title="BRASIL",IMPD TV2
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52640.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",In Paradise TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26940.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",ITV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26941.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",Jovem Pan News
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26942.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="BRASIL",KPOP TV BRASIL
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",Kuriakos Kids
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52629.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Luau TV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26943.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",Master TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26944.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Metrole News TV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26945.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",MKK Web TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26946.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",MultiRio
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26947.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",Nova Era TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26948.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-h9_CkH7QJXI/VEAb0dcWxWI/AAAAAAAAAuM/ylmZcAxl9lg/s320/novotempo.jpg" group-title="BRASIL",Novo Tempo
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/9404.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Novo Tempo
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26949.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",Novo Tempo (Backup)
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26950.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",OFF HD!
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/5195.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eef20d398565999aae5ae0214463d8a6.webp" group-title="BRASIL",Pegada Gospel
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52678.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Portal Cultura Par
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26951.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e720820b4e27c1f4899eef3a0bcd446.webp" group-title="BRASIL",Premier TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52628.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2020937763/logo_twitter.jpg" group-title="BRASIL",PUC TV Goias
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/6924.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/df0c35517ab2f2e9e6e63c1808730694.webp" group-title="BRASIL",RBATV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/df0c35517ab2f2e9e6e63c1808730694.webp" group-title="BRASIL",Vintage TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52631.m3u8
 #EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png" group-title="BRASIL",Record Tv
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/27319.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="BRASIL",Rede Clone
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52676.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Rede ConecTV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26954.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",Rede M Amiga
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26955.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Rede RC
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26956.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Rede Sulo 21
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26958.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Rede Super
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26957.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/deaee7a4d7ef1c38e84da23cfeee16ff.webp" group-title="BRASIL",Retro Cartoon 2
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52630.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4755b69b04e4174a4e42bb9368fbf9e7.webp" group-title="BRASIL",RS News Sports 2
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52672.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5fb795de611e5c112f31f2596aa10377.webp" group-title="BRASIL",RTL Classics
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52648.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0751e6f80779fff26fd8f4b17d82c50f.webp" group-title="BRASIL",Runtime
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52660.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Santa Cecilia TV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26962.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Sesc TV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26964.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",SIC TV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26965.m3u8
-#EXTINF:-1 tvg-logo="https://srv3.zcast.com.br/leonardo2328/leonardo2328/chunklist_w766869550.m3u8" group-title="BRASIL",StrikerVerso
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52635.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",Summer TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26966.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",TCM HD
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26967.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Terra Viva
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26968.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3858200bc307bc603e159858383c367c.webp" group-title="BRASIL",TOP TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52663.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",TopTV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26969.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/74e611f6dc1e5971b3defde976630c03.webp" group-title="BRASIL",TV 019
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52633.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/07aef32e158a66e582cbe8deb7de40a8.webp" group-title="BRASIL",TV ADQS
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52665.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV ALMG
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26970.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV ALRN
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26971.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Ambiental
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26972.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logotipo_da_TV_Aparecida.png/200px-Logotipo_da_TV_Aparecida.png" group-title="BRASIL",TV Aparecida
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/5214.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Aparecida
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26973.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Aplateia
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26974.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69cf38e0cd65c06291dc072f3f9270b1.webp" group-title="BRASIL",Tv Aracati HD
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52651.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Arapuan
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26975.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d82f6ecad5c6c3d39cc1cdae7521d3b1.webp" group-title="BRASIL",Tv Arapuan HD
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52664.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV BNO
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26976.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2a743a9cd82ae55c8aa1188def4be6e5.webp" group-title="BRASIL",Tv Capital 777
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52675.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Cara
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26985.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Cara 2
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26986.m3u8
-#EXTINF:-1 tvg-logo="http://pa.srvsite.com/arquivos/4506/cabecalho-4506-20190507094833.png" group-title="BRASIL",TV Caravelas
+#EXTINF:-1 tvg-logo="http://pa.srvsite.com/arquivos/4506/cabecalho-4506-20190507094833.png" group-title="BRASIL",TV Pride
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/9403.m3u8
-#EXTINF:-1 tvg-logo="http://tvbrasil.ebc.com.br/sites/default/files/thumbnails/image/nova_tv_brasil.jpg" group-title="BRASIL",TV CARIOCA
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/9405.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Carioca
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26977.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Cidade de Petrolis
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26979.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Cidade Oeste
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26980.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Cidade Verde
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26981.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8ce8f1a9e2406d2acde94e2ac5d0f671.webp" group-title="BRASIL",TV Cidade Verde HD
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52662.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Cinec
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26982.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Comunitia do Rio de Janeiro
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26983.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dc4f4fddc2330b377037d229aee44942.webp" group-title="BRASIL",Tv Confiego
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52638.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Cultura
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26984.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",TV das Artes
@@ -406,8 +310,6 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26992.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26993.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Galega Blumenau
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26994.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Gazeta
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26995.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Gides
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/26996.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",TV Grande Natal
@@ -504,8 +406,6 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/27030.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52658.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",TVCI Paranagu
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/27031.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c13e6b573ac2c21dd7268e3a65f95b34.webp" group-title="BRASIL",TvCOM Brasil
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52627.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",TVE Bahia
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/27032.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",TVN Brasil
@@ -652,23 +552,9 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52741.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52742.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bf002340b5696c7994425ad6b4c9e201.webp" group-title="BRASIL",TVR SUL
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52743.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4eb345056fdd119361f0b990d5395807.webp" group-title="BRASIL",APLUS TV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52744.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/242ff3bef11d573de2ebdc46ac7c0ddf.webp" group-title="BRASIL",Tv Beltrao
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52746.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e60182cb891f5a4ad9e1b7c78572269e.webp" group-title="BRASIL",TV Precabura
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52747.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0f114ef4dc002fb161280d2f87b5edd7.webp" group-title="BRASIL",GENIALL TV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52748.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ae2e0291f76d35cc3464a3e5a25cabf6.webp" group-title="BRASIL",Nature Tv
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52749.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5c4f1ea9da32b4316bba60a48626e57f.webp" group-title="BRASIL",Tv Meu Xodo
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52750.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/304ed403f1ceeb2ff4f0cb326d5e4c20.webp" group-title="BRASIL",RG TV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52751.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/29bd5af93095d92009a3090c0b978a60.webp" group-title="BRASIL",TV Diario Do Sertao HD
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52752.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1ae8c4979f2cb848a2f112d8afd097cb.webp" group-title="BRASIL",TV Aberta Sao Paulo
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1ae8c4979f2cb848a2f112d8afd097cb.webp" group-title="BRASIL",TVE Brasil
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52753.m3u8
 #EXTINF:-1 tvg-logo="https://vejatimon.com/wp-content/uploads/2014/12/Multishow-Logomarca.jpg" group-title="BRASIL",Multishow
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/54184.m3u8
@@ -16903,4 +16789,4 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/2429.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision 2
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/74736.m3u8
 
-# Total: 8416
+# Total: 8359

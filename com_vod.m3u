@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: com.trt1000.com:80
-# Generated: 2025-12-28 07:11:52
+# Generated: 2025-12-28 18:25:36
 # Expires: 2026-01-09
 # Family Safe Edition
 # ==============================================
@@ -13425,7 +13425,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1327.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TABII",Persona
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1342.mp4
 
-# --- Movies | TOD - BEIN CONNECT (14) ---
+# --- Movies | TOD - BEIN CONNECT (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TOD - BEIN CONNECT",Fandom
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/247.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TOD - BEIN CONNECT",Erkek Severse
@@ -13454,8 +13454,10 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1147.mp4
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1209.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TOD - BEIN CONNECT",Serap
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1261.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TOD - BEIN CONNECT",Vicdansız
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1343.mp4
 
-# --- Movies | TURK FiLMLERi (1351) ---
+# --- Movies | TURK FiLMLERi (1354) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlfTxlwcqFBU0OwTWQCHY7I6Tu2.jpg" group-title="Movies | TURK FiLMLERi",Nuh'un Gemisi Cudi'de 2  (2022)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/48216.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXYLyeMFspuPBjJBYk72GXI5lCn.jpg" group-title="Movies | TURK FiLMLERi",Evcilik (2024)
@@ -16158,6 +16160,12 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/7817.mkv
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/7818.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dIzw9ttkfQAzanKh8qga2IaQfVC.jpg" group-title="Movies | TURK FiLMLERi",Zehir Hafiye (1971)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/7819.mkv
+#EXTINF:-1 tvg-logo="https://media-cdn.t24.com.tr/media/library/2021/06/1622717870464-guvercin.jpg" group-title="Movies | TURK FiLMLERi",Kuş (2015)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64657.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34QMCd42DdqKJN3t2adSpQOGjaz.jpg" group-title="Movies | TURK FiLMLERi",Erkekler (2013)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64658.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZsxuy1BNdwENAwQHOVxuCWgZ6F.jpg" group-title="Movies | TURK FiLMLERi",Sofra Sirlari 2 (2018)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64659.mkv
 
 # --- Movies | TV+ (2) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TV+",The Walking Dead: Dead City
@@ -23447,4 +23455,4 @@ http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1314
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Rüya Gibi
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1328
 
-# Total: 11690
+# Total: 11694

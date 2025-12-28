@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: sv1.casahd.com
-# Generated: 2025-12-28 07:11:35
+# Generated: 2025-12-28 18:28:16
 # Expires: 2026-05-02
 # Family Safe Edition
 # ==============================================
@@ -1125,20 +1125,6 @@ http://sv1.casahd.com/live/528398/824141/1526736.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RADIOS",RÁDIO TRILHAS DE SUCESSO
 http://sv1.casahd.com/live/528398/824141/1526738.m3u8
 
-# --- REALITY SHOW (6) ---
-#EXTINF:-1 tvg-logo="" group-title="REALITY SHOW",A Fazenda - Sinal 1
-http://sv1.casahd.com/live/528398/824141/2245771.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REALITY SHOW",A Fazenda - Sinal 2
-http://sv1.casahd.com/live/528398/824141/2245772.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REALITY SHOW",A Fazenda - Sinal 3
-http://sv1.casahd.com/live/528398/824141/2245773.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REALITY SHOW",A Fazenda - Sinal 4
-http://sv1.casahd.com/live/528398/824141/2245774.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REALITY SHOW",A Fazenda - Sinal 5
-http://sv1.casahd.com/live/528398/824141/2245775.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REALITY SHOW",A Fazenda - Sinal 6
-http://sv1.casahd.com/live/528398/824141/2245776.m3u8
-
 # --- RECORD (56) ---
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/58986626cf0833351162ad19ac3e8cfc.png" group-title="RECORD",RECORD  MG HD
 http://sv1.casahd.com/live/528398/824141/1361154.m3u8
@@ -1188,59 +1174,59 @@ http://sv1.casahd.com/live/528398/824141/2224427.m3u8
 http://sv1.casahd.com/live/528398/824141/2224428.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Belém HD
 http://sv1.casahd.com/live/528398/824141/2224429.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Curitiba FHD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD CURITIBA 4K
 http://sv1.casahd.com/live/528398/824141/2224435.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Curitiba HD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD CURITIBA HD
 http://sv1.casahd.com/live/528398/824141/2224436.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Curitiba SD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD CURITIBA SD
 http://sv1.casahd.com/live/528398/824141/2224437.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Florianópolis FHD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD FLORIANOPOLIS 4K
 http://sv1.casahd.com/live/528398/824141/2224438.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Florianópolis HD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD FLORIANOPOLIS HD
 http://sv1.casahd.com/live/528398/824141/2224439.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Florianópolis SD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD FLORIANOPOLIS SD
 http://sv1.casahd.com/live/528398/824141/2224440.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Fortaleza FHD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD FORTALEZA 4K
 http://sv1.casahd.com/live/528398/824141/2224441.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Fortaleza HD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD FORTALEZA HD
 http://sv1.casahd.com/live/528398/824141/2224442.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Fortaleza SD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD FORTALEZA SD
 http://sv1.casahd.com/live/528398/824141/2224443.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Goiás FHD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD GOIAS 4K
 http://sv1.casahd.com/live/528398/824141/2224444.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Guaíba FHD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD GUAIBA 4K
 http://sv1.casahd.com/live/528398/824141/2224445.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Guaíba HD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD GUAIBA HD
 http://sv1.casahd.com/live/528398/824141/2224446.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Guaíba SD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD GUAIBA SD
 http://sv1.casahd.com/live/528398/824141/2224447.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/0453150bbd5214758950bbb7581d028b.png" group-title="RECORD",Record TV Recife HD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",Record TV Recife HD
 http://sv1.casahd.com/live/528398/824141/1527739.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/d48ed2b9b24acc74adf92a1fd13ae57d.png" group-title="RECORD",Record TV Recife SD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/d48ed2b9b24acc74adf92a1fd13ae57d.png" group-title="RECORD",RECORD RECIFE SD
 http://sv1.casahd.com/live/528398/824141/1527751.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/d48ed2b9b24acc74adf92a1fd13ae57d.png" group-title="RECORD",Record TV Ribeirão Preto 4K
 http://sv1.casahd.com/live/528398/824141/1527763.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/d48ed2b9b24acc74adf92a1fd13ae57d.png" group-title="RECORD",Record TV Ribeirão Preto HD
 http://sv1.casahd.com/live/528398/824141/1527764.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Ribeirão Preto SD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD RIBEIRAO PRETO SD
 http://sv1.casahd.com/live/528398/824141/2224448.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Rio Preto FHD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD RIO PRETO 4K
 http://sv1.casahd.com/live/528398/824141/2224449.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Rio Preto HD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD RIO PRETO HD
 http://sv1.casahd.com/live/528398/824141/2224450.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Rio Preto SD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD RRIO PRETO SD
 http://sv1.casahd.com/live/528398/824141/2224451.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Santos e Vale FHD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD SANTOS E VALE 4K
 http://sv1.casahd.com/live/528398/824141/2224452.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Santos e Vale HD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD SANTOS E VALE HD
 http://sv1.casahd.com/live/528398/824141/2224453.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Santos e Vale SD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORDO SANTOS E VALE SD
 http://sv1.casahd.com/live/528398/824141/2224454.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Vitória FHD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD TV VITORIA 4K
 http://sv1.casahd.com/live/528398/824141/2224455.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Vitória HD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD TV VITORIA HD
 http://sv1.casahd.com/live/528398/824141/2224456.m3u8
-#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/55a50e7138e0f1c4fc4b5d4b28394b1e.png" group-title="RECORD",Record TV Vitória SD
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD TV VITORIA SD
 http://sv1.casahd.com/live/528398/824141/2224457.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/9a927bf116290357cfc297ef1ce5975b.png" group-title="RECORD",RECORDTV ITAPOAN 4K
 http://sv1.casahd.com/live/528398/824141/1361163.m3u8
@@ -1437,4 +1423,4 @@ http://sv1.casahd.com/live/528398/824141/1361286.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFgIDZ7PIys0pzJqAbJMy3aQgwktDQuNiT9D5jC6bb--1Mo04VLW3E2flLdrSgdZ9mw.png" group-title="VARIEDADE",WOOHOO SD
 http://sv1.casahd.com/live/528398/824141/1526322.m3u8
 
-# Total: 691
+# Total: 685

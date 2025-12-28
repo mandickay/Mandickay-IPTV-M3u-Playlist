@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2025-12-28 07:22:05
+# Generated: 2025-12-28 18:33:54
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -13781,7 +13781,9 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/268613.mp4
 
-# --- Movies | → VOD ESTRENOS SUBTITULADOS ← (53) ---
+# --- Movies | → VOD ESTRENOS SUBTITULADOS ← (54) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iANU8C9n6lH7Wx0MbOdM4aATfrW.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",Predator: Badlands (2025)(SUB)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/278821.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOFkG4AGmMQcsXNRZ2bA1Gm7EkK.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",Materialistas SUB (2025)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/277656.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6N21gcFbhT4ocdTU4MGREAaM5Vz.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",Kimetsu no Yaiba La fortaleza infinita (2025) SUB
@@ -15953,7 +15955,9 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/3432.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg" group-title="Movies | → VOD STAR WARS ←",Rogue One: Una historia de Star Wars (2016)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/3546.mp4
 
-# --- Movies | → VOD SUSPENSO ← (217) ---
+# --- Movies | → VOD SUSPENSO ← (218) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1Pg71Z60BweXmJui2H8o49MohO.jpg" group-title="Movies | → VOD SUSPENSO ←",El Buen Vecino
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/278822.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/23/bd/11/23bd11d075f63fcb8bd5e71d5c32332e.jpg" group-title="Movies | → VOD SUSPENSO ←",Detras de las Paredes
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/278093.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sd6LML87wa9UPZgfuPnGwic82YH.jpg" group-title="Movies | → VOD SUSPENSO ←",El secreto de sus ojos
@@ -17578,8 +17582,6 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/298
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/299
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Haikyuu!! Los ases del vóley
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/304
-#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Espíritu de lucha (Hajime no Ippo)
-http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/305
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",InuYasha
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/323
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Naruto
@@ -17728,6 +17730,8 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2465
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2474
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Los tipos malos: Malos comienzos
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2496
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Espíritu de lucha: Hajime no Ippo
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2514
 
 # --- Series | → SERIES CIENCIA FICCIÓN ← (66) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Cuentos asombrosos
@@ -19579,4 +19583,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9714
+# Total: 9716

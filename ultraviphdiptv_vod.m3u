@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultraviphdiptv.com:8000
-# Generated: 2025-12-28 07:17:13
+# Generated: 2025-12-28 18:32:16
 # Expires: 2026-03-16
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | DE: AMAZON PRIME SERIEN (151) ---
+# --- Movies | DE: AMAZON PRIME SERIEN (152) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: AMAZON PRIME SERIEN",DE: Power
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/48.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: AMAZON PRIME SERIEN",DE: 4 Blocks
@@ -310,6 +310,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1780.mp4
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1793.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: AMAZON PRIME SERIEN",Spartacus - Das Haus Ashur
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1818.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: AMAZON PRIME SERIEN",Uns bleibt immer morgen
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1825.mp4
 
 # --- Movies | DE: ANIME (27) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: ANIME",DE: Attack on Titan
@@ -8933,7 +8935,7 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/80196.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMrtq1X4JT8iPYbc18k0XmydnqI.jpg" group-title="Movies | DE: MARVEL FILMSTUDIOS",Avengers: Endgame
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/80197.mkv
 
-# --- Movies | DE: NETFLIX (141) ---
+# --- Movies | DE: NETFLIX (143) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Haus des Geldes
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/9.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Vikings
@@ -9216,8 +9218,12 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1801.mp4
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1819.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",Stadt der Schatten
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1820.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",Cashero
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1827.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",Sicilia Express
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1828.mp4
 
-# --- Movies | DE: SERIEN-BOX (170) ---
+# --- Movies | DE: SERIEN-BOX (171) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: SERIEN-BOX",DE: Narcos
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: SERIEN-BOX",DE: Prison Break
@@ -9558,6 +9564,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1800.mp4
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1802.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: SERIEN-BOX",Falling Skies
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1804.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: SERIEN-BOX",The Pitt
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1826.mp4
 
 # --- Movies | DE: WESTERN (93) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lTiMZ10bo5kV3p5XiR4uBfvXLF.jpg" group-title="Movies | DE: WESTERN",Erbarmungslos
@@ -19273,4 +19281,4 @@ http://ultraviphdiptv.com:8000/series/Figo/KDYwefapLL/1225
 #EXTINF:-1 tvg-logo="" group-title="Series | TR: BEIN SERIES",Sorgu
 http://ultraviphdiptv.com:8000/series/Figo/KDYwefapLL/1409
 
-# Total: 9589
+# Total: 9593

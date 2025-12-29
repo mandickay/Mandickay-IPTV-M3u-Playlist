@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2025-12-29 07:19:48
+# Generated: 2025-12-29 18:33:57
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -8045,9 +8045,11 @@ http://world-service.us:8080/movie/giovanmer/merante/18135.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON COMICO",Made in Sud  I Gomorroidi con Salvatore Conte   Made in Sud 12042017
 http://world-service.us:8080/movie/giovanmer/merante/18158.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (967) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (968) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://world-service.us:8080/movie/giovanmer/merante/1659.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/18672ece2cd96e0ecc1565863c6234e9.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Eternity (2025)
+http://world-service.us:8080/movie/giovanmer/merante/86218.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f68d1289a306eb024aeb697fb46e8e2d.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Il padre dell'anno (2024)
 http://world-service.us:8080/movie/giovanmer/merante/86192.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/3944636bec8aec8f9e8714722a718d51.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Tutta colpa del rock (2025)
@@ -10081,9 +10083,13 @@ http://world-service.us:8080/movie/giovanmer/merante/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://world-service.us:8080/movie/giovanmer/merante/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1539) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1541) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://world-service.us:8080/movie/giovanmer/merante/1662.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d3134c51e93430f126cb963dc129e878.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Goodbye June (2025)
+http://world-service.us:8080/movie/giovanmer/merante/86219.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/99e395c0c629c2ff9ddb3ea76cc898cb.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Mastermind (2025)
+http://world-service.us:8080/movie/giovanmer/merante/86221.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d2db71488ccf5b3dfc92c8370022a514.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Die My Love (2025)
 http://world-service.us:8080/movie/giovanmer/merante/86189.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/22997b17eca2a038516f321207c1cb0f.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Norimberga (2025)
@@ -13303,9 +13309,11 @@ http://world-service.us:8080/movie/giovanmer/merante/78559.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/37638f95d3db025a276663b1a9010fda.jpg" group-title="Movies | NETFLIX AMAZON GIALLO",what the waters left behind scars (2023)
 http://world-service.us:8080/movie/giovanmer/merante/78560.mkv
 
-# --- Movies | NETFLIX AMAZON HORROR (493) ---
+# --- Movies | NETFLIX AMAZON HORROR (494) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON HORROR",====NETFLIX HORROR====
 http://world-service.us:8080/movie/giovanmer/merante/1664.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8f1100bfe4d2454c69f61255745f4dee.jpg" group-title="Movies | NETFLIX AMAZON HORROR",Le regole di Jenny Pen (2025)
+http://world-service.us:8080/movie/giovanmer/merante/86220.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/6d6411487648d4c5d37b7734c381b82b.jpg" group-title="Movies | NETFLIX AMAZON HORROR",Heart Eyes - Appuntamento con la morte (2025)
 http://world-service.us:8080/movie/giovanmer/merante/85771.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/777fea1df74d8c51e01953e775453f79.jpg" group-title="Movies | NETFLIX AMAZON HORROR",Shelby Oaks - Il covo del male (2025)
@@ -19737,7 +19745,7 @@ http://world-service.us:8080/movie/giovanmer/merante/46163.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/abb4cfb2e854c34820508bc95e63bd8e.jpg" group-title="Movies | NETFLIX AMAZON-Serie-Tv",The Protector 04x07
 http://world-service.us:8080/movie/giovanmer/merante/46164.mkv
 
-# --- Movies | NETFLIX-AMAZON-SERIE (639) ---
+# --- Movies | NETFLIX-AMAZON-SERIE (641) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Celebrity Hunted: Caccia all'uomo
 http://world-service.us:8080/movie/giovanmer/merante/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",ZeroZeroZero
@@ -21016,6 +21024,10 @@ http://world-service.us:8080/movie/giovanmer/merante/1577.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1579.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Stranger Things
 http://world-service.us:8080/movie/giovanmer/merante/1582.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",La casa di Davide
+http://world-service.us:8080/movie/giovanmer/merante/1589.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Cashero
+http://world-service.us:8080/movie/giovanmer/merante/1590.mp4
 
 # --- Movies | PRIMAFILA (9) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8e9cf6b0712b46c62fd4b5f3e395fc1e.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD Dimmelo sottovoce (2025)
@@ -22299,7 +22311,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1585.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Mistletoe Murders Delitti sotto l’albero
 http://world-service.us:8080/movie/giovanmer/merante/1586.mp4
 
-# --- Movies | SERIE-TV-ITALIA (142) ---
+# --- Movies | SERIE-TV-ITALIA (143) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://world-service.us:8080/movie/giovanmer/merante/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22584,6 +22596,8 @@ http://world-service.us:8080/movie/giovanmer/merante/1570.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1572.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Tutta scena
 http://world-service.us:8080/movie/giovanmer/merante/1587.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Se fossi te
+http://world-service.us:8080/movie/giovanmer/merante/1588.mp4
 
 # --- Movies | Serie-Tv-Ita (1231) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | Serie-Tv-Ita",==== Serie Tv Italia ====
@@ -32789,4 +32803,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16363
+# Total: 16370

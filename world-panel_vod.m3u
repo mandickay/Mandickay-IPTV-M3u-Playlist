@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2025-12-29 07:10:07
+# Generated: 2025-12-29 18:31:56
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -7677,9 +7677,11 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/44491.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/342baf3fbe69391f255aa4405bb042c8.jpg" group-title="Movies | NETFLIX AMAZON COMICO",Jerry e Marge giocano alla lotteria (2022)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/61271.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (967) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (968) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1659.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/18672ece2cd96e0ecc1565863c6234e9.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Eternity (2025)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/86218.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f68d1289a306eb024aeb697fb46e8e2d.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Il padre dell'anno (2024)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/86192.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/3944636bec8aec8f9e8714722a718d51.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Tutta colpa del rock (2025)
@@ -9713,7 +9715,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1539) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1541) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/e0d3d17e8713b2c88262ff259bc19989.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",È colpa mia Londra (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/83999.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/fa21a2ad35d92916dd80a0506b7e41ce.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Lesson (2023)
@@ -9732,6 +9734,10 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/64655.mkv
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/64654.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1662.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d3134c51e93430f126cb963dc129e878.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Goodbye June (2025)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/86219.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/99e395c0c629c2ff9ddb3ea76cc898cb.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Mastermind (2025)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/86221.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d2db71488ccf5b3dfc92c8370022a514.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Die My Love (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/86189.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/22997b17eca2a038516f321207c1cb0f.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Norimberga (2025)
@@ -12935,11 +12941,13 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/78559.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/37638f95d3db025a276663b1a9010fda.jpg" group-title="Movies | NETFLIX AMAZON GIALLO",what the waters left behind scars (2023)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/78560.mkv
 
-# --- Movies | NETFLIX AMAZON HORROR (493) ---
+# --- Movies | NETFLIX AMAZON HORROR (494) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a36588584b27f4ab2507270248927e79.jpg" group-title="Movies | NETFLIX AMAZON HORROR",Here After - L'aldilà (2024)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/79784.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON HORROR",====NETFLIX HORROR====
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1664.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8f1100bfe4d2454c69f61255745f4dee.jpg" group-title="Movies | NETFLIX AMAZON HORROR",Le regole di Jenny Pen (2025)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/86220.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/6d6411487648d4c5d37b7734c381b82b.jpg" group-title="Movies | NETFLIX AMAZON HORROR",Heart Eyes - Appuntamento con la morte (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/85771.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/777fea1df74d8c51e01953e775453f79.jpg" group-title="Movies | NETFLIX AMAZON HORROR",Shelby Oaks - Il covo del male (2025)
@@ -19369,7 +19377,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/46163.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/abb4cfb2e854c34820508bc95e63bd8e.jpg" group-title="Movies | NETFLIX AMAZON-Serie-Tv",The Protector 04x07
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/46164.mkv
 
-# --- Movies | NETFLIX-AMAZON-SERIE (637) ---
+# --- Movies | NETFLIX-AMAZON-SERIE (639) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Celebrity Hunted: Caccia all'uomo
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",ZeroZeroZero
@@ -20644,6 +20652,10 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1577.mp4
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1579.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Stranger Things
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1582.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",La casa di Davide
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1589.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Cashero
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1590.mp4
 
 # --- Movies | PRIMAFILA (9) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8e9cf6b0712b46c62fd4b5f3e395fc1e.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD Dimmelo sottovoce (2025)
@@ -21913,7 +21925,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1585.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Mistletoe Murders Delitti sotto l’albero
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1586.mp4
 
-# --- Movies | SERIE-TV-ITALIA (142) ---
+# --- Movies | SERIE-TV-ITALIA (143) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22198,6 +22210,8 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1570.mp4
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1572.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Tutta scena
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1587.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Se fossi te
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1588.mp4
 
 # --- Movies | Saghe Film (18) ---
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | Saghe Film",========IL SIGNORE DEGLI ANELLI========
@@ -32439,4 +32453,4 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50888.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/96e97ef7e316fab54d133aa6fcdf30a2.jpg" group-title="Movies | SerieTV",Turner and Hooch 01x12 La Resa Dei Conti
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50889.mkv
 
-# Total: 16188
+# Total: 16195

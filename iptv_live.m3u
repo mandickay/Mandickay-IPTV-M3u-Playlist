@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.darktv.eu:25461
-# Generated: 2025-12-29 07:17:31
+# Generated: 2025-12-29 18:32:57
 # Expires: 2026-02-05
 # Family Safe Edition
 # ==============================================
@@ -2151,7 +2151,7 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/149603.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Eleven Sports 3 (FR)
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/149604.m3u8
 
-# --- BE - WALLONIE (50) ---
+# --- BE - WALLONIE (35) ---
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/launehd.png" group-title="BE - WALLONIE",(BE) La Une HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169007.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/tipik.png" group-title="BE - WALLONIE",(BE) Tipik HD
@@ -2178,14 +2178,10 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169016.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169059.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/tf1.png" group-title="BE - WALLONIE",(BE) TFX HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169056.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/fox.png" group-title="BE - WALLONIE",(BE) Fox HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169041.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/xite.png" group-title="BE - WALLONIE",(BE) Xite HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169014.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/tmc.png" group-title="BE - WALLONIE",(BE) Tmc HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169055.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/cnn.png" group-title="BE - WALLONIE",(BE) Cnn HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169052.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/actv.png" group-title="BE - WALLONIE",(BE) Actv HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169034.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/ln24.png" group-title="BE - WALLONIE",(BE) LN24 HD
@@ -2204,54 +2200,28 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169035.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169033.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/bruzztv.png" group-title="BE - WALLONIE",(BE) Bruzz HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169032.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/festival4k.png" group-title="BE - WALLONIE",(BE) Festival HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169031.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/clublandtv.png" group-title="BE - WALLONIE",(BE) Clubland HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169028.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/rtc-tele-liege.png" group-title="BE - WALLONIE",(BE) RTC Liège HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169017.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/nrj.png" group-title="BE - WALLONIE",(BE) NRJ Hits TV
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169015.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/tvcom.png" group-title="BE - WALLONIE",(BE) Tvcom HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169037.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/ladeux.png" group-title="BE - WALLONIE",(BE) La Deux HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169008.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/clubrtl.png" group-title="BE - WALLONIE",(BE) Club RTL HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169011.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/mediasetpremiumactionhd.png" group-title="BE - WALLONIE",(BE) Mediaset HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169045.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/abxplore.png" group-title="BE - WALLONIE",(BE) ABXplore HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169020.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/shortstv.png" group-title="BE - WALLONIE",(BE) Shorts TV HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169050.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/dobbittvbe.png" group-title="BE - WALLONIE",(BE) Dobbit TV HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169044.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/comedieplus.png" group-title="BE - WALLONIE",(BE) Comedie + HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169049.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/cartoonito.png" group-title="BE - WALLONIE",(BE) Cartoonito HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169051.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/plattelandstv.png" group-title="BE - WALLONIE",(BE) Plattelands TV
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169042.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/telesambre.png" group-title="BE - WALLONIE",(BE) Télésambre HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169036.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/limburg.jfif" group-title="BE - WALLONIE",(BE) TV Limburg HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169023.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/limburg.jfif" group-title="BE - WALLONIE",(BE) TV Limburg
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/91279.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/planeteplusaventureexperience.png" group-title="BE - WALLONIE",(BE) Planet Aventure
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169057.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/cnbceurope.png" group-title="BE - WALLONIE",(BE) Cnbc Europe HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169053.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/arte.png" group-title="BE - WALLONIE",(BE) Arte Belgique HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169058.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/matele.jpg" group-title="BE - WALLONIE",(BE) Matélé HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169022.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/Vedia.png" group-title="BE - WALLONIE",(BE) Vedia HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169038.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/horrorchannelplus1.png" group-title="BE - WALLONIE",(BE) Horse & Country HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169046.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/vlaamse-parlament.png" group-title="BE - WALLONIE",(BE) Vlaams Parlement TV
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169043.m3u8
 
 # --- BG - DETSA (13) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayrakbulgar.jpg" group-title="BG - DETSA",(BG) Baby TV
@@ -8461,7 +8431,9 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/41888.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/denmark.png" group-title="SC : DENMARK:NORWAY",(DK) Eurosport 2 HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/41887.m3u8
 
-# --- SW - SPORT (19) ---
+# --- SW - SPORT (20) ---
+#EXTINF:-1 tvg-logo="" group-title="SW - SPORT",(SW) TV3 Sport
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/211803.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/sweden.png" group-title="SW - SPORT",✦✦✦✦✦ SWEDEN SPORTS ✦✦✦✦✦
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39058.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/viasat_fotball_hd.png" group-title="SW - SPORT",(SW) C More Fotboll
@@ -10627,4 +10599,4 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/153506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="İR : PERSİAN",(IR) TIN TV
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/153497.m3u8
 
-# Total: 5164
+# Total: 5150

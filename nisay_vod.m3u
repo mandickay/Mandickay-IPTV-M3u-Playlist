@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-29 07:13:49
+# Generated: 2025-12-29 18:30:24
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -15541,11 +15541,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101615.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/go70h8uby3OfECZEiIGDQETPnzV.jpg" group-title="Movies | GERMANY WESTERN FILME",DE: Ich, Tom Horn 1980
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138508.mp4
 
-# --- Movies | GUNCEL DIZI (21) ---
+# --- Movies | GUNCEL DIZI (20) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Lh8xbSr43ZVl3cI5Lu0hdW2ckW.jpg" group-title="Movies | GUNCEL DIZI",DIZI: ARKA SOKAKLAR (SON BOLUM)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/24076.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u28XMjRU7i0xdqlplNE080uD4Gj.jpg" group-title="Movies | GUNCEL DIZI",DIZI: BAHAR ( SON BOLUM )
-http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/137496.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | GUNCEL DIZI",DIZI: CENNETIN COCUKLARI ( SON BOLUM )
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/156453.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="Movies | GUNCEL DIZI",DIZI: ESREF RUYA ( SON BOLUM )
@@ -18032,7 +18030,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1052.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1055.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Bir Sevdadır (FiNAL)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1060.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Bahar
+#EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Bahar (FiNAL)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1068.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Kül Masalı (FiNAL)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1074.mp4
@@ -19887,4 +19885,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9876
+# Total: 9875

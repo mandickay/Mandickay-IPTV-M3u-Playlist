@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: gimenes.top:8080
-# Generated: 2026-01-01 07:11:24
+# Generated: 2026-01-01 18:27:33
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
@@ -21197,7 +21197,9 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/142362.mp4
 #EXTINF:-1 tvg-logo="http://fiqueemcasa.club/images/omKzydOrom9kpdfQUE0G9Y9sPl0_small.jpg" group-title="Movies | FILMES GUERRA",WHERE HANDS TOUCH
 http://gimenes.top:8080/movie/denisfonseca/4915334/48749.mp4
 
-# --- Movies | FILMES LANÇAMENTOS (480) ---
+# --- Movies | FILMES LANÇAMENTOS (481) ---
+#EXTINF:-1 tvg-logo="http://barserven.link:80/images/aKr6jSFBrL1VFZIJ541boREu0a4_big.jpg" group-title="Movies | FILMES LANÇAMENTOS",BOCA DE FUMO (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/256739.mp4
 #EXTINF:-1 tvg-logo="http://barserven.link:80/images/8VUn52P2qFepxG8b5W8pjS7DzCT_big.jpg" group-title="Movies | FILMES LANÇAMENTOS",WICKED: PARTE II (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/256733.mp4
 #EXTINF:-1 tvg-logo="http://barserven.link:80/images/vTQ4GUmcU3aOM5IpTkU3fZGs1ja_big.jpg" group-title="Movies | FILMES LANÇAMENTOS",BUGONIA (2025)
@@ -30127,4 +30129,4 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/166843.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhTm83svrLTM4JdwzJ1FjL63SQN.jpg" group-title="Movies | SHOWS",BEBE REXHA - THE TOWN (2023)
 http://gimenes.top:8080/movie/denisfonseca/4915334/166842.mp4
 
-# Total: 15019
+# Total: 15020

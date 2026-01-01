@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: mutant.arrox.top:80
-# Generated: 2026-01-01 07:15:08
+# Generated: 2026-01-01 18:40:45
 # Expires: 2026-08-02
 # Family Safe Edition
 # ==============================================
@@ -9955,7 +9955,9 @@ http://mutant.arrox.top:80/movie/nFYdEsmj/fak5Da8/16552.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | ARD / DAS ERSTE",[DE] Das Geheimnis der Anden (1972)
 http://mutant.arrox.top:80/movie/nFYdEsmj/fak5Da8/21071.mp4
 
-# --- Movies | DE | BBC & US-SERIEN (231) ---
+# --- Movies | DE | BBC & US-SERIEN (232) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE | BBC & US-SERIEN",[DE] The Rainmaker (2025)
+http://mutant.arrox.top:80/movie/nFYdEsmj/fak5Da8/21470.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | BBC & US-SERIEN",[DE] Veep – Die Vizepräsidentin (2012)
 http://mutant.arrox.top:80/movie/nFYdEsmj/fak5Da8/21449.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE | BBC & US-SERIEN",[DE] Pushing Daisies (2007)
@@ -32695,4 +32697,4 @@ http://mutant.arrox.top:80/series/nFYdEsmj/fak5Da8/712
 #EXTINF:-1 tvg-logo="" group-title="Series | RAMADAN SERIES",Youssef_al_Seddik_2
 http://mutant.arrox.top:80/series/nFYdEsmj/fak5Da8/713
 
-# Total: 16210
+# Total: 16211

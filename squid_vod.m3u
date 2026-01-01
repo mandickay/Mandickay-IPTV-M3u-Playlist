@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-01 07:18:07
+# Generated: 2026-01-01 18:40:56
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -13183,7 +13183,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10175.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/KowKEuyWziUtnCYicv6zhzTQIv.jpg" group-title="Movies | Filme Indiene (NOU)",Dhamaka  (2021)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/51976.mp4
 
-# --- Movies | Filme Istorice (53) ---
+# --- Movies | Filme Istorice (54) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg" group-title="Movies | Filme Istorice",Pearl Harbor - 2001
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65839.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg" group-title="Movies | Filme Istorice",The Imitation Game - 2014
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/6485.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/aQx5vOURCo4SD71s7BBJIozGmt3.jpg" group-title="Movies | Filme Istorice",In the Valley of Elah - 2007
@@ -18905,6 +18907,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/311.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Orville",The Orville (2017)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/906.mp4
 
+# --- Movies | The Outpost (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Outpost",The Outpost (2018)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1134.mp4
+
 # --- Movies | The Pacific (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Pacific",The Pacific (2010)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/952.mp4
@@ -19597,4 +19603,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8627
+# Total: 8629

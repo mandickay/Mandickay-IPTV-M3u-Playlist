@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cms-portals.com:80
-# Generated: 2026-01-02 07:06:37
+# Generated: 2026-01-02 18:31:04
 # Expires: 2026-05-22
 # Family Safe Edition
 # ==============================================
@@ -3731,7 +3731,13 @@ http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13188.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BM2IzNDEyNmUtNjE1OC00NzI5LThjZTQtMzNhMTNkNjMwZjczXkEyXkFqcGc@._V1_.jpg" group-title="Movies | VIDEOTEKA 2024",Bitconned (2024)
 http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13189.mp4
 
-# --- Movies | VIDEOTEKA 2025 (125) ---
+# --- Movies | VIDEOTEKA 2025 (128) ---
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/9/97/Maintenance_Required_film_poster.jpg" group-title="Movies | VIDEOTEKA 2025",Maintenance Required (2025)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13640.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Regretting_You_poster.jpg/250px-Regretting_You_poster.jpg" group-title="Movies | VIDEOTEKA 2025",Regretting You (2025)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13641.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Roofman_poster.jpg/250px-Roofman_poster.jpg" group-title="Movies | VIDEOTEKA 2025",Roofman (2025)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13642.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/2/29/A-Very-Jonas-Christmas-Movie-poster.png/250px-A-Very-Jonas-Christmas-Movie-poster.png" group-title="Movies | VIDEOTEKA 2025",A Very Jonas Christmas Movie (2025)
 http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13636.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Code_3_film_poster.jpg/250px-Code_3_film_poster.jpg" group-title="Movies | VIDEOTEKA 2025",Code 3 (2025)
@@ -3983,4 +3989,4 @@ http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13432.mp4
 #EXTINF:-1 tvg-logo="http://85.14.243.71/images/220px-Den_of_thieves_two_pantera_ver2.jpg" group-title="Movies | VIDEOTEKA 2025",Den of Thieves 2: Pantera (2025)
 http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13433.mp4
 
-# Total: 1973
+# Total: 1976

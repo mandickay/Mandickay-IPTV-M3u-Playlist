@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cname.dino.ws:80
-# Generated: 2026-01-03 07:06:32
+# Generated: 2026-01-03 18:30:39
 # Expires: 2026-02-27
 # Family Safe Edition
 # ==============================================
@@ -2977,26 +2977,28 @@ http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/813099.m3u8
 #EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/skysportbundesliga.png" group-title="|DE| SPORT",DE - SKY SPORT BUNDESLIGA FHD
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/750139.m3u8
 
-# --- |DE| SPORT DEUTSCHLAND PPV (100) ---
+# --- |DE| SPORT DEUTSCHLAND PPV (101) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",####### SPORT DEUTSCHLAND PPV #######
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1142828.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 1 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177699.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 2 - DEL2: LAUSITZER FÜCHSE VS. BIETIGHEIM STEELERS | Fri 02 Jan 18:00
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 2 - LANDESMEISTERSCHAFTEN 8-BALL POKAL MANNSCHAFT BVW - TISCH 1 | Sat 03 Jan 09:13
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177698.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 3 - DEL2: DÜSSELDORFER EG VS. EHC FREIBURG | Fri 02 Jan 18:00
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 3 - LANDESMEISTERSCHAFTEN 8-BALL POKAL MANNSCHAFT BVW - TISCH 2 | Sat 03 Jan 09:14
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177697.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 14 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177696.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 5 - DEL2: ESV KAUFBEUREN VS. EISPIRATEN CRIMMITSCHAU | Fri 02 Jan 18:00
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 5 - LANDESMEISTERSCHAFTEN 8-BALL POKAL MANNSCHAFT BVW - TISCH 4 | Sat 03 Jan 09:16
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177695.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 6 - DEL2: STARBULLS ROSENHEIM VS. EV LANDSHUT | Fri 02 Jan 18:00
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 6 - LANDESMEISTERSCHAFTEN 8-BALL POKAL MANNSCHAFT BVW - TISCH 5 | Sat 03 Jan 09:17
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177694.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 7 - DEL2: KREFELD PINGUINE VS. EISBÄREN REGENSBURG | Fri 02 Jan 18:00
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 7 - LANDESMEISTERSCHAFTEN 8-BALL POKAL MANNSCHAFT BVW - TISCH 6 | Sat 03 Jan 09:20
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177693.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 9 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 8 - LANDESMEISTERSCHAFTEN 8-BALL POKAL MANNSCHAFT BVW - TISCH 7 | Sat 03 Jan 09:21
+http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177692.m3u8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 9 - BADEN WÜRTTEMBERG-LIGA | Sat 03 Jan 10:53
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177691.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 10 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 10 - SKV NIBELUNGEN LORSCH 2 - TUS RÜSSELSHEIM | Sat 03 Jan 11:30
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177690.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 11 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177689.m3u8
@@ -5125,4 +5127,4 @@ http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/250573.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/zapvivahd.png" group-title="|PT| INTERNACIONAL",PT - ZAP VIVA UHD
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/250560.m3u8
 
-# Total: 2516
+# Total: 2517

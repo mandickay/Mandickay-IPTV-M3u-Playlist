@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-01-03 07:02:19
+# Generated: 2026-01-03 18:26:21
 # Expires: 2026-04-03
 # Family Safe Edition
 # ==============================================
@@ -4416,10 +4416,10 @@ http://alienstreams.fi:8080/movie/karekare/karekare/403119.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/443540.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/h8PafIg6XlvgR9NO6njX8i3PkqT.jpg" group-title="Movies | Comedy [VOD]",Demetri Martin: The Overthinker (2018)
 http://alienstreams.fi:8080/movie/karekare/karekare/443538.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hQKM2cefRD80N21NMFeztk3PnAk.jpg" group-title="Movies | Comedy [VOD]",The Sheriff and the Satellite Kid
-http://alienstreams.fi:8080/movie/karekare/karekare/443522.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/n8V61f1v7idya4WJzGEJNoIp9iL.jpg" group-title="Movies | Comedy [VOD]",Austin Powers in Goldmember (2002)
 http://alienstreams.fi:8080/movie/karekare/karekare/443523.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hQKM2cefRD80N21NMFeztk3PnAk.jpg" group-title="Movies | Comedy [VOD]",The Sheriff and the Satellite Kid
+http://alienstreams.fi:8080/movie/karekare/karekare/443522.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/14TmEac4bquNaEld9t0uIliYoKE.jpg" group-title="Movies | Comedy [VOD]",Half Baked (1998)
 http://alienstreams.fi:8080/movie/karekare/karekare/443517.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pjKvQrVpekshVM6DUDOt3ImhAVH.jpg" group-title="Movies | Comedy [VOD]",Ali G Indahouse (2002)
@@ -17970,20 +17970,20 @@ http://alienstreams.fi:8080/series/karekare/karekare/405122
 http://alienstreams.fi:8080/series/karekare/karekare/403526
 
 # --- Series | Svenska Serier [Series] (271) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Stjärnorna på Slottet
+http://alienstreams.fi:8080/series/karekare/karekare/491606
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Körslaget - Tillsammans mot cancer
+http://alienstreams.fi:8080/series/karekare/karekare/490711
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",På spåret
+http://alienstreams.fi:8080/series/karekare/karekare/489148
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Synden
 http://alienstreams.fi:8080/series/karekare/karekare/491866
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Sanningen
 http://alienstreams.fi:8080/series/karekare/karekare/490904
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",King Karavan
 http://alienstreams.fi:8080/series/karekare/karekare/487256
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Stjärnorna på Slottet
-http://alienstreams.fi:8080/series/karekare/karekare/491606
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",På spåret
-http://alienstreams.fi:8080/series/karekare/karekare/489148
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Carina Bergfeldt
 http://alienstreams.fi:8080/series/karekare/karekare/485474
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Körslaget - Tillsammans mot cancer
-http://alienstreams.fi:8080/series/karekare/karekare/490711
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Så mycket bättre 15 år
 http://alienstreams.fi:8080/series/karekare/karekare/489296
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Sommaren med släkten

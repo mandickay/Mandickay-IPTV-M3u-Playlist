@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2026-01-03 07:11:38
+# Generated: 2026-01-03 18:26:32
 # Expires: 2027-01-09
 # Family Safe Edition
 # ==============================================
@@ -3106,13 +3106,13 @@ http://hdhd.tk:80/live/b0327/6685/351058.m3u8
 http://hdhd.tk:80/live/b0327/6685/351059.m3u8
 
 # --- PPV  EVENTS (24) ---
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV01:
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV01: Boxing: Serrano vs. Tellez @ 08:00 PM EST
 http://hdhd.tk:80/live/b0327/6685/29427.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV02::
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV02:: Awesome Championship Wrestling: Poughkeepsie Rumble 2026 @ 06:30 PM EST
 http://hdhd.tk:80/live/b0327/6685/29428.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV03
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV03 Talk'n Shop: Lariato Pro Live, Episode 12 @ 08:00 PM EST
 http://hdhd.tk:80/live/b0327/6685/29430.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV04:
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV04: GCW: One Night Only 2026 @ 08:00 PM EST
 http://hdhd.tk:80/live/b0327/6685/29432.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV05
 http://hdhd.tk:80/live/b0327/6685/29433.m3u8
@@ -6576,9 +6576,9 @@ http://hdhd.tk:80/live/b0327/6685/383412.m3u8
 # --- USA NFL (21) ---
 #EXTINF:-1 tvg-logo="" group-title="USA NFL",USA NFL Monday Night backup :
 http://hdhd.tk:80/live/b0327/6685/386128.m3u8
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/nflsundayticket3.png" group-title="USA NFL",USA NFL Sunday 705
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/nflsundayticket3.png" group-title="USA NFL",USA NFL Sunday 705 Carolina Panthers vs Tampa Bay Buccaneers @ 04:30 PM
 http://hdhd.tk:80/live/b0327/6685/29017.m3u8
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/nflsundayticket3.png" group-title="USA NFL",USA NFL Sunday 706
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/nflsundayticket3.png" group-title="USA NFL",USA NFL Sunday 706 Seattle Seahawks vs San Francisco 49ers @ 08:00 PM
 http://hdhd.tk:80/live/b0327/6685/29018.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/nflsundayticket3.png" group-title="USA NFL",USA NFL Sunday 707
 http://hdhd.tk:80/live/b0327/6685/29019.m3u8

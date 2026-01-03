@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-03 07:01:47
+# Generated: 2026-01-03 18:24:29
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -19091,6 +19091,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/532.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Walking Dead World Beyond",The Walking Dead: World Beyond
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/553.mp4
 
+# --- Movies | The War Between the Land and the Sea (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The War Between the Land and the Sea",The War Between the Land and the Sea (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1136.mp4
+
 # --- Movies | The Watcher (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Watcher",The Watcher
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/384.mp4
@@ -19607,4 +19611,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8630
+# Total: 8631

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv14s.xyz:8080
-# Generated: 2026-01-03 07:05:45
+# Generated: 2026-01-03 18:24:31
 # Expires: 2026-05-27
 # Family Safe Edition
 # ==============================================
@@ -4667,7 +4667,7 @@ http://tv14s.xyz:8080/movie/07301982/23101897/256268.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wm8vkpJmY7UbUXME8lXkxqIalX6.jpg" group-title="Movies | 2024 Movies",Lake Jesup: Bonecrusher's Revenge (2024)
 http://tv14s.xyz:8080/movie/07301982/23101897/256269.mp4
 
-# --- Movies | 2025 MOVIES (939) ---
+# --- Movies | 2025 MOVIES (940) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32NWI8EEJo8os5rHzhXE0dMYIqG.jpg" group-title="Movies | 2025 MOVIES",Laws of Man (2025)
 http://tv14s.xyz:8080/movie/07301982/23101897/222977.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcSJHAVNZSbqaoOHduKesZ01Wfj.jpg" group-title="Movies | 2025 MOVIES",Sunray: Fallen Soldier (2025)
@@ -6544,8 +6544,10 @@ http://tv14s.xyz:8080/movie/07301982/23101897/257099.mp4
 http://tv14s.xyz:8080/movie/07301982/23101897/257171.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/534y0Pt72VEAUTV3THKpMxzCoB3.jpg" group-title="Movies | 2025 MOVIES",Dave Chappelle: The Unstoppable... (2025)
 http://tv14s.xyz:8080/movie/07301982/23101897/258043.mp4
-#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Beast of War (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xgDjVEOtu5LlbPEngxfbCqWEFg.jpg" group-title="Movies | 2025 MOVIES",Beast of War (2025)
 http://tv14s.xyz:8080/movie/07301982/23101897/258352.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7x3I5V9aP4tMZACmM8ClY8lK6K.jpg" group-title="Movies | 2025 MOVIES",Wicked: For Good (2025)
+http://tv14s.xyz:8080/movie/07301982/23101897/258358.mkv
 
 # --- Movies | Action Movies (1598) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
@@ -28579,4 +28581,4 @@ http://tv14s.xyz:8080/series/07301982/23101897/2306
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Sails
 http://tv14s.xyz:8080/series/07301982/23101897/2319
 
-# Total: 14232
+# Total: 14233

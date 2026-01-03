@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: kaliteiptv.live:8080
-# Generated: 2026-01-03 07:12:56
+# Generated: 2026-01-03 18:28:55
 # Expires: 2026-04-09
 # Family Safe Edition
 # ==============================================
@@ -5005,7 +5005,7 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1058808.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/spor/htspor.png" group-title="TR | TÜRKİYE 4K",TR | HT SPOR 4K (TEST)
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1058809.m3u8
 
-# --- TR | YEŞİLÇAM 7/24 (53) ---
+# --- TR | YEŞİLÇAM 7/24 (55) ---
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0parade4kyesilcam1streamlogo.png" group-title="TR | YEŞİLÇAM 7/24",7/24 | PARADE SİNEMA 4K YEŞİLÇAM 1
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1181682.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0parade4kyesilcam2streamlogo.png" group-title="TR | YEŞİLÇAM 7/24",7/24 | PARADE SİNEMA 4K YEŞİLÇAM 2
@@ -5078,6 +5078,10 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1189536.m3u8
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1191100.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradesadrialisik2streamlogo.png" group-title="TR | YEŞİLÇAM 7/24",7/24 | PARADE SİNEMA SADRİ ALIŞIK 2
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1191101.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradeedizhun1streamlogo.png" group-title="TR | YEŞİLÇAM 7/24",7/24 | PARADE SİNEMA EDİZ HUN 1
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1192915.m3u8
+#EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0paradeedizhun2streamlogo.png" group-title="TR | YEŞİLÇAM 7/24",7/24 | PARADE SİNEMA EDİZ HUN 2
+http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1192916.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0parademujdearstreamlogo.png" group-title="TR | YEŞİLÇAM 7/24",7/24 | PARADE SİNEMA MÜJDE AR
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/1191102.m3u8
 #EXTINF:-1 tvg-logo="http://str.zxcresim.org/images/picon/LYNX/created.channel/0yesilcamstreamlogo.png" group-title="TR | YEŞİLÇAM 7/24",7/24 | YEŞİLÇAM SİNEMA 1
@@ -6107,4 +6111,4 @@ http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/855313.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WO | WORLDSPORT",US | NBA 10
 http://kaliteiptv.live:8080/live/yilm24/c6Ae724Adk/855314.m3u8
 
-# Total: 2989
+# Total: 2991

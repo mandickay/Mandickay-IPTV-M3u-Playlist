@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-01-04 07:14:57
+# Generated: 2026-01-04 18:33:54
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -14441,7 +14441,9 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/184454.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Biy7R9LfumYshur3YKhpj56MpB.jpg" group-title="Movies | |EXYU| AVANTURISTICKI",War of the Worlds (2005)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/186148.mkv
 
-# --- Movies | |EXYU| BOZICNI (177) ---
+# --- Movies | |EXYU| BOZICNI (178) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3VITMLSmP3Ai65AvXT54RcF5Sw.jpg" group-title="Movies | |EXYU| BOZICNI",Božićna priča (1983)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/14153.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dg00daDhxYW2vxFkLlAGPMR9Et.jpg" group-title="Movies | |EXYU| BOZICNI",Božić u osamdesetima (2021)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/100462.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lII6Elx59tiwoFhhf4WzGKGjRs.jpg" group-title="Movies | |EXYU| BOZICNI",Božić kod zločestih mama (2017)
@@ -16787,7 +16789,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/196803.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/epjqcM33F3PKRZmj3KbpsXlJ3gY.jpg" group-title="Movies | |EXYU| DOKUMENTARNI FILMOVI",Predators (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/197355.mp4
 
-# --- Movies | |EXYU| DOMACE SERIJE (210) ---
+# --- Movies | |EXYU| DOMACE SERIJE (212) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| DOMACE SERIJE",Dobro Jutro Komšija
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| DOMACE SERIJE",Tajkun
@@ -17208,6 +17210,10 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2273.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2329.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| DOMACE SERIJE",Ucitelj (1983)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2341.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| DOMACE SERIJE",Prva Klasa Pun Gas (2024)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2343.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| DOMACE SERIJE",Nepokoreni Grad (1982)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2344.mp4
 
 # --- Movies | |EXYU| DOMACI FILMOVI (679) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ITGg0QV9oMxpbboV49C657i6v0.jpg" group-title="Movies | |EXYU| DOMACI FILMOVI",1 na 1 (2002)
@@ -22465,7 +22471,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2066.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| SPANSKE SERIJE",Scars of Beauty (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2138.mp4
 
-# --- Movies | |EXYU| STRANE SERIJE (882) ---
+# --- Movies | |EXYU| STRANE SERIJE (883) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",YOU
 http://siptvs.com:8080/movie/Biljana12/Biljana12/22.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Breaking Bad
@@ -24230,6 +24236,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2339.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2340.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Land of Sin (2026)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2342.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Run Away (2026)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2345.mp4
 
 # --- Movies | |EXYU| STRANI 2022 (351) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwIZp4fVMGK6GZVAM5SU5ZHXSoU.jpg" group-title="Movies | |EXYU| STRANI 2022",Amandla (2022)
@@ -28703,7 +28711,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/198526.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vYiq2eZKASt3YAbiVX8xpolZisG.jpg" group-title="Movies | |EXYU| STRANI 2025",Fierce Town (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/198527.mp4
 
-# --- Movies | |EXYU| STRANI ARHIVA (720) ---
+# --- Movies | |EXYU| STRANI ARHIVA (719) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDiAfxcjz5bydpbqTtBYBfaYHKD.jpg" group-title="Movies | |EXYU| STRANI ARHIVA",1 Buck (2017)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/14061.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdANQijuNrJaw1HA61rDccME4Tm.jpg" group-title="Movies | |EXYU| STRANI ARHIVA",12 godina ropstva (2013)
@@ -28716,8 +28724,6 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/14115.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/14135.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg" group-title="Movies | |EXYU| STRANI ARHIVA",Genijalni um (2001)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/14139.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3VITMLSmP3Ai65AvXT54RcF5Sw.jpg" group-title="Movies | |EXYU| STRANI ARHIVA",Božićna priča (1983)
-http://siptvs.com:8080/movie/Biljana12/Biljana12/14153.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMi0sz3qnj2xBdT0tfHlqnw5zIh.jpg" group-title="Movies | |EXYU| STRANI ARHIVA",A Crooked Somebody (2018)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/14158.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgqaQp7mJmtaAVDzYrXeFW9DFN3.jpg" group-title="Movies | |EXYU| STRANI ARHIVA",Duell der Brüder - Die Geschichte von Adidas und Puma (2016)
@@ -33011,4 +33017,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 16441
+# Total: 16444

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2026-01-04 07:20:38
+# Generated: 2026-01-04 18:29:56
 # Expires: 2026-01-18
 # Family Safe Edition
 # ==============================================
@@ -805,7 +805,7 @@ http://brone.fyi/live/felipe_irma/Teste44/298512.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FAST",DREAMWORKS FAST
 http://brone.fyi/live/felipe_irma/Teste44/324901.m3u8
 
-# --- CAZE | PRIME VIDEO (20) ---
+# --- CAZE | PRIME VIDEO (25) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/cazetvhd.png" group-title="CAZE | PRIME VIDEO",CAZE TV (ALT 1)
 http://brone.fyi/live/felipe_irma/Teste44/248499.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/cazetvhd.png" group-title="CAZE | PRIME VIDEO",CAZE TV (ALT 2)
@@ -846,6 +846,16 @@ http://brone.fyi/live/felipe_irma/Teste44/306720.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/306876.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/primevideohd.png" group-title="CAZE | PRIME VIDEO",PRIME VIDEO 9
 http://brone.fyi/live/felipe_irma/Teste44/306877.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="CAZE | PRIME VIDEO",COPINHA 01
+http://brone.fyi/live/felipe_irma/Teste44/332210.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="CAZE | PRIME VIDEO",COPINHA 02
+http://brone.fyi/live/felipe_irma/Teste44/332211.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="CAZE | PRIME VIDEO",COPINHA 03
+http://brone.fyi/live/felipe_irma/Teste44/332212.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="CAZE | PRIME VIDEO",COPINHA 04
+http://brone.fyi/live/felipe_irma/Teste44/332213.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="CAZE | PRIME VIDEO",COPINHA 05
+http://brone.fyi/live/felipe_irma/Teste44/332214.m3u8
 
 # --- CINE PPV (17) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/filmeseseries/cineskyhd.png" group-title="CINE PPV",CINE SKY
@@ -7861,4 +7871,4 @@ http://brone.fyi/live/felipe_irma/Teste44/327934.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="VARIEDADES 24H",[24H] YOGA
 http://brone.fyi/live/felipe_irma/Teste44/328699.m3u8
 
-# Total: 3878
+# Total: 3883

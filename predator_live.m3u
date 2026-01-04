@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-01-04 07:24:32
+# Generated: 2026-01-04 18:34:47
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -1343,9 +1343,13 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/76047.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DYN SPORTS 20
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/76046.m3u8
 
-# --- Digitalb (84) ---
+# --- Digitalb (86) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Digitalb_logo.png" group-title="Digitalb",====Digitalb====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80736.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: Big Brother VIP 1 AL
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81953.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: Big Brother VIP 2 AL
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81954.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: BB VIP Kosova 1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81690.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: BB VIP Kosova 2
@@ -1513,7 +1517,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/77997.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: FightBox HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77987.m3u8
 
-# --- Ex-Yu (312) ---
+# --- Ex-Yu (314) ---
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",========Ex-Yu========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12486.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/hrttv1.png" group-title="Ex-Yu",HR: HRT 1 HD
@@ -1982,6 +1986,10 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/78397.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/663.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Rtrs
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75033.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: SkyShowtime 1
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81951.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: SkyShowtime 2
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81952.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Epic Drama
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63388.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Kino Tv
@@ -3799,7 +3807,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/80444.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: ZAP VIVA FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80443.m3u8
 
-# --- Shqiptare (444) ---
+# --- Shqiptare (445) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -3924,6 +3932,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81547.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81545.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-32.png" group-title="Shqiptare",AL: Arta News ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2954.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Zeri
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81955.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/premium-channel.png" group-title="Shqiptare",AL: Premium Channel ᴴᴰ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/73428.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/syri.png" group-title="Shqiptare",AL: Syri Tv ᴴᴰ
@@ -8949,4 +8959,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4444
+# Total: 4449

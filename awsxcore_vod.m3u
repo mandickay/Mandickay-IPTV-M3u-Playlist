@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: awsxcore.uk:8080
-# Generated: 2026-01-01 18:26:56
+# Generated: 2026-01-04 18:27:34
 # Expires: 2026-11-18
 # Family Safe Edition
 # ==============================================
@@ -1673,7 +1673,7 @@ http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/166928.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",Morocco: Love in Times of War
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/145.mp4
 
-# --- Movies | ⭐ACTIUNE (35) ---
+# --- Movies | ⭐ACTIUNE (36) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⭐ACTIUNE",Black Summer
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/50.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⭐ACTIUNE",Bard of Blood
@@ -1744,6 +1744,8 @@ http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/532.mp4
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/559.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⭐ACTIUNE",Supacell
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/579.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⭐ACTIUNE",Plaha
+http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/609.mp4
 
 # --- Movies | ⭐ARNOLD SCHWARZENEGGER (36) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/25oWTCGqIik4gUTMidx3L8DI4Bt.jpg" group-title="Movies | ⭐ARNOLD SCHWARZENEGGER",Aftermath (2017)
@@ -7119,7 +7121,7 @@ http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/204770.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sx86KHWwWbW5ZckPEQh39J0Fio3.jpg" group-title="Movies | ⭐FILME 2024",That Christmas (2024)
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/204771.mp4
 
-# --- Movies | ⭐FILME 2025 (814) ---
+# --- Movies | ⭐FILME 2025 (818) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xqBSapk1nC35WlZ6PraMjOVMQBy.jpg" group-title="Movies | ⭐FILME 2025",Ad Vitam (2025)
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/205013.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v313aUGmMNj6yNveaiQXysBmjVS.jpg" group-title="Movies | ⭐FILME 2025",Alarum (2025)
@@ -8748,6 +8750,14 @@ http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/210110.mp4
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/210111.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u7x3I5V9aP4tMZACmM8ClY8lK6K.jpg" group-title="Movies | ⭐FILME 2025",Vrăjitoarele: Partea a II-a (2025)
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/210112.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z5GUwkH7CrfP62SCyfh1KVRnQwG.jpg" group-title="Movies | ⭐FILME 2025",Belén (2025)
+http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/210115.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg" group-title="Movies | ⭐FILME 2025",Palestine 36 (2025)
+http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/210120.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i1j5Zgpk973s1s6tDVgbYondbtC.jpg" group-title="Movies | ⭐FILME 2025",Tancul (2025)
+http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/210121.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z4gVnxTaks3anTycwKjDmvQSuWt.jpg" group-title="Movies | ⭐FILME 2025",Dintotdeauna tu (2025)
+http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/210141.mp4
 
 # --- Movies | ⭐FILME ACTIUNE (1704) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTTGRvnqCI9ZC7WkyP9u7XRiOaA.jpg" group-title="Movies | ⭐FILME ACTIUNE",Mindhunters (2004)
@@ -21397,7 +21407,7 @@ http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/604.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⭐ROMANESTI",Il Fenomeno - Povestea unui Superstar
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/605.mp4
 
-# --- Movies | ⭐SCI-FI (40) ---
+# --- Movies | ⭐SCI-FI (41) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⭐SCI-FI",Lost in Space
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/48.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⭐SCI-FI",Diablero
@@ -21478,6 +21488,8 @@ http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/497.mp4
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/533.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⭐SCI-FI",Stranger Things
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/606.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⭐SCI-FI",Pluribus
+http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/608.mp4
 
 # --- Movies | ⭐SERIALE (33) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⭐SERIALE",Marvel's Daredevil
@@ -21745,4 +21757,4 @@ http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/590.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⭐TURCESTI",Ömer
 http://awsxcore.uk:8080/movie/Andrei_Neculoiu/cyMZRSrsx95x/595.mp4
 
-# Total: 10823
+# Total: 10829

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-04 07:18:21
+# Generated: 2026-01-04 18:27:46
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -15993,7 +15993,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/91667.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MUZIK VOD",Bulgaria Music
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/83163.mkv
 
-# --- Movies | NETFLIX (367) ---
+# --- Movies | NETFLIX (369) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Altered Carbon
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/36.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Dogs of Berlin
@@ -16728,6 +16728,10 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1842.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1846.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Run Away
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1847.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Dispatches from Elsewhere
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1848.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Günah
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1849.mp4
 
 # --- Movies | NOSTALJI FILM (73) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJmoR4kdHEw6w8CncTKJ058RV7o.jpg" group-title="Movies | NOSTALJI FILM",Pearl Harbor (2001)
@@ -17231,7 +17235,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (317) ---
+# --- Movies | SON EKLENEN 300 FILM (318) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lufarLotFboQC86LRH5wUVh7JMw.jpg" group-title="Movies | SON EKLENEN 300 FILM",Rembrandt (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159759.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2HlUfMufLsVArsoLgvphVCWJJK.jpg" group-title="Movies | SON EKLENEN 300 FILM",Sesimi Takip Et (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159751.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uP3Gup9tSqeDzc9pyMQb5PfLvxZ.jpg" group-title="Movies | SON EKLENEN 300 FILM",Tank (2025)
@@ -18179,7 +18185,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1743.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Rüya Gibi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1812.mp4
 
-# --- Movies | TURKCE ALTYAZI FILMLER (498) ---
+# --- Movies | TURKCE ALTYAZI FILMLER (499) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1szx0bfFkNrmOPgQUlqQJfFQwY.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Den sidste viking (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159760.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t64xhKvMKgfePvTUB8OYXH2jnm.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Sonsuza Dek (2025) TRAltyazi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159608.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Nürnberg (2025) TRAltyazi
@@ -19939,4 +19947,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9902
+# Total: 9906

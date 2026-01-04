@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-01-04 07:15:20
+# Generated: 2026-01-04 18:29:14
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -2839,7 +2839,7 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186381.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium Sports",2025-12-27 23:45: DAZN nr. 5 - Highlights Magazine: Matchday 20 - Saturday
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186382.m3u8
 
-# --- Duitsland / Germany (463) ---
+# --- Duitsland / Germany (418) ---
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/2424c9306317aadfb8cacfe51ae9ee7e.png" group-title="Duitsland / Germany",DE: 1-2-3 TV HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157277.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a5cb2796026344dc77fd76126eb3a434.png" group-title="Duitsland / Germany",DE: 13th Street FHD
@@ -2900,10 +2900,6 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157307.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157308.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/5bf990013c9b61919041f7d2c62bde20.png" group-title="Duitsland / Germany",DE: BR HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157309.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ad0cc074e42908476af502130f6993f7.png" group-title="Duitsland / Germany",DE: Bundestag TV1
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157310.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/910b08db86453a6099b74872ba62a0aa.png" group-title="Duitsland / Germany",DE: Bundestag TV2
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157311.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/9dc9ccd860a4599794d8aea05bb671f9.png" group-title="Duitsland / Germany",DE: BW Family TV FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157312.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/9dc9ccd860a4599794d8aea05bb671f9.png" group-title="Duitsland / Germany",DE: BW Family TV SD
@@ -3442,50 +3438,6 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157643.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157644.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a9bd1f17773e930cb460bc8006e97f16.png" group-title="Duitsland / Germany",DE: Sky Atlantic SD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157645.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/585361e6ea4fddbc7e5cea0e34f7d4ac.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 10 FHD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157646.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/585361e6ea4fddbc7e5cea0e34f7d4ac.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 10 HD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157647.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/e5cfec39085e9dcb6e2df3ce447b8697.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 1 FHD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157648.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/e5cfec39085e9dcb6e2df3ce447b8697.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 1 HD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157649.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db23c7f2f19abb6ed1eb1050ec75fe3d.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 2 FHD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157650.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db23c7f2f19abb6ed1eb1050ec75fe3d.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 2 HD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157651.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/88cf9f3bc9e230c3ded3497aa1824011.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 3 FHD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157652.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/88cf9f3bc9e230c3ded3497aa1824011.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 3 HD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157653.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c302318578e6affdc2ba058a7f290bbf.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 4 FHD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157654.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c302318578e6affdc2ba058a7f290bbf.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 4 HD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157655.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/8f205f87096a8cdc5a155c59c4c4302b.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 5 FHD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157656.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/8f205f87096a8cdc5a155c59c4c4302b.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 5 HD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157657.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a9f18d8485e9a95d99c25761de9176c5.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 6 FHD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157658.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a9f18d8485e9a95d99c25761de9176c5.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 6 HD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157659.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/dac682b838b51f0b114a39ccdcd3d25e.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 7 FHD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157660.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/dac682b838b51f0b114a39ccdcd3d25e.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 7 HD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157661.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/46a455c427a67dfaa443e7a3be0ac32a.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 8 FHD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157662.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/46a455c427a67dfaa443e7a3be0ac32a.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 8 HD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157663.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/3cfdb64f6a2d21ed5469b8195cd7377f.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 9 FHD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157664.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/3cfdb64f6a2d21ed5469b8195cd7377f.png" group-title="Duitsland / Germany",DE: Sky Bundesliga 9 HD (Match time only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157665.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/76a713ef83766648d739169d1c6a0472.png" group-title="Duitsland / Germany",DE: Sky Bundesliga FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157666.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/76a713ef83766648d739169d1c6a0472.png" group-title="Duitsland / Germany",DE: Sky Bundesliga HD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157667.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/e8a9039625c04960615f745798a4e3a6.png" group-title="Duitsland / Germany",DE: Sky Cinema +1 HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157668.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/80661ebcb8505ca65f6990770aee5d45.png" group-title="Duitsland / Germany",DE: Sky Cinema +24 HD
@@ -3578,48 +3530,6 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157712.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157713.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/060569c5c8d0467ff94f02f4e9d06a50.png" group-title="Duitsland / Germany",DE: Sky Popcorn Select 6
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157714.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany",DE: Sky Select 1 4K
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157715.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c0ea3be92940f0ad870051ed316427c4.png" group-title="Duitsland / Germany",DE: Sky Select 1 FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157716.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany",DE: Sky Select 1 HD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157717.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany",DE: Sky Select 2 4K
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157718.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c0ea3be92940f0ad870051ed316427c4.png" group-title="Duitsland / Germany",DE: Sky Select 2 FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157719.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany",DE: Sky Select 2 HD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157720.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany",DE: Sky Select 3 4K
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157721.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany",DE: Sky Select 3 FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157722.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany",DE: Sky Select 4 4K
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157723.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany",DE: Sky Select 4 FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157724.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany",DE: Sky Select 5 4K
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157725.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c0ea3be92940f0ad870051ed316427c4.png" group-title="Duitsland / Germany",DE: Sky Select 5 FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157726.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany",DE: Sky Select 5 HD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157727.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany",DE: Sky Select 6 4K
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157728.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany",DE: Sky Select 6 FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157729.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany",DE: Sky Select 7 4K
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157730.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany",DE: Sky Select 7 FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157731.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany",DE: Sky Select 8 4K
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157732.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany",DE: Sky Select 8 FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157733.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany",DE: Sky Select 9 FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157734.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/161d9d0b8f48eb9e2aa48eede6026e78.png" group-title="Duitsland / Germany",DE: Sky Select Programmübersicht
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157735.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ad41c13507a33d6793440b383d8a33c7.png" group-title="Duitsland / Germany",DE: Sky Serien & Shows FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157736.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ad41c13507a33d6793440b383d8a33c7.png" group-title="Duitsland / Germany",DE: Sky Serien & Shows HD
@@ -3767,9 +3677,13 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157852.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/95ac9871bd3256737450578b744312b5.png" group-title="Duitsland / Germany",DE: ZDF SD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157853.m3u8
 
-# --- Duitsland / Germany SPORTS (96) ---
+# --- Duitsland / Germany SPORTS (141) ---
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/658b9627d173d176dc479f4063c7773e.png" group-title="Duitsland / Germany SPORTS",DE: Auto Motor Sport HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157296.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ad0cc074e42908476af502130f6993f7.png" group-title="Duitsland / Germany SPORTS",DE: Bundestag TV1
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157310.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/910b08db86453a6099b74872ba62a0aa.png" group-title="Duitsland / Germany SPORTS",DE: Bundestag TV2
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157311.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/d3ef7ef41533488d859eaf644f74e737.png" group-title="Duitsland / Germany SPORTS",DE: DYN Sport 10
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157863.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/d3ef7ef41533488d859eaf644f74e737.png" group-title="Duitsland / Germany SPORTS",DE: DYN Sport 11
@@ -3876,6 +3790,92 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157608.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157609.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/8274f37d684c75fdbc6c46a41245d759.png" group-title="Duitsland / Germany SPORTS",DE: RTL+ Sport Event 6 (Event Only)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157610.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/585361e6ea4fddbc7e5cea0e34f7d4ac.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 10 FHD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157646.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/585361e6ea4fddbc7e5cea0e34f7d4ac.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 10 HD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157647.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/e5cfec39085e9dcb6e2df3ce447b8697.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 1 FHD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157648.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/e5cfec39085e9dcb6e2df3ce447b8697.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 1 HD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157649.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db23c7f2f19abb6ed1eb1050ec75fe3d.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 2 FHD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157650.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db23c7f2f19abb6ed1eb1050ec75fe3d.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 2 HD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157651.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/88cf9f3bc9e230c3ded3497aa1824011.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 3 FHD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157652.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/88cf9f3bc9e230c3ded3497aa1824011.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 3 HD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157653.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c302318578e6affdc2ba058a7f290bbf.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 4 FHD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157654.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c302318578e6affdc2ba058a7f290bbf.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 4 HD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157655.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/8f205f87096a8cdc5a155c59c4c4302b.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 5 FHD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157656.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/8f205f87096a8cdc5a155c59c4c4302b.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 5 HD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157657.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a9f18d8485e9a95d99c25761de9176c5.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 6 FHD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157658.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a9f18d8485e9a95d99c25761de9176c5.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 6 HD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157659.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/dac682b838b51f0b114a39ccdcd3d25e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 7 FHD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157660.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/dac682b838b51f0b114a39ccdcd3d25e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 7 HD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157661.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/46a455c427a67dfaa443e7a3be0ac32a.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 8 FHD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157662.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/46a455c427a67dfaa443e7a3be0ac32a.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 8 HD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157663.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/3cfdb64f6a2d21ed5469b8195cd7377f.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 9 FHD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157664.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/3cfdb64f6a2d21ed5469b8195cd7377f.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga 9 HD (Match time only)
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157665.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/76a713ef83766648d739169d1c6a0472.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga FHD
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157666.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/76a713ef83766648d739169d1c6a0472.png" group-title="Duitsland / Germany SPORTS",DE: Sky Bundesliga HD
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157667.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 1 4K
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157715.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c0ea3be92940f0ad870051ed316427c4.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 1 FHD
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157716.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 1 HD
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157717.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 2 4K
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157718.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c0ea3be92940f0ad870051ed316427c4.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 2 FHD
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157719.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 2 HD
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157720.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 3 4K
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157721.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 3 FHD
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157722.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 4 4K
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157723.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 4 FHD
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157724.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 5 4K
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157725.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c0ea3be92940f0ad870051ed316427c4.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 5 FHD
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157726.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 5 HD
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157727.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 6 4K
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157728.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 6 FHD
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157729.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 7 4K
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157730.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 7 FHD
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157731.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 8 4K
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157732.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 8 FHD
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157733.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select 9 FHD
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157734.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/161d9d0b8f48eb9e2aa48eede6026e78.png" group-title="Duitsland / Germany SPORTS",DE: Sky Select Programmübersicht
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157735.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/7e289fda78a52aa6d7e78bd03fc2f075.png" group-title="Duitsland / Germany SPORTS",DE: Sky Sport 10 FHD (Event Only)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157739.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/7e289fda78a52aa6d7e78bd03fc2f075.png" group-title="Duitsland / Germany SPORTS",DE: Sky Sport 10 HD (Event Only)
@@ -5610,39 +5610,39 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/185698.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/77148.m3u8
 #EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 2 - Geen Wedstrijd
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/77149.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 3 - 08:00: United Cup United Cup 2026 (Dag 2 | Perth & Sydney)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 3 - 08:00: United Cup United Cup 2026 (Dag 3 | Perth & Sydney)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/77150.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 4 - 12:00: Snooker Championship League Snooker (Groepsfase | Groep 1)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 4 - 12:00: Snooker Championship League Snooker (Groepsfase | Groep 2)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/78650.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 5 - 13:20: Premier League Aston Villa - Nottingham Forest (Ronde 20)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 5 - 12:55: Championship Birmingham - Coventry (Ronde 26)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/78651.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 6 - 15:50: Premier League Brighton - Burnley (Ronde 20)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 6 - 14:55: Ligue 1 Marseille - Nantes (Ronde 17)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/92623.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 7 - 15:50: Premier League Wolverhampton - West Ham (Ronde 20)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 7 - 15:45: Premier League Fulham - Liverpool (Ronde 20 | Studio)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/92624.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 8 - 16:55: Ligue 1 Monaco - Lyon (Ronde 17)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 8 - 15:50: Premier League Tottenham - Sunderland (Ronde 20)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/92625.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 9 - 17:30: Snooker Championship League Snooker (Groepsfase | Groep 1)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 9 - 15:50: Premier League Newcastle - Crystal Palace (Ronde 20)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/92626.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 10 - 17:55: SHL Brynäs - Luleå (Competitieseizoen)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 10 - 15:50: Premier League Everton - Brentford (Ronde 20)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/92627.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 11 - 18:20: Premier League Bournemouth - Arsenal (Ronde 20)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 11 - 15:55: Championship Norwich - Stoke (Ronde 26)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/92628.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 12 - 18:55: Ligue 1 Nice - Strasbourg (Ronde 17)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 12 - 17:10: Ligue 1 Le Havre - Angers (Ronde 17)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/92629.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 13 - 19:55: Ligue 2 Le Mans - Saint-Étienne (Ronde 18)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 13 - 17:10: Ligue 1 Brest - Auxerre (Ronde 17)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/92793.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 14 - 20:40: PDC Darts World Darts Championship (Finale | Dag 20)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 14 - 17:10: Ligue 1 Lorient - Metz (Ronde 17)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/92794.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 15 - 21:00: Ligue 1 Lille - Rennes (Ronde 17)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 15 - 17:30: Snooker Championship League Snooker (Groepsfase | Groep 2)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/92795.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 16 - 00:00: United Cup United Cup 2026 (Dag 3 | Perth & Sydney)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 16 - 18:20: Premier League Man City - Chelsea (Ronde 20)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/92796.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 17 - 00:20: United Cup United Cup 2026 (Dag 3 | Sydney)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 17 - 20:35: Ligue 1 PSG - Paris FC (Ronde 17)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/92797.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 18 - Geen Wedstrijd - Ververs uw lijst / Zie telegram voor programma vandaag
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 18 - 00:00: United Cup United Cup 2026 (Dag 4 | Perth & Sydney)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/92798.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 19 - Geen Wedstrijd - Ververs uw lijst / Zie telegram voor programma vandaag
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 19 - 00:20: United Cup United Cup 2026 (Dag 4 | Sydney)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/92799.m3u8
 #EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 20 - Geen Wedstrijd - Ververs uw lijst / Zie telegram voor programma vandaag
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/92800.m3u8
@@ -5807,22 +5807,20 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16821.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_mxgp.png" group-title="SPECIALS / Darten / MotoGP / Mxgp / FIM Sidecar",MXGP Motocross Alle Races Alle Klasses
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/84077.m3u8
 
-# --- STAN (Europees Voetbal) (40) ---
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2026-01-03 12:30 - STAN 1 : Aston Villa v Nottingham Forest - Premier League 2025/2026
+# --- STAN (Europees Voetbal) (39) ---
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2026-01-04 12:30 - STAN 1 : Leeds United v Manchester United - Premier League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150964.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2026-01-03 15:50 - STAN 2 : Premier League Live - Wolves v West Ham - Premier League 2025/2026
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2026-01-04 15:50 - STAN 2 : Goal Rush - 5 Jan Premier League 2025/26
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150965.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2026-01-03 15:50 - STAN 3 : Wolverhampton Wanderers v West Ham United - Premier League 2025/2026
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2026-01-04 15:50 - STAN 3 : Fulham v Liverpool - Premier League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150966.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2026-01-03 15:50 - STAN 4 : Brighton & Hove Albion v Burnley - Premier League 2025/2026
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2026-01-04 15:50 - STAN 4 : Everton v Brentford - Premier League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150967.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2026-01-03 18:20 - STAN 5 : AFC Bournemouth v Arsenal - Premier League 2025/2026
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2026-01-04 15:50 - STAN 5 : Newcastle United v Crystal Palace - Premier League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150968.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2026-01-03 18:20 - STAN 6 : 4K - Bournemouth v Arsenal - Premier League 2025/2026
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150969.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-27 15:50 - STAN 7 : Arsenal v Brighton - Premier League 2025/2026
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2026-01-04 18:20 - STAN 7 : Manchester City v Chelsea - Premier League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150970.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-27 18:20 - STAN 8 : Chelsea v Aston Villa - Premier League 2025/2026
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2026-01-04 18:20 - STAN 8 : 4K - Man City v Chelsea - Premier League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150971.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dazn-logo-5BF74BE005-seeklogo.com.png" group-title="STAN (Europees Voetbal)",2025-12-27 18:20 - STAN 9 : 4K - Chelsea v Aston Villa - Premier League 2025/2026
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150974.m3u8
@@ -7211,4 +7209,4 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37632.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Zuid Afrika / South Afrika",ZA: SuperSport Golf
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37635.m3u8
 
-# Total: 3574
+# Total: 3573

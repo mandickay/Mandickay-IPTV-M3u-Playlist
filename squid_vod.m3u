@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-04 07:15:31
+# Generated: 2026-01-04 18:28:05
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -5879,7 +5879,15 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (602) ---
+# --- Movies | Filme 2025 (606) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg" group-title="Movies | Filme 2025",The King of Kings - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66092.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg" group-title="Movies | Filme 2025",Roofman - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66091.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg" group-title="Movies | Filme 2025",Fackham Hall - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66090.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sLSorDKKDN944kWngxgQlpdDeg.jpg" group-title="Movies | Filme 2025",Bāhubali: The Epic - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66089.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygsMOnttVCekvJZgvmnvaemxPHA.jpg" group-title="Movies | Filme 2025",Goodbye June - 2025
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65789.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7x3I5V9aP4tMZACmM8ClY8lK6K.jpg" group-title="Movies | Filme 2025",Wicked: For Good (2025)
@@ -10115,7 +10123,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9440.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pys6zIJN8Sxlk2Ss2GZuYuXPbtw.jpg" group-title="Movies | Filme Aventura (NOU)",Mirror Mirror (2012)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/3820.mp4
 
-# --- Movies | Filme Comedie (474) ---
+# --- Movies | Filme Comedie (475) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lABvGN7fDk5ifnwZoxij6G96t2w.jpg" group-title="Movies | Filme Comedie",Jerry Maguire - 1996
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66093.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHX0aYjxc2cIOBfYBuaYN9SvbUf.jpg" group-title="Movies | Filme Comedie",Harlem Nights - 1989
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65610.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shHrSmXS5140o6sQzgzXxn3KqSm.jpg" group-title="Movies | Filme Comedie",Mrs. Doubtfire (1993)
@@ -11475,7 +11485,13 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/42770.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/e1fvQdD63RP2MS9jCB8jzg7fkdr.jpg" group-title="Movies | Filme Dragoste",'Twas the Text Before Christmas (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/20724.mp4
 
-# --- Movies | Filme Drama (343) ---
+# --- Movies | Filme Drama (346) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnLnLYP5pGDfri04gxtAqAvkHMw.jpg" group-title="Movies | Filme Drama",Into the Wild - 2007
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66086.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg" group-title="Movies | Filme Drama",Dallas Buyers Club - 2013
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66085.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVP45oS2cBL4WtZ1kB7r8uarruB.jpg" group-title="Movies | Filme Drama",A River Runs Through It - 1992
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66084.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7y5VuS218Nqc8eVdeuOrlYWWD0D.jpg" group-title="Movies | Filme Drama",Love in the Time of Cholera - 2007
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65022.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAECAgqjSFRVZzEEGbFAZqZNiDh.jpg" group-title="Movies | Filme Drama",The Cider House Rules - 1999
@@ -14737,7 +14753,11 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/3511.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg" group-title="Movies | Filme Romantice (NOU)",After We Collided  (2020)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/30873.mp4
 
-# --- Movies | Filme SCI-FI (93) ---
+# --- Movies | Filme SCI-FI (95) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krOWstmTUdfafRbXH9YAjVj2zE5.jpg" group-title="Movies | Filme SCI-FI",The Man from Earth: Holocene - 2017
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66088.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg" group-title="Movies | Filme SCI-FI",2001: A Space Odyssey - 1968
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66087.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmOKJWl3wnXDcLhjtJHnCCCvAiO.jpg" group-title="Movies | Filme SCI-FI",Transcendence - 2014
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/64311.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tafXZX0I6rso7EyoEzfygfTqxq6.jpg" group-title="Movies | Filme SCI-FI",K-PAX (2001)
@@ -15011,7 +15031,15 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/31665.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dhHpbBemuyEBgcYGrmm7bHpjgdO.jpg" group-title="Movies | Filme SCI-FI (NOU)",Battle Drone  (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9682.mp4
 
-# --- Movies | Filme Thriller (201) ---
+# --- Movies | Filme Thriller (205) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY5j2xQzMGWmxBuhQo0HfA4Lxqb.jpg" group-title="Movies | Filme Thriller",The Place Beyond the Pines - 2013
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66083.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVUDMnskSc01rdbyH0tLATTJUdP.jpg" group-title="Movies | Filme Thriller",The Lives of Others - 2006
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66082.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg" group-title="Movies | Filme Thriller",In Bruges (2008)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66081.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg" group-title="Movies | Filme Thriller",Chinatown (1974)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66080.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wrFrUej8ri5EpjgIkjKTAnr686.jpg" group-title="Movies | Filme Thriller",Perfume: The Story of a Murderer - 2006
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/64782.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVBbDPbm1H4Z9M7uZ976KFaAjDR.jpg" group-title="Movies | Filme Thriller",The Sicilian Clan - 1969
@@ -19615,4 +19643,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8632
+# Total: 8646

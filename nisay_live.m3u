@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-04 07:18:21
+# Generated: 2026-01-04 18:27:46
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -45,7 +45,7 @@ http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/107630.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AF: AFGHANISTAN",AFG: AMC
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/107631.m3u8
 
-# --- AL: ALBANIA (115) ---
+# --- AL: ALBANIA (117) ---
 #EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",AL: RTK 1 HD Ⓡ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/135156.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",AL: RTK 1 Ⓡ
@@ -60,6 +60,10 @@ http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/135160.m3u8
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/135161.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",AL: RTV 21 HD Ⓡ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/135162.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",AL: Big Brother 1 Ⓜ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159757.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",AL: Big Brother 2 Ⓜ
+http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/159758.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",AL: Klan Kosova HD Ⓡ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/135163.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",AL: KTV Ⓡ
@@ -10853,4 +10857,4 @@ http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/154856.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WORLD SPORTS",VIP SPORT: WWE Network (US)
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/154857.m3u8
 
-# Total: 5343
+# Total: 5345

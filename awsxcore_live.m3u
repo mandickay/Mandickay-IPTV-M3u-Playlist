@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: awsxcore.uk:8080
-# Generated: 2026-01-01 18:26:56
+# Generated: 2026-01-04 18:27:34
 # Expires: 2026-11-18
 # Family Safe Edition
 # ==============================================
@@ -53,7 +53,7 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191084.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/3a1436c0020df67648220a778ae0c0eb.png" group-title="⭐RADIO",RADIO CONSTANTA
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191085.m3u8
 
-# --- ⭐ROMANIA (505) ---
+# --- ⭐ROMANIA (503) ---
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/229c46ddb75cac1f2ca511b6c99e97c2.png" group-title="⭐ROMANIA",COLINDE DE CRACIUN 1
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/209834.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/229c46ddb75cac1f2ca511b6c99e97c2.png" group-title="⭐ROMANIA",COLINDE DE CRACIUN 2
@@ -356,8 +356,6 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/240.m3u8
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/204.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/bbc_earth.png" group-title="⭐ROMANIA",BBC EARTH SD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/118.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/cbs_reality.png" group-title="⭐ROMANIA",CBS REALITY SD
-http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/85068.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/crime_and_investigation.png" group-title="⭐ROMANIA",CRIME & INVESTIGATION
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/193.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/digi_animal_world.png" group-title="⭐ROMANIA",DIGI ANIMAL WORLD FHD
@@ -532,8 +530,6 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/181712.m3u8
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/217.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/straine/mezzo.png" group-title="⭐ROMANIA",MEZZO
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191555.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/mtv_00s.png" group-title="⭐ROMANIA",MTV 00s
-http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191556.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/mtv.png" group-title="⭐ROMANIA",MTV EUROPE
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/252.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/1music.png" group-title="⭐ROMANIA",MUSIC CHANNEL SD
@@ -1065,4 +1061,4 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/48.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_4k.png" group-title="⭐ROMANIA",EUROSPORT 4K
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/266.m3u8
 
-# Total: 527
+# Total: 525

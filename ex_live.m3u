@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ex.guteex.com:8000
-# Generated: 2026-01-05 18:41:19
+# Generated: 2026-01-06 07:06:06
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -737,7 +737,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41854.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | DEUTSCHLAND",BIG BROTHER 7/24
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/63275.m3u8
 
-# --- DE | DOKUMENTAR (45) ---
+# --- DE | DOKUMENTAR (50) ---
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | DOKUMENTAR",-------| DOKUMENTAR KANÄLE |-------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5503.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_82_6_85_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",National Geographic WILD HD
@@ -756,14 +756,18 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/1941.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/26948.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_70_D_85_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",Sky Documentaries
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65615.m3u8
-#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_D_6_85_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",Sky Crime HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/45171.m3u8
-#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_D_6_85_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",Sky Crime
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/46301.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_76_6_85_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",Sky Nature HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/26975.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_76_6_85_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",Sky Nature
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65614.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_D_6_85_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",Sky Crime HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/45171.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_D_6_85_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",Sky Crime
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/46301.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_2E87_411_1_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",RTL Crime HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/188.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_2E87_411_1_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",RTL Crime
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8320.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_16_192_2_85_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",Crime+Investigation HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5529.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | DOKUMENTAR",Animal Planet HD
@@ -790,6 +794,10 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/4650.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65618.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_26_F_85_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",HGTV HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/25530.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_2E87_411_1_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",RTL Living HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/187.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_2E87_411_1_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",RTL Living
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8321.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/GEO.png" group-title="DE | DOKUMENTAR",GEO Television HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/9921.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_30_5_85_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",N24 Doku HD
@@ -804,6 +812,8 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/2324.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7213.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_3337_45B_1_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",Servus TV HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/15605.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_2969_45A_1_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",Xplore HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65779.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_16_1013_451_35_C00000_0_0_0.png" group-title="DE | DOKUMENTAR",Bergblick HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/1940.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/Curiosity.png" group-title="DE | DOKUMENTAR",Curiosity Channel HD
@@ -829,7 +839,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/27024.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/EnglishClub.png" group-title="DE | DOKUMENTAR",English Club TV HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/10954.m3u8
 
-# --- DE | FILM UND SERIE (138) ---
+# --- DE | FILM UND SERIE (139) ---
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | FILM UND SERIE",-------| FILM UND SERIE KANÄLE |-------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5502.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_88_B_85_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",Warner TV Comedy HD
@@ -904,62 +914,64 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8325.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/55036.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_7477_3F0_1_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",AXN White
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/55037.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",RTL CRIME HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/188.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",RTL CRIME
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8320.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",RTL LIVING HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/187.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",RTL LIVING
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8321.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",NITRO HD
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_2F1D_441_1_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",Nitro. HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/3737.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",NITRO
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_2F1D_441_1_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",Nitro.
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8319.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",RTL PASSION HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/185.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",RTL PASSION
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8322.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",COMEDY CENTRAL HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5536.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",COMEDY CENTRAL
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41015.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",NICK / COMEDY CENTRAL HD +1
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41016.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",TELE 5 HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/190.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",ONE HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5540.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",ARD PLus Krimi FHD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/3350.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",SAT 1 GOLD HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/44802.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",SAT 1 GOLD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7204.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",SAT 1 EMOTIONS HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/9713.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",SAT 1 EMOTIONS
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/39232.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",KINOWELT HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/2323.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",KINOWELT
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8328.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",ROMANCE TV HD
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_206_2_85_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",Romance TV HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/4708.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",ROMANCE TV
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_206_2_85_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",Romance TV
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/25533.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",KABEL 1 CLASSIC HD
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/kinowelt.png" group-title="DE | FILM UND SERIE",Kinowelt HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/2323.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/kinowelt.png" group-title="DE | FILM UND SERIE",Kinowelt
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8328.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_16_14C2_407_1_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",Kabel Eins Classic HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7212.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",KABEL 1 CLASSIC
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_16_14C2_407_1_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",Kabel Eins Classic
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/21466.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",SILVERLINE HD
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_14BE_407_1_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",SAT.1 Gold HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/44802.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_14BE_407_1_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",SAT.1 Gold
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7204.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_16_14C1_407_1_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",SAT.1 emotions HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/9713.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_16_14C1_407_1_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",SAT.1 emotions
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/39232.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_33_21_85_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",Tele 5 HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/190.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_33_21_85_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",Tele 5
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41011.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_2888_40F_1_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",One HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5540.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/ard1plus.png" group-title="DE | FILM UND SERIE",ARD 1 Plus HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/3350.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_2E87_411_1_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",RTL Passion HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/185.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_2E87_411_1_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",RTL Passion
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8322.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/silverline.png" group-title="DE | FILM UND SERIE",Silverline HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8359.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",Crime Time HD
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/silverline.png" group-title="DE | FILM UND SERIE",Silverline
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41016.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_313F_459_1_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",Wedo Movies HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/13048.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/Primevideo.png" group-title="DE | FILM UND SERIE",Prime Video Cinema HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65783.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_7004_436_1_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",Comedy Central HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5536.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_7004_436_1_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",Comedy Central
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41015.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_29D0_45C_1_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",Crime Time HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/60374.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",Serien+ FHD
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_29D1_45C_1_C00000_0_0_0.png" group-title="DE | FILM UND SERIE",Serien+ FHD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/60373.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",MyTime Movie Network
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | FILM UND SERIE",MyTime Movie Network
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/36805.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/topserien.png" group-title="DE | FILM UND SERIE",Top Serien hd
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65780.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/topfilme.png" group-title="DE | FILM UND SERIE",Top Filme HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65781.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",MAX SELECT HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8846.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",MAX SELECT 2 HD
@@ -1107,7 +1119,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/37357.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",Germany Box Disney+
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/37358.m3u8
 
-# --- DE | KINDER (31) ---
+# --- DE | KINDER (33) ---
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",-------| KINDER KANÄLE |-------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5500.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_2B98_3F2_1_C00000_0_0_0.png" group-title="DE | KINDER",Kika HD
@@ -1142,6 +1154,10 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/20121.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/1838.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_16_1B_D_85_C00000_0_0_0.png" group-title="DE | KINDER",Nicktoons HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8332.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_778A_424_1_C00000_0_0_0.png" group-title="DE | KINDER",Baby TV.
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65776.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_32DB_45D_1_C00000_0_0_0.png" group-title="DE | KINDER",Ric HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65777.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",Peppa Wutz
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/10270.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",PJ Masks
@@ -1171,7 +1187,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65541.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",The Looney Toons
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65540.m3u8
 
-# --- DE | MUSIK (39) ---
+# --- DE | MUSIK (40) ---
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | MUSIK",-------| MUSIK KANÄLE |-------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8365.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | MUSIK",Kaliteex Music Hits HD
@@ -1186,6 +1202,8 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5531.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/1742.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_293A_458_1_C00000_0_0_0.png" group-title="DE | MUSIK",Deluxe Music Rap HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5532.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_296B_45A_1_C00000_0_0_0.png" group-title="DE | MUSIK",Deluxe Music Dance HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65778.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | MUSIK",One Music HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/27025.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | MUSIK",Zwei Music HD
@@ -4493,4 +4511,4 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40596.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR- RADIO",RADYO | Diyanet Kur'ân Radyo
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40597.m3u8
 
-# Total: 2208
+# Total: 2217

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-01-05 18:32:47
+# Generated: 2026-01-06 07:14:57
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -1672,8 +1672,6 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/3075.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/7025.m3u8
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES",ES*PN 3 Latino HD
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/3077.m3u8
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2011/04/RS1129_ESPN_Deportes_CLR_Pos-scr.jpg" group-title="DEPORTES",ES*PN Deportes
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/129823.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="DEPORTES",Es*pn Extra
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/50010.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="DEPORTES",Es*pn Extra HD
@@ -1916,6 +1914,8 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/82189.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/36.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/vector-del-logotipo-escudo-futsal-de-f%C3%BAtbol-concepto-dise%C3%B1o-la-prima-vectorial-futbol-169843661.jpg" group-title="DEPORTES",Futsal Chile PPV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/123399.m3u8
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2011/04/RS1129_ESPN_Deportes_CLR_Pos-scr.jpg" group-title="DEPORTES",ES*PN Deportes
+http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/130478.m3u8
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/bandsports.png" group-title="DEPORTES",Band Sports
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/5190.m3u8
 

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-01-05 18:37:32
+# Generated: 2026-01-06 07:16:31
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -18708,8 +18708,6 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190814.mkv
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190815.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1hST9Nw6oHSoZEygeqhUzanlcq.jpg" group-title="Movies | Nieuwe Releases 2025",Jay Kelly (2025)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190839.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg" group-title="Movies | Nieuwe Releases 2025",Predator: Badlands (2025)
-http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190840.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rGsqBxI4r1YkS9FuraovWi465w.jpg" group-title="Movies | Nieuwe Releases 2025",Z-O-M-B-I-E-S 4: Dawn of the Vampires (2025) (NL en ENG)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190856.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg" group-title="Movies | Nieuwe Releases 2025",My Secret Santa (2025)
@@ -18794,6 +18792,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196328.mkv
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196354.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1JOs4xWNr1QYjDAXHxWw1NJ7Sq.jpg" group-title="Movies | Nieuwe Releases 2025",Monster Island (2025)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196377.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg" group-title="Movies | Nieuwe Releases 2025",Predator: Badlands (2025)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196384.mkv
 
 # --- Movies | Oorlog / War (59) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg" group-title="Movies | Oorlog / War",Jarhead: Law of Return
@@ -20483,7 +20483,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/2728.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Viaplay",Vrooooom
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3193.mp4
 
-# --- Movies | Videoland (278) ---
+# --- Movies | Videoland (279) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",De 12 van Schouwendam
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",Mocro Maffia
@@ -21040,6 +21040,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3557.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3570.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",House of Villains
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3594.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",Pandora
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3597.mp4
 
 # --- Movies | WESTERN FILMS (51) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rVIjriV3Sv1B9INrzGRXW8Q7aY.jpg" group-title="Movies | WESTERN FILMS",The Magnificent Seven (1960)
@@ -22159,4 +22161,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11024
+# Total: 11025

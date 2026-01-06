@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-05 18:39:14
+# Generated: 2026-01-06 07:11:02
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -4817,7 +4817,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/53579.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/AuQjsUXA4h4PaeGhs5NWdodZmBr.jpg" group-title="Movies | Filme 2023",Bucha (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/16298.mp4
 
-# --- Movies | Filme 2024 (532) ---
+# --- Movies | Filme 2024 (533) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg" group-title="Movies | Filme 2024",I'm Still Here - 2024
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66117.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNusIXksXCMYize9ldIeBOZORcY.jpg" group-title="Movies | Filme 2024",Two Scoops of Italy - 2024
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65670.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE6UNLmcpjaHGrLVsBjeF2OPoiS.jpg" group-title="Movies | Filme 2024",Witchy Ways - 2024
@@ -5883,7 +5885,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (607) ---
+# --- Movies | Filme 2025 (608) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg" group-title="Movies | Filme 2025",Demon Slayer: Kimetsu no Yaiba Infinity Castle - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66118.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udkbDwBbysCGEydt0FHnl9dVO2k.jpg" group-title="Movies | Filme 2025",Thamma (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66095.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg" group-title="Movies | Filme 2025",The King of Kings - 2025
@@ -11493,7 +11497,13 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/42770.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/e1fvQdD63RP2MS9jCB8jzg7fkdr.jpg" group-title="Movies | Filme Dragoste",'Twas the Text Before Christmas (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/20724.mp4
 
-# --- Movies | Filme Drama (347) ---
+# --- Movies | Filme Drama (350) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucFsh8uU0Lsw7zouQFaRrs2ElOs.jpg" group-title="Movies | Filme Drama",Wild Tales - 2014
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66116.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7yCrf3PTSdp6RMGktZQhzFcFFM.jpg" group-title="Movies | Filme Drama",Elite Squad: The Enemy Within - 2010
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66115.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwIXz785N2fXi8hsBr1IXciFlkM.jpg" group-title="Movies | Filme Drama",Elite Squad - 2007
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66114.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAi8Bl3ZKX6pANPVhNwbhbQANop.jpg" group-title="Movies | Filme Drama",The Butler - 2013
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66107.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnLnLYP5pGDfri04gxtAqAvkHMw.jpg" group-title="Movies | Filme Drama",Into the Wild - 2007
@@ -17861,6 +17871,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/817.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Profu",Profu' (2019)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/910.mp4
 
+# --- Movies | Psych (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Psych",Psych (2006)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1138.mp4
+
 # --- Movies | Public Disorder (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Public Disorder",Public Disorder
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/850.mp4
@@ -19657,4 +19671,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8653
+# Total: 8659

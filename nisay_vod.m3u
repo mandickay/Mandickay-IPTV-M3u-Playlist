@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-05 18:34:33
+# Generated: 2026-01-06 07:05:52
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -12819,7 +12819,13 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139884.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5y0hFRhfx34Be04B7GGqg5TMTM0.jpg" group-title="Movies | DE: FILME 2024",DE: City Hunter (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139885.mp4
 
-# --- Movies | DE: FILME 2025 (385) ---
+# --- Movies | DE: FILME 2025 (388) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dWLWg5ILia3oAtMfa0kO2zmQKC.jpg" group-title="Movies | DE: FILME 2025",DE: Der Tiger (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159892.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KGA3Yc1zU823rzl9Apk3vGqitt.jpg" group-title="Movies | DE: FILME 2025",DE: Theken-Cowboys (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159893.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8zYHT3nwzBITknyPwIFarUbiFp.jpg" group-title="Movies | DE: FILME 2025",DE: Folge meiner Stimme (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159894.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK0JLfdjN9gtOQNmf6JNyQwxoCT.jpg" group-title="Movies | DE: FILME 2025",DE: Barren Land - Die Macht des Kartells (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159728.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUI7mFbfxSXoHgqWQfcVZZMnk4U.jpg" group-title="Movies | DE: FILME 2025",DE: Shaman (2025)
@@ -13607,7 +13613,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1749.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: HBO MAX",DE: I Love LA
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1808.mp4
 
-# --- Movies | DE: NETFLIX (127) ---
+# --- Movies | DE: NETFLIX (128) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Squid Game
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/328.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Vikings: Valhalla
@@ -13862,6 +13868,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1825.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1829.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE:Cashero
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1840.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Land der Sünde
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1850.mp4
 
 # --- Movies | DE: PARAMOUNT+ (14) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: PARAMOUNT+",DE: Star Trek: Strange New Worlds
@@ -19947,4 +19955,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9906
+# Total: 9910

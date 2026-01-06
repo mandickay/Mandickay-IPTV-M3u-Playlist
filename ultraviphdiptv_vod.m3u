@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultraviphdiptv.com:8000
-# Generated: 2026-01-05 18:35:10
+# Generated: 2026-01-06 07:09:08
 # Expires: 2026-03-16
 # Family Safe Edition
 # ==============================================
@@ -10094,6 +10094,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167725.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167637.mkv
 
 # --- Movies | DiZi PAZARTESi (28) ---
+#EXTINF:-1 tvg-logo="https://iili.io/2T1hSaf.jpg" group-title="Movies | DiZi PAZARTESi",Uzak Şehir 44.BLM
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169646.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1hSaf.jpg" group-title="Movies | DiZi PAZARTESi",Uzak Şehir 43.BLM
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169092.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1hSaf.jpg" group-title="Movies | DiZi PAZARTESi",Uzak Şehir 42.BLM
@@ -10102,8 +10104,6 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168999.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168627.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1hSaf.jpg" group-title="Movies | DiZi PAZARTESi",Uzak Şehir 40.BLM
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168215.mkv
-#EXTINF:-1 tvg-logo="https://iili.io/2T1hSaf.jpg" group-title="Movies | DiZi PAZARTESi",Uzak Şehir 39.BLM
-http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168106.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2iIUSrg.jpg" group-title="Movies | DiZi PAZARTESi",Kızıl Goncalar 46.BLM (final)
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/158658.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2iIUSrg.jpg" group-title="Movies | DiZi PAZARTESi",Kızıl Goncalar 45.BLM
@@ -15753,7 +15753,7 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1531.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: GAIN",FER
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1769.mp4
 
-# --- Movies | TR: HBO MAX (23) ---
+# --- Movies | TR: HBO MAX (24) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: HBO MAX",TR: House of the Dragon
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/856.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: HBO MAX",Euphoria
@@ -15800,6 +15800,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1790.mp4
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1809.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: HBO MAX",Jasmine
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1817.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR: HBO MAX",Heaven
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1846.mp4
 
 # --- Movies | TR: NETFLIX DIZILERI (462) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",TR: Hakan: Muhafız
@@ -16891,7 +16893,9 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1824.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: PRIME VIDEO",Harlan Coben'den Lazarus
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1830.mp4
 
-# --- Movies | TR: TV SHOW´S (30) ---
+# --- Movies | TR: TV SHOW´S (31) ---
+#EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 05.01.2026
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169647.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 04.01.2026
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169443.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 03.01.2026
@@ -19341,4 +19345,4 @@ http://ultraviphdiptv.com:8000/series/Figo/KDYwefapLL/1225
 #EXTINF:-1 tvg-logo="" group-title="Series | TR: BEIN SERIES",Sorgu
 http://ultraviphdiptv.com:8000/series/Figo/KDYwefapLL/1409
 
-# Total: 9623
+# Total: 9625

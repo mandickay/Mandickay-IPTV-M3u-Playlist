@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-01-07 18:29:42
+# Generated: 2026-01-08 07:06:21
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -5291,7 +5291,7 @@ http://45.139.122.199:8080/movie/Martin1/martin1/2160326.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjWiVF2vFwd3mhs1dNoS0SOHxqt.jpg" group-title="Movies | VOD: Kids Movies",Ternet Ninja 2 [DK] [2021]
 http://45.139.122.199:8080/movie/Martin1/martin1/135645.mkv
 
-# --- Movies | VOD: Old Popular Movies [Multi-Sub] (7556) ---
+# --- Movies | VOD: Old Popular Movies [Multi-Sub] (7557) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivo09vYN76w3epqAv9jS9BEXi5N.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",How to Build a Better Boy [PRE] [Multi-AUDIO] [2014]
 http://45.139.122.199:8080/movie/Martin1/martin1/617857.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gsWYYYOCVWFy2JyMD7HRg6KfyC.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",Bad Hair Day [PRE] [Multi-AUDIO] [2015]
@@ -20404,8 +20404,10 @@ http://45.139.122.199:8080/movie/Martin1/martin1/2191463.mkv
 http://45.139.122.199:8080/movie/Martin1/martin1/2191464.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pRMweo9WA1MvYOLsD2hWyFpZ1V.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",Rock Star [PRE] [2001]
 http://45.139.122.199:8080/movie/Martin1/martin1/2209124.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RdyzWbN3zTF1559GRnLbamy3V4.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",K-9: P.I. [PRE] [2002]
+http://45.139.122.199:8080/movie/Martin1/martin1/2209739.mkv
 
-# --- Movies | VOD: Premiere Cinemas [Multi-Sub] (5396) ---
+# --- Movies | VOD: Premiere Cinemas [Multi-Sub] (5402) ---
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/movies//hPXSWiuYdJXHtcDS5wluYWgZldE.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Mickey's Once Upon a Christmas [KIDS] [1999]
 http://45.139.122.199:8080/movie/Martin1/martin1/45093.mkv
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/5cbece1549ed329e896796657dc4fcdf.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog [PRE] [2021]
@@ -31198,6 +31200,18 @@ http://45.139.122.199:8080/movie/Martin1/martin1/2208583.mkv
 http://45.139.122.199:8080/movie/Martin1/martin1/2208584.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WjKjXfJklBv0w4hvlOmocIUzJx.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Music Box: Counting Crows: Have You Seen Me Lately? [PRE] [2025]
 http://45.139.122.199:8080/movie/Martin1/martin1/2208585.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LirpQnBmBpAOa5Me1lBCBBy90e.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Breakdown: 1975 [PRE] [2025]
+http://45.139.122.199:8080/movie/Martin1/martin1/2209582.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JbuKgQBc8KlXopF1eege54HNQ5.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Preparation for the Next Life [PRE] [2025]
+http://45.139.122.199:8080/movie/Martin1/martin1/2209583.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGRZ55srJoK6TcjPTfHe701UWq0.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Rental Family [PRE] [2025]
+http://45.139.122.199:8080/movie/Martin1/martin1/2209584.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Roofman [PRE] [2025]
+http://45.139.122.199:8080/movie/Martin1/martin1/2209585.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tUOZQDgZaGqZtrB21MieiXARL2.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",The Great Flood [PRE] [2025]
+http://45.139.122.199:8080/movie/Martin1/martin1/2209586.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTDKgSCAuAcXbGfUbJ0wwRFOgFS.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",The Secrets We Bury [PRE] [2025]
+http://45.139.122.199:8080/movie/Martin1/martin1/2209587.mkv
 
 # --- Movies | VOD: Relaxing Music (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD: Relaxing Music",Fall Asleep Fast Eliminates All Negative Energy
@@ -31215,7 +31229,9 @@ http://45.139.122.199:8080/movie/Martin1/martin1/503168.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD: Relaxing Music",10 Hours of Relaxing Music Calm Piano Guitar, Sleep Music, Study Music 0003
 http://45.139.122.199:8080/movie/Martin1/martin1/503169.mp4
 
-# --- Movies | VOD: Svenska (776) ---
+# --- Movies | VOD: Svenska (777) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5fwWguNxAuxI7vUm3OznuR2n42.jpg" group-title="Movies | VOD: Svenska",Gladiatorerna - kärleken, skandalerna & dödskraschen [SE] [Multi-Sub] [2025]
+http://45.139.122.199:8080/movie/Martin1/martin1/2209649.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhrSV4I3Dq8d3eyJfC9dXZkteQP.jpg" group-title="Movies | VOD: Svenska",TV4:s nyårskarameller 2025 [SE] [Multi-Sub] [2026]
 http://45.139.122.199:8080/movie/Martin1/martin1/2203354.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0aZ6dpWuVORUGW0D0wdvBts40i.jpg" group-title="Movies | VOD: Svenska",Veranda för en tenor [SE] [Multi-Sub] [1998]
@@ -32811,4 +32827,4 @@ http://45.139.122.199:8080/movie/Martin1/martin1/1036211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9sa6ERZCpplbPEO7OMWE763CLD.jpg" group-title="Movies | VOD: [Dolby Vision] 4k Movies [Multi-Sub] [Only On Dolby Vision Devices]",First Blood [1982] [Dolby Vision] [Multi-Sub] [4K]
 http://45.139.122.199:8080/movie/Martin1/martin1/2173473.mkv
 
-# Total: 16386
+# Total: 16394

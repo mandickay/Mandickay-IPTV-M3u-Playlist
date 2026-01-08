@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2026-01-07 18:37:05
+# Generated: 2026-01-08 07:06:48
 # Expires: 2026-01-18
 # Family Safe Edition
 # ==============================================
@@ -32151,7 +32151,7 @@ http://brone.fyi/series/felipe_irma/Teste44/4190
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | EXCLUSIVAS",AURORA OCULTA O GOVERNANTE ASCENDENTE
 http://brone.fyi/series/felipe_irma/Teste44/4219
 
-# --- Series | SERIES | GLOBOPLAY (248) ---
+# --- Series | SERIES | GLOBOPLAY (249) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | GLOBOPLAY",THE GOOD DOCTOR
 http://brone.fyi/series/felipe_irma/Teste44/32
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | GLOBOPLAY",CIDADE DOS HOMENS
@@ -32648,8 +32648,10 @@ http://brone.fyi/series/felipe_irma/Teste44/4195
 http://brone.fyi/series/felipe_irma/Teste44/4196
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | GLOBOPLAY",VIDA DE RODEIO
 http://brone.fyi/series/felipe_irma/Teste44/4197
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | GLOBOPLAY",ALTA FIDELIDADE
+http://brone.fyi/series/felipe_irma/Teste44/4221
 
-# --- Series | SERIES | HBO MAX (339) ---
+# --- Series | SERIES | HBO MAX (340) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | HBO MAX",GAME OF THRONES
 http://brone.fyi/series/felipe_irma/Teste44/5
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | HBO MAX",MAQUINA MORTIFERA
@@ -33328,8 +33330,10 @@ http://brone.fyi/series/felipe_irma/Teste44/4202
 http://brone.fyi/series/felipe_irma/Teste44/4203
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | HBO MAX",SO ACONTECE NA FLORIDA
 http://brone.fyi/series/felipe_irma/Teste44/4204
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | HBO MAX",VGLY
+http://brone.fyi/series/felipe_irma/Teste44/4220
 
-# --- Series | SERIES | LEGENDADAS (17) ---
+# --- Series | SERIES | LEGENDADAS (19) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | LEGENDADAS",VIS A VIS EL OASIS LEG
 http://brone.fyi/series/felipe_irma/Teste44/429
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | LEGENDADAS",30 MONEDAS LEG
@@ -33364,6 +33368,10 @@ http://brone.fyi/series/felipe_irma/Teste44/3872
 http://brone.fyi/series/felipe_irma/Teste44/4086
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | LEGENDADAS",MOBIUS LEG
 http://brone.fyi/series/felipe_irma/Teste44/4089
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | LEGENDADAS",HEATED RIVALRY LEG
+http://brone.fyi/series/felipe_irma/Teste44/4222
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES | LEGENDADAS",PRIMEIRO HOMEM LEG
+http://brone.fyi/series/felipe_irma/Teste44/4223
 
 # --- Series | SERIES | NETFLIX (989) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | NETFLIX",LA CASA DE PAPEL
@@ -35625,4 +35633,4 @@ http://brone.fyi/series/felipe_irma/Teste44/3096
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | VIKI ROKUTEN",MERITISSIMO
 http://brone.fyi/series/felipe_irma/Teste44/3777
 
-# Total: 17767
+# Total: 17771

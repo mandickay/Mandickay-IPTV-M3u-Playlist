@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-01-07 18:36:48
+# Generated: 2026-01-08 07:05:19
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -1847,9 +1847,13 @@ http://world-service.us:8080/movie/giovanmer/merante/2034.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NAPOLI",Tradimento
 http://world-service.us:8080/movie/giovanmer/merante/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1458) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1460) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://world-service.us:8080/movie/giovanmer/merante/62556.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/928df3471dd143713fbee34cd889eddb.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Agente speciale 117 al servizio della Repubblica: Missione Rio (2009)
+http://world-service.us:8080/movie/giovanmer/merante/86407.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/3d28098044b46f62b1f5fac886359f6d.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",RocknRolla (2008)
+http://world-service.us:8080/movie/giovanmer/merante/86410.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/c304031770d66430695d2784f5163ae8.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",White Raid  Colpo nella tormenta Mikaela (2025)
 http://world-service.us:8080/movie/giovanmer/merante/86391.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/b1084ad6b2f3bc8aa4af6ab7a75b20e4.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Der Tiger - Viaggio all'inferno (2025)
@@ -3854,8 +3858,8 @@ http://world-service.us:8080/movie/giovanmer/merante/4770.mkv
 http://world-service.us:8080/movie/giovanmer/merante/4771.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWm7SjxJ1m37gr7UeCR1r8Ydwt5.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",James Bond 007 - Casino Royale
 http://world-service.us:8080/movie/giovanmer/merante/4774.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35oEjGgvAONZwVNBQWW2bB8AXic.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",A 007, dalla Russia con amore
-http://world-service.us:8080/movie/giovanmer/merante/4772.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/7f5737cf6b493aafba7427f32e820bcd.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",A 007 dalla Russia con amore
+http://world-service.us:8080/movie/giovanmer/merante/4772.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFghmMzIj3OtXSDEYZoi0ZvfyEV.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",GoldenEye
 http://world-service.us:8080/movie/giovanmer/merante/4773.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4U3tr1YUcIapPLQ1yqv7UesDI4.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Il domani non muore mai
@@ -8067,9 +8071,13 @@ http://world-service.us:8080/movie/giovanmer/merante/18135.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON COMICO",Made in Sud  I Gomorroidi con Salvatore Conte   Made in Sud 12042017
 http://world-service.us:8080/movie/giovanmer/merante/18158.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (977) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (979) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://world-service.us:8080/movie/giovanmer/merante/1659.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/18b5c37aa69195e737bbd4b7eb4bd3c9.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Focus - Niente è come sembra (2015)
+http://world-service.us:8080/movie/giovanmer/merante/86408.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/326e51b0f2760381b6a423f8e2270847.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Lock & Stock - Pazzi scatenati (1998)
+http://world-service.us:8080/movie/giovanmer/merante/86409.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ae292e3afd2a978047bc84abe570227f.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Scary Movie (2000)
 http://world-service.us:8080/movie/giovanmer/merante/86385.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/851cea61058056ab409a01397a92243b.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Scary Movie 2 (2001)
@@ -21389,7 +21397,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1350.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",BAT-FAM
 http://world-service.us:8080/movie/giovanmer/merante/1550.mp4
 
-# --- Movies | SERIE-TV (498) ---
+# --- Movies | SERIE-TV (500) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
 http://world-service.us:8080/movie/giovanmer/merante/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
@@ -22386,6 +22394,10 @@ http://world-service.us:8080/movie/giovanmer/merante/1586.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1592.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Walking Dead Dead City
 http://world-service.us:8080/movie/giovanmer/merante/1593.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Amadeus
+http://world-service.us:8080/movie/giovanmer/merante/1600.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Rainmaker
+http://world-service.us:8080/movie/giovanmer/merante/1601.mp4
 
 # --- Movies | SERIE-TV-ITALIA (143) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
@@ -32879,4 +32891,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16408
+# Total: 16414

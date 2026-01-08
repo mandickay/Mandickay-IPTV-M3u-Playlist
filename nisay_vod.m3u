@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-07 18:35:29
+# Generated: 2026-01-08 07:11:54
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -5767,7 +5767,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138035.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoYqn1dS0DgxDsRqQ3Aqms72yGL.jpg" group-title="Movies | 3D TV",Güzel ve Çirkin 3D TV (2017)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138036.mkv
 
-# --- Movies | AMAZON (113) ---
+# --- Movies | AMAZON (114) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON",Fringe
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/214.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON",Chucky
@@ -5994,6 +5994,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1802.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1815.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON",Elbet Yarın - Surely Tomorrow
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1833.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON",Bahar Esintisi - Spring Fever
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1851.mp4
 
 # --- Movies | BEIN/TODD (62) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Aile Sirketi
@@ -17243,7 +17245,11 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (318) ---
+# --- Movies | SON EKLENEN 300 FILM (320) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaqqY14vyKZMHQC8pqnqWcmJQ4k.jpg" group-title="Movies | SON EKLENEN 300 FILM",The House of Us (2019)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159909.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OfHBk5zCjcBeBKHpSYtdwG9VPy.jpg" group-title="Movies | SON EKLENEN 300 FILM",Güller (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159910.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lufarLotFboQC86LRH5wUVh7JMw.jpg" group-title="Movies | SON EKLENEN 300 FILM",Rembrandt (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159759.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2HlUfMufLsVArsoLgvphVCWJJK.jpg" group-title="Movies | SON EKLENEN 300 FILM",Sesimi Takip Et (2025)
@@ -19955,4 +19961,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9910
+# Total: 9913

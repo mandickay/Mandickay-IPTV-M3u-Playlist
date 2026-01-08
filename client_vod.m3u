@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: client.newborntv.xyz:88
-# Generated: 2026-01-07 18:31:03
+# Generated: 2026-01-08 07:07:09
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -7493,7 +7493,9 @@ http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/89822.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xidZacCXALZTTxg3kAeIyqxRmkI.jpg" group-title="Movies | Riyadh Season 2024 - Kingdom Arena Boxing",Artur Beterbiev vs. Dmitry Bivol (2024)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/89781.mkv
 
-# --- Movies | Seriale Turke Me Titra Shqip (12) ---
+# --- Movies | Seriale Turke Me Titra Shqip (13) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Turke Me Titra Shqip",Kuzey Yıldızı: İlk Aşk (2019)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/548.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Turke Me Titra Shqip",Aile (Familja)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/543.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Turke Me Titra Shqip",Fatih Harbiye (2013)
@@ -7637,9 +7639,53 @@ http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/86834.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg" group-title="Movies | Unknown",The Killer's Game (2024)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/100934.mp4
 
-# --- Movies | VOD DE (637) ---
+# --- Movies | VOD DE (659) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgEoCEMWWt7E1esLeok7G99uXtq.jpg" group-title="Movies | VOD DE",Greedy People: Gelegenheit macht gierig (2024)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/97812.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29kdBee6By4GNlqlbFTCz004Qzw.jpg" group-title="Movies | VOD DE",Wicked: Teil 2 (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114898.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Ae935JgSVxcpzSfKq8QImgXK4U.jpg" group-title="Movies | VOD DE",Operation Valiant One (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114897.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8sxIBWu2erYThgm25JWsSOqJWA.jpg" group-title="Movies | VOD DE",The Old Guard 2 (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114896.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mk1slDTg4HbGA65GGijLMdkDEt7.jpg" group-title="Movies | VOD DE",The Long Walk - Todesmarsch (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114895.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/loqUPsShyS5bqfHHFuedGS3xq8P.jpg" group-title="Movies | VOD DE",Die Legende von Ochi (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114894.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRV8SaKUP83s2cWqpPVd8DojNau.jpg" group-title="Movies | VOD DE",The Great Flood (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114893.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Qe76Dgzj2Wlu6eQr4Kru1CY8nh.jpg" group-title="Movies | VOD DE",The Astronaut (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114892.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/M7KKeJfhV5AVJO8JCd5Hix0vyH.jpg" group-title="Movies | VOD DE",SpongeBob Schwammkopf: Piraten Ahoi! (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114891.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWhr3veBAaHplq0uVL8Fl2azxaK.jpg" group-title="Movies | VOD DE",Sirāt (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114890.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6ROqQ3AcNe5XLUMIDoj1lOQXXq.jpg" group-title="Movies | VOD DE",Silent Night, Deadly Night (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114889.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RmnViWjlmFhsZOPHPZgUqsqNg.jpg" group-title="Movies | VOD DE",Prisoner of War (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114888.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg" group-title="Movies | VOD DE",Ozzy: No Escape from Now (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114887.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3szAYIIftJgBMkYJXmb3jA23ctl.jpg" group-title="Movies | VOD DE",Nobody 2 (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114886.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dljamTLg1aRwcO8kTPWwJUgsrco.jpg" group-title="Movies | VOD DE",Lilly und die Kängurus (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114885.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ps8dRYdD4kcJQACirB2Vfqs01c.jpg" group-title="Movies | VOD DE",KPop Demon Hunters (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114884.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnqf38zeWuOghsMikGNCi1Og6JM.jpg" group-title="Movies | VOD DE",Just Breathe (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114883.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJUzfTtbCUG1GXmVS24h8h0hXX3.jpg" group-title="Movies | VOD DE",Jurassic World Rebirth: The Making of a New Era (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114882.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzFm81c0ToNbrD22HqM6FE3Kkr1.jpg" group-title="Movies | VOD DE",Islands (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114881.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxOawsK1ZsOUFAN5XubqGv2hEXn.jpg" group-title="Movies | VOD DE",In the Lost Lands (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114880.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyTr8xyMDEa2MyEuhm418U7DgRm.jpg" group-title="Movies | VOD DE",Code 3 (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114879.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciZbhEvOY275r5gbY5qO803W4JZ.jpg" group-title="Movies | VOD DE",Anemone (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114878.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6lG1TjFqmX3WwG9GWYheM1JvWo.jpg" group-title="Movies | VOD DE",Anaconda (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114877.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vW5SWkfY3FxkMvGRMpU5bbIuxVS.jpg" group-title="Movies | VOD DE",Honey Don't! (2025)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/114755.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmEwxMEPdn1ciS9luMgA1RXaC9F.jpg" group-title="Movies | VOD DE",Him - Der Größte aller Zeiten (2025)
@@ -12095,4 +12141,4 @@ http://client.newborntv.xyz:88/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://client.newborntv.xyz:88/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 6014
+# Total: 6037

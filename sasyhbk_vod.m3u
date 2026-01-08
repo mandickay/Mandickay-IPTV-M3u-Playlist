@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sasyhbk.ddns.net:8000
-# Generated: 2026-01-07 18:31:35
+# Generated: 2026-01-08 07:06:25
 # Expires: 2026-03-11
 # Family Safe Edition
 # ==============================================
@@ -5347,7 +5347,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/89438.mkv
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/891631828725367cf18f144772a0cbef.jpg" group-title="Movies | Classici",Zucchero, miele e peperoncino (1980)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/89359.mkv
 
-# --- Movies | Commedia (2264) ---
+# --- Movies | Commedia (2265) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Commedia",----- COMMEDIA -----
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/54009.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:80/images/7c2f5e0a3bcb4d6c3a840ef750e3327b.jpg" group-title="Movies | Commedia",(500) giorni insieme (2009)
@@ -9876,6 +9876,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230535.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230686.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D12VaVcE4qYerQgzyAiUE016Xh.jpg" group-title="Movies | Commedia",Un tuffo nel passato 2 (2015)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230755.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAiG0cbzblkPS7Xtvs0LPORECwK.jpg" group-title="Movies | Commedia",Ogni promessa è debito (2026)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230808.mp4
 
 # --- Movies | Concerti (137) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/410cf889fabc224e145b0c49ea8d1bc1.png" group-title="Movies | Concerti",----- CONCERTI -----
@@ -11249,7 +11251,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230759.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivvob2XPqUtSC2LPmlKF2oRgEs4.jpg" group-title="Movies | Documentario",Sapere è potere
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230763.mp4
 
-# --- Movies | Drammatico (2480) ---
+# --- Movies | Drammatico (2481) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Drammatico",----- DRAMMATICO -----
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/54122.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/7bbce1ff06740329b7bfdb03dfd89deb.jpg" group-title="Movies | Drammatico",.45 (2006)
@@ -16210,6 +16212,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230753.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230757.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCQjAPmraF3ppv3KfNXA4lkBnbe.jpg" group-title="Movies | Drammatico",The Mastermind (2025)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230765.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PJ4DfW9T2uG9Bj6X20i2R3yW3A.jpg" group-title="Movies | Drammatico",Duse (2025)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230807.mp4
 
 # --- Movies | Fantascienza (344) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Fantascienza",----- FANTASCIENZA -----
@@ -37355,4 +37359,4 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/86697.mkv
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/5537d21a012d0e46b9ebddd4a137ef26.jpg" group-title="Movies | Western",… E continuavano a fregarsi il milione di dollari (1971)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/86638.mkv
 
-# Total: 18627
+# Total: 18629

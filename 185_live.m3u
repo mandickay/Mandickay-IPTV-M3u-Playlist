@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 185.182.193.203:25461
-# Generated: 2026-01-07 18:34:52
+# Generated: 2026-01-08 07:14:35
 # Expires: 2026-03-01
 # Family Safe Edition
 # ==============================================
 
 
-# --- GE | GENERAL (123) ---
+# --- GE | GENERAL (122) ---
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hustler_tv_europe_hd.png" group-title="GE | GENERAL",Ge: HUSTLER HD
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/34.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hustler_tv_europe_hd.png" group-title="GE | GENERAL",Ge: HUSTLER HD +1
@@ -36,17 +36,17 @@ http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/69670.m3u8
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/69671.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vivid_tv_us.png" group-title="GE | GENERAL",Ge: VIVID
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/48.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vivid_tv_us.png" group-title="GE | GENERAL",Ge: Vivid RED HD
+#EXTINF:-1 tvg-logo="" group-title="GE | GENERAL",Ge: Erota
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/49.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vivid_tv_us.png" group-title="GE | GENERAL",Ge: VIVID RED HD 1
+#EXTINF:-1 tvg-logo="" group-title="GE | GENERAL",Ge: Erota 1
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/50.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vivid_tv_us.png" group-title="GE | GENERAL",Ge: VIVID RED HD 2
+#EXTINF:-1 tvg-logo="" group-title="GE | GENERAL",Ge: Erota 2
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/51.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vivid_tv_us.png" group-title="GE | GENERAL",Ge: VIVID RED HD 3
+#EXTINF:-1 tvg-logo="" group-title="GE | GENERAL",Ge: Erota 3
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/52.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vivid_tv_us.png" group-title="GE | GENERAL",Ge: VIVID RED HD 4
+#EXTINF:-1 tvg-logo="" group-title="GE | GENERAL",Ge: Erota 4
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/69672.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vivid_tv_us.png" group-title="GE | GENERAL",Ge: VIVID RED HD 5
+#EXTINF:-1 tvg-logo="" group-title="GE | GENERAL",Ge: Erota 5
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/69673.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vivid_tv_us.png" group-title="GE | GENERAL",Ge: VIVID TOUCH
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/69675.m3u8
@@ -206,8 +206,6 @@ http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/69370.m3u8
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/69369.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GE | GENERAL",Ge: Playhouse
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/81423.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GE | GENERAL",Ge: Erota
-http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/81425.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GE | GENERAL",Angels
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/81794.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GE | GENERAL",Bangerz
@@ -909,4 +907,4 @@ http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/74166.m3u8
 #EXTINF:-1 tvg-logo="https://billing.tv4k.me/pb/x4-logo.png" group-title="VIP | X4 ORIGINALS",X4 | Up Close
 http://185.182.193.203:25461/live/harshpatel081296/BAN6277843/74167.m3u8
 
-# Total: 440
+# Total: 439

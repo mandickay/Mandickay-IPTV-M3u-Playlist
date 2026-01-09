@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: premiumvipzone.com:8080
-# Generated: 2026-01-05 07:14:37
+# Generated: 2026-01-09 07:10:08
 # Expires: 2026-03-11
 # Family Safe Edition
 # ==============================================
@@ -9723,7 +9723,73 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/262262.m3u8
 #EXTINF:-1 tvg-logo="https://occ-0-987-590.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZ3X2ETfyW_AX2d3PE5BEoxP49a0xx5dbLKYYtxnbT2LOsceygefQw-OiOE0V3HxaQfWFnVkn19yD51dw4r1Ubysd0W10dXS3p-3ANTvrSPu.png?r=15d" group-title="✰ Deutsch - SERIEAX ✰",DE: SERIEAX Zoo HD+
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/262261.m3u8
 
-# --- ✰ Deutsch - SKY BUNDESLIGA ✰ (126) ---
+# --- ✰ Deutsch - SKY BUNDESLIGA ✰ (159) ---
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/SkySportGolf2022.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport Golf HD (720)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278176.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/SkySportGolf2022.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport Golf HD (1080)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278175.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/SkySportMix2022.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport Mix HD (720)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278174.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/SkySportMix2022.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport Mix HD (1080)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278173.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/skysportnewshd.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport News HD (720)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278172.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/skysportnewshd.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport News HD (1080)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278171.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/SkySportPremierLeague2022.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport Premier League HD (720)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278170.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/SkySportPremierLeague2022.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport Premier League HD (1080)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278169.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/SkySportTennis2022.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport Tennis HD (720)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278168.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/SkySportTennis2022.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport Tennis HD (1080)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278167.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/SkySportTopEvent2022.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport Top Event HD (720)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278166.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/SkySportTopEvent2022.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport Top Event HD (1080)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278165.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/Sky_Sport_UHD_2022.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport UHD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278164.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/Sky_Sport_UHD_2022.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport UHD (1080/2K)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278163.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/skysport1hd.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 1 HD (720)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278162.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/skysport1hd.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 1 HD (1080)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278161.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/skysport2hd.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 2 HD (720)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278160.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/skysport2hd.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 2 HD (1080)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278159.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/skysport3hd.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 3 HD (720)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278158.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/skysport3hd.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 3 HD (1080)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278157.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/skysport4hd.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 4 HD (720)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278156.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/skysport4hd.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 4 HD (1080)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278155.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/sky-sport-5-de.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 5 HD (720)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278154.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/sky-sport-5-de.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 5 HD (1080)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278153.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/sky-sport-6-de.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 6 HD (720)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278152.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/sky-sport-6-de.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 6 HD (1080)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278151.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/sky-sport-7-de.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 7 HD (720)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278150.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/sky-sport-7-de.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 7 HD (1080)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278149.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/sky-sport-8-de.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 8 HD (720)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278148.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/sky-sport-8-de.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 8 HD (1080)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278147.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/sky-sport-9-de.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 9 HD (720)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278146.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/sky-sport-9-de.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 9 HD (1080)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278145.m3u8
+#EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/sky-sport-10-de.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",MGSKY: Sky Sport 10 HD (720)
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278144.m3u8
 #EXTINF:-1 tvg-logo="" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",DE: Sky Sport Tennis HD 《 VIP 》
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/268813.m3u8
 #EXTINF:-1 tvg-logo="http://ondemandvodstreaming.com/images/skysportbundesliga1hd.png" group-title="✰ Deutsch - SKY BUNDESLIGA ✰",WoW: Sky Sport Bundesliga 1 HD
@@ -13489,7 +13555,11 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/149.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28k4PYfC/photo_2025_12_14_22_01_25.jpg" group-title="✰ Romania - Documentare HD+SD ✰",Vip Documentare 3 HD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/274069.m3u8
 
-# --- ✰ Romania - FILME HD+SD ✰ (264) ---
+# --- ✰ Romania - FILME HD+SD ✰ (268) ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCTYxpmg/photo_2026_01_08_20_31_50.jpg" group-title="✰ Romania - FILME HD+SD ✰",Vip Special Antonio Banderas HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278192.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZMN0502/photo-2026-01-07-23-04-30.jpg" group-title="✰ Romania - FILME HD+SD ✰",Vip Special Pierce Brosnan HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278084.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTQCHNfn/photo_2025_12_11_17_11_41.jpg" group-title="✰ Romania - FILME HD+SD ✰",Dragon Action { HD }
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/273424.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncym1sYN/photo_2025_12_09_19_05_24.jpg" group-title="✰ Romania - FILME HD+SD ✰",Vip Action { HD }
@@ -13642,6 +13712,8 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/271625.m3u8
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/277604.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J49rCpML/photo_2026_01_04_20_48_53.jpg" group-title="✰ Romania - FILME HD+SD ✰",Vip Special John Travolta HD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/277608.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhxJt5Kf/photo-2026-01-07-02-17-56.jpg" group-title="✰ Romania - FILME HD+SD ✰",Vip Special Jason Statham HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/277868.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjMX1QPx/photo_2026_01_03_17_27_37.jpg" group-title="✰ Romania - FILME HD+SD ✰",Vip Special Richard Gere HD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/277607.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz0Ns5g0/photo_2026_01_03_17_27_59.jpg" group-title="✰ Romania - FILME HD+SD ✰",Vip Special Michael Douglas HD
@@ -13672,6 +13744,8 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270836.m3u8
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270833.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yCq0kQf/755ACC16-DC07-4821-B688-7DF6EB668A00.png" group-title="✰ Romania - FILME HD+SD ✰",Vip Special Al Pacino { HD }
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270834.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02QbwPHy/photo_2026_01_08_20_31_41.jpg" group-title="✰ Romania - FILME HD+SD ✰",Vip Special Alain Delon HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/278190.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2VHfR8Q/photo-2025-11-13-14-51-37.jpg" group-title="✰ Romania - FILME HD+SD ✰",Vip Special Eddie Murphy { HD }
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/271686.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLPXggbN/AEDB1F0D-D341-4B2B-BE3C-A0A0F0BD268F.png" group-title="✰ Romania - FILME HD+SD ✰",Vip Special Brad Pitt { HD }
@@ -14971,11 +15045,7 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270822.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.181.7/picon/logos/6tv.png" group-title="✰ Romania - FULL HD+SD ✰",6 TV
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270178.m3u8
 
-# --- ✰ Romania - Generale HD+SD ✰ (63) ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB226PtM/craciun.png" group-title="✰ Romania - Generale HD+SD ✰",Christmas Colinde HD
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/276593.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLh2fSxR/photo-2025-12-01-23-52-47.jpg" group-title="✰ Romania - Generale HD+SD ✰",Mega Colinde { 4K }
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/272779.m3u8
+# --- ✰ Romania - Generale HD+SD ✰ (61) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1zW9dt4/antena1.jpg" group-title="✰ Romania - Generale HD+SD ✰",Antena 1ᶠᴴᴰ
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1zW9dt4/antena1.jpg" group-title="✰ Romania - Generale HD+SD ✰",Antena 1ᴴᴰ
@@ -15099,7 +15169,7 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/150784.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1zW9dt4/antena1.jpg" group-title="✰ Romania - Generale HD+SD ✰",Antena 1 4k
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/271905.m3u8
 
-# --- ✰ Romania - MUZICA ✰ (50) ---
+# --- ✰ Romania - MUZICA ✰ (52) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB226PtM/craciun.png" group-title="✰ Romania - MUZICA ✰",Christmas Time HD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270109.m3u8
 #EXTINF:-1 tvg-logo="" group-title="✰ Romania - MUZICA ✰",Manele Deluxe 4K
@@ -15120,6 +15190,8 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/272854.m3u8
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/50.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPp5nHYh/atomicacademy.jpg" group-title="✰ Romania - MUZICA ✰",Atomic Academy HD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/116593.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB226PtM/craciun.png" group-title="✰ Romania - MUZICA ✰",Christmas Colinde HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/276593.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLZggNFg/balcanmusictv.jpg" group-title="✰ Romania - MUZICA ✰",Balkan Music TV HD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/82483.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.181.7/extract/etno.png" group-title="✰ Romania - MUZICA ✰",Etno TV FHD
@@ -15156,6 +15228,8 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/155975.m3u8
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/21074.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.181.7/extract/rocktvhd.png" group-title="✰ Romania - MUZICA ✰",Rock TV ᴴᴰ
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/57.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLh2fSxR/photo-2025-12-01-23-52-47.jpg" group-title="✰ Romania - MUZICA ✰",Mega Colinde { 4K }
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/272779.m3u8
 #EXTINF:-1 tvg-logo="10097537754.webp" group-title="✰ Romania - MUZICA ✰",Sensation Dance HD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/185906.m3u8
 #EXTINF:-1 tvg-logo="10655971400.webp" group-title="✰ Romania - MUZICA ✰",Sensation Deluxe HD
@@ -15741,4 +15815,4 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/140783.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXWKshQx/ddikh.jpg" group-title="✰Hungary-Általános (General)✰",HU* Dikh TV FHD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/175834.m3u8
 
-# Total: 7785
+# Total: 7822

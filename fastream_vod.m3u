@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-01-08 18:33:37
+# Generated: 2026-01-09 07:13:25
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -18019,7 +18019,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2478
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Sin Frenos
 http://fastream.xyz:8080/series/940246862tv/12ws79/2481
 
-# --- Series | → SERIES CRIMEN ← (149) ---
+# --- Series | → SERIES CRIMEN ← (151) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",¿Sabes quién es?
 http://fastream.xyz:8080/series/940246862tv/12ws79/5
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Chicago P.D.
@@ -18318,6 +18318,10 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2507
 http://fastream.xyz:8080/series/940246862tv/12ws79/2512
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Su peor Pesadilla
 http://fastream.xyz:8080/series/940246862tv/12ws79/2518
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",La Tierra del Pecado
+http://fastream.xyz:8080/series/940246862tv/12ws79/2521
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",El y ella
+http://fastream.xyz:8080/series/940246862tv/12ws79/2522
 
 # --- Series | → SERIES DC ← (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DC ←",Arrow
@@ -19623,4 +19627,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9736
+# Total: 9738

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-08 18:40:25
+# Generated: 2026-01-09 07:14:22
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -5901,7 +5901,11 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (609) ---
+# --- Movies | Filme 2025 (611) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6Ud99IYx6bXSdZchyhs0zIdGnz.jpg" group-title="Movies | Filme 2025",Harsens Island Revenge (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66567.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJtBKvHQaFzgp0N6JFskSvjbTar.jpg" group-title="Movies | Filme 2025",Beauty from Pain (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66566.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg" group-title="Movies | Filme 2025",The Tank (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66485.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg" group-title="Movies | Filme 2025",Demon Slayer: Kimetsu no Yaiba Infinity Castle - 2025
@@ -7121,7 +7125,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (1) ---
+# --- Movies | Filme 2026 (2) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filme 2026",Cheetahs Up Close with Bertie Gregory - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66568.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE3nySukwrfUjouz8vzvKTcXNC.jpg" group-title="Movies | Filme 2026",Oscar Shaw (2026)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65748.mp4
 
@@ -18919,6 +18925,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/568.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Little Drummer Girl",The Little Drummer Girl (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/985.mp4
 
+# --- Movies | The Madame Blanc Mysteries (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Madame Blanc Mysteries",The Madame Blanc Mysteries (2021)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1148.mp4
+
 # --- Movies | The Madness (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Madness",The Madness
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/23.mp4
@@ -19070,6 +19080,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/855.mp4
 # --- Movies | The Santa Clauses (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Santa Clauses",The Santa Clauses (2022)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1094.mp4
+
+# --- Movies | The Sea Beyond (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Sea Beyond",The Sea Beyond (2020)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1147.mp4
 
 # --- Movies | The Shannara Chronicles (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Shannara Chronicles",The Shannara Chronicles
@@ -19699,4 +19713,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8667
+# Total: 8672

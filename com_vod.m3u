@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: com.trt1000.com:80
-# Generated: 2026-01-08 18:39:25
+# Generated: 2026-01-09 07:17:46
 # Expires: 2027-01-09
 # Family Safe Edition
 # ==============================================
@@ -1799,7 +1799,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1324.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | EXXEN TV",Nemlizade
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1337.mp4
 
-# --- Movies | FRANCE FILMS (449) ---
+# --- Movies | FRANCE FILMS (450) ---
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2NmMjJhY2MtZjkyYy00YWQ4LWI3ODQtZjIxODBkMmM1NjE0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg" group-title="Movies | FRANCE FILMS",De Toutes Nos Forces
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/42266.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnusVR5x9kTNKUQfuIwP9pOx6nL.jpg" group-title="Movies | FRANCE FILMS",The King (2020)
@@ -2698,6 +2698,8 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/61700.mp4
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/61767.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIM28fkVIhPKkjOjfS01UAZXPM8.jpg" group-title="Movies | FRANCE FILMS",Demon Slayer: Sonsuzluk Kalesi (2025)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/63855.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kmfoWWEc9Vtyuaf9v5VipRgdjx.jpg" group-title="Movies | FRANCE FILMS",La Couleur des sentiments
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64813.mp4
 
 # --- Movies | GAIN TV (43) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | GAIN TV",Ayak isleri
@@ -23493,4 +23495,4 @@ http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1314
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Rüya Gibi
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1328
 
-# Total: 11713
+# Total: 11714

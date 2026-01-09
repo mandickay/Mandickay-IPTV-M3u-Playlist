@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2026-01-08 18:39:22
+# Generated: 2026-01-09 07:14:57
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -236,7 +236,7 @@ http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/81026.m3u8
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/81027.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/daznlaliga.png" group-title="DAZN LIGA",DAZN LALIGA 1 HD
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/81028.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/daznlaliga.png" group-title="DAZN LIGA",DAZN LA LIGA 2  HD
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/daznlaliga.png" group-title="DAZN LIGA",#DAZN LA LIGA 2  HD
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/81029.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/daznlaliga.png" group-title="DAZN LIGA",DAZN LALIGA 3 HD
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/81030.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.darktv.eu:25461
-# Generated: 2026-01-09 18:30:25
+# Generated: 2026-01-10 07:04:33
 # Expires: 2026-02-05
 # Family Safe Edition
 # ==============================================
@@ -1985,7 +1985,7 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/46570.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/banglades_bayrak.gif" group-title="BA : BAANGLAADESH",(BA) Zee Bangla HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/46571.m3u8
 
-# --- BE - BELGIUM (26) ---
+# --- BE - BELGIUM (25) ---
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/vrt1.png" group-title="BE - BELGIUM",(BE) Vrt 1 FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169040.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/vrt1.png" group-title="BE - BELGIUM",(BE) Vrt 1 HD
@@ -2030,8 +2030,6 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/167386.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/7934.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/EclipsTV.jpg" group-title="BE - BELGIUM",(BE) Eclips TV
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/52757.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/rtl-tvi.png" group-title="BE - BELGIUM",(BE) RTL TV FHD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/167872.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/vijf.png" group-title="BE - BELGIUM",(BE) Vijf HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/7912.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/atv-be.png" group-title="BE - BELGIUM",(BE) ATV Antwerpen 4K
@@ -3059,6 +3057,94 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3397.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - DEUTSCHE CINEMA",(DE) PBB Live Event
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/165279.m3u8
 
+# --- DE - DEUTSCHLAND FHD (43) ---
+#EXTINF:-1 tvg-logo="" group-title="DE - DEUTSCHLAND FHD",(DE) Big Brother 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/171057.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/daserstehd.png" group-title="DE - DEUTSCHLAND FHD",(DE) Das Erste 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4461.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfhd.png" group-title="DE - DEUTSCHLAND FHD",(DE) ZDF 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4460.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlhd.png" group-title="DE - DEUTSCHLAND FHD",(DE) RTL 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4459.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl2hd.png" group-title="DE - DEUTSCHLAND FHD",(DE) RTL 2 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4456.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1hd.png" group-title="DE - DEUTSCHLAND FHD",(DE) Sat 1 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4458.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenhd.png" group-title="DE - DEUTSCHLAND FHD",(DE) Prosieben 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4457.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxhd.png" group-title="DE - DEUTSCHLAND FHD",(DE) Vox 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4455.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinshd.png" group-title="DE - DEUTSCHLAND FHD",(DE) Kabel 1 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4454.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sixxhd.png" group-title="DE - DEUTSCHLAND FHD",(DE) Sixx 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4453.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tele5hd.png" group-title="DE - DEUTSCHLAND FHD",(DE) Tele 5 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4452.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlnitrohd.png" group-title="DE - DEUTSCHLAND FHD",(DE) Nitro 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4451.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/superrtlhd.png" group-title="DE - DEUTSCHLAND FHD",(DE) Super RTL 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4469.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/zdfinfohd.png" group-title="DE - DEUTSCHLAND FHD",(DE) ZDFinfo 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4444.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/zdfneo.png" group-title="DE - DEUTSCHLAND FHD",(DE) ZDFneo 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4443.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1goldhd.png" group-title="DE - DEUTSCHLAND FHD",(DE) Sat 1 Gold 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4449.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenmaxx.png" group-title="DE - DEUTSCHLAND FHD",(DE) ProSieben Maxx 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4450.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/rtlup.png" group-title="DE - DEUTSCHLAND FHD",(DE) RTLup 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/128150.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/voxup.png" group-title="DE - DEUTSCHLAND FHD",(DE) VOXup 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/128151.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/3satdehd.png" group-title="DE - DEUTSCHLAND FHD",(DE) 3 Sat 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4446.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/artehd.png" group-title="DE - DEUTSCHLAND FHD",(DE) Arte 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4445.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/onehd.png" group-title="DE - DEUTSCHLAND FHD",(DE) One 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/60636.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/mdrhd.png" group-title="DE - DEUTSCHLAND FHD",(DE) Mdr 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4439.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/anixehd.png" group-title="DE - DEUTSCHLAND FHD",(DE) Anixe+ 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/89867.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ardalpha.png" group-title="DE - DEUTSCHLAND FHD",(DE) ARD Alpha 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/89868.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rbb.png" group-title="DE - DEUTSCHLAND FHD",(DE) RBB Berlin HD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/95041.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/brsudhd.png" group-title="DE - DEUTSCHLAND FHD",(DE) BR 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4442.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/hrfernsehenhd.png" group-title="DE - DEUTSCHLAND FHD",(DE) HR 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4441.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/srfernsehenhd.png" group-title="DE - DEUTSCHLAND FHD",(DE) SR 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4437.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/wdrhd.png" group-title="DE - DEUTSCHLAND FHD",(DE) WDR 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/152467.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/ndrhd.png" group-title="DE - DEUTSCHLAND FHD",(DE) NDR 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/152466.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/swrhd.png" group-title="DE - DEUTSCHLAND FHD",(DE) Swr 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3273.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/qvchd.png" group-title="DE - DEUTSCHLAND FHD",(DE) QVC HD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/122572.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/sat1emotions.png" group-title="DE - DEUTSCHLAND FHD",(DE) Sat 1 Emotions HD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/131808.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlnitrohd.png" group-title="DE - DEUTSCHLAND FHD",(DE) RTL Nitro HD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/49113.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlcrimehd.png" group-title="DE - DEUTSCHLAND FHD",(DE) RTL Crime HD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/61335.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/rtlliving.png" group-title="DE - DEUTSCHLAND FHD",(DE) RTL Living HD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3357.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/rtlpassionhd.png" group-title="DE - DEUTSCHLAND FHD",(DE) RTL Passion HD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3353.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/hgtv.png" group-title="DE - DEUTSCHLAND FHD",(DE) Hg TV HD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4448.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/wdrhd.png" group-title="DE - DEUTSCHLAND FHD",(DE) Wdr HD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4440.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/servustvhd.png" group-title="DE - DEUTSCHLAND FHD",(DE) ServusTV HD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3346.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/weltderwunder.png" group-title="DE - DEUTSCHLAND FHD",(DE) Welt der Wunder HD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/89862.m3u8
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/radiobrementv.png" group-title="DE - DEUTSCHLAND FHD",(DE) Radio Bremen HD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/122573.m3u8
+
 # --- DE - DEUTSCHLAND ʰᵉᵛᶜ (21) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/daserstehd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Das Erste ʰᵉᵛᶜ
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/151348.m3u8
@@ -3144,94 +3230,6 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184006.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184005.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinsdoku.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Kabel Eins Doku ᵘˡᵗʳᵃ
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184004.m3u8
-
-# --- DE - DEUTSCHLAND ⁴ᵏ (43) ---
-#EXTINF:-1 tvg-logo="" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Big Brother 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/171057.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/daserstehd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Das Erste 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4461.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ZDF 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4460.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4459.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl2hd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL 2 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4456.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1hd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Sat 1 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4458.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Prosieben 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4457.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Vox 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4455.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinshd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Kabel 1 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4454.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sixxhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Sixx 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4453.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tele5hd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Tele 5 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4452.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlnitrohd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Nitro 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4451.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/superrtlhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Super RTL 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4469.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/zdfinfohd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ZDFinfo 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4444.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/zdfneo.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ZDFneo 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4443.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1goldhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Sat 1 Gold 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4449.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenmaxx.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ProSieben Maxx 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4450.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/rtlup.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTLup 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/128150.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/voxup.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) VOXup 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/128151.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/3satdehd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) 3 Sat 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4446.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/artehd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Arte 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4445.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/onehd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) One 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/60636.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/mdrhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Mdr 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4439.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/anixehd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Anixe+ 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/89867.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ardalpha.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ARD Alpha 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/89868.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rbb.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RBB Berlin HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/95041.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/brsudhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) BR 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4442.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/hrfernsehenhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) HR 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4441.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/srfernsehenhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) SR 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4437.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/wdrhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) WDR 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/152467.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/ndrhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) NDR 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/152466.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/swrhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Swr 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3273.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/qvchd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) QVC HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/122572.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/sat1emotions.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Sat 1 Emotions HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/131808.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlnitrohd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL Nitro HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/49113.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlcrimehd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL Crime HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/61335.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/rtlliving.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL Living HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3357.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/rtlpassionhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL Passion HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3353.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/hgtv.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Hg TV HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4448.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/wdrhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Wdr HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/4440.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/servustvhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ServusTV HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3346.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/weltderwunder.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Welt der Wunder HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/89862.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/radiobrementv.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Radio Bremen HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/122573.m3u8
 
 # --- DE - DEV SELECT ⁷-²⁴ (46) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) ⁷-²⁴  Kino 4K ᵘˡᵗʳᵃ 1
@@ -4085,6 +4083,30 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184049.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) a.tv
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184048.m3u8
 
+# --- DE - SKY BUNDESLIGA FHD (11) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY BUNDESLIGA FHD",(DE) Sky Bundesliga UHD (Match Time)
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/189725.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga1hd.png" group-title="DE - SKY BUNDESLIGA FHD",(DE) Sky Bundesliga 1 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3248.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga2hd.png" group-title="DE - SKY BUNDESLIGA FHD",(DE) Sky Bundesliga 2 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3247.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga3hd.png" group-title="DE - SKY BUNDESLIGA FHD",(DE) Sky Bundesliga 3 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3246.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga4hd.png" group-title="DE - SKY BUNDESLIGA FHD",(DE) Sky Bundesliga 4 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3245.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga5hd.png" group-title="DE - SKY BUNDESLIGA FHD",(DE) Sky Bundesliga 5 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3244.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga6hd.png" group-title="DE - SKY BUNDESLIGA FHD",(DE) Sky Bundesliga 6 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3243.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga7hd.png" group-title="DE - SKY BUNDESLIGA FHD",(DE) Sky Bundesliga 7 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3242.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga8hd.png" group-title="DE - SKY BUNDESLIGA FHD",(DE) Sky Bundesliga 8 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3241.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga9hd.png" group-title="DE - SKY BUNDESLIGA FHD",(DE) Sky Bundesliga 9 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3240.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga10hd.png" group-title="DE - SKY BUNDESLIGA FHD",(DE) Sky Bundesliga 10 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3337.m3u8
+
 # --- DE - SKY BUNDESLIGA ᵘˡᵗʳᵃ (11) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY BUNDESLIGA ᵘˡᵗʳᵃ",(DE) Sky Bundesliga  ᵘˡᵗʳᵃ
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/193989.m3u8
@@ -4108,30 +4130,6 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3330.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3329.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY BUNDESLIGA ᵘˡᵗʳᵃ",(DE) Sky Bundesliga 10 ᵘˡᵗʳᵃ
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/119880.m3u8
-
-# --- DE - SKY BUNDESLIGA ⁴ᵏ (11) ---
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY BUNDESLIGA ⁴ᵏ",(DE) Sky Bundesliga UHD (Match Time)
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/189725.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga1hd.png" group-title="DE - SKY BUNDESLIGA ⁴ᵏ",(DE) Sky Bundesliga 1 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3248.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga2hd.png" group-title="DE - SKY BUNDESLIGA ⁴ᵏ",(DE) Sky Bundesliga 2 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3247.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga3hd.png" group-title="DE - SKY BUNDESLIGA ⁴ᵏ",(DE) Sky Bundesliga 3 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3246.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga4hd.png" group-title="DE - SKY BUNDESLIGA ⁴ᵏ",(DE) Sky Bundesliga 4 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3245.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga5hd.png" group-title="DE - SKY BUNDESLIGA ⁴ᵏ",(DE) Sky Bundesliga 5 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3244.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga6hd.png" group-title="DE - SKY BUNDESLIGA ⁴ᵏ",(DE) Sky Bundesliga 6 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3243.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga7hd.png" group-title="DE - SKY BUNDESLIGA ⁴ᵏ",(DE) Sky Bundesliga 7 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3242.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga8hd.png" group-title="DE - SKY BUNDESLIGA ⁴ᵏ",(DE) Sky Bundesliga 8 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3241.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga9hd.png" group-title="DE - SKY BUNDESLIGA ⁴ᵏ",(DE) Sky Bundesliga 9 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3240.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga10hd.png" group-title="DE - SKY BUNDESLIGA ⁴ᵏ",(DE) Sky Bundesliga 10 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/3337.m3u8
 
 # --- DE - SKY SPORTS (18) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportnewshd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport News 4K
@@ -5219,31 +5217,43 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/216449.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IT - AMAZON EVENTS",(IT) Amazon Prime 16 HD (only events)
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/216448.m3u8
 
-# --- IT - CINEMA (12) ---
+# --- IT - CINEMA (18) ---
+#EXTINF:-1 tvg-logo="" group-title="IT - CINEMA",(IT) Rai Movie FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217419.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/raipremiumhd.png" group-title="IT - CINEMA",(IT) Rai Premium FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38548.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IT - CINEMA",(IT) Sky Serie FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217426.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IT - CINEMA",(IT) Sky Crime FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/216823.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sky.png" group-title="IT - CINEMA",(IT) Sky Cinema Uno FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/42711.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sky.png" group-title="IT - CINEMA",(IT) Sky Cinema Due HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/lyngsat/tv/ss/sky_de_cinema_plus24.png" group-title="IT - CINEMA",(IT) Sky Cinema Uno +24 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/110307.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sky.png" group-title="IT - CINEMA",(IT) Sky Cinema Due FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/42704.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sky.png" group-title="IT - CINEMA",(IT) Sky Cinema Comedy HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/42708.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sky.png" group-title="IT - CINEMA",(IT) Sky Cinema Action FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/123450.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sky.png" group-title="IT - CINEMA",(IT) Sky Cinema Family HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/mediasetpremiumcinemaenergy.png" group-title="IT - CINEMA",(IT) Sky Cinema Drama FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/42698.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sky.png" group-title="IT - CINEMA",(IT) Sky Cinema Family FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/42706.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skycinemahd.png" group-title="IT - CINEMA",(IT) Sky Cinema Atlantic FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/42712.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/lyngsat/tv/ss/sky_de_cinema_plus24.png" group-title="IT - CINEMA",(IT) Sky Cinema Uno +24 FHD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/110307.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/raimoviehd.png" group-title="IT - CINEMA",(IT) Rai Movie HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sky.png" group-title="IT - CINEMA",(IT) Sky Cinema Comedy FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/42708.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IT - CINEMA",(IT) Sky Cinema Suspense FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217424.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IT - CINEMA",(IT) Sky Cinema Collection  FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217420.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/raimoviehd.png" group-title="IT - CINEMA",(IT) Sky Cinema Romance FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/42694.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IT - CINEMA",(IT) Top Calcio 24 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217425.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemax.png" group-title="IT - CINEMA",(IT) Cine 34 FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/89785.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/giallo.png" group-title="IT - CINEMA",(IT) Giallo FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/89783.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/mediasetpremiumcinemaenergy.png" group-title="IT - CINEMA",(IT) Premium Cinema 2 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/42698.m3u8
 
 # --- IT - DAZN EVENTS (103) ---
 #EXTINF:-1 tvg-logo="" group-title="IT - DAZN EVENTS",(IT) Dazn Event 3
@@ -5659,7 +5669,7 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/89777.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/topcrime.png" group-title="IT - DOCUMENTARIES",(IT) Top Crime FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38542.m3u8
 
-# --- IT - ITALIA (40) ---
+# --- IT - ITALIA (39) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rai1hd.png" group-title="IT - ITALIA",(IT) Rai 1 HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38566.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rai2hd.png" group-title="IT - ITALIA",(IT) Rai 2 FHD
@@ -5670,8 +5680,6 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38562.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38560.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rai5.png" group-title="IT - ITALIA",(IT) Rai 5 HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38558.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/raipremiumhd.png" group-title="IT - ITALIA",(IT) Rai Premium
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38548.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rainews24hd.png" group-title="IT - ITALIA",(IT) Rai News 24 HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38521.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/italiaunohd.png" group-title="IT - ITALIA",(IT) Italia 1 HD
@@ -6665,6 +6673,62 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/78277.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - MUZIEK",(NL) Stingray Lite TV
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/78284.m3u8
 
+# --- NL - NEDERLAND FHD (27) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo1hd.png" group-title="NL - NEDERLAND FHD",(NL) NPO 1 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170777.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo2hd.png" group-title="NL - NEDERLAND FHD",(NL) NPO 2 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170776.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo3hd.png" group-title="NL - NEDERLAND FHD",(NL) NPO 3 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170775.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl4hd.png" group-title="NL - NEDERLAND FHD",(NL) RTL 4 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170774.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl5hd.png" group-title="NL - NEDERLAND FHD",(NL) RTL 5 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170773.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sbs6hd.png" group-title="NL - NEDERLAND FHD",(NL) SBS 6 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170772.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl7hd.png" group-title="NL - NEDERLAND FHD",(NL) RTL 7 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170771.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl8hd.png" group-title="NL - NEDERLAND FHD",(NL) RTL 8 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170770.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sbs9hd.png" group-title="NL - NEDERLAND FHD",(NL) SBS 9 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170769.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/veronicahd_disneyxdhd.png" group-title="NL - NEDERLAND FHD",(NL) VERONICA 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170768.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/net5.png" group-title="NL - NEDERLAND FHD",(NL) NET 5 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170767.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlz.png" group-title="NL - NEDERLAND FHD",(NL) RTL Z 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170766.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Npo1Extra.jpg" group-title="NL - NEDERLAND FHD",(NL) NPO 1 Extra 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/78268.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo2.png" group-title="NL - NEDERLAND FHD",(NL) NPO 2 Extra 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/78288.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo1hd.png" group-title="NL - NEDERLAND FHD",(NL) NPO 1 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2714.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo2hd.png" group-title="NL - NEDERLAND FHD",(NL) NPO 2 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2713.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo3hd.png" group-title="NL - NEDERLAND FHD",(NL) NPO 3 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2712.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl4hd.png" group-title="NL - NEDERLAND FHD",(NL) RTL 4 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2711.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl5hd.png" group-title="NL - NEDERLAND FHD",(NL) RTL 5 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2710.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sbs6hd.png" group-title="NL - NEDERLAND FHD",(NL) SBS 6 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2706.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl7hd.png" group-title="NL - NEDERLAND FHD",(NL) RTL 7 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2709.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl8hd.png" group-title="NL - NEDERLAND FHD",(NL) RTL 8 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2708.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sbs9hd.png" group-title="NL - NEDERLAND FHD",(NL) SBS 9 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2705.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/veronicahd_disneyxdhd.png" group-title="NL - NEDERLAND FHD",(NL) Veronica / Disney XD 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2715.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/net5.png" group-title="NL - NEDERLAND FHD",(NL) NET 5 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/151730.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlz.png" group-title="NL - NEDERLAND FHD",(NL) RTL Z 4K+
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2707.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nponieuws.png" group-title="NL - NEDERLAND FHD",(NL) NPO Politiek en Nieuws 4K
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/56388.m3u8
+
 # --- NL - NEDERLAND ʰᵉᵛᶜ (14) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo1hd.png" group-title="NL - NEDERLAND ʰᵉᵛᶜ",(NL) NPO 1 HEVC
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/151287.m3u8
@@ -6720,62 +6784,6 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184208.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184209.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foxhd.png" group-title="NL - NEDERLAND ᵘˡᵗʳᵃ",(NL)⚡️STAR CHANNEL ᵘˡᵗʳᵃ
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184211.m3u8
-
-# --- NL - NEDERLAND ⁴ᵏ (27) ---
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo1hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) NPO 1 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170777.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo2hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) NPO 2 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170776.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo3hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) NPO 3 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170775.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl4hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) RTL 4 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170774.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl5hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) RTL 5 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170773.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sbs6hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) SBS 6 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170772.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl7hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) RTL 7 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170771.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl8hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) RTL 8 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170770.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sbs9hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) SBS 9 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170769.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/veronicahd_disneyxdhd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) VERONICA 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170768.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/net5.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) NET 5 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170767.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlz.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) RTL Z 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/170766.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Npo1Extra.jpg" group-title="NL - NEDERLAND ⁴ᵏ",(NL) NPO 1 Extra 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/78268.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo2.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) NPO 2 Extra 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/78288.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo1hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) NPO 1 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2714.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo2hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) NPO 2 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2713.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/npo3hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) NPO 3 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2712.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl4hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) RTL 4 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2711.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl5hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) RTL 5 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2710.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sbs6hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) SBS 6 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2706.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl7hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) RTL 7 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2709.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl8hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) RTL 8 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2708.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sbs9hd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) SBS 9 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2705.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/veronicahd_disneyxdhd.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) Veronica / Disney XD 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2715.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/net5.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) NET 5 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/151730.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlz.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) RTL Z 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/2707.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nponieuws.png" group-title="NL - NEDERLAND ⁴ᵏ",(NL) NPO Politiek en Nieuws 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/56388.m3u8
 
 # --- NL - REGIONAAL (22) ---
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/bvn.png" group-title="NL - REGIONAAL",(NL) BVN
@@ -9052,12 +9060,12 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/118224.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/49260.m3u8
 
 # --- SW - SPORT (20) ---
-#EXTINF:-1 tvg-logo="" group-title="SW - SPORT",(SW) TV3 Sport
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/211803.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/sweden.png" group-title="SW - SPORT",✦✦✦✦✦ SWEDEN SPORTS ✦✦✦✦✦
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39058.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/viasat_fotball_hd.png" group-title="SW - SPORT",(SW) TV4 Fotboll
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39033.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SW - SPORT",(SW) TV3 Sport
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/211803.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_live_1.png" group-title="SW - SPORT",((SW) TV4 Live
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39029.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_live_2_hd.png" group-title="SW - SPORT",(SW) TV4 Live 2
@@ -11215,4 +11223,4 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/153506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="İR : PERSİAN",(IR) TIN TV
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/153497.m3u8
 
-# Total: 5448
+# Total: 5452

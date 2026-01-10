@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-01-09 18:41:12
+# Generated: 2026-01-10 07:08:39
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -10974,10 +10974,10 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/21.mp4
 # --- Movies | TR/DIZI ~ CUMA (4) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4Fn3fyq4JMlD6v1s3VZgdelbRUO.jpg" group-title="Movies | TR/DIZI ~ CUMA",CUM: Ben Onun Annesiyim 4.Bölüm FINAL
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/36470.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | TR/DIZI ~ CUMA",CUM: Arka Sokaklar 733.Bölüm (YENI SEZON)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/379.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" group-title="Movies | TR/DIZI ~ CUMA",CUM: Tasacak Bu Deniz 12.Bölüm (YENI DIZI)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/365.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | TR/DIZI ~ CUMA",CUM: Arka Sokaklar 734.Bölüm (YENI SEZON)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/379.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" group-title="Movies | TR/DIZI ~ CUMA",CUM: Tasacak Bu Deniz 13.Bölüm (YENI DIZI)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/365.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQ7u0TTOz8pTshKMnxuNAa7MdMi.jpg" group-title="Movies | TR/DIZI ~ CUMA",CUM: Kizilcik Serbeti 119.Bölüm (YENI SEZON)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/17071.mkv
 
@@ -10991,7 +10991,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/28472.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vc20oOVlfVQI0YWocTvTv7wOILk.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Gönül Dagi 199.Bölüm (Yeni Sezon)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/26836.mkv
 
-# --- Movies | TR/DIZI ~ DISNEY + (75) ---
+# --- Movies | TR/DIZI ~ DISNEY + (76) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Konuşanlar - Disney+ (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1906.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Sekizinci Aile (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1775.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",We Were the Lucky Ones
@@ -11128,8 +11130,6 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1544.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1548.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Alien: Earth
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1587.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Konuşanlar (2025)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1633.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Les Disparues de la gare (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1644.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",La suerte (2025)
@@ -11142,6 +11142,8 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1656.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1671.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",The Simpsons (1989)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1771.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Konuşanlar (2020)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1907.mp4
 
 # --- Movies | TR/DIZI ~ EGLENCE/SHOW (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ EGLENCE/SHOW",Ibo Show Yilbasi Ozel 2026
@@ -11469,7 +11471,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/22.mp4
 
 # --- Movies | TR/DIZI ~ HBO MAX/BLUTV (76) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ HBO MAX/BLUTV",Jasmine (2025)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1852.mp4
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1905.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ HBO MAX/BLUTV",IT: Welcome to Derry (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1904.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ HBO MAX/BLUTV",Feride (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1785.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ HBO MAX/BLUTV",Kaosun Anatomisi (2025)
@@ -11618,8 +11622,6 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1608.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ HBO MAX/BLUTV",The Chair Company (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1658.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ HBO MAX/BLUTV",IT: Welcome to Derry (2025)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1672.mp4
 
 # --- Movies | TR/DIZI ~ NETFLIX (DUAL) (460) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Atiye (2019)
@@ -20541,7 +20543,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/64411.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bNsvD8cCDQ62ExRTXrALNk5Sl7.jpg" group-title="Movies | TR/FILM ~ YERLI 2024",Sırrını Biliyorum (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/57623.mkv
 
-# --- Movies | TR/FILM ~ YERLI 2025 (38) ---
+# --- Movies | TR/FILM ~ YERLI 2025 (39) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pWCpxei0x4JYi26vqS5iXFuUgF.jpg" group-title="Movies | TR/FILM ~ YERLI 2025",Sihirli Annem: Hepimiz Biriz (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/64853.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i37ytdJc0YpRSTGSD4C9lfCNiTP.jpg" group-title="Movies | TR/FILM ~ YERLI 2025",Doğu Demirkol ile Kuşaklar Arası (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/64826.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zN25h6zhlYLEnrCv1Zv3MWjtLoy.jpg" group-title="Movies | TR/FILM ~ YERLI 2025",CMXXIV (2025)
@@ -20623,4 +20627,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10163
+# Total: 10165

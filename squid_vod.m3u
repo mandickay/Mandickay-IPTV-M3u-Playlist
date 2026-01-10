@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-09 18:40:55
+# Generated: 2026-01-10 07:13:55
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -438,6 +438,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1006.mp4
 # --- Movies | Ballers (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Ballers",Ballers
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/862.mp4
+
+# --- Movies | Bambaska Biri – O persoana complet diferita (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Bambaska Biri – O persoana complet diferita",Bambaska Biri
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1150.mp4
 
 # --- Movies | Band of Brothers (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Band of Brothers",Band of Brothers
@@ -17063,6 +17067,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/704.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Kader Oyunlari – Pariu cu destinul",Kader Oyunları (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/941.mp4
 
+# --- Movies | Kadin - Femeia in infruntarea destinului (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Kadin - Femeia in infruntarea destinului",Kadin (2017)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1151.mp4
+
 # --- Movies | Kalbimin Sultani - Sultanul inimii mele (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Kalbimin Sultani - Sultanul inimii mele",Kalbimin Sultani - Sultanul inimii mele
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/829.mp4
@@ -19719,4 +19727,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8675
+# Total: 8677

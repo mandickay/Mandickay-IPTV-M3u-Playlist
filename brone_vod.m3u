@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2026-01-09 18:39:27
+# Generated: 2026-01-10 07:08:05
 # Expires: 2026-01-18
 # Family Safe Edition
 # ==============================================
@@ -207,7 +207,7 @@ http://brone.fyi/movie/felipe_irma/Teste44/174895.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8T7xy6usNhTWphfQTH7vmr4tOC.jpg" group-title="Movies | 4K ULTRA HD",ZUMBILÂNDIA: ATIRE DUAS VEZES 4K+ 5 1
 http://brone.fyi/movie/felipe_irma/Teste44/174897.mp4
 
-# --- Movies | ACAO/AVENTURA (2059) ---
+# --- Movies | ACAO/AVENTURA (2060) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFIX4ZDjpcGwGvOSVrWxboBZAzb.jpg" group-title="Movies | ACAO/AVENTURA",007 A SERVICO SECRETO DE SUA MAJESTADE
 http://brone.fyi/movie/felipe_irma/Teste44/230437.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7b3qmLlvm2lvJ2gxsKQ42S3RTKR.jpg" group-title="Movies | ACAO/AVENTURA",007 CASSINO ROYALE
@@ -4326,6 +4326,8 @@ http://brone.fyi/movie/felipe_irma/Teste44/331052.mp4
 http://brone.fyi/movie/felipe_irma/Teste44/332289.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utMmFvSsnGASJLHEGouVzCqB6TS.jpg" group-title="Movies | ACAO/AVENTURA",UMA AVENTURA ANIMAL A JORNADA PARA CASA
 http://brone.fyi/movie/felipe_irma/Teste44/332299.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkHFuOIOtZJrtql8gSSvbLtEcNk.jpg" group-title="Movies | ACAO/AVENTURA",ESQUADRAO CLASSE A
+http://brone.fyi/movie/felipe_irma/Teste44/332742.mp4
 
 # --- Movies | ANIME (99) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvXhm90FNtZWn5VQPGATcT26ePA.jpg" group-title="Movies | ANIME",A PRINCESA E O PILOTO
@@ -35635,4 +35637,4 @@ http://brone.fyi/series/felipe_irma/Teste44/3096
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES | VIKI ROKUTEN",MERITISSIMO
 http://brone.fyi/series/felipe_irma/Teste44/3777
 
-# Total: 17772
+# Total: 17773

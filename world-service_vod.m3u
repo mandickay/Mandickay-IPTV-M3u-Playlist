@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-01-09 18:38:33
+# Generated: 2026-01-10 07:18:01
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -8071,7 +8071,7 @@ http://world-service.us:8080/movie/giovanmer/merante/18135.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON COMICO",Made in Sud  I Gomorroidi con Salvatore Conte   Made in Sud 12042017
 http://world-service.us:8080/movie/giovanmer/merante/18158.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (979) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (980) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://world-service.us:8080/movie/giovanmer/merante/1659.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/18b5c37aa69195e737bbd4b7eb4bd3c9.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Focus - Niente è come sembra (2015)
@@ -10030,6 +10030,8 @@ http://world-service.us:8080/movie/giovanmer/merante/82484.mkv
 http://world-service.us:8080/movie/giovanmer/merante/77935.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/elisabetta.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Elisabetta II l'ultima grande regina
 http://world-service.us:8080/movie/giovanmer/merante/60798.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/fa40024061a56620c2a1810148f6cdf9.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",People we meet on vacation - Un amore in vacanza (2026)
+http://world-service.us:8080/movie/giovanmer/merante/86438.mkv
 
 # --- Movies | NETFLIX AMAZON DOCUMENTARI (49) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",====NETFLIX DOCUMENTARI====
@@ -21172,7 +21174,7 @@ http://world-service.us:8080/movie/giovanmer/merante/78911.mkv
 http://world-service.us:8080/movie/giovanmer/merante/78907.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a041ef74b447f4349a163da198fecf24.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 4 High Forces Emergenza ad alta quota
 http://world-service.us:8080/movie/giovanmer/merante/4540.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a98aaa117236003037fc3ce7397701ea.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA  5 Elisa (2025)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/fafad4b35226409d750eb6244a9240be.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA  5 Come fratelli (2025)
 http://world-service.us:8080/movie/giovanmer/merante/78903.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8cba343cea143e0b115e0ab3337962eb.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA  6 Muori di lei (2025)
 http://world-service.us:8080/movie/giovanmer/merante/78902.mkv
@@ -22403,7 +22405,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1603.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Girl Taken
 http://world-service.us:8080/movie/giovanmer/merante/1604.mp4
 
-# --- Movies | SERIE-TV-ITALIA (144) ---
+# --- Movies | SERIE-TV-ITALIA (146) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://world-service.us:8080/movie/giovanmer/merante/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22692,6 +22694,10 @@ http://world-service.us:8080/movie/giovanmer/merante/1587.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1588.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",A testa alta Il coraggio di una donna
 http://world-service.us:8080/movie/giovanmer/merante/1602.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Gomorra - Le origini
+http://world-service.us:8080/movie/giovanmer/merante/1605.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Fabrizio Corona Io sono notizia
+http://world-service.us:8080/movie/giovanmer/merante/1606.mp4
 
 # --- Movies | Serie-Tv-Ita (1231) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | Serie-Tv-Ita",==== Serie Tv Italia ====
@@ -32897,4 +32903,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16417
+# Total: 16420

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: udsas.my:80
-# Generated: 2026-01-09 18:33:54
+# Generated: 2026-01-10 07:15:52
 # Expires: 2026-01-29
 # Family Safe Edition
 # ==============================================
@@ -254,6 +254,20 @@ http://udsas.my:80/live/Camila/C1a2m3ila!/804874.m3u8
 http://udsas.my:80/live/Camila/C1a2m3ila!/804875.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IWGyp65.jpeg" group-title="Canais | Abertos",TVE Bahia
 http://udsas.my:80/live/Camila/C1a2m3ila!/804878.m3u8
+
+# --- Canais | BBB 26 (6) ---
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 01
+http://udsas.my:80/live/Camila/C1a2m3ila!/1427726.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 02
+http://udsas.my:80/live/Camila/C1a2m3ila!/1427727.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 03
+http://udsas.my:80/live/Camila/C1a2m3ila!/1427728.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 04
+http://udsas.my:80/live/Camila/C1a2m3ila!/1427729.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 05
+http://udsas.my:80/live/Camila/C1a2m3ila!/1427730.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="Canais | BBB 26",BBB 06
+http://udsas.my:80/live/Camila/C1a2m3ila!/1427731.m3u8
 
 # --- Canais | Band (21) ---
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="Canais | Band",Band Bahia FHD
@@ -1471,6 +1485,28 @@ http://udsas.my:80/live/Camila/C1a2m3ila!/805348.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/zoomoo.png" group-title="Canais | Infantis",ZooMoo SD
 http://udsas.my:80/live/Camila/C1a2m3ila!/805349.m3u8
 
+# --- Canais | NBA League Pass (10) ---
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="Canais | NBA League Pass",NBA 01
+http://udsas.my:80/live/Camila/C1a2m3ila!/1427732.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="Canais | NBA League Pass",NBA 02
+http://udsas.my:80/live/Camila/C1a2m3ila!/1427733.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="Canais | NBA League Pass",NBA 03
+http://udsas.my:80/live/Camila/C1a2m3ila!/1427734.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="Canais | NBA League Pass",NBA 04
+http://udsas.my:80/live/Camila/C1a2m3ila!/1427735.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="Canais | NBA League Pass",NBA 05
+http://udsas.my:80/live/Camila/C1a2m3ila!/1427736.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="Canais | NBA League Pass",NBA 06
+http://udsas.my:80/live/Camila/C1a2m3ila!/1427737.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="Canais | NBA League Pass",NBA 07
+http://udsas.my:80/live/Camila/C1a2m3ila!/1427738.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="Canais | NBA League Pass",NBA 08
+http://udsas.my:80/live/Camila/C1a2m3ila!/1427739.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="Canais | NBA League Pass",NBA 09
+http://udsas.my:80/live/Camila/C1a2m3ila!/1427740.m3u8
+#EXTINF:-1 tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="Canais | NBA League Pass",NBA 10
+http://udsas.my:80/live/Camila/C1a2m3ila!/1427741.m3u8
+
 # --- Canais | Notícias (27) ---
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD
 http://udsas.my:80/live/Camila/C1a2m3ila!/805353.m3u8
@@ -1923,4 +1959,4 @@ http://udsas.my:80/live/Camila/C1a2m3ila!/804714.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/woohoo.png" group-title="Canais | Variedades",WooHoo SD
 http://udsas.my:80/live/Camila/C1a2m3ila!/804715.m3u8
 
-# Total: 933
+# Total: 949

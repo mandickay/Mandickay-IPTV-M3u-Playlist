@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: dnssp.site:80
-# Generated: 2026-01-09 18:39:48
+# Generated: 2026-01-10 07:11:39
 # Expires: 2026-01-16
 # Family Safe Edition
 # ==============================================
@@ -94,6 +94,20 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/913991.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/913992.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band Parana
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/940846.m3u8
+
+# --- BBB 26 (6) ---
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",BBB 01
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/1271892.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",Casa Norte
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/1271891.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",Casa Nordeste
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/1271890.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",Casa Centro-Oeste
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/1271889.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",Casa Sudeste
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/1271888.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",Casa Sul
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/1271887.m3u8
 
 # --- CINE SKY (10) ---
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 1
@@ -604,32 +618,32 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2089.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1335.m3u8
 
 # --- DISNEY+ (13) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 1 FHD
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/902434.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 1 HD
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/902435.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 1
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/63979.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 1 Alternativo
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/71852.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 2 FHD
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/902436.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 2 HD
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/902437.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 2
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/64557.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 2 Alternativo
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/71853.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 3 FHD
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/914838.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 3
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/64558.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 3 Alternativo
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/71854.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 4
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/66580.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 5
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/66581.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 6
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/71854.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 7
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/902434.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 8
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/902435.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 9
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/902436.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 10
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/902437.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 11
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/914838.m3u8
 
 # --- DOCUMENTÁRIOS (20) ---
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Animal%20Planet.png" group-title="DOCUMENTÁRIOS",Animal Planet FHD
@@ -971,7 +985,7 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/1270005.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Xsports_logo.png/960px-Xsports_logo.png" group-title="ESPORTES",Xsports HD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1270006.m3u8
 
-# --- ESPORTES PPV (48) ---
+# --- ESPORTES PPV (47) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="ESPORTES PPV",UFC Fight Pass 1 FHD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/902438.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="ESPORTES PPV",UFC Fight Pass 1 HD
@@ -1012,8 +1026,6 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/75611.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/75612.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRHJMVhB/Photoroom-20250115-210723.png" group-title="ESPORTES PPV",Nsports 3
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/75613.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXV1xxsJ/Photoroom-20241010-162702.png" group-title="ESPORTES PPV",Olympia 2024
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/75614.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ciQWRE41f0AkuaLtwdUbrTl6WhdehX4sPg&usqp=CAU" group-title="ESPORTES PPV",OneFootball FHD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/897943.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ciQWRE41f0AkuaLtwdUbrTl6WhdehX4sPg&usqp=CAU" group-title="ESPORTES PPV",OneFootball HD
@@ -2199,50 +2211,32 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/1272984.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MARATONA 24H",[24h] The Chosen
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1272980.m3u8
 
-# --- MAX (22) ---
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 1 FHD
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/915108.m3u8
+# --- MAX (13) ---
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 1
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/71943.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 2 FHD
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/915109.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 2
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/64038.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 3 FHD
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/915110.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 3
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/64039.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 4 FHD
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/915111.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 4
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/64040.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 5 FHD
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/915112.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 5
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/64041.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 6 FHD
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/915113.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 7 FHD
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/973565.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 1 Alternativo
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/898915.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 2
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/64038.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 2 Alternativo
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/898916.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 3 Alternativo
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 3
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/64039.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 4
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/64040.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 5
+http://dnssp.site:80/live/f98lugg8/pzczhs7r/64041.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 6
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/898917.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 4 Alternativo
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 7
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/898918.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 5 Alternativo
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/973566.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 6 Alternativo
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 9
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/973567.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 7 Alternativo
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 10
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/973568.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 8 Alternativo
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/973569.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Max 9 Alternativo
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/973570.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Mosaico Champions League
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX",Mosaico Champions
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/973574.m3u8
 
 # --- MLB GAME PASS (18) ---
@@ -2737,7 +2731,7 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/1161.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Premiere%205.png" group-title="PREMIERE",Premiere 8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/914936.m3u8
 
-# --- PRIME VIDEO (10) ---
+# --- PRIME VIDEO (8) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="PRIME VIDEO",Prime Video FHD 1
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/77850.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="PRIME VIDEO",Prime Video HD 1
@@ -2754,10 +2748,6 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/928884.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/77851.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="PRIME VIDEO",Prime Video 04
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/77858.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="PRIME VIDEO",Prime Video Alternativo 1
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/928882.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="PRIME VIDEO",Prime Video Alternativo 2
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/928885.m3u8
 
 # --- RECORD (42) ---
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record SP FHD
@@ -3149,4 +3139,4 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2294.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/NHK.png" group-title="VARIEDADES",NHK
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1210.m3u8
 
-# Total: 1529
+# Total: 1523

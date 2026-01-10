@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-01-09 18:37:59
+# Generated: 2026-01-10 07:08:43
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -2103,7 +2103,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/187066.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNEokmUke0dazoBhttFN0o3L7Xv.jpg" group-title="Movies | Actie / Action",X-Men: First Class (2011)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190855.mkv
 
-# --- Movies | Amazon Prime (249) ---
+# --- Movies | Amazon Prime (250) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",APB
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/61.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",Condor
@@ -2602,6 +2602,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3568.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3587.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",Open Casa Kerst
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3590.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",007: Road to a Million
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3599.mp4
 
 # --- Movies | Animatie / Animation (189) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygmrU2F2JwUtjpn6EBOrRq0pKCD.jpg" group-title="Movies | Animatie / Animation",Music Land
@@ -8975,7 +8977,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/72955.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Glory Kickboxing",Glory Rivals 1
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/115194.mkv
 
-# --- Movies | HBO MAX (187) ---
+# --- Movies | HBO MAX (188) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",Splitting Up Together - 2018
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",The Dag
@@ -9350,6 +9352,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3526.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3527.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",Outback Opal Hunters
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3528.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",The Cult Behind the Killer: The Andrea Yates Story
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3600.mp4
 
 # --- Movies | Historisch / History (25) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB8sqwHkVZWBvhEn71ICewPCfNS.jpg" group-title="Movies | Historisch / History",The Great War
@@ -17959,7 +17963,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/189678.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg" group-title="Movies | Nieuwe Releases 2024",Thelma De Eenhoorn (2024) NL Gesproken
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190125.mkv
 
-# --- Movies | Nieuwe Releases 2025 (421) ---
+# --- Movies | Nieuwe Releases 2025 (425) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHcG8FPk9yILRVPnHEcrwtrkAAN.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 16: Dolphins @ Jets
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/119331.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldEVs1GQiYLGXZEwa93tb5t3gsD.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 17: Chiefs @ Broncos
@@ -18802,6 +18806,14 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196396.mkv
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196400.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg" group-title="Movies | Nieuwe Releases 2025",Der tiger (2025)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196401.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zynz5ly1YiQhtcFH8TXknxkVJaA.jpg" group-title="Movies | Nieuwe Releases 2025",Onze Jongens 3 (2025)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196410.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLq4GRp4InjkipnWM5Bdzbkhg2P.jpg" group-title="Movies | Nieuwe Releases 2025",Critical Incident: Death at the Border (2025)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196430.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQo8qQx7nZ6x9xf4dPfGH3dSUAE.jpg" group-title="Movies | Nieuwe Releases 2025",Straf (2025)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196431.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o6lkhL32xQJeB52IIG1us5BVey.jpg" group-title="Movies | Nieuwe Releases 2025",Smurfen (2025) (NL Gesproken)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196432.mkv
 
 # --- Movies | Oorlog / War (59) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg" group-title="Movies | Oorlog / War",Jarhead: Law of Return
@@ -22171,4 +22183,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11030
+# Total: 11036

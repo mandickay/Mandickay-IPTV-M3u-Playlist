@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: besstavb.fans:8000
-# Generated: 2026-01-09 18:31:05
+# Generated: 2026-01-10 07:08:48
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -8429,7 +8429,11 @@ http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/541346.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/f04179c97ecd8db1355cb859066ff8c2.png" group-title="UNITED STATES (USA)",US: 3ABN Kids
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/541345.m3u8
 
-# --- ⚜️ROMANIA TV⚜️ (495) ---
+# --- ⚜️ROMANIA TV⚜️ (501) ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️PRO EUROPA INFO⚜️
+http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/540724.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ2Fkp5n/HOME-ALONE.jpg" group-title="⚜️ROMANIA TV⚜️",HOME ALONE
+http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/548298.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx64Y4Sp/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV FIBRA
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/277301.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TP9n0Jvy/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV 4K
@@ -8680,6 +8684,14 @@ http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/126725.m3u8
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/439416.m3u8
 #EXTINF:-1 tvg-logo="https://media.stiripesurse.ro/image/202304/w800/media-168200152923203100.png" group-title="⚜️ROMANIA TV⚜️",TVR SPORT HD
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/206422.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfpQf3HR/resize.png" group-title="⚜️ROMANIA TV⚜️",LAS FIERBINTI SEZON 27 (2025)
+http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/533984.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4CWVh9GeyEEmu9r2CV7tybz2RQ.jpg" group-title="⚜️ROMANIA TV⚜️",INSULA IUBIRII (2025)
+http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/531760.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/LOGO_.jpg/revision/latest/scale-to-width-down/250?cb=20250729105159" group-title="⚜️ROMANIA TV⚜️",ASIA EXPRESS (2025)
+http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/528829.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFr9XmHN/GAME-OF-THRONES.jpg" group-title="⚜️ROMANIA TV⚜️",GAME OF THRONES (2011)
+http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/531762.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J07LTsBw/HBO-UHD.jpg" group-title="⚜️ROMANIA TV⚜️",HBO UHD
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/33832.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkYyQzx1/HBO-2-UHD.jpg" group-title="⚜️ROMANIA TV⚜️",HBO 2 UHD
@@ -9421,4 +9433,4 @@ http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/331258.m3u8
 #EXTINF:-1 tvg-logo="http://fluxro.live:8080/images/Lwj2xm0-MaoTBtfyWZVzujfx9r3mLYu2IOdAbL-HDNPZwfrviNU0nmCcgUCtOC__h6MhMtYyLOxqWhH0spRQsBvJvN-3PLr61w7CoRelZV0.png" group-title="⚜️ROMANIA TV⚜️",DISCO MIX FHD
 http://besstavb.fans:8000/live/AlexandraMihaela/17up7azEyen/553232.m3u8
 
-# Total: 4690
+# Total: 4696

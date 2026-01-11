@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-01-11 07:12:44
+# Generated: 2026-01-11 18:35:48
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -1486,7 +1486,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/4884.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/4885.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/BOSNIA/k3.png" group-title="|EXYU| BIH",|BIH| K3 PRNJAVOR
 http://siptvs.com:8080/live/Biljana12/Biljana12/4886.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/BOSNIA/aljazeerabalkans.png" group-title="|EXYU| BIH",|BIH| AL JAZZERA BALKANS
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/FRANCE/EURONEWS%28FRENCH%29.png" group-title="|EXYU| BIH",|BIH| EURONEWS
 http://siptvs.com:8080/live/Biljana12/Biljana12/4887.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/n1.png" group-title="|EXYU| BIH",|BIH| N1 INFO
 http://siptvs.com:8080/live/Biljana12/Biljana12/4888.m3u8
@@ -1779,7 +1779,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/145716.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|EXYU| DOKUMENTARNI",KITCHEN TV
 http://siptvs.com:8080/live/Biljana12/Biljana12/192841.m3u8
 
-# --- |EXYU| FILM (148) ---
+# --- |EXYU| FILM (61) ---
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/GENERAL/hbo1.png" group-title="|EXYU| FILM",HBO 1
 http://siptvs.com:8080/live/Biljana12/Biljana12/35415.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/GENERAL/hbo1.png" group-title="|EXYU| FILM",HBO 1 HD
@@ -1896,186 +1896,276 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/104898.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/104899.m3u8
 #EXTINF:-1 tvg-logo="http://siptvs.com:8080/images/d023d32691e4115fa7371ed222715ffe.png" group-title="|EXYU| FILM",SR: Euro Cinema 4 FHD
 http://siptvs.com:8080/live/Biljana12/Biljana12/104900.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM",CINEMACIOUS 1 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63469.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM",CINEMACIOUS 2 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63470.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM",CINEMACIOUS 3 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63471.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM",CINEMACIOUS 4 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63472.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM",CINEMACIOUS 5 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63473.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM",CINEMACIOUS 6 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63474.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM",CINEMACIOUS 7 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63475.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM",CINEMACIOUS 8 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63476.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/boxoffice1.png" group-title="|EXYU| FILM",BOX OFFICE 1 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63477.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/totalcinema.png" group-title="|EXYU| FILM",TOTAL CINEMA 1 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63480.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/totalcinema.png" group-title="|EXYU| FILM",TOTAL CINEMA 2 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63481.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/totalcinema.png" group-title="|EXYU| FILM",TOTAL CINEMA 3 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63482.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect1.png" group-title="|EXYU| FILM",CINE+ SELECT 1 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63483.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect2.png" group-title="|EXYU| FILM",CINE+ SELECT 2 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63484.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect2.png" group-title="|EXYU| FILM",CINE+ SELECT 3 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63485.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect4.png" group-title="|EXYU| FILM",CINE+ SELECT 4 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63486.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect5.png" group-title="|EXYU| FILM",CINE+ SELECT 5 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63487.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect6.png" group-title="|EXYU| FILM",CINE+ SELECT 6 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63488.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect7.png" group-title="|EXYU| FILM",CINE+ SELECT 7 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63489.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect8.png" group-title="|EXYU| FILM",CINE+ SELECT 8 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63490.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect9.png" group-title="|EXYU| FILM",CINE+ SELECT 9 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63491.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect10.png" group-title="|EXYU| FILM",CINE+ SELECT 10 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63492.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect11.png" group-title="|EXYU| FILM",CINE+ SELECT 11 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63493.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect12.png" group-title="|EXYU| FILM",CINE+ SELECT 12 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63494.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect13.png" group-title="|EXYU| FILM",CINE+ SELECT 13 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63495.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect14.png" group-title="|EXYU| FILM",CINE+ SELECT 14 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63496.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect15.png" group-title="|EXYU| FILM",CINE+ SELECT 15 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63497.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM",GORA SELECT 1 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63501.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM",GORA SELECT 2 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63502.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM",GORA SELECT 3 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63503.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM",GORA SELECT 4 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63504.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM",GORA SELECT 5 HD
-http://siptvs.com:8080/live/Biljana12/Biljana12/63505.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/novacinema.png" group-title="|EXYU| FILM",NOVA CINEMA 1 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/63513.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/novacinema2.png" group-title="|EXYU| FILM",NOVA CINEMA 2 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/63514.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/novacinema2k.png" group-title="|EXYU| FILM",NOVA CINEMA 2K HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/63515.m3u8
-#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM",CROMAX SELECT 1 HD
+
+# --- |EXYU| FILM PREMIUM (131) ---
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM PREMIUM",CINEMACIOUS 1 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63469.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM PREMIUM",CINEMACIOUS 2 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63470.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM PREMIUM",CINEMACIOUS 3 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63471.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM PREMIUM",CINEMACIOUS 4 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63472.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM PREMIUM",CINEMACIOUS 5 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63473.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM PREMIUM",CINEMACIOUS 6 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63474.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM PREMIUM",CINEMACIOUS 7 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63475.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM PREMIUM",CINEMACIOUS 8 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63476.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/boxoffice1.png" group-title="|EXYU| FILM PREMIUM",BOX OFFICE 1 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63477.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/totalcinema.png" group-title="|EXYU| FILM PREMIUM",TOTAL CINEMA 1 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63480.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/totalcinema.png" group-title="|EXYU| FILM PREMIUM",TOTAL CINEMA 2 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63481.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/totalcinema.png" group-title="|EXYU| FILM PREMIUM",TOTAL CINEMA 3 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63482.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect1.png" group-title="|EXYU| FILM PREMIUM",CINE+ SELECT 1 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63483.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect2.png" group-title="|EXYU| FILM PREMIUM",CINE+ SELECT 2 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63484.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect2.png" group-title="|EXYU| FILM PREMIUM",CINE+ SELECT 3 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63485.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect4.png" group-title="|EXYU| FILM PREMIUM",CINE+ SELECT 4 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63486.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect5.png" group-title="|EXYU| FILM PREMIUM",CINE+ SELECT 5 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63487.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect6.png" group-title="|EXYU| FILM PREMIUM",CINE+ SELECT 6 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63488.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect7.png" group-title="|EXYU| FILM PREMIUM",CINE+ SELECT 7 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63489.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect8.png" group-title="|EXYU| FILM PREMIUM",CINE+ SELECT 8 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63490.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect9.png" group-title="|EXYU| FILM PREMIUM",CINE+ SELECT 9 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63491.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect10.png" group-title="|EXYU| FILM PREMIUM",CINE+ SELECT 10 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63492.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect11.png" group-title="|EXYU| FILM PREMIUM",CINE+ SELECT 11 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63493.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect12.png" group-title="|EXYU| FILM PREMIUM",CINE+ SELECT 12 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63494.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect13.png" group-title="|EXYU| FILM PREMIUM",CINE+ SELECT 13 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63495.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect14.png" group-title="|EXYU| FILM PREMIUM",CINE+ SELECT 14 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63496.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cineselect15.png" group-title="|EXYU| FILM PREMIUM",CINE+ SELECT 15 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63497.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM PREMIUM",GORA SELECT 1 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63501.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM PREMIUM",GORA SELECT 2 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63502.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM PREMIUM",GORA SELECT 3 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63503.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM PREMIUM",GORA SELECT 4 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63504.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM PREMIUM",GORA SELECT 5 HD
+http://siptvs.com:8080/live/Biljana12/Biljana12/63505.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM PREMIUM",CROMAX SELECT 1 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/35460.m3u8
-#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM",CROMAX SELECT 2 HD
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM PREMIUM",CROMAX SELECT 2 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/35461.m3u8
-#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM",CROMAX SELECT 3 HD
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM PREMIUM",CROMAX SELECT 3 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/35462.m3u8
-#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM",CROMAX SELECT 4 HD
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM PREMIUM",CROMAX SELECT 4 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/35463.m3u8
-#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM",CROMAX SELECT 5 HD
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM PREMIUM",CROMAX SELECT 5 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/35464.m3u8
-#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM",CROMAX SELECT 6 HD
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM PREMIUM",CROMAX SELECT 6 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/35465.m3u8
-#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM",CROMAX SELECT 7 HD
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM PREMIUM",CROMAX SELECT 7 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/35466.m3u8
-#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM",CROMAX SELECT 8 HD
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM PREMIUM",CROMAX SELECT 8 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/35467.m3u8
-#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM",CROMAX SELECT 9 HD
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM PREMIUM",CROMAX SELECT 9 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/35468.m3u8
-#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM",MAXCRO SELECT 10 HD
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM PREMIUM",MAXCRO SELECT 10 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/35469.m3u8
-#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM",MAXCRO SELECT 11 HD
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/CROATIA/MAXCROSELECT12.png" group-title="|EXYU| FILM PREMIUM",MAXCRO SELECT 11 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/35470.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/balkansky.png" group-title="|EXYU| FILM",Balkan Sky - Western
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/balkansky.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Western
 http://siptvs.com:8080/live/Biljana12/Biljana12/72855.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/balkansky.png" group-title="|EXYU| FILM",Balkan Sky - Thriller
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/c7e820fed21b998afd4e336b80c50170.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Premiere 1
+http://siptvs.com:8080/live/Biljana12/Biljana12/198777.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/59bcc316c23acd5d8a7caac43dca5c7a.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Premiere 2
+http://siptvs.com:8080/live/Biljana12/Biljana12/198778.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/a32b8229f02d4b2a197d9a7f362b1074.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Action
+http://siptvs.com:8080/live/Biljana12/Biljana12/198779.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/a96aa36070fa891f6c445208cbfacbcf.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Fantasy
+http://siptvs.com:8080/live/Biljana12/Biljana12/198781.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/44a8a2b3f9db6e60809cd54c90c186b8.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Family
+http://siptvs.com:8080/live/Biljana12/Biljana12/198782.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/ab1822b75717e16d19ab355b06401657.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Horror
+http://siptvs.com:8080/live/Biljana12/Biljana12/198783.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/9036af719d6c15ffadc7ef8bec13c641.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Crime
+http://siptvs.com:8080/live/Biljana12/Biljana12/198784.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/d74a0a7ef8e4793596e87e5d6de135a1.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Sci-Fi
+http://siptvs.com:8080/live/Biljana12/Biljana12/198785.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/b118096a07a9353e4aea72e755b38de9.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Romance
+http://siptvs.com:8080/live/Biljana12/Biljana12/198787.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/57ef458abff09e806d33a6c28dcee753.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Mistery
+http://siptvs.com:8080/live/Biljana12/Biljana12/198788.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/5a8eadddc676229ea3319781621ef220.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - War
+http://siptvs.com:8080/live/Biljana12/Biljana12/198792.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/83603b598e36d9c44e217a2cf0164348.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Film
+http://siptvs.com:8080/live/Biljana12/Biljana12/198793.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/4924dab24f26cec098171e743cfedf7c.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Documentary
+http://siptvs.com:8080/live/Biljana12/Biljana12/198794.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/3881a752925cc08cadf0d53c194b808e.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Serije
+http://siptvs.com:8080/live/Biljana12/Biljana12/198795.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/831e1ef4bdedb077b3d4e15987fe1943.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - YU Serije
+http://siptvs.com:8080/live/Biljana12/Biljana12/198796.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/971c824293a13ce05527625e805a57a5.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Folk
+http://siptvs.com:8080/live/Biljana12/Biljana12/198797.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/6ef7c7df8725ed49b3559157cb8778d9.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Ex-Yu Club
+http://siptvs.com:8080/live/Biljana12/Biljana12/198798.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/4f526923bbe70a2b50d653347a497035.png" group-title="|EXYU| FILM PREMIUM",Balkan sky - Kids 1
+http://siptvs.com:8080/live/Biljana12/Biljana12/198799.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/4f526923bbe70a2b50d653347a497035.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Kids 2
+http://siptvs.com:8080/live/Biljana12/Biljana12/198800.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/0c57269a251ba0f5f2464b4ff3e48734.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Pop-Rock
+http://siptvs.com:8080/live/Biljana12/Biljana12/198801.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/e6850eeb180f4b59d54eaa0a56040d10.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Selo Veselo
+http://siptvs.com:8080/live/Biljana12/Biljana12/198802.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/bs-christmas.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Christmas
+http://siptvs.com:8080/live/Biljana12/Biljana12/198803.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Relax Animal
+http://siptvs.com:8080/live/Biljana12/Biljana12/198804.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/balkansky.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Thriller
 http://siptvs.com:8080/live/Biljana12/Biljana12/72856.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/balkansky.png" group-title="|EXYU| FILM",Balkan Sky -Horror
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/balkansky.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky -Horror
 http://siptvs.com:8080/live/Biljana12/Biljana12/72857.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/balkansky.png" group-title="|EXYU| FILM",Balkan Sky -Sci-Fi
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/balkansky.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky -Sci-Fi
 http://siptvs.com:8080/live/Biljana12/Biljana12/72858.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/balkansky.png" group-title="|EXYU| FILM",Balkan Sky - Adventure
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/balkansky.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Adventure
 http://siptvs.com:8080/live/Biljana12/Biljana12/72859.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/balkansky.png" group-title="|EXYU| FILM",Balkan Sky - Drama
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/balkansky.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Drama
 http://siptvs.com:8080/live/Biljana12/Biljana12/72860.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/balkansky.png" group-title="|EXYU| FILM",Balkan Sky - Comedy
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/balkansky.png" group-title="|EXYU| FILM PREMIUM",Balkan Sky - Comedy
 http://siptvs.com:8080/live/Biljana12/Biljana12/72861.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight1.png" group-title="|EXYU| FILM",HR: Movie Night 1
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight1.png" group-title="|EXYU| FILM PREMIUM",HR: Movie Night 1
 http://siptvs.com:8080/live/Biljana12/Biljana12/72863.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight2.png" group-title="|EXYU| FILM",HR: Movie Night 2
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight2.png" group-title="|EXYU| FILM PREMIUM",HR: Movie Night 2
 http://siptvs.com:8080/live/Biljana12/Biljana12/72864.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight3.png" group-title="|EXYU| FILM",HR: Movie Night 3
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight3.png" group-title="|EXYU| FILM PREMIUM",HR: Movie Night 3
 http://siptvs.com:8080/live/Biljana12/Biljana12/72865.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight4.png" group-title="|EXYU| FILM",HR: Movie Night 4
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight4.png" group-title="|EXYU| FILM PREMIUM",HR: Movie Night 4
 http://siptvs.com:8080/live/Biljana12/Biljana12/72866.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight5.png" group-title="|EXYU| FILM",HR: Movie Night 5
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight5.png" group-title="|EXYU| FILM PREMIUM",HR: Movie Night 5
 http://siptvs.com:8080/live/Biljana12/Biljana12/72867.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight6.png" group-title="|EXYU| FILM",HR: Movie Night 6
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight6.png" group-title="|EXYU| FILM PREMIUM",HR: Movie Night 6
 http://siptvs.com:8080/live/Biljana12/Biljana12/72868.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight7.png" group-title="|EXYU| FILM",HR: Movie Night 7
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight7.png" group-title="|EXYU| FILM PREMIUM",HR: Movie Night 7
 http://siptvs.com:8080/live/Biljana12/Biljana12/72869.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight8.png" group-title="|EXYU| FILM",HR: Movie Night 8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight8.png" group-title="|EXYU| FILM PREMIUM",HR: Movie Night 8
 http://siptvs.com:8080/live/Biljana12/Biljana12/72870.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight9.png" group-title="|EXYU| FILM",HR: Movie Night 9
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight9.png" group-title="|EXYU| FILM PREMIUM",HR: Movie Night 9
 http://siptvs.com:8080/live/Biljana12/Biljana12/72871.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight10.png" group-title="|EXYU| FILM",HR: Movie Night 10
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrmovienight10.png" group-title="|EXYU| FILM PREMIUM",HR: Movie Night 10
 http://siptvs.com:8080/live/Biljana12/Biljana12/72872.m3u8
-#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/GENERAL/LUDZBUNJENNORMALAN.PNG" group-title="|EXYU| FILM",LUD ZBUNJEN NORMALAN 24/7
-http://siptvs.com:8080/live/Biljana12/Biljana12/35471.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/andrijaiandjelka.png" group-title="|EXYU| FILM",ANDRIJA I ANDJELKA 24/7
-http://siptvs.com:8080/live/Biljana12/Biljana12/35472.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM",CINEMACIOUS
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM PREMIUM",CINEMACIOUS
 http://siptvs.com:8080/live/Biljana12/Biljana12/63468.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM",SKY GO 1
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM PREMIUM",SKY GO 1
 http://siptvs.com:8080/live/Biljana12/Biljana12/98503.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM",SKY GO 2
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM PREMIUM",SKY GO 2
 http://siptvs.com:8080/live/Biljana12/Biljana12/98504.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM",SKY GO 3
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM PREMIUM",SKY GO 3
 http://siptvs.com:8080/live/Biljana12/Biljana12/98505.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM",SKY GO 4
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM PREMIUM",SKY GO 4
 http://siptvs.com:8080/live/Biljana12/Biljana12/98506.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM",SKY GO 5
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM PREMIUM",SKY GO 5
 http://siptvs.com:8080/live/Biljana12/Biljana12/98507.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM",SKY GO 6
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM PREMIUM",SKY GO 6
 http://siptvs.com:8080/live/Biljana12/Biljana12/98508.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM",SKY GO 7
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM PREMIUM",SKY GO 7
 http://siptvs.com:8080/live/Biljana12/Biljana12/98509.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM",SKY GO 8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM PREMIUM",SKY GO 8
 http://siptvs.com:8080/live/Biljana12/Biljana12/98510.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM",SKY GO 9
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM PREMIUM",SKY GO 9
 http://siptvs.com:8080/live/Biljana12/Biljana12/98511.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM",SKY GO 10
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/skygo.png" group-title="|EXYU| FILM PREMIUM",SKY GO 10
 http://siptvs.com:8080/live/Biljana12/Biljana12/98512.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM",GORA SELECT 6
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM PREMIUM",GORA SELECT 6
 http://siptvs.com:8080/live/Biljana12/Biljana12/98513.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM",GORA SELECT 7
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM PREMIUM",GORA SELECT 7
 http://siptvs.com:8080/live/Biljana12/Biljana12/98514.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM",GORA SELECT 8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM PREMIUM",GORA SELECT 8
 http://siptvs.com:8080/live/Biljana12/Biljana12/98515.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM",GORA SELECT 9
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM PREMIUM",GORA SELECT 9
 http://siptvs.com:8080/live/Biljana12/Biljana12/98516.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM",GORA SELECT 10
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gora.png" group-title="|EXYU| FILM PREMIUM",GORA SELECT 10
 http://siptvs.com:8080/live/Biljana12/Biljana12/98517.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/24-7/Crna.Svadba.png" group-title="|EXYU| FILM",24/7 CRNA SVADBA
-http://siptvs.com:8080/live/Biljana12/Biljana12/104735.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM",SR: NETTIP SELECT 1
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM PREMIUM",SR: NETTIP SELECT 1
 http://siptvs.com:8080/live/Biljana12/Biljana12/113325.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM",SR: NETTIP SELECT 2
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM PREMIUM",SR: NETTIP SELECT 2
 http://siptvs.com:8080/live/Biljana12/Biljana12/113326.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM",SR: NETTIP SELECT 3
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM PREMIUM",SR: NETTIP SELECT 3
 http://siptvs.com:8080/live/Biljana12/Biljana12/113327.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM",SR: NETTIP SELECT 4
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM PREMIUM",SR: NETTIP SELECT 4
 http://siptvs.com:8080/live/Biljana12/Biljana12/113328.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM",SR: NETTIP PREMIERE 1
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM PREMIUM",SR: NETTIP PREMIERE 1
 http://siptvs.com:8080/live/Biljana12/Biljana12/113329.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM",SR: NETTIP PREMIERE 2
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM PREMIUM",SR: NETTIP PREMIERE 2
 http://siptvs.com:8080/live/Biljana12/Biljana12/113330.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM",SR: NETTIP PREMIERE 3
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM PREMIUM",SR: NETTIP PREMIERE 3
 http://siptvs.com:8080/live/Biljana12/Biljana12/113331.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/mucke.png" group-title="|EXYU| FILM",24/7 Mucke (Only Fools and Horses)
-http://siptvs.com:8080/live/Biljana12/Biljana12/183071.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="|EXYU| FILM PREMIUM",NETFLIX HITS
+http://siptvs.com:8080/live/Biljana12/Biljana12/198805.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="|EXYU| FILM PREMIUM",NETFLIX WAR
+http://siptvs.com:8080/live/Biljana12/Biljana12/198806.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="|EXYU| FILM PREMIUM",NETFLIX CRIME
+http://siptvs.com:8080/live/Biljana12/Biljana12/198807.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="|EXYU| FILM PREMIUM",NETFLIX ACTION
+http://siptvs.com:8080/live/Biljana12/Biljana12/198808.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="|EXYU| FILM PREMIUM",NETFLIX COMEDY
+http://siptvs.com:8080/live/Biljana12/Biljana12/198809.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="|EXYU| FILM PREMIUM",NETFLIX FAMILY
+http://siptvs.com:8080/live/Biljana12/Biljana12/198810.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="|EXYU| FILM PREMIUM",NETFLIX ROMANCE
+http://siptvs.com:8080/live/Biljana12/Biljana12/198811.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="|EXYU| FILM PREMIUM",NETFLIX ADVENTURE
+http://siptvs.com:8080/live/Biljana12/Biljana12/198812.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="|EXYU| FILM PREMIUM",NETFLIX THRILLER
+http://siptvs.com:8080/live/Biljana12/Biljana12/198813.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="|EXYU| FILM PREMIUM",NETFLIX DRAMA
+http://siptvs.com:8080/live/Biljana12/Biljana12/198814.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="|EXYU| FILM PREMIUM",NETFLIX MISTERY
+http://siptvs.com:8080/live/Biljana12/Biljana12/198815.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="|EXYU| FILM PREMIUM",NETFLIX SCI-FI
+http://siptvs.com:8080/live/Biljana12/Biljana12/198816.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="|EXYU| FILM PREMIUM",NETFLIX FANTASY
+http://siptvs.com:8080/live/Biljana12/Biljana12/198817.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="|EXYU| FILM PREMIUM",NETFLIX WESTERN
+http://siptvs.com:8080/live/Biljana12/Biljana12/198818.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="|EXYU| FILM PREMIUM",NETFLIX HORROR
+http://siptvs.com:8080/live/Biljana12/Biljana12/198819.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="|EXYU| FILM PREMIUM",NETFLIX ANIMATED
+http://siptvs.com:8080/live/Biljana12/Biljana12/198820.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/728a630688ca9c6ed43b2a4113234ef7.png" group-title="|EXYU| FILM PREMIUM",MAX SERIJSKI (TEST)
+http://siptvs.com:8080/live/Biljana12/Biljana12/198821.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/728a630688ca9c6ed43b2a4113234ef7.png" group-title="|EXYU| FILM PREMIUM",MIX MOVIE 1 (TEST)
+http://siptvs.com:8080/live/Biljana12/Biljana12/198822.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/728a630688ca9c6ed43b2a4113234ef7.png" group-title="|EXYU| FILM PREMIUM",MIX MOVIE 2  (TEST)
+http://siptvs.com:8080/live/Biljana12/Biljana12/198823.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/728a630688ca9c6ed43b2a4113234ef7.png" group-title="|EXYU| FILM PREMIUM",MIX MOVIE 3 (TEST)
+http://siptvs.com:8080/live/Biljana12/Biljana12/198824.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/728a630688ca9c6ed43b2a4113234ef7.png" group-title="|EXYU| FILM PREMIUM",MIX MOVIE HITS (TEST)
+http://siptvs.com:8080/live/Biljana12/Biljana12/198825.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/728a630688ca9c6ed43b2a4113234ef7.png" group-title="|EXYU| FILM PREMIUM",MIX MOVIE ROMANCE (TEST)
+http://siptvs.com:8080/live/Biljana12/Biljana12/198826.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/728a630688ca9c6ed43b2a4113234ef7.png" group-title="|EXYU| FILM PREMIUM",MIX MOVIE WESTERN (TEST)
+http://siptvs.com:8080/live/Biljana12/Biljana12/198827.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/9282648e149d1fdc19c811cbc2ba8bcf.png" group-title="|EXYU| FILM PREMIUM",FLUMIX FILM 1 (TEST)
+http://siptvs.com:8080/live/Biljana12/Biljana12/198828.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/9282648e149d1fdc19c811cbc2ba8bcf.png" group-title="|EXYU| FILM PREMIUM",FLUMIX FILM 2 (TEST)
+http://siptvs.com:8080/live/Biljana12/Biljana12/198829.m3u8
 
 # --- |EXYU| HRVATSKA (52) ---
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/CROATIA/HRT1.png" group-title="|EXYU| HRVATSKA",|HR| HRT 1
@@ -2235,7 +2325,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/112980.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/MACEDONIA/hugo.png" group-title="|EXYU| MAKEDONIJA",MK: HUGO 4
 http://siptvs.com:8080/live/Biljana12/Biljana12/112981.m3u8
 
-# --- |EXYU| MUZICKI (49) ---
+# --- |EXYU| MUZICKI (69) ---
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/Fullfull/yuplanet.png" group-title="|EXYU| MUZICKI",YU PLANET
 http://siptvs.com:8080/live/Biljana12/Biljana12/35357.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/GENERAL/grand%20%281%29.png" group-title="|EXYU| MUZICKI",GRAND TV
@@ -2334,6 +2424,56 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/130911.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/174025.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|EXYU| MUZICKI",BUJRUM TV
 http://siptvs.com:8080/live/Biljana12/Biljana12/193093.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/ad5b174cce940f49e8b942381b639c7c.png" group-title="|EXYU| MUZICKI",Vibe TV
+http://siptvs.com:8080/live/Biljana12/Biljana12/198830.m3u8
+#EXTINF:-1 tvg-logo="https://bestfm.svet24.si/images/logo.svg" group-title="|EXYU| MUZICKI",best TV ᴴᴰ
+http://siptvs.com:8080/live/Biljana12/Biljana12/198831.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTUYcjbjEPSjTZc7ZQ4AKwLdziUGOSjtteAnNUbkoUmQygIJKoGqt8xfZn-HEDvOO1PoA&usqp=CAU" group-title="|EXYU| MUZICKI",Bujrum TV
+http://siptvs.com:8080/live/Biljana12/Biljana12/198832.m3u8
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="|EXYU| MUZICKI",HIT TV
+http://siptvs.com:8080/live/Biljana12/Biljana12/198833.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/624d70653abc7615e9c60aab4e728971.jpg" group-title="|EXYU| MUZICKI",music NONSTOP
+http://siptvs.com:8080/live/Biljana12/Biljana12/198834.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/1ab6d3e9377e48f0363db4fff3e499f6.png" group-title="|EXYU| MUZICKI",Hit FM TV
+http://siptvs.com:8080/live/Biljana12/Biljana12/198835.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/545ceeb11f93b0575da560d174df7cc7.jpg" group-title="|EXYU| MUZICKI",RadioTV S
+http://siptvs.com:8080/live/Biljana12/Biljana12/198836.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/fbe4b570904a88447a2a7d702e57675a.png" group-title="|EXYU| MUZICKI",FOLK Melody
+http://siptvs.com:8080/live/Biljana12/Biljana12/198837.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/ccb0790ca457f0e6824e2e2f7f2870a1.png" group-title="|EXYU| MUZICKI",ExYU Melody
+http://siptvs.com:8080/live/Biljana12/Biljana12/198838.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/dece1cef505ee1da40b727ef53cc0dab.png" group-title="|EXYU| MUZICKI",POP Melody ᴴᴰ
+http://siptvs.com:8080/live/Biljana12/Biljana12/198839.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/logomuzzik.jpg" group-title="|EXYU| MUZICKI",MTS Mix
+http://siptvs.com:8080/live/Biljana12/Biljana12/198840.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/logomuzzikzztv.jpg" group-title="|EXYU| MUZICKI",MTS ZZ Tv
+http://siptvs.com:8080/live/Biljana12/Biljana12/198841.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/logomuzzikrr.jpg" group-title="|EXYU| MUZICKI",MTS Rock
+http://siptvs.com:8080/live/Biljana12/Biljana12/198842.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/logomuzzikwwm.jpg" group-title="|EXYU| MUZICKI",MTS World
+http://siptvs.com:8080/live/Biljana12/Biljana12/198843.m3u8
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="|EXYU| MUZICKI",MTS Tik Tak
+http://siptvs.com:8080/live/Biljana12/Biljana12/198844.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/logomuzzikpopstar.jpg" group-title="|EXYU| MUZICKI",MTS Pop Star
+http://siptvs.com:8080/live/Biljana12/Biljana12/198845.m3u8
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="|EXYU| MUZICKI",MTS Riviera
+http://siptvs.com:8080/live/Biljana12/Biljana12/198846.m3u8
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="|EXYU| MUZICKI",MTS Restart
+http://siptvs.com:8080/live/Biljana12/Biljana12/198847.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/logomuzzikflashback.jpg" group-title="|EXYU| MUZICKI",MTS FlashBack
+http://siptvs.com:8080/live/Biljana12/Biljana12/198848.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/obelix-juznivetar.png" group-title="|EXYU| MUZICKI",Obelix - Juzni Vetar
+http://siptvs.com:8080/live/Biljana12/Biljana12/198849.m3u8
+
+# --- |EXYU| SERIJE 24/7 (4) ---
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/GENERAL/LUDZBUNJENNORMALAN.PNG" group-title="|EXYU| SERIJE 24/7",LUD ZBUNJEN NORMALAN 24/7
+http://siptvs.com:8080/live/Biljana12/Biljana12/35471.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/andrijaiandjelka.png" group-title="|EXYU| SERIJE 24/7",ANDRIJA I ANDJELKA 24/7
+http://siptvs.com:8080/live/Biljana12/Biljana12/35472.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/24-7/Crna.Svadba.png" group-title="|EXYU| SERIJE 24/7",24/7 CRNA SVADBA
+http://siptvs.com:8080/live/Biljana12/Biljana12/104735.m3u8
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/mucke.png" group-title="|EXYU| SERIJE 24/7",24/7 Mucke (Only Fools and Horses)
+http://siptvs.com:8080/live/Biljana12/Biljana12/183071.m3u8
 
 # --- |EXYU| SLOVENIJA (94) ---
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/SLOVENIA/FLAGE.png" group-title="|EXYU| SLOVENIJA",* * * *  SLOVENIJA * * * *
@@ -3273,4 +3413,4 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/85905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|WSP| WORLD SPORT",MUTV
 http://siptvs.com:8080/live/Biljana12/Biljana12/126239.m3u8
 
-# Total: 1605
+# Total: 1673

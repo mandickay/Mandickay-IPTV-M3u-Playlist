@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alblive.org:80
-# Generated: 2026-01-11 07:14:34
+# Generated: 2026-01-11 18:32:04
 # Expires: 2026-01-15
 # Family Safe Edition
 # ==============================================
@@ -3333,7 +3333,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/155.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX UHD 4K",DE: Prison Break
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/156.mp4
 
-# --- Movies | Deutsche Audio (628) ---
+# --- Movies | Deutsche Audio (629) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg" group-title="Movies | Deutsche Audio",Bad Boys for Life (2020)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/9464.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg" group-title="Movies | Deutsche Audio",Cocaine Bear (2023)
@@ -4590,6 +4590,8 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17414.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17415.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg" group-title="Movies | Deutsche Audio",Harry Potter and the Prisoner of Azkaban (2004)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17416.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/chpWmskl3aKm1aTZqUHRCtviwPy.jpg" group-title="Movies | Deutsche Audio",TRON: Ares (2025)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17419.mkv
 
 # --- Movies | Documentary (199) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u96gR99ZUtdmE3bAzASnjZqzioR.jpg" group-title="Movies | Documentary",My Octopus Teacher (2020)
@@ -10723,4 +10725,4 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16122.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The English
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/100.mp4
 
-# Total: 5328
+# Total: 5329

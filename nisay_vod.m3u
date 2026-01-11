@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-11 07:12:18
+# Generated: 2026-01-11 18:29:47
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -7093,11 +7093,23 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/64219.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66GUmWpTHgAjyp4aBSXy63PZTiC.jpg" group-title="Movies | COCUK VOD",Nomadland 2021
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/78060.mkv
 
-# --- Movies | DE: ALTE FILME (310) ---
+# --- Movies | DE: ALTE FILME (316) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wkZu2T3pU0FtOaFcu85u2dYH0R.jpg" group-title="Movies | DE: ALTE FILME",Bring Me Home (2019)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152580.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a569drpkY3RduC4RmHE5TU23JKQ.jpg" group-title="Movies | DE: ALTE FILME",Hakkında Herşeyi Biliyorsunuz (2019)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/152505.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwejrEC1RtmWoRd6j9xJvftZ1e3.jpg" group-title="Movies | DE: ALTE FILME",DE: The King's Ring - Die letzte Schlacht (2018)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160053.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FajWmHetZtnA13F6oZDUc12eBJ.jpg" group-title="Movies | DE: ALTE FILME",DE: Zorn der Titanen (2012)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160054.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtt1b8dvbpdOUYRhZOucMOpeCp7.jpg" group-title="Movies | DE: ALTE FILME",Rise of the Scythian (2018)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160055.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtb54uxs8qUeUB773GEdvsyrCeE.jpg" group-title="Movies | DE: ALTE FILME",DE: Die Legende von Tomiris - Schlacht gegen Persien (2019)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160056.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJeJrZMYiseuLEVPhOHruebtkPw.jpg" group-title="Movies | DE: ALTE FILME",DE: Encounter - Unheimliche Begegnung (2018)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160057.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVzrL2RXUzB6nQJvuzGrEdu96CL.jpg" group-title="Movies | DE: ALTE FILME",DE: The Mechanic (2011)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160058.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcgr6nbVVusx13R6wIb0Tsx7iYR.jpg" group-title="Movies | DE: ALTE FILME",DE: Die Farbe aus dem All (2020)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159402.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kZ7VL1QYkbQcjC1Fxo7IEGz4n0.jpg" group-title="Movies | DE: ALTE FILME",DE: 10.000 B.C. (2008)
@@ -7847,7 +7859,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1764.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: APPLE TV",DE: Down Cemetery Road
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1804.mp4
 
-# --- Movies | DE: DISNEY (47) ---
+# --- Movies | DE: DISNEY (48) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: DISNEY",DE: The Mandalorian
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/150.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: DISNEY",DE: Obi-Wan Kenobi
@@ -7942,6 +7954,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1454.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1662.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: DISNEY",DE: To Cook a Bear
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1724.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: DISNEY",DE: Made in Korea
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1858.mp4
 
 # --- Movies | DE: DOKUMANTARE (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: DOKUMANTARE",DE: Leben auf unserem Planeten
@@ -7951,7 +7965,11 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1116.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: DOKUMANTARE",DE: Planet der Liebe
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1117.mp4
 
-# --- Movies | DE: FILME 2021 (493) ---
+# --- Movies | DE: FILME 2021 (495) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNv20Mnfcku1qnN4q0d7ayNQafZ.jpg" group-title="Movies | DE: FILME 2021",DE: The Village in the Woods (2021)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160051.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmNcvtlUx3oxsycZskJZLdGPWt4.jpg" group-title="Movies | DE: FILME 2021",DE: Kaiserschmarrndrama (2021)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160052.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbRk62iAlFBzv1IYraBdr4EDHFm.jpg" group-title="Movies | DE: FILME 2021",DE: Payback (2021)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159180.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jj04zZ5HYCtqOqVSFmo75iEIrrt.jpg" group-title="Movies | DE: FILME 2021",DE: Wrong Turn - The Foundation (2021)
@@ -8939,7 +8957,13 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/104013.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvjSomeFKENeMIEJe2eb6IzqC2g.jpg" group-title="Movies | DE: FILME 2021",DE: Mortal Kombat (2021)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/149731.mp4
 
-# --- Movies | DE: FILME 2022 (648) ---
+# --- Movies | DE: FILME 2022 (651) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjEuDeKOhA7JqaaqhLSfoS9titb.jpg" group-title="Movies | DE: FILME 2022",DE: After Yang (2022)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160048.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkOvCgQxEPQqXF7UuKCp4S4eplf.jpg" group-title="Movies | DE: FILME 2022",DE: Amsterdam (2022)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160049.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qS9XAT4h3JrAgllEgxWfrpXO6cg.jpg" group-title="Movies | DE: FILME 2022",DE: Sing - Die Show deines Lebens (2021)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160050.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/359JRjSSr3t1l6ObcmZFbJwvKI8.jpg" group-title="Movies | DE: FILME 2022",DE: Brightwood (2022)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159679.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fHE4pgAOpebZKj9Wsk4aasLxkM.jpg" group-title="Movies | DE: FILME 2022",DE: Carter (2022)
@@ -10237,7 +10261,15 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/94491.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DrbPzKHA9NmnH60Eqi2KXcU1HC.jpg" group-title="Movies | DE: FILME 2022",DE: Der größte Schleimfilm aller Zeiten (2022)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139886.mp4
 
-# --- Movies | DE: FILME 2023 (697) ---
+# --- Movies | DE: FILME 2023 (701) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MQoYvEIvsCZMpTuBlWfbaliJes.jpg" group-title="Movies | DE: FILME 2023",DE: Kill Boksoon (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160044.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2788YRWldH843jC492urEMrZYV.jpg" group-title="Movies | DE: FILME 2023",DE: God Is a Bullet (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160045.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7wc529Vq6ihui4MdkEBgGgqkfr.jpg" group-title="Movies | DE: FILME 2023",DE: Nelly Rapp – Der Dunkle Wald (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160046.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJRWTFGnyDuyDlBrMuKAP7ek4Jt.jpg" group-title="Movies | DE: FILME 2023",DE: Im tödlichen Netz - Die Fischerclans von Kap York (2023)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160047.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70RRqKSjc6MhI9o3MlslMYhNdXu.jpg" group-title="Movies | DE: FILME 2023",DE: The Last Video Store (2023)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159730.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anGGy1tvJNLaU3MAjU2Nx2rt2Tx.jpg" group-title="Movies | DE: FILME 2023",DE: Luanas Schwur (2023)
@@ -11633,7 +11665,11 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/112211.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYWdLZCS9W1Xli9bynzFSddLx02.jpg" group-title="Movies | DE: FILME 2023",DE: Dog Gone 2023
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/112207.mkv
 
-# --- Movies | DE: FILME 2024 (593) ---
+# --- Movies | DE: FILME 2024 (595) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBbceiJHq4dqrKcFEAKolBhiDx0.jpg" group-title="Movies | DE: FILME 2024",DE: What You Wish For (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160010.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CejCSLSQdLS9Rh8dYFutKhAybJ.jpg" group-title="Movies | DE: FILME 2024",DE: Sofia - The Possession (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160042.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/357ER4N42IvK2Ize3Rpodf07kdi.jpg" group-title="Movies | DE: FILME 2024",DE: Marco (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159666.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Yoy1AMC3UEBukNOGCb2wnGEpHw.jpg" group-title="Movies | DE: FILME 2024",DE: Spiders on a Plane (2024)
@@ -12821,7 +12857,23 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139884.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5y0hFRhfx34Be04B7GGqg5TMTM0.jpg" group-title="Movies | DE: FILME 2024",DE: City Hunter (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139885.mp4
 
-# --- Movies | DE: FILME 2025 (388) ---
+# --- Movies | DE: FILME 2025 (396) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZaITue9TqLzxILtiunBoQ448Pd.jpg" group-title="Movies | DE: FILME 2025",DE: Morgan: Killer Doll (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160002.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWVbtqUvuhAOYzkZV6YDQOnN5fQ.jpg" group-title="Movies | DE: FILME 2025",DE: Pretty Thing (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160003.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYXfBXscKLWVoPdF9P4ci5uTX02.jpg" group-title="Movies | DE: FILME 2025",DE: Push - Haus in tödlicher Lage (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160004.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKmksk6gk9Kxuk84UYK1HdKeAti.jpg" group-title="Movies | DE: FILME 2025",DE: Ghost Divers (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160005.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZJ7KHymYEB7j455CieCirYW2Y5.jpg" group-title="Movies | DE: FILME 2025",DE: 22 Bahnen (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160006.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TJ4XqmIJ0I2LONPTLJBkuNwEgN.jpg" group-title="Movies | DE: FILME 2025",DE: Tortured - Dein letztes Date! (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160007.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMUVnkcx2VawTBJYnnnRN8fxJpb.jpg" group-title="Movies | DE: FILME 2025",DE: Off the Grid - Außer Kontrolle (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160008.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foNIl77csO9GmsvCvTZ6ixt0fZf.jpg" group-title="Movies | DE: FILME 2025",DE: The Family McMullen (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160009.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dWLWg5ILia3oAtMfa0kO2zmQKC.jpg" group-title="Movies | DE: FILME 2025",DE: Der Tiger (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159892.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KGA3Yc1zU823rzl9Apk3vGqitt.jpg" group-title="Movies | DE: FILME 2025",DE: Theken-Cowboys (2025)
@@ -13599,7 +13651,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/146999.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg" group-title="Movies | DE: FILME 2025",DE: Ad Vitam (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/146837.mp4
 
-# --- Movies | DE: FILME 2026 (4) ---
+# --- Movies | DE: FILME 2026 (5) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg" group-title="Movies | DE: FILME 2026",DE: People We Meet on Vacation (2026)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160001.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2mnkY3fmcvCpRs4qB7rPnHcxVo.jpg" group-title="Movies | DE: FILME 2026",DE: Blinde Vergeltung (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158730.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUvVVxE224wiwaBf3ttTigE8hK0.jpg" group-title="Movies | DE: FILME 2026",DE: The Gentleman (2025)
@@ -13615,7 +13669,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1749.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: HBO MAX",DE: I Love LA
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1808.mp4
 
-# --- Movies | DE: NETFLIX (128) ---
+# --- Movies | DE: NETFLIX (129) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Squid Game
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/328.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Vikings: Valhalla
@@ -13872,8 +13926,10 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1829.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1840.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Land der Sünde
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1850.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: HIS & HERS
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1857.mp4
 
-# --- Movies | DE: PARAMOUNT+ (14) ---
+# --- Movies | DE: PARAMOUNT+ (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: PARAMOUNT+",DE: Star Trek: Strange New Worlds
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/452.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: PARAMOUNT+",DE: 1883
@@ -13902,6 +13958,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1545.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1606.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: PARAMOUNT+",DE: Playing Gracie Darling
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1712.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: PARAMOUNT+",DE: Girl Taken
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1856.mp4
 
 # --- Movies | DIGER SERILER (67) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DIGER SERILER",The Passage - FOX
@@ -14753,7 +14811,13 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101434.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jobsilOScv9uCBqOJ6nJ5FaFeBK.jpg" group-title="Movies | GERMANY BOLLYWOOD FILME",DE: Wahnsinnig verliebt!
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/101435.mp4
 
-# --- Movies | GERMANY CHILD FILME (220) ---
+# --- Movies | GERMANY CHILD FILME (223) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70h7aFlLBxoNMgYNu3DuLEnQ19a.jpg" group-title="Movies | GERMANY CHILD FILME",DE: Die Geschichte vom Gruselfuchs (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160043.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLb4n9odbEf3e7iuiM0leiEv7IK.jpg" group-title="Movies | GERMANY CHILD FILME",DE: Scooby! Voll verwedelt (2020)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160059.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHuQsPzlN6laZ33UpgZ0Rf7jh1U.jpg" group-title="Movies | GERMANY CHILD FILME",DE: Sing (2016)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160060.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWYSbHfyOCEg0qTnytCxgOANU3L.jpg" group-title="Movies | GERMANY CHILD FILME",DE: Paw Patrol: Rubbles Weihnachtswunsch (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159459.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcFxbtsgyMMripGtUIxPmmFxQXT.jpg" group-title="Movies | GERMANY CHILD FILME",DE: Frohe Schenknacht mit Elmo und Mark Rober (2025)
@@ -19515,7 +19579,7 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1760
 #EXTINF:-1 tvg-logo="" group-title="Series | DE: KINDER SERIES",DE: Tomb Raider: The Legend of Lara Croft
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1831
 
-# --- Series | GERMANY SERIES (134) ---
+# --- Series | GERMANY SERIES (136) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: Westworld
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/112
 #EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: Chernobyl
@@ -19784,6 +19848,10 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1836
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1841
 #EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",The Copenhagen Test
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1845
+#EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: Boglands - Die Tote im Moor
+http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1854
+#EXTINF:-1 tvg-logo="" group-title="Series | GERMANY SERIES",DE: Der Graf von Monte Christo
+http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1855
 
 # --- Series | GERMANY SERIES FILME (92) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXzmoW96LElKeNEEZElVlDAC1wF.jpg" group-title="Series | GERMANY SERIES FILME",DE: Shazam! Fury of the Gods (2023)
@@ -19987,4 +20055,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9926
+# Total: 9960

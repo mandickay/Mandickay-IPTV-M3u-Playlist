@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-01-11 07:16:11
+# Generated: 2026-01-11 18:37:23
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -13263,7 +13263,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (271) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (272) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZ1499F6hYxDxiqioy8oSUaxipG.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Una Batalla tras otra (2025)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/279295.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Gu5tiSkZr2NlKp8Wb0fd4LJ41y.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Rust (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/279258.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7TEWHLr1lsIsTkiEFwtM3hAWma.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Depredador: Tierras salvajes (2025)
@@ -13806,6 +13808,10 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/268779.mp4
 http://fastream.xyz:8080/movie/940246862tv/12ws79/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/268613.mp4
+
+# --- Movies | → VOD ESTRENOS 2026 ← (1) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Gente que conocemos en Vacaciones (2026)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/279293.mp4
 
 # --- Movies | → VOD ESTRENOS SUBTITULADOS ← (54) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iANU8C9n6lH7Wx0MbOdM4aATfrW.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",Predator: Badlands (2025)(SUB)
@@ -19633,4 +19639,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9741
+# Total: 9743

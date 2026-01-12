@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: user.scalecdn.co:8080
-# Generated: 2026-01-12 07:18:57
+# Generated: 2026-01-12 18:34:15
 # Expires: 2026-11-29
 # Family Safe Edition
 # ==============================================
@@ -505,7 +505,7 @@ http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/13149.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ASIAN ANIME",One Piece
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/14565.mp4
 
-# --- Movies | Action (1099) ---
+# --- Movies | Action (1100) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYpqpA7BsDHeyAGs9AAEPhZmbck.jpg" group-title="Movies | Action",1: Nenokkadine (2014)
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/740315.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="Movies | Action",6 Underground (2019)
@@ -2704,6 +2704,8 @@ http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17401.mp4
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17405.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action",Suspicious Minds
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17512.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Action",War of the Kingdoms
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17561.mp4
 
 # --- Movies | Action  & Adventure (491) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action  & Adventure",A Series of Unfortunate Events
@@ -4493,7 +4495,7 @@ http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/1520.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Adventure",Robin Hood
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17261.mp4
 
-# --- Movies | Animation (1920) ---
+# --- Movies | Animation (1924) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW9FYOBX6pBWHfDtvwparLrXnag.jpg" group-title="Movies | Animation",.hack//Beyond the World (2012)
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/740313.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Iv7UnFeSrXcPzK0XO7Hi3xj9wz.jpg" group-title="Movies | Animation",E (2018)
@@ -8334,6 +8336,14 @@ http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17491.mp4
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17498.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animation",Turn A Gundam
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17499.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animation",Tomb of Fallen Gods
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17523.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animation",JUJUTSU KAISEN
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17529.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animation",One-Punch Man
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17548.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animation",Overlord
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17549.mp4
 
 # --- Movies | BET+ (2) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | BET+",Being Mary Jane
@@ -8441,7 +8451,7 @@ http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/16467.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CLASSICS",Tournament of Champions
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/16556.mp4
 
-# --- Movies | Comedy (3318) ---
+# --- Movies | Comedy (3322) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qv0WuNiP93ahEEYDFwC5DcjJmOS.jpg" group-title="Movies | Comedy",...All the Marbles (1981)
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/740312.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWrPZZL7CC3MqySlOzpXaUWjUrd.jpg" group-title="Movies | Comedy",2 Minutes of Fame (2020)
@@ -15078,8 +15088,16 @@ http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17483.mp4
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17504.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Comedy",Man Up
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17509.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Comedy",Best Medicine
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17520.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Comedy",Can You Keep a Secret?
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17522.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Comedy",Money is Time
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17536.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Comedy",Don't Fly Too Much
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17563.mp4
 
-# --- Movies | Crime (815) ---
+# --- Movies | Crime (817) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjrERMT49YgPt4V0Jm2fwiValo9.jpg" group-title="Movies | Crime",1 Interrogation (2020)
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/740314.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8lVYRplWdCEqYOutxpxeCtaD2a.jpg" group-title="Movies | Crime",10 Minutes Gone (2019)
@@ -16710,6 +16728,10 @@ http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17486.mp4
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17487.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crime",Save Me
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17490.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crime",Ms. Incognito
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17545.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crime",People in Transaction
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17564.mp4
 
 # --- Movies | DISNEY+ (19) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+",Diary of a Future President
@@ -16751,7 +16773,7 @@ http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/6358.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+",Inside Pixar
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/6362.mp4
 
-# --- Movies | Documentary (2535) ---
+# --- Movies | Documentary (2540) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kbV3fDjuy9dQmcuZuT9NKNAEix.jpg" group-title="Movies | Documentary",4 Little Girls (1997)
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/740329.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kW4X9rbF6gROGh5iS4pBDbOI7PU.jpg" group-title="Movies | Documentary",2040 (2019)
@@ -21822,8 +21844,18 @@ http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17513.mp4
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17515.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Documentary",Wild Life
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17518.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Documentary",Britain's Favourite Railway Stations with Si King
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17521.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Documentary",Goolagong
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17525.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Documentary",Harlan Coben's Final Twist
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17526.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Documentary",The Cult Behind the Killer: The Andrea Yates Story
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17533.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Documentary",The Cult of the Real Housewife
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17534.mp4
 
-# --- Movies | Drama (4009) ---
+# --- Movies | Drama (4027) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uL5Yg8MEgHGXymTaJBYXn9g0xsH.jpg" group-title="Movies | Drama",3 Women (1977)
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/740325.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ac1DIjgHV8ogmuXvDqO2wsG2XLq.jpg" group-title="Movies | Drama",7 Emotions (2018)
@@ -29842,6 +29874,42 @@ http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17508.mp4
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17514.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",The Warfighters
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17516.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Girl Taken
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17524.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Run Away
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17532.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",The Great Chimera
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17535.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Waiting for the Out
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17537.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",3 Women
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17539.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Sniper Butterfly
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17542.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Faithless
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17543.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Human Specimens
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17544.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Jana - Marked For Life
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17547.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Green Plum
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17551.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Moonlit Reunion
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17553.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Rock Paper Scissors
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17554.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",FEUD
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17556.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Fixer
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17557.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",The Wicked Game
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17558.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",The Guest
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17559.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",The Imposter
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17560.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",The Litchi Road
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17562.mp4
 
 # --- Movies | Family (486) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUyPSjiMSLgwkhQM4PebbEKSf11.jpg" group-title="Movies | Family",2:Hrs (2018)
@@ -36999,7 +37067,7 @@ http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/819689.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dw8lZlaur7YEgsqr6c2Zx2DWqOk.jpg" group-title="Movies | Music",What We Started (2018)
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/819900.mp4
 
-# --- Movies | Mysteries (177) ---
+# --- Movies | Mysteries (180) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Mysteries",Bosch
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/84.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Mysteries",Castle Rock
@@ -37354,6 +37422,12 @@ http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17210.mp4
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17258.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Mysteries",Dystopia
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17478.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Mysteries",HIS & HERS
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17527.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Mysteries",Laid Bare
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17531.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Mysteries",Harlan Coben's Lazarus
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17546.mp4
 
 # --- Movies | Mystery (126) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSLrddsvH8bJzryOS5BD9qtTtFa.jpg" group-title="Movies | Mystery",A Soldier's Story (1984)
@@ -37639,7 +37713,7 @@ http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/16513.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | News",Swingers: How To Win An Election
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/16743.mp4
 
-# --- Movies | Reality (1144) ---
+# --- Movies | Reality (1151) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Reality",90 Day Fiancé: Happily Ever After?
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/6.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Reality",90 Day Fiancé
@@ -39928,12 +40002,26 @@ http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17505.mp4
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17506.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Reality",Naked Attraction
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17510.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Reality",Incredible Northern Vets
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17528.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Reality",Junk or Jackpot?
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17530.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Reality",wheel of fortune
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17538.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Reality",99 to Beat (France)
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17541.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Reality",Path to Fame
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17550.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Reality",Young and Reckless
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17552.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Reality",The Traitors - Italy
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17565.mp4
 
 # --- Movies | Romance (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Romance",The Black Hamptons
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/15601.mp4
 
-# --- Movies | Sci-Fi & Fantasy (305) ---
+# --- Movies | Sci-Fi & Fantasy (306) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sci-Fi & Fantasy",Ashes to Ashes
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/40.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sci-Fi & Fantasy",Black Mirror
@@ -40544,6 +40632,8 @@ http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17339.mp4
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17369.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sci-Fi & Fantasy",The Twilight Zone
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17408.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Sci-Fi & Fantasy",Heavenly Ever After
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17540.mp4
 
 # --- Movies | Science Fiction (4) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Science Fiction",Touch
@@ -40607,7 +40697,7 @@ http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17266.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Soap",Time After Time
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17517.mp4
 
-# --- Movies | TV Movie (806) ---
+# --- Movies | TV Movie (809) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TV Movie",Scissor Seven
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/1971.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TV Movie",The Three Stooges
@@ -42220,6 +42310,12 @@ http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17502.mp4
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17503.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TV Movie",Into The Unknown
 http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17507.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TV Movie",Ainsley's Taste Of The Bahamas
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17519.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TV Movie",Smilla's Sense of Snow
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17555.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TV Movie",Fear Factor: House of Fear
+http://user.scalecdn.co:8080/movie/Moniesavatar/85678534/17566.mp4
 
 # --- Movies | Talk (65) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Talk",Conan
@@ -42513,4 +42609,4 @@ http://user.scalecdn.co:8080/series/Moniesavatar/85678534/12094
 #EXTINF:-1 tvg-logo="" group-title="Series | LATIN SERIES",El Juego de las llaves
 http://user.scalecdn.co:8080/series/Moniesavatar/85678534/12390
 
-# Total: 21214
+# Total: 21262

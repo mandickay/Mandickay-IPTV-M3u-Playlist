@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2026-01-12 07:18:39
+# Generated: 2026-01-12 18:35:55
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
@@ -367,7 +367,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/38249.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 ( Kids )",24/7 Cocomelon
 http://hdhd.tk:80/live/Amanda1/Frechette1/50239.m3u8
 
-# --- 24/7 ( Movies) (64) ---
+# --- 24/7 ( Movies) (66) ---
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/keGfSvCmYj7CvdRx36OdVrAEibE.jpg" group-title="24/7 ( Movies)",24/7 Pirates of the Caribbean
 http://hdhd.tk:80/live/Amanda1/Frechette1/33675.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg" group-title="24/7 ( Movies)",24/7 Men in Black
@@ -496,6 +496,10 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/385192.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/385197.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 ( Movies)",24/7 Taken (2002)
 http://hdhd.tk:80/live/Amanda1/Frechette1/385201.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 ( Movies)",24/7 Tom Cruise
+http://hdhd.tk:80/live/Amanda1/Frechette1/400078.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 ( Movies)",24/7 Bruce Lee
+http://hdhd.tk:80/live/Amanda1/Frechette1/400079.m3u8
 
 # --- Argentina (22) ---
 #EXTINF:-1 tvg-logo="" group-title="Argentina",AR (TR) AMC
@@ -7907,4 +7911,4 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/Amanda1/Frechette1/330322.m3u8
 
-# Total: 3859
+# Total: 3861

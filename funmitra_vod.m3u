@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-01-11 07:12:08
+# Generated: 2026-01-12 18:30:04
 # Expires: 2026-04-30
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | (S|DE) Animation Serien (247) ---
+# --- Movies | (S|DE) Animation Serien (248) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) BoJack Horseman
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Paw Patrol
@@ -502,8 +502,10 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11632.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11668.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Peppa Wutz
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11679.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Men In Black: Die Serie
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11684.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1362) ---
+# --- Movies | (S|DE) Deutsche Serien (1363) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3228,6 +3230,8 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11672.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11675.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Pax Massilia
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11683.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Der Chef
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11685.mp4
 
 # --- Movies | (S|TR) Animasyon - Cizgi Diziler (131) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Ben 10 Omniverse
@@ -3959,7 +3963,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11231.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Bereketli Topraklar
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11284.mp4
 
-# --- Movies | (S|TR) Yabanci Diziler (1013) ---
+# --- Movies | (S|TR) Yabanci Diziler (1014) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mars
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/313.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 1983
@@ -5986,6 +5990,8 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11640.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11673.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) HIS & HERS
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11681.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Paparazzi King
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11686.mp4
 
 # --- Movies | (S|TR) Yerli Diziler (400) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
@@ -6789,7 +6795,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11610.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Mahsun J - EXXEN
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11639.mp4
 
-# --- Movies | (V|DE) Animation - Kinderfilme (647) ---
+# --- Movies | (V|DE) Animation - Kinderfilme (625) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/43viCWUdwNvfsTFcfHRaXQNeA35_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Winnie Puuh Feiert Weihnachten - 2002
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/653300.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2t6q95jakwnm5fiFyzgyHlW3ldU_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Winnie Puuh Auf Großer Reise - 1997
@@ -7706,8 +7712,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/244458.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/176801.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/70MShFv0B6U9N7zY54evmd4ch9Z.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Angry Birds Movie 2 - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/234818.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5YHjyjd2N0ZXcnGuB8G1nIa6h9t.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Arctic Dogs - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/223717.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Batman: Hush - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/204112.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qH70PBE89tCisYhmRlTTjlXc2HC.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Die Eiskoenigin 2 - 2019
@@ -7730,34 +7734,20 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225493.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203034.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4gyiWhQcr0iXXiAz8SMjd3jjkTr.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Everest: Ein Yeti will Hoch Hinaus - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/234817.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/eIEZcayAE2MvDMUD5tMETqFiIKm.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) How to Train Your Dragon: Homecoming - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/223718.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/waaPtmhVFgieG021OwoEPTkbltI.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Invader ZIM: Enter The Florpus - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243499.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zMTm9lgpxGcQJso5wWOkUbxlmEG.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Lego Batman Familienangeleheiten - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203035.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gH20oYh2TyofvUWWmZn8FmqC91w.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Manou Flieg Flink - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213044.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9Wkbq5jiVlmjlu0DxIpuFWMMoPF.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Missing Link - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213045.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/noIApjAEphcL7cgVYds1QgVMnX9.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Pets 2 - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/204333.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hDMqAl6Vn0QiEmoBG8FmwGCkOJs.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Playmobil Der Film - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225215.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nZWM7mWFQVyfXsI19Dt7TzAIBB4.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Pokemon Meisterdetektiv Pikachu - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/199889.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/d9aAQ4pAuAysgSlhVD7cshPscBD.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Princess Emmy - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225501.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/s9bY2qRX6qrGkx2Y1DJ6qvnvVJK.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Royal Corgi Der Liebling Der Queen  - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210357.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1ZqbpxthevFW13f2SmefFt5p0e9.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Terra Willy: Astro Kid - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225511.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/98qc0oceMmM6bd9BWHQMDyZFtln.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) The Addams Family - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228230.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/70MShFv0B6U9N7zY54evmd4ch9Z.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) The Angry Birds Movie 2 - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225464.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qdEhhPYsfIeWSNTfzHShHOkDfDD.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) The Death And Return of Superman - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221865.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4EwkJ7MX65MVKmKtfoVs2xCYyuN.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) The Highway Rat - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/177945.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/r0aOBkXUwtlT1KWY7unq0bmmNWN.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) The Lego Movie 2 - 2019
@@ -7778,8 +7768,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/176724.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236409.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bPooYF1pDkP2UlEs5PY4WmkuyBw.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Der Kleine Drache Kokosnuss 2 - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203033.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jBGsWWijNzUOXVqX56Vj2ao4IQ5.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Dog Patrol Das Gefallene Koenigreich Der Knochen - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210339.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/i1jM442IJg5MyExdeLwScqcMmTW.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Feuerwehrmann Sam Ploetzlich Filmheld - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198014.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zKoKJiqMKEagAll08lNDEDSfAh.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Gans Im Glueck - 2018
@@ -7800,14 +7788,10 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/199874.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/188035.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1nSlMZ2dsVWT4VZt5vEqpZEXLDQ.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Ralph Reichts 2: Chaos Im Netz - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/194802.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Smallfoot - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/172594.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vOpV6HrtAkNQxCWAgtU4NmQ1KPe.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Spider-Man: Into The Spider Verse - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/187003.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6fqmmTz8ywmZQxCWWfM8xPDtNIW.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Tabaluga - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/199875.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) The Happytime Murders - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/171858.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pGSTQVLfzro5OIuB5u0cQnQq6Xz.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Wheely - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198026.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Willkommen In Marwen - 2018
@@ -7834,24 +7818,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/176717.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/176716.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bb2bZ5hL6zS4oJ7Zt8mvfXSnGkj.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Ballerina - 2016
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/245868.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/uWwv60J7tnV6owq73WVq0GBVIOL.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Barbie Als Die Prinzessin Und Das Dorfmaedchen - 2004
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210340.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mUXrugsLGxrJuMMfrVyJdgF421W.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Barbie Das Agenten Team - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210349.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wkdlNFlqFo5fkojTAkPENUZbNOM.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Barbie Das Sternenlich Abenteuer - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210341.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nw80al1V9AZScyWLOQXlaKNqCRo.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Barbie Die Magie Der Delfine - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210346.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7cIlEOSsUaaIAALjZ1kEHwHUKwk.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Barbie Die Super Prinzessin - 2015
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210344.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/eHOtI5EfEssetODfa4y16C7ZPM2.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Barbie Die Videospiel Heldin - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210350.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1bnCgnVBvjWo5SvYuN0HzmpeaZh.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Barbie Fairytopia Die Magie Des Regenbogens - 2007
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210347.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1uYy26GCRWnKjAtXw9gleDpDF5D.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Barbie Mariposa Und Die Feenprinzessin - 2013
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210348.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dXzHkizu6nx5tlImEoOlhXKHrB7.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Barbie & Her Sisters In A Puppy Chase - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210345.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vGSwbdUQvh2NcCCkyO80UWrHNvx.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Big Fish & Begonia - 2016
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/245869.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/tBOl7K5HeBrMtLV73EsNI2hRryK.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Big Hero 6 - 2014
@@ -7948,8 +7914,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/176764.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/176765.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xMMq5OfI9hUpY57XnAb9FUoqZ1t.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Jagdfieber 4 - 2015
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/176766.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/s7DzD1nHrMV7kZyXKM1sfXfpfOY.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Jimmy Neutron: Boy Genius - 2001
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228250.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lz3HhDCrQSXNebiJK8CVnfgjdmb.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Kaluoka Hina Das Zauberriff - 2004
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/177943.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/j1w9tgAukUHMPylpzQMN7n9F3Am.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Koenige Der Wellen 1 - 2007
@@ -8022,8 +7986,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/245864.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/176799.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ijBx4ZMkuXor2ktLCZEdTNIjPo4.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) The Lego Movie 1 - 2014
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/176800.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4F3uiz6CD2Rp7HFoqHvVAS4jMOA.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) The Snow Queen - 2014
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228249.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2CeG5OsX8CmYOrPNsX3nGWX5s9V.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Tinker Bell - 2008
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/176803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rTSzapwhutfJBicA5HelvsdZrnK.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Tinkerbell Und Die Legende Vom Nimmerbiest - 2014
@@ -8085,7 +8047,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/275514.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dTt5dYpaZcHdOJ4VMHhj7zJRwSJ.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Lupin III Vs. Ein Supertrio Cat’s Eye - 2023
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/476422.mp4
 
-# --- Movies | (V|DE) Bollywood Filme (116) ---
+# --- Movies | (V|DE) Bollywood Filme (115) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3jFnnH5hFo7LvOgTBQ7Dyvi2H75.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Nadel & Faden: Made In India - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/453588.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/riEnSoGJ1WubamfrNpj4N0wVdoW.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Ittefaq: Es Geschah Eines Nachts - 2017
@@ -8312,14 +8274,28 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/343908.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/314699.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/x46UPgdkTnFS1h6lxS9cl8QHkha.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Evil Eye - 2020
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/290041.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nVH0druScSdbpgangNENpo2HlCN.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Lethal Strike - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213041.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Dangal - 2016
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/255929.mkv
 
-# --- Movies | (V|DE) Filme (1213) ---
+# --- Movies | (V|DE) Filme (1162) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ndlHzeb0WwdorqDzikjuQg9Lxw1_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) A Silent Voice - 2016
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654692.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/mTbhQOP1qMwOpD45NgQaNdREsDe_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) 96 Hours: Taken 2 - 2012
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654691.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/r1pqf9cNwxFx63pWkrkaibdOwTc_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) 96 Hours: Taken 3 - 2014
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654690.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gtK79NR1460OVepKygz19TPxe4E_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) 96 Hours - 2008
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654689.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dNClI7niLaky8fS96fO5JF2UvgR_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Mission: Impossible - 1996
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654604.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/jE6fxW1l7Of8CTb9A0gxVsbC3w7_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Mission Impossible: Phantom Protokoll - 2011
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654603.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vKGYCpmQyV9uHybWDzXuII8Los5_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Mission: Impossible III - 2006
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654602.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/egqhogOAaR5nuljs89mVRJWCSyL_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Mission: Impossible II - 2000
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654601.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pPWV5rBhCgzlzhwkpdRG7a7UZqt_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Only The Strong - 1993
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654354.avi
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4Vzh8y6tnb0xrxpES7I5F7FJ7nK_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Bullyparade: Der Film - 2017
@@ -9734,8 +9710,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/274241.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/272039.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oY7vrVKIB5EWRL7mpbQ4zsY6UUW.jpg" group-title="Movies | (V|DE) Filme",(DE-) 10x10 - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236384.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gux7726i4VdKCGZFyeN6lL4Rvr3.jpg" group-title="Movies | (V|DE) Filme",(DE-) 25 km/h - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221787.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/iUxVmctU9gZG7YEhUChpBZTYtrV.jpg" group-title="Movies | (V|DE) Filme",(DE-) 303 - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/179186.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mQbhFZynpOQ9GRZZPb9xex6ZDe0.jpg" group-title="Movies | (V|DE) Filme",(DE-) A Breath Away - 2018
@@ -9748,16 +9722,12 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236386.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/177946.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6FqSMied7rQcajq7YZjJcNNgYxa.jpg" group-title="Movies | (V|DE) Filme",(DE-) Action Point - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236387.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sEmDwbsRmw3SPuqxoSHykWrWeFU.jpg" group-title="Movies | (V|DE) Filme",(DE-) Agatha Und Die Wahrheit Des Verbrechens - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221759.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pnlwh6CBBq5jB7G7OVxDsfz1b9v.jpg" group-title="Movies | (V|DE) Filme",(DE-) All The Devil's Men - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/202982.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5OJm3NZGpV25K8E0yG5M8qLbhmE.jpg" group-title="Movies | (V|DE) Filme",(DE-) Alpha - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236389.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xQfjh92jCGilpcJAzTl3Fs2U1hc.jpg" group-title="Movies | (V|DE) Filme",(DE-) American Animals - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236412.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zI8hbr7xddoIKXXr3qnc4kaieIN.jpg" group-title="Movies | (V|DE) Filme",(DE-) Amityville: Mt Misery Road - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/223698.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7Tk15Xm2VAHsUbxGk4U6N7VB9NZ.jpg" group-title="Movies | (V|DE) Filme",(DE-) Anna Und Die Apokalypse - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/194770.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/fBWTXOdfhPYFkUmbPJfyg9TAktR.jpg" group-title="Movies | (V|DE) Filme",(DE-) Anon - 2018
@@ -9770,8 +9740,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236393.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236394.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sLqutab3wuUfPBu27rXcoaEd6WD.jpg" group-title="Movies | (V|DE) Filme",(DE-) Arizona - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/193095.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1WglsNDrd0K4zA4bpBYaoNIbraE.jpg" group-title="Movies | (V|DE) Filme",(DE-) Asher - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213032.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o9xPqd1aJPYUUBJlfjuV0g4kTCq.jpg" group-title="Movies | (V|DE) Filme",(DE-) Assassination Nation - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/193094.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cdjGnax8GV4Cxu5mrXcFggN37jE.jpg" group-title="Movies | (V|DE) Filme",(DE-) Astrid - 2018
@@ -9786,16 +9754,10 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236396.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/176112.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/eVINvKpRVZ6AZH3H6S527TkJeET.jpg" group-title="Movies | (V|DE) Filme",(DE-) Balloon - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236397.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1ObUzBHNQwSS3J3mQW0VysIQqXR.jpg" group-title="Movies | (V|DE) Filme",(DE-) Banco Brecht - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238207.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pfHKxPdWIf5MfbdMJsm5f584SMi.jpg" group-title="Movies | (V|DE) Filme",(DE-) Bayou Caviar - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/223701.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/HeUH5qyEvP043W8UESnX171Y3c.jpg" group-title="Movies | (V|DE) Filme",(DE-) Beale Street  - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/207921.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3o201KYKlOfkutH1wo77ZNEjcCg.jpg" group-title="Movies | (V|DE) Filme",(DE-) Beautiful Boy - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/199876.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mhhmBzplMcPPFY2rP6WZK38kRtV.jpg" group-title="Movies | (V|DE) Filme",(DE-) Billionaire Boys Club - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210378.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dKuRb7CP2FEaMEtdXXn6YFU8H2Y.jpg" group-title="Movies | (V|DE) Filme",(DE-) Bird Box Schliesse Deine Augen - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/176113.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/tUj45ECov470hbAKCjXGu4V4on7.jpg" group-title="Movies | (V|DE) Filme",(DE-) Black 47 - 2018
@@ -9806,8 +9768,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236399.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236400.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/x4DRZfTqOlmzNWAvy4vcKWkgEGL.jpg" group-title="Movies | (V|DE) Filme",(DE-) Blindspotting - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/247108.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ayfyOCkCBHccGpbUuIq3QpjFQCV.jpg" group-title="Movies | (V|DE) Filme",(DE-) Blood Fest - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228227.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8wxEPJzfgO0jiaZVz2pFQvYoXqm.jpg" group-title="Movies | (V|DE) Filme",(DE-) Boar - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/173935.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/laHbKDFDine1kqVH3x2ULoCZhIC.jpg" group-title="Movies | (V|DE) Filme",(DE-) Bohemian Rhapsody - 2018
@@ -9820,8 +9780,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/204328.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236401.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rkPJYNGc1lwcFhYhjGlY15vQQP4.jpg" group-title="Movies | (V|DE) Filme",(DE-) Bumblebee - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/179187.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zFdP3TVJyFZ1EgGRjYffWHeApOk.jpg" group-title="Movies | (V|DE) Filme",(DE-) Burning - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213039.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sFTfYUE7lSK7rwTvrM9DGu3utU6.jpg" group-title="Movies | (V|DE) Filme",(DE-) Bus Party To Hell - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/184422.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hPuZR2bFoV0kuBrA98exWyvTf40.jpg" group-title="Movies | (V|DE) Filme",(DE-) Can You Ever Forgive Me? - 2018
@@ -9836,8 +9794,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/194772.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/196924.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nFrCrBzkto08CBp2hxHUDFORXm8.jpg" group-title="Movies | (V|DE) Filme",(DE-) Controlled: Bewahren Sie Ruhe - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/188024.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2B5LnI7tytfKk7SnHCyFTVkBFWy.jpg" group-title="Movies | (V|DE) Filme",(DE-) Corbin Nash - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210374.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pqn162738WCeYqyFkvwH3aHFgyg.jpg" group-title="Movies | (V|DE) Filme",(DE-) Crazy Rich Asians - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/175562.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/At3hirk1jmksGbPPsfFlVBr6SQd.jpg" group-title="Movies | (V|DE) Filme",(DE-) Creed 2: Rocky’s Legacy - 2018
@@ -9880,12 +9836,8 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/177949.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/177527.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wErHaJrD1QZ2FEVneH6w0GZUz2L.jpg" group-title="Movies | (V|DE) Filme",(DE-) Down A Dark Hall Wenn Das Boese Ueberlebt - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/188028.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/i6JRLGWdfNaoQYa5IHWSvV9ebCi.jpg" group-title="Movies | (V|DE) Filme",(DE-) Drei Gesichter -2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225204.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rPHhBlGovY7zkSzik813ftzzgLZ.jpg" group-title="Movies | (V|DE) Filme",(DE-) Eighth Grade - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/202994.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4X81duFOMH0OebHCH6eF91zfKwa.jpg" group-title="Movies | (V|DE) Filme",(DE-) Ein Becken Voller Männer - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213020.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2STglcw8GbaxRPqxNeLkq8e4m5R.jpg" group-title="Movies | (V|DE) Filme",(DE-) Ein Letzter Job - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225494.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/96q0oZpDx1xQsaX7CfNlk90rXTO.jpg" group-title="Movies | (V|DE) Filme",(DE-) Ein Rezept Für Die Liebe - 2018
@@ -9896,8 +9848,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/173942.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/182719.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xLP1Wb9hhjYYaeMNN8dQXxnzlrD.jpg" group-title="Movies | (V|DE) Filme",(DE-) Es War Einmal Ein Deadpool - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/177950.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/p91n2yHTd9EV1sZxlBELEOrb0S2.jpg" group-title="Movies | (V|DE) Filme",(DE-) Despite The Falling Snow - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213040.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5sxIXSv5b6c4sQQosHt9ylJrRWQ.jpg" group-title="Movies | (V|DE) Filme",(DE-) Forever My Girl - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/177951.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7EUCjfMpCXy7gAQIELDYNRxIh5j.jpg" group-title="Movies | (V|DE) Filme",(DE-) Gaensehaut 2: Gruseliges Halloween - 2018
@@ -9906,8 +9856,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/174902.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/188029.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6fd4Y3Xt7U91s6X9YQxOQKwHVU8.jpg" group-title="Movies | (V|DE) Filme",(DE-) Gluecklich Wie Lazzaro - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/194777.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3B4kzH7GQM4M3d68HuoUGoEAYvT.jpg" group-title="Movies | (V|DE) Filme",(DE-) Gogol Viy - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238214.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rwdbyKJ2PKTLamQzr57OgMuFUlD.jpg" group-title="Movies | (V|DE) Filme",(DE-) Golem Wiedergeburt - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/207923.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/q7BwW1aPdh4fPiMfEzO261eGzGp.jpg" group-title="Movies | (V|DE) Filme",(DE-) Gotti: A Real American Godfather - 2018
@@ -9918,8 +9866,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/199882.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/176708.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7kWZRcXKd4nzZetkdG4Q2STBqVv.jpg" group-title="Movies | (V|DE) Filme",(DE-) Heavy Trip - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/184426.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qgLlnlrUtTKXkdrgMBwUfkyAkya.jpg" group-title="Movies | (V|DE) Filme",(DE-) Hell Fest - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213042.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2TjJKWgSdQB3qB8G5ryNrzt1Go4.jpg" group-title="Movies | (V|DE) Filme",(DE-) Holiday - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/207924.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uEIh8YEtjG0QOH4O4HGO7s7oIfJ.jpg" group-title="Movies | (V|DE) Filme",(DE-) Holmes & Watson - 2018
@@ -9932,12 +9878,8 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/188031.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/173941.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/tpaM9bgn5rJq2Tet7LEqju0MUbC.jpg" group-title="Movies | (V|DE) Filme",(DE-) Johnny English Man Lebt Nur Dreimal - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/175677.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/l2F4yWfLs21lrUyEh4bNOzjTEsb.jpg" group-title="Movies | (V|DE) Filme",(DE-) Jurassic Galaxy - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238219.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kCzAGbHKKh2OT7MXhuWWbE5VVs8.jpg" group-title="Movies | (V|DE) Filme",(DE-) Kin - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/199884.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dHd0YS1PGxjfZCVbYi9Hetg7zZd.jpg" group-title="Movies | (V|DE) Filme",(DE-) King Lear - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228238.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ru7mOzyW8Ewyxc6IUCe7Uuj9hJS.jpg" group-title="Movies | (V|DE) Filme",(DE-) Kingdom Of Swords - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/246353.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7kToQsV04Jel1ob7VJ471LDz7wD.jpg" group-title="Movies | (V|DE) Filme",(DE-) Leprechaun Returns - 2018
@@ -9966,8 +9908,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203006.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203007.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wcEgg5fpcQRqg2bZcqosZ8ofw3a.jpg" group-title="Movies | (V|DE) Filme",(DE-) Mia Und Der Weisse Loewe - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203008.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9abftWIzR4VomMQu7WRd48NLjAF.jpg" group-title="Movies | (V|DE) Filme",(DE-) Monster Party - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210668.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ln4NUbzXkKQHaeWOCBctz9PzciQ.jpg" group-title="Movies | (V|DE) Filme",(DE-) Mortal Engines - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/179190.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/iNCJbsgyxncfYCJ6BHdjEs5roQS.jpg" group-title="Movies | (V|DE) Filme",(DE-) Naked - 2018
@@ -9976,8 +9916,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/194787.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/175563.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2VTHRTwLlnFDlNUxc8MEeFwCQTm.jpg" group-title="Movies | (V|DE) Filme",(DE-) Nobody's Fool - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/182712.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dYNuJd1vHOtHyeKoO87ehsGpBva.jpg" group-title="Movies | (V|DE) Filme",(DE-) Nomis Die Nacht Des Jaegers - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213034.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sMi2kL2SA1BrDtctFwbcljobD4Z.jpg" group-title="Movies | (V|DE) Filme",(DE-) Nur Ein Kleiner Gefallen - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/189390.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hr7MFQAmP30IJZP2FXKhPKbe8IW.jpg" group-title="Movies | (V|DE) Filme",(DE-) Occupation - 2018
@@ -9996,8 +9934,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/174903.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/182723.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wNGupBYMeUCmXCT3nUUQzIVLmuf.jpg" group-title="Movies | (V|DE) Filme",(DE-) Phantastische Tierwesen Grindelwalds Verbrechen - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/188034.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/iHiLtt2tjaWsu12OwMIwG7Medt3.jpg" group-title="Movies | (V|DE) Filme",(DE-) Pimped - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221855.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mx8WDLVtVXMS4Wyt30JWdbxkxzF.jpg" group-title="Movies | (V|DE) Filme",(DE-) Prospect - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203015.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5Ajeqn99UNPR5ldd7tOXkXlYE0W.jpg" group-title="Movies | (V|DE) Filme",(DE-) Puppet Master Das Toedlichste Reich - 2018
@@ -10022,8 +9958,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/237223.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/196937.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/55bNX7QNjTpERPxuwD7mjNn5PsX.jpg" group-title="Movies | (V|DE) Filme",(DE-) Siberia: Toedliche Naehe - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/179192.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bYUiACMCNAJnKO47cQUK2zNe5wX.jpg" group-title="Movies | (V|DE) Filme",(DE-) Skin - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210673.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/i55rY2mhAabG2dKs1BcmMG5reiV_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Smoking Gun: Nicht Jede Frau Will Gerettet Werden - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/194792.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ukZqmAqhGpAZs1TaWirna5x4wMO.jpg" group-title="Movies | (V|DE) Filme",(DE-) Sobibor - 2018
@@ -10038,24 +9972,14 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/193090.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/176116.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oZ9uqeZTFXtuJ8HwHXT6Uqcm1Ff.jpg" group-title="Movies | (V|DE) Filme",(DE-) Swinging Safari - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/207929.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4i4h3tAH6g5CninUGVVb65PAVej.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Amityville Murders - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228226.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wuezKxgZReQmqIrI9QOJZ23Z0y4.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Beyond - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210356.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/13bdU4erv7TYRxFZiaT2belb1j4_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Brits Are Coming - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/196939.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6NmsbUJqnopbnLun2E4KvtVNj8T.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Clovehitch Killer - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/204123.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3YZmwZirewbDyucLNMWZr3BZYMK.jpg" group-title="Movies | (V|DE) Filme",(DE-) Cloverfield Paradox - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/182727.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4qpBFWj4KAPuKI2t7BQjqMH9Ndw.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Dark Angst Ist Deine Einzige Hoffnung - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213036.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mOFn9lYmI8SAi15nhht37rhwxzT.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Devils Doorway - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210676.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6H67EHO8HSTP6I6TEyxME7OS0kZ.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Domestics - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/177531.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oby4q2OO0f5EtDA7eYrFne1Gq5t.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Emperor Of Paris - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238220.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gpCnCzFS0erNqTY6o3tILQKpjGp.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Favourite - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/196250.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gffLgqbZE1rb5mLeNHFBQkg7M21.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Field Guide to Evil - 2018
@@ -10084,12 +10008,8 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/176119.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/187005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nwZuSeaEJME9EEOQCLQTf2M98W5.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Predator - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/174904.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/tgjtVg6tkqPtCEeqLmkeWTO4hKT.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Quake Das Grosse Beben -2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225213.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/glveXx7W4hHaDw0ifq6miA181Fd.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Sisters Brothers - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203023.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mDBehHmeelcJm53shZto74BTFjA.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Super - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213043.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/aguq47xq3qhN807rSyz4lJyhAkX.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Tale: Die Erinnerung - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/199895.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yaSumYbLnrIT4lT8g5QvDK5FEMX.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Unthinkable: Die Unbekannte Macht - 2018
@@ -10098,8 +10018,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/177956.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/246354.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3zrC5tUiR35rTz9stuIxnU1nUS5.jpg" group-title="Movies | (V|DE) Filme",(DE-) Tomb Raider - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161143.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gYQLIwJzqi0IhjxABMOQlid7fyt.jpg" group-title="Movies | (V|DE) Filme",(DE-) Tonight She Comes: Die Nacht Der Rache - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210369.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jwsmeU8mYEP6GpxJ2sbCzc2MQmi.jpg" group-title="Movies | (V|DE) Filme",(DE-) Traffik - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/247064.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bOvrNUjBiWnvMicLC6NP1SarAKC.jpg" group-title="Movies | (V|DE) Filme",(DE-) Unbroken 2: Weg Der Vergebung - 2018
@@ -10112,12 +10030,8 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/174907.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/177532.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yCrxQcfdRjiI7ZnXHQfO8GCgviG.jpg" group-title="Movies | (V|DE) Filme",(DE-) Utoya: July 22 - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/184427.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/V1KkNNCCDBabUEP2wYnuL6f4yO.jpg" group-title="Movies | (V|DE) Filme",(DE-) Verachtung - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221785.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/c3NVhtji2YAQEMHquC6Q71CVtbe.jpg" group-title="Movies | (V|DE) Filme",(DE-) Verschwörung - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/177957.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9Z1xs6NozVJIBhTpWwZXKyVMoXP.jpg" group-title="Movies | (V|DE) Filme",(DE-) Verurteilt: Jeder Hat Etwas Zu Verbergen - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210361.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/aT3MYiYq5jyCmguZ3wQmXXL8Jqc.jpg" group-title="Movies | (V|DE) Filme",(DE-) Vice Der Zweite Mann - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203027.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xmFOjB5bGvFqNzsX5TbIWzdvpGd.jpg" group-title="Movies | (V|DE) Filme",(DE-) Vox Lux - 2018
@@ -10144,40 +10058,12 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/182730.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/173949.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1c8aVdTwIMLR3LjypS6fRmvVCZ0.jpg" group-title="Movies | (V|DE) Filme",(DE-) Yardie - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203031.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wIDK6CKrGVH8W7zd8Nt70z88wXS.jpg" group-title="Movies | (V|DE) Filme",(DE-) You Might Be The Killer - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228248.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wIqV5SnuRY1wKb5tj3dBLVr6r5c.jpg" group-title="Movies | (V|DE) Filme",(DE-) Zuhause Ist Es Am Schoensten - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/177535.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9lOEC3KcOUijA1Lj9U1ubbEww14.jpg" group-title="Movies | (V|DE) Filme",(DE-) Zurueck Zu Dir Eine Zweite Chance Fuer Die Liebe - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213015.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sudaSqr4JKaETPDEs8riPC9LtlE.jpg" group-title="Movies | (V|DE) Filme",(DE-) Zwischen Den Zeilen - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213033.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bpLDtgCJyuKRqItD0PngqB6BJ1a.jpg" group-title="Movies | (V|DE) Filme",(DE-) 12 Feet Deep Gefangen Im Wasser - 2017
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/184420.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg" group-title="Movies | (V|DE) Filme",(DE-) 21 Jump Street - 2012
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236434.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/850chzYHYbT3IISl6Q7dbBuFP2B.jpg" group-title="Movies | (V|DE) Filme",(DE-) 22 Jump Street - 2014
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236435.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pEhFMECJs15YdUhuZ5ZqmmOnBSJ.jpg" group-title="Movies | (V|DE) Filme",(DE-) 300 - 2007
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236440.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ntdwKDF9G6zpVCyjTXU6GwMjiBX.jpg" group-title="Movies | (V|DE) Filme",(DE-) 300: Rise of an Empire - 2014
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236439.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/fJ1JZ29dyTWqAqdGxlNpHlIOIXD_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) 96 Hours: Taken - 2008
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236438.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/mTbhQOP1qMwOpD45NgQaNdREsDe_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) 96 Hours: Taken 2 - 2012
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236436.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gm2U2NqOn6T3AZ48ufNhzDY2Ppn_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) 96 Hours: Taken 3 - 2014
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236437.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4STzUYAGnPNsnMBvY1aykk278QX.jpg" group-title="Movies | (V|DE) Filme",(DE-) Under Siege 1 - 1992
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236442.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/fyZJjEhPxU6P0vxxyfirtkTuK1V.jpg" group-title="Movies | (V|DE) Filme",(DE-) Under Siege 2: Dark Territory - 1995
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236441.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/tIkvm6d1Fw17M13c6OHCXQYrtX.jpg" group-title="Movies | (V|DE) Filme",(DE-) All Hallows' Eve - 2013
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/234755.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/fg6Tq31qq3qcq3IoA0x8Yc0sYAK.jpg" group-title="Movies | (V|DE) Filme",(DE-) Even Angels Eat Beans - 1973
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236443.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ip2zYRuF8OPurdS8nFcM2HNF7Qk.jpg" group-title="Movies | (V|DE) Filme",(DE-) Auf Der Jagd Nach Dem Juwel Vom Nil - 1985
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236444.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zW2EJ3lhdc7R56W91hHca5xjq1m.jpg" group-title="Movies | (V|DE) Filme",(DE-) Baahubali 2: The Conclusion - 2017
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/182715.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xE0VVS3QxmbveqpcCIiPwAZVNHj.jpg" group-title="Movies | (V|DE) Filme",(DE-) Bachelors Der Weg Zurueck Ins Leben - 2017
@@ -10188,26 +10074,14 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/247051.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/247052.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/eh7CB7Z9o2HRcKTEYmSLmo6I2hh.jpg" group-title="Movies | (V|DE) Filme",(DE-) Bad Match - 2017
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/184421.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2budOiAez255Je37p6ElcvKnfEy.jpg" group-title="Movies | (V|DE) Filme",(DE-) Banana Joe - 1982
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236445.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2fZ8FQXplJPA9EloPH7Fkaw4mQX.jpg" group-title="Movies | (V|DE) Filme",(DE-) Beast - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213012.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vGSwbdUQvh2NcCCkyO80UWrHNvx.jpg" group-title="Movies | (V|DE) Filme",(DE-) Big Fish & Begonia - 2016
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225465.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vOFBODilv0AvDNb8TlITHPWPwmM.jpg" group-title="Movies | (V|DE) Filme",(DE-) Big Mommas: Like Father Like Son - 2011
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236446.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/a0M2Smy7E1cZrW8xmQe0ZxCS6dr.jpg" group-title="Movies | (V|DE) Filme",(DE-) Big Momma's House 1 - 2000
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236448.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ssCqktOGHA3DecU68EbmdBerhBS.jpg" group-title="Movies | (V|DE) Filme",(DE-) Big Momma's Haus 2 - 2006
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236447.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/odn4Hj2u7IQhJRmr15pTYZbkbc.jpg" group-title="Movies | (V|DE) Filme",(DE-) Birth Of The Dragon - 2017
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236398.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/aXhZoz99f7CzBiLWg0VXrmhpSYc_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Blood Child - 2017
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/196921.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/kho48mWJ5xuiLn5bpuIvO6ZP7ep_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Bomb City - 2017
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/196922.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rH7m0dnamYUn3X64owyTIPqMI92.jpg" group-title="Movies | (V|DE) Filme",(DE-) Charles Dickens Der Mann Der Weihnachten Erfand - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213019.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/99b4HtUPMnb4XEHwGuq26dSwxE6.jpg" group-title="Movies | (V|DE) Filme",(DE-) China Salesman - 2017
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236403.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bo9dbRo80eHqrYgmd4eV2pbGgec.jpg" group-title="Movies | (V|DE) Filme",(DE-) Criminals - 2015
@@ -10244,10 +10118,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/204115.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/247033.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1u51B2HsJRHb38dG5eajgc9uGUY.jpg" group-title="Movies | (V|DE) Filme",(DE-) Double Date - 2017
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/194774.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jBOAeYTreuYc1D0Kdt4pN0yOyEm.jpg" group-title="Movies | (V|DE) Filme",(DE-) Charlie's Angels - 2000
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236433.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/z69Feth4uOi1rlrERQT0yLoE6l2.jpg" group-title="Movies | (V|DE) Filme",(DE-) Drei Engel Fuer Charlie Volle Power - 2003
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236432.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pbdm3Z45fwgcfPndm4wmQAhDWjN.jpg" group-title="Movies | (V|DE) Filme",(DE-) Elephant - 2003
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/234760.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vkhtjKufYHp2OHpnbGJLOLtbkK1.jpg" group-title="Movies | (V|DE) Filme",(DE-) Pirates Of The Caribbean: Fluch Der Karibik 1 - 2003
@@ -10262,8 +10132,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/247055.avi
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/184425.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2QjjXrCJFQYWY8lZAODp0O8f8ma.jpg" group-title="Movies | (V|DE) Filme",(DE-) Fruehes Versprechen - 2017
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/202997.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/w81FaOmWowyvP01Or3XHy8RzFxO.jpg" group-title="Movies | (V|DE) Filme",(DE-) Ghoul - 2015
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221772.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/cvFE9RlFHTobOEceRyf9iQLPHSk_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Happy Hunting - 2017
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/196932.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/y3n0fN5uL417gd6LVtReKbYowIt.jpg" group-title="Movies | (V|DE) Filme",(DE-) Harry Potter Und Der Feuerkelch - 2005
@@ -10300,10 +10168,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203002.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/196934.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pXPCqCHcfPQWVJutq665xjWxuR8.jpg" group-title="Movies | (V|DE) Filme",(DE-) Lbj - 2017
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/177954.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/fmreRUH6OKvv5GhgW4YPdMlw5Mf.jpg" group-title="Movies | (V|DE) Filme",(DE-) Honey I Shrunk the Kids - 1989
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210364.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/46lUf3gajm6QN23s7nXJqF1m482.jpg" group-title="Movies | (V|DE) Filme",(DE-) Message Man Schatten Der Vergangenheit - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/218737.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sFuHQDECRN1xLcYg46zqMxWW3f5.jpg" group-title="Movies | (V|DE) Filme",(DE-) Monsieur Claude Und Seine Töchter - 2014
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/204120.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vySlYPqOrI5s8Nu6bzpGKQbotVy.jpg" group-title="Movies | (V|DE) Filme",(DE-) Newness - 2017
@@ -10322,8 +10186,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/175679.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203012.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5OWrwvKscVc7Md0IvtTLZmjXbKt.jpg" group-title="Movies | (V|DE) Filme",(DE-) Prevenge - 2016
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/239010.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/s2nme16h2OW0oppbwVhglF47VRc.jpg" group-title="Movies | (V|DE) Filme",(DE-) Prey - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228244.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qW2xTv54tFEu17lB3GdO6q60HEo.jpg" group-title="Movies | (V|DE) Filme",(DE-) Prodigy Uebernatuerlich - 2017
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/182725.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hbVd8FuGSR6cFWoDdC6Ab4TMNIL.jpg" group-title="Movies | (V|DE) Filme",(DE-) Radius Toedliche Naehe - 2017
@@ -10374,8 +10236,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/247104.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203024.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/t7rVWIP6IDQEqwZPC56ZlOKdqEL.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Yards - 2000
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/246350.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mTylecY910X2F5mYa01vUV7tJsi.jpg" group-title="Movies | (V|DE) Filme",(DE-) Under the Tree - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221784.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rGe3eWy3F3qggDZMc86bASN4I7C.jpg" group-title="Movies | (V|DE) Filme",(DE-) Unicorn Store - 2017
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/194798.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xp52ae9RPgg4oPoKmoJZOGMWIHd.jpg" group-title="Movies | (V|DE) Filme",(DE-) Vier Minuten - 2006
@@ -10416,8 +10276,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/247196.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/247197.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/t1vPsJUBsh3gkgkZlqDNmCPyy49.jpg" group-title="Movies | (V|DE) Filme",(DE-) Fast & Furious 1 - 2001
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/247202.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lOph2jWmuWRrPZfk9eJR6W4u9LY.jpg" group-title="Movies | (V|DE) Filme",(DE-) Fast & Furious 2: 2 Fast 2 Furious - 2003
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236413.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/x9s6okdo43Yj6sVvf67MI54lTWb.jpg" group-title="Movies | (V|DE) Filme",(DE-) Fast & Furious 3: Tokyo Drift - 2006
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/247201.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kOF0WIlSCnxadGgjNJsSy69sXIc.jpg" group-title="Movies | (V|DE) Filme",(DE-) Fast & Furious 4- Neues Modell - 2009
@@ -10747,7 +10605,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/635189.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3182cDjiZ9f5rHIi0NjtdySa7IN_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Der Hypnotiseur - 2012
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/635188.avi
 
-# --- Movies | (V|DE) Filme - 2019 (444) ---
+# --- Movies | (V|DE) Filme - 2019 (328) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iuPMLunXevkffwvAEGF3nAyrd2T_big.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Extreme Job: Die Spicy Chicken Police - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/647449.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ygGUP0X9yiCseEcucLNlGVO5T27_big.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Step Up: Jahr Des Tanzes - 2019
@@ -10960,60 +10818,28 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/235617.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228205.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dww4s7635Bqe6cgR7YdjCgq5PvD.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) 3 Engel fuer Charlie - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/237208.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/AfOIOlX64iEH7FsngPUM4BCUdJt.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) 3 from Hell - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/218734.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/g4z7mDmJmx23vsVg6XNWcnXb6gc.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) 47 Meters Down: Uncaged - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/237491.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gMCNiOVCSxg4C7per145CVVFd18.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) 6 Leberkaes Junkie - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243412.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wMOL6d2rGd9q4G2KnajsNyRTpZw.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) 6 Underground - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/223696.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5RHIhgLd3IxOWYwXUM7Ch0G2ura.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) A Dog's Way Home - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238206.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4PBwZGBP6ziKuOgHRpbVRyGoqy3.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) A Score to Settle - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221794.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pWX44fG09QLjnn4Jx5Vggew4BAJ.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Abduction - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228224.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3FrGhwhyZdNtdZRXS6jQbFw9KYB.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Above The Shadows - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243350.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/l4DHLds7hMSdqMsfpUxKzdldn5b.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Ad Astra - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/223697.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/w900HA8MiAEDY3IQl6mz5JY916F.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Adventures of Aladdin - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221790.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/tKdmhFxSGuDumORWnRjYLr3ExS2.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) After - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210371.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/grqbiTfCu4kdXO7BMzq8l3VvE4F.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) After the Wedding - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/239000.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/p4RAvCXNdwo0Hs3HClZRjfiiNp3.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Aladdin - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/204110.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qpEKv8WxTiiPq9t9JWvwatbEQle.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Alita: Battle Angel - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/236388.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lEIlxhIyFsia7yCqbfD4UH8iIkN.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) American Son - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221792.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mm0f5wYU3A2EXzLNOhjUcnaV2RU.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Amundsen - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/223699.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ypy6SSrt157JtqpDAgyxPbyEXvx.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Angel Has Fallen - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221760.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5xV4IN178nJI1UUwDUI20vdqSRz.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Angel of Mine - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/223700.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ztrVnbjIt9qZufc8TJSGTh655mt.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Animal Among Us - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243425.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/iyZc4Z2e2kzlUrku9Sa6nGljqYS.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Anna 1 - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221761.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jlqnp8lXTbjqLNrPq9FEJQX0rGt.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Anna 2 - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/246760.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lWqupldWPCz3yOUSFRSmSVILSJq.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Annabelle 3 - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221793.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6DORnWkVXQHI7ZUefV6c4Ox2B1m.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Auge um Auge - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/235625.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/53c6tuz63qMeag1p3dzf95eJVkc.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Avengement Blutiger Freigang - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/202983.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1wwfTLrtvgM8Nnv6djel3b2eHqM.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Back of the Net - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243413.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hLXDmLcwIuNdPZVThuRA3OO5S6E.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Bailey: Ein Hund Kehrt Zuruck - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/218743.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/aJmGqA60WBvFHi5iHCvqS8Jw3ly.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Banlieusards: Du Hast Die Wahl - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221800.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/b8P13nIvkkizVBzd2RpegsRt5zP.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Beats - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/202986.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/arJ9imqTej9KDfne2yrGZTjX4c2.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Big Dady Make America Stoned Again - 2019
@@ -11022,78 +10848,44 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243414.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243415.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sYPBWzvWWVgOt8CrT50qmWhecYb.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Black Christmas - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/237211.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/y0h4MfrQMfwmXEDxB5oPS6xhKZq.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Blinded by the Light - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213017.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/AgxDU9Vp0R6RIV6jpmQ4JrTcZzv.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Blow the Man Down - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243351.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rSvJ9KZZG36zKsXeE2K8LX2Mnuu.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Bodies At Rest - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243416.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/LG4iNzW07E9RVk7xoK5gFg8W6A.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Body At Brighton Rock - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/244457.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9MR7YBrBCZFtX3uAnKQIEWPM9f.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Boi - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238208.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/tQtJgoUillS27EQ15Um0qYlNLhY.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Bombshell - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243417.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3ZSfYlIkknCeB1ogihtBEHTXTP8.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Book Of Monsters - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228228.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/eCZ86SVHRSTeBe8QWDXrimwpfDh.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Breakthrough - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238209.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/432Mvh8DH4OMBpVSmmz1iQ77zkh.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Brightburn  Son Of Darkness - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213038.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sHHlXYEK7yk7CFDoRw5C6VFspd.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Burn Hell Of A Night - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243426.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/r34lgpHsjQfU7ratFGTcRtAZoWU.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Can You Keep a Secret? - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243512.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rswtOkjZw3VhwPuTlOao3AiBRmz.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Captain Marvel - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198017.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mRQ1o3jD0MY11tQ4x9rzIun0x9W.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Chaos Auf Der Feuerwache - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/235623.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nwYDXLQpPULdUbwkTc4gWpMJufn.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Charlie Says - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/218735.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qbENIaS2oQ7lZoES8DeYA2IHcwr.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Childs Play - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221762.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/i4T3lvy2eJoOAMc16Y465aWfhCi.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Close Dem Feind Zu Nah - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/194771.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/c8K79975Xtoy0i715QLZVpIoPDe.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Close To The Horizon - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243353.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rkcZfE8wYQFGcpFAbH3Vx0TJV90.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Clown - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243419.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/v6nZCbeTPrTekE8HSFZUsfXtTnl.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Club Der Roten Bänder: Wie Alles Begann - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238210.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/l0PO7DyuF9xNcmBOLLtWw4Vkk6u.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Crawl - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7sjvAlL4VnQxHUoqiOM72Vf6RUO.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Code 8 - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225720.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yRFK1KofIofzH2A5hFfv5ra1gqN.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Cold Pursuit - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2KbtGSbsiTCJOXA7QXp39xEAP9w.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Coma - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/245530.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/42EOlUdd9qTPDQPGagKwYLNMwqp.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Countdown - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243389.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/h5UuXsN3U4jUfJ3qbI7AVO2wIcC.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Curiosa - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243420.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4UyrTxLvk4rGhHuxSRmB4aNWaAW.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Danger Close - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221763.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/y4QAme8TPU8NAXmVBgCD06q2hgN.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Dark Encounter - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243421.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6NbUEHvqnYljIR8dicOubDMJrEs.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Dark Phoenix - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238212.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1HtyORdGSiwVKTPHHVKjxY7C2S6.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Darlin - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243422.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/AeJkLzC7vSB5f5BRGTI8JtuKnmw.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Das Ende Der Wahrheit - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225488.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/fNDtbZC3arPpIWWnTAYZOO6iZqh.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Daughter Of The Wolf - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/239002.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/fCQ13cqd02dop7Chkov0fPl4r3t.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Deadwood The Movie - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213009.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hehlwNM5Lpzo7ndkint6RnpQGeo.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Deine Geschichte In Dragon Quest - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/239003.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jNBtzJHQztm5JdJj3QjATcP7cTL.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Der Auftrag - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238213.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cEr3S3Atr4eRlHmMOA1GvaX0f4p.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Der Biss Der Klapperschlange - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221811.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xqm3KPS4hicowlaxzF2ZM3obTX6.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Der Distelfink - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221764.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4l28g28lT2yv1eIX0XNqNP4osPw.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Der Endlose Graben - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/239004.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4L5w3ntggQyKaBvqU0lFPSO5JpU.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Der Fall Collini - 2019
@@ -11102,8 +10894,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225743.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/202989.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kNrVEVrfhvaMEk1MHx1V71m2GqI.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Der Junge: Der Den Wind Einfing - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/188025.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qnQC8wpfzGXvIc6rG4NLhsieseE.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Der Koenig Der Loewen - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210672.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pavCWa3mvcu7iIsEkRgRcmfYj9c.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Der Schwarze Diamant - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/234757.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7JTsz2kHhYQn2rY0VsWiEwePKi6.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Der Sommer Nach Dem Abitur - 2019
@@ -11116,68 +10906,28 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/235621.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225586.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jDvGX2xrwZ2KvVkxrw2iYmqodFw.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Die Agentin - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/234758.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/k864bZCRUVuuT4TypfCuK2KXWIz.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Die Damaskus Verschwoerung - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225201.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ehPvkhg7AR2upQbsIDxwzG1HsJh.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Die Drei Ausrufezeichen - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/235608.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/24PCBLjcXjk7gabypUMCDL6mwEF.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Die Geldwaescherei - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221815.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/tMbxhixdLmSshJkFD0LqoOHYJZW.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Die Goldfische - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225491.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9M9uC66w8mBxkmlrvNHmlf4SbSy.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Die Kunst Des Toten Mannes - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/182718.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3ZJXvs0Hg41grt5yFgNh0Ado1y9.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Die Stockholm Story Geliebte Geisel - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221765.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/h1vE9EXEm3S55Xb88mKNg1T7Oz9.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Die Toten Hosen: Alles ohne Strom - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243424.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7Qp6SLVtuuH9GS7vvrOqwIQtlda.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Dir Stille Des Todes - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243364.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cr0ijq0UOKKDktK9RMqBtS7De8j.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Doctor Sleeps Erwachen - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238863.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2A96Xkc4YAOKVtHBmo0VBsT22KN.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Dolemite Is My Name - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213025.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/h4I61vDoHXI99zj4cCwQSY5TBDD.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Doom Die Vernichtung - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221817.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kbMi75IooMXePh7qsPBhgWLq9SU.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Dora Und Die Goldene Stadt - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238497.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bjYEvtjXTJ3RindSV5GXC428LVx.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Downton Abbey - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228231.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pJwbWfX67M0kaZ5OG4ksK3MCK1G.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Drei Schritte Zu Dir - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213022.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4hAZkymc39nMNAbcmZE9AxdF4fF.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Driven - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210671.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/eWldmUP4aME2oirsJVTMUq8Twoi.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Drunk Parents - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221767.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/t6SXuGMNn39VrWiATD5wMioF1nL.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Ein Ganz Gewoehnlicher Held - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221768.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qfnfWwHK1jZfnli4R0u0kwgUNqP.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Ein Leichtes Maedchen - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/235609.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3QEnGX0XQLPt2HNod7OG6DQBPTg.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Electric Girl - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243427.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bIID8uZTYNnSMfWwaIluRTzaZQL.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Eli - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221823.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ss2Vp2K14Q8ilfwU89T6NsGa7GU.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Empire: Abgerissen - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243428.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9JjYqZ9izxPuzEz4Ddupgnuu0Tf.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Enzo Und Die Wundersame Welt Der Menschen - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221769.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yBVOgAzBVXy8N8lgnCb9QK9ILoy.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Es Kapitel 2 - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221770.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/k7N8jfjceVn2AZd9qG1fgSRqBU2.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Escape Room - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221824.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/scC8iWr7jwDfy6wgULerjg83hCW.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Extra Ordinary - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221826.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hsx41PI05DhwvvOAFuuSmw4h7DI.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Extremely Wicked - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/202995.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jKx2Sxk9fSDuNTJJnaVPg1AmqiA.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Feuer & Flamme - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/240672.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/k9udUNWCrUvJzMJ7S0ClFOqvAWw.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Feuerprobe Die Wichtigsten Beweise - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210677.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/m4UfutD0eJwSYfyJcfvGfoooEiZ.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Fighting With My Family - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/204118.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/u5ZmDbuUw52hZKmQ7s59VEwKsGz.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Fishermans Friends Vom Kutter in die Charts - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228232.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zpahIemUEuDrfnOnO36pBKg4Af1.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Freaks - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228233.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1blWHu6CwoxaztEik5tsvxnF7QD.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Friedhof Der Kuscheltiere  - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/202996.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wRga630bbQfNRZ1KhFQk1Q3U0Fe.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Gemini Man - 2019
@@ -11194,14 +10944,8 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243369.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/204329.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gMVOafKfIDV2heaeBzH67x4HPAi_big.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Glass - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/196931.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6KsZAu0QPfbp3AkYEi4cSBgwSHP.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Gloria Bell - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228235.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xVSfmpNmKs7pH7ejaGjQlN5dwRH.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Godzilla: King Of The Monsters - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/207922.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/93zmLHS4uwgZHEYHqqjUna5bdZU.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Good Boys - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225205.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/p6BoOlYxD969JRpwcVLyk2HDFBL.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Greta - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213030.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1AOkvhuG9tmoEeNW0QkVZ9BWdnl.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Guests Das Tor Zur Hoelle - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/202998.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9W69A18mGJlPMUZFxHZLl3i2jAS.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Gut Gegen Nordwind - 2019
@@ -11214,8 +10958,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243371.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/193092.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yRFK1KofIofzH2A5hFfv5ra1gqN.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Hard Powder - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/196246.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/43fhV5lUAUlz5Jx8fXm4vytspr3.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Hell On The Border - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238215.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zlXPRsFIPQdQGhuy6E3br29nvv5.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Hellboy Call Of Darkness - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203000.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pzNT2ySMG3GfbKhiwfbBPtc5R2f.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Heute Oder Morgen - 2019
@@ -11224,38 +10966,26 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243384.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/235627.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ppMi8OjPBFaGq1nFibqsxZJqbFy.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Hustlers - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243444.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xN8Vju7QL1rFbLHV5pNKYLRrfIC.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) I Am Mother - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228237.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hrD8fU6tA1Pzh4ybxG4iN5TbVdU.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) I Spit on Your Grave: Deja Vu - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243457.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oolTeWyqq11yGZ42abkQMoj6YTl.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Ibiza - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243498.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oKL6UfZtnPxFzLxe5pLJizAx4YU.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Ich War Noch Nieamals In New York - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243385.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dG0Fxk7udbhcVuf35iOlfvwA1lC.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) If Beale Street Could Talk: Poetry In Motion - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238216.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6bkRwYZsz4vqpjg0RPBFP0g65fK.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Im Hohen Gras - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210670.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/31aJhNeeL39BXACQ2yWDGvBTT6H.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Im Netz Der Versuchung - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/207925.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/iDQxBMy9VSbPE4Y8wYj4BmuEX6G.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Invisibles - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/244303.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pZJyETRgfu9iUwvdiDDpD55CYIK.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Io - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238217.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2hbU1s48HPY86BCapiWg7cSAj3T.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Ip Man 4: The Finale - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/239005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qpwnbAREywRLS2y5DTqN9SN3NZ2.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Iron Sky The Coming Race - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/204330.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oWmpHhyrNSFrEjsIKmTCTX9Xs25.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Isn't It Romantic - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238218.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/y9nwa3fR2HWocyXsJZgdkWUgM16.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Jay And Silent Bob Reboot - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/237492.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rXdNL3NhmDZ8w4scJYxUDSpaJz_big.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) John Wick: Kapitel 3 - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/204331.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/tfds9VytrR47blP6XicUXLrpwUI.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Jojo Rabbit - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/239006.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ec6uFqAgasAJKJ2IQsT5rIYkGHz.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Joker - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221840.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5KrOTAqWrUNyaVujDq39HpX4MXq.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Judy - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/237217.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mKl2yUeITVBOlXpPDBqxJRZBb4X.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Jumanji The Next Level - 2019
@@ -11274,38 +11004,20 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/235611.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/237219.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qnQC8wpfzGXvIc6rG4NLhsieseE.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Koenig Der Loewen - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225497.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/28nBhg3hXScp6wKwKKzNajjMMOi.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Last Christmas - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228239.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dDDuSzPzsfh85aXRInwD7QNgcaP.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Late Night - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228240.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cSEGhdtMgeMoeP97jSxVA47DNA1.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Le Mans 66 Gegen Jede Chance - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/234762.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5ACJu8n3KaJSzM5nmGaA5q6VkH3.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Lebe Zweimal Liebe Einmal - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/235612.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gu8d6Oyt6OxWpldflxbsaiecCIP.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Leid Und Herrlichkeit - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221773.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oWnQY1tGxUA7GQdLylHBlrG7Scw.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Life Snatcher - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213035.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zbQQrOclR6G4r3T3EuOjp0f6VG9.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Light Of My Life - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/234763.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vozNC1H00sxKFdCzzsH9pBzUDIb.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Little Monsters - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225719.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4MDB6jJl3U7xK1Gw64zIqt9pQA4.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Little - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210674.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5ACJu8n3KaJSzM5nmGaA5q6VkH3.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Live Twice Love Once - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228241.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/y2eOIfQw2lLZov6aJZ3xpPjnRHH.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Lords Of Chaos - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/193093.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5LgDLNYgxLhVHSAKNDie8Zr62vx.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Lotte En Bauhaus - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238221.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xF3alpcX11wvbKbAOoRZu3E2m5U.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Lying And Stealing - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228242.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/grNZP7eRYyXGlOSNVsaO0i7e3k5.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Ma: Sie Sieht Alles - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/204332.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dcKpwBPc5F3d8nXYdvunLGqVzAI.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Maleficent: Maechte Der Finsternis - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225588.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1e3sR1NvyEi8X1WtTNFZmTGQqo7.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Marriage Story - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225208.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8GhDB3Ewvn7tdREbSiZKzR9J3l2.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Mein Lotta: Leben - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243506.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/tMkKc8Iwk4K9qtHXjaelzaghPab.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Men in Black: International - 2019
@@ -11314,24 +11026,14 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/207926.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/234764.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5BNvXH7fbfnHqJsdOUUjznMsjEr.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Midway Fuer Die Freiheit - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/237220.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vn5TATgGYfcMZ2ZPaAQmzjae8sQ.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Monster Island - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238222.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oaGFkvihMZTSMU6HJxKv8NkpZQn.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Motherless Brooklyn - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/234765.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bSMSO9xupd4R4vwTPqigHn2quLN.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Murder Mystery - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/199887.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lvJarVue6tRZseEeabIa9Au6bif.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) My Days Of Mercy - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243383.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/atvznIhyHItHBNUETG8VLphY0X7.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Nereus - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238223.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3WGh8RtXOCG6Onrju1SBO67fCGb.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Never Grow Old - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243507.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qFKaredDWQl5uJtBmKHEO9aUpUX.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Nevrland - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/235615.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dYNuJd1vHOtHyeKoO87ehsGpBva.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Night Hunter - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210379.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bMdu5tjeRshQExjzQBr22tUD2Hz.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) No Mercy - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238224.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ugpdgXgM0a6Nf2Yeoc02WeYsjcm.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Northern Wind - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243423.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/AtrwQSmtBoTvFstBdf5XSYaZ2aU.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Nurejew - 2019
@@ -11342,8 +11044,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/234767.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/239008.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mscdZrk8k6VTVOgbVF5IpsaA8sK.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Oh Ramona! - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/199888.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5RnMRADLB7Goin16z6l4dPIBCJR.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Once Upon A Time In Hollywood - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221774.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wH4xdRBGXCAPz2QKS0KrdGBXBY8.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Ostwind - Aris Ankunft - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225499.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2qVErJgfMcg3TzfYcrbaXBcrXV9.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Otherhood - 2019
@@ -11358,8 +11058,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228209.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/237221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1iDIFMzYxY25X25KDeARA6VoDl3.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Piercing - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203011.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8dYB6qNp0Vf9d5IdfdgihCusKV2.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Piranhas - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228243.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/weAvkxl0dnPevIKD8fwHjiOi6tc.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Point Blank - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203013.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pjKSOWJhC93Be4buK2AsX9tXjNx.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Polar - 2019
@@ -11374,12 +11072,8 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243509.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243510.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/21505Yp5LDGJoSDiD7Kgkj4Tk0F.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Quiet Comes The Dawn - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/235613.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bHToBTD9G8chNlRG9WN3QkzDdiS.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Rambo 5: Last Blood - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221775.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/tVF4Hm1ezKvvVCcFI4QjwWkFE1D.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Rate Your Date - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225502.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8KxdQAakZ3mhM8e887ppuX2BVWG.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Ready Or Not Auf Die Plaetze Fertig Tot -2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225210.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bSiA2i3RRcjRg2LKxp2R3GpNRwR.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Rebellion Der Magier - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/234768.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2ELgUxY3PTI6uHVCXdKuPHIML1L.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Red Letter Day - Töte deine Nachbarn - 2019
@@ -11394,12 +11088,8 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225503.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225504.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vhOGGNx1GBPSXBuw3CnF2jlpXc1.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Rocketman - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/207927.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/78hDh9EHDMbox4FlKlOrRfrmgpU.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Rogue Warfare Der Feind - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221858.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jZO180lP0iFWXEXGruzx1mtk1W9.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Roland Rebers Todesrevue - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243517.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dqBU63M3cKy7pfVsmhrbgY5X8iv.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Romulus & Remus: The First King - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221776.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4tsaJauj0VCI9J7CdFiVlSr4xkB.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Samira - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243513.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lfdca1dN9pN62fc0y01U8ssAr5K.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Sanctuary Population One - 2019
@@ -11418,34 +11108,14 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203019.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/207932.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mRdmL8qIqQT1DzCmPrXoq4xn3bx.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Shazam! - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203020.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3qlSAaYHH8nZU8nel8xLBNC8Ea3.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) So Wie Du Mich Willst - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jZVpM9iCR2kL0Y9F6CFDfINd7YM.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Sons Of Denmark - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243407.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dhYdsIH9ILj0FMU4zR5Ww2xqWpw.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Stan & Ollie - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213031.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9ZJfudFafttSq1yFfY1pMgAcGC.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Stuber 5: Sterne Undercover - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225212.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pE4EztvL6bYRwU8FYBrW69u3sUs.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Susi Und Strolch - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243393.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wWPj8MzXRfpKE95kTYbHGQjtlDf.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Sweethearts - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225506.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bQIUrTkwN1vehbLwjElVkAtbA5Y.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Systemsprenger - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/239013.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yGeEa7bkEdTrkTIoZqzirCeVDfZ.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) T-34 Das Duell - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213011.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/i1JDO9jO7y2NjgafjsFFjzf2hht.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Tall Girl - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210365.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ftGAbbEkgpTU7JU55WSiequaOQQ.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Der Honiggarten - Das Geheimnis der Bienen - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228229.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/82HDCTyZodnquPmX1dmGlfDVysL.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Terminator: Dark Fate - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228245.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kZHnblqmTBUBgzYBIxWIz9txsEi.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Aeronauts - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228246.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nH9nH0hh4nGKDENXa7C2mAoxoLp.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Art of Self: Defense - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221777.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8IGXYiIkgAWZcDovlQ1Y2rbrnkz.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Axiom: Tor Zur Hölle - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210367.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4ownGujuWMvBoVDJa9kX4Pb1X80.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Battle: Roar To Victory - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/247035.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/iWKpqvxgy59xHwtNy2mnaIiOZK5.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Beast - 2019
@@ -11462,74 +11132,40 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225489.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/237225.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cavSHxeNlBYoZZnCiXN2ZO8GxzY.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Divine Fury - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/234769.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/az3rk3vp1DmhM3KmpPNfDWW6mhN.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Furies - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221778.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/odBkggtfKsOfKfDZwdpLIDunjvg.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Gangster The Cop The Devil - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221779.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lcPrDckp1NMADdLtCtxsSoYsRz3.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The German Lesson- Deutschstunde - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/246762.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/g3OdUbByQbdNj1W5kR2sqD2KNbd.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Glorious Seven - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243442.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pKzXXnSoHZGThoykHkV7euRH9J4.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Good Liar Das Alte Boese - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/237226.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hqkqvEkbwLYT1LIgyeK1FcD5Beu.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Hard Way - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/238225.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1xz4ggwOJi8FUsjsLDbFrCxyK0e.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Hero - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243409.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sTkTv5jPAgfKfsDQn2zR5w1kDj0.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Hole In The Ground - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210354.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/u8oloGUIrt8A0a6xTzCsjXJn1TJ.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Hummingbird Project - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/237227.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oTJir5CGXGJHEhvjvwD6AeEuIpo.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Intruder - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/218739.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Irishman - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221780.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/c7O3uPtOMnFEkOGyfryKm6dUtj0.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Kid Der Pfad Des Gesetzlosen - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/207930.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wLRZbtrbV51oQuvqNeK6vhb6btV.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Kill Team - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243410.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sCSg7QxeOyUvuckKqbMjdK4jMi8.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The King - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221868.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/i0kMcF18y2jJ7D1bAfGLfBkpGhh.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Kitchen - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228247.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/aAoiLALCZaiYKs8unKUYk6G29br.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Lighthouse - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/244304.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/uK7DwRZ7jhQww8JXZxToJhdiGEh.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Man Who Killed Hitler And Then The Bigfoot - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/199892.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rrAYdezO3h1mjdYTaQyTXoj8IZ4.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Perfect Date - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213026.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qYLF55ou0hjNldDP09wLigAjDPK.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Platform - Der Schacht 2 - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/245262.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/fZgipUbakrxlcu6NJw2rKnVu7Ae.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Poison Rose Dunkle Vergangenheit - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/237228.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7B2ar8mNgENmtjnHXBVaHIW11jI.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Prodigy - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/199894.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hrxULFRhMV3rCSLXXPlge8KHFZd.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Professor And the Madman - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221781.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bTgd1QQFTKdxESevtffAvIvCnz2.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Red Sea Diving Resort - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/204125.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sG5NI6TMNR9ftOdTIXmG0hrBYSY.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Report - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221782.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ch6V5I3IrQSEfN4KOPmOChbsXS4.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Silence - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/218744.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kyaeTHf3ax0qfKy68d86FVPIlYa.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Silent War - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/246527.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/beEJtguZTVgyUdY4og4fxBL2ull.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Sun Is Also A Star Ein Einziger Tag Fuer Die Liebe - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221783.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7BEY3dAb6ZVHzND1Ewmw2PTAl76.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Viking War - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221870.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sm3PCprf2qrF90OD5vN4iPablMM.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Wedding Guest - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/210669.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2jHbCuiKJA0D92GPIwVwFusTJz5.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) The Wolfs Call Entscheidung In Der Tiefe  - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/218741.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cw02KZWwpURUXUzk03PpxOJCuIU.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Thicker Than Water - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/243395.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mfJ6GFmbrc6XVC9TaSlMlolhNn9.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Tkkg - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225507.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9IJp2DG2lSSzjtuDAs5ZRcCinD4.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Tolkien - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203026.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ba1pzrZsn6z05aAi5BMQJrFbESi.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Trespassers - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228236.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/uKtwPGakVkbMLIQcigFP8DVm7Uo.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Triple Frontier - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/189393.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1r62IGg7hOCtDmoAxz2QIgq8fO9.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Triple Threat - 2019
@@ -11550,18 +11186,8 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198025.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/196942.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5TAI3O7wipyL6rJSmiG0fPs4sbE.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Wir - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198027.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oyKnosHXQ7kkhlGwqsWOvn4RgKR.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Wo Die Erde Bebt - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221786.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/j1omoZD5ExFvjm1JM7n35UccXf9.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Wounds - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221877.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6NbUEHvqnYljIR8dicOubDMJrEs.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) X-Men: Dark Phoenix - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213037.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xdlRhZODIrVcrGH1ktv7SgY0Iqb.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Yesterday - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/218742.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lz0sEOSpELFXDInIazCyp5CDPLb.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Zombieland: Doppelt Haelt Besser - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/237230.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/m74sNPJGYLHI9hWlYRwVA33CzM2.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Dark Waters - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221809.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xyPPBPkGbZxfS6UM4PjR5bnVfwR.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Sweetheart - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/247309.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/aSf4TLPS5NdjZzfFFNCCgkJ28kw.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Der Unbarmherzige - 2019
@@ -11637,7 +11263,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/275508.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6VoXV0ymdxHHoAngXtcSxMUn1sb.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Inner Ghosts - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/276805.mp4
 
-# --- Movies | (V|DE) Filme - 2020 (444) ---
+# --- Movies | (V|DE) Filme - 2020 (443) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/51DHmkP62AS6037gc0GKs1uzlBy_big.jpg" group-title="Movies | (V|DE) Filme - 2020",(DE-)  After Truth - 2020
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/653484.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ibaDBJBAvWd4J5lzfbpq1PJ6ZU1_big.jpg" group-title="Movies | (V|DE) Filme - 2020",(DE-) 365 Days - 2020
@@ -12434,8 +12060,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/285669.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/274242.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vFIHbiy55smzi50RmF8LQjmpGcx.jpg" group-title="Movies | (V|DE) Filme - 2020",(DE-) Deathstroke: Knights & Dragons - 2020
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/274240.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/h47JJZ015VF4neia33AFwTU37Yb.jpg" group-title="Movies | (V|DE) Filme - 2020",(DE-) A Fall From Grace - 2020
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228225.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4SafxuMKQiw4reBiWKVZJpJn80I.jpg" group-title="Movies | (V|DE) Filme - 2020",(DE-) All Die Verdammt Perfekten Tage - 2020
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/239015.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hrGRkhtJs9okYDcImsoW3hmjbQd.jpg" group-title="Movies | (V|DE) Filme - 2020",(DE-) Bad Boys 3: For Life - 2020
@@ -18433,7 +18057,9 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (500) ---
+# --- Movies | (V|DE) Filme - 2025 (501) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/foNIl77csO9GmsvCvTZ6ixt0fZf_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Family McMullen - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654605.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/TJ4XqmIJ0I2LONPTLJBkuNwEgN_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Tortured: Dein Letztes Date! - 2025
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654516.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/jYXfBXscKLWVoPdF9P4ci5uTX02_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Push: Haus In Tödlicher Lage - 2025
@@ -19935,7 +19561,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/545772.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6U7K64XqboNmBjvTt7TitIqZPGo.jpg" group-title="Movies | (V|DE) Filme - 4K",(DE-) A Killer's Memory 4K - 2024
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/545771.mkv
 
-# --- Movies | (V|DE) IMDb Top 50 (51) ---
+# --- Movies | (V|DE) IMDb Top 50 (50) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/78Pb6FMLMfpm1jUOKTniwREYgAN.jpg" group-title="Movies | (V|DE) IMDb Top 50",(DE-) -1- Die Verurteilten - 1994
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/244102.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5mcfdJiLfHkg7eWROzCSuadHrYb.jpg" group-title="Movies | (V|DE) IMDb Top 50",(DE-) -2- Der Pate 1 - 1972
@@ -19998,8 +19624,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/245064.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/245551.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/b7q5suqL8JUZZXjB5Zwy0v8aNQ7.jpg" group-title="Movies | (V|DE) IMDb Top 50",(DE-) -30- Ist Das Leben Nicht Schoen - 1946
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/245552.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ec6uFqAgasAJKJ2IQsT5rIYkGHz.jpg" group-title="Movies | (V|DE) IMDb Top 50",(DE-) -31- Joker - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/245534.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/uoXC8LdLIjF3wyXNGVSwQ6JMaDb.jpg" group-title="Movies | (V|DE) IMDb Top 50",(DE-) -32- Avengers: Infinity War - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/246227.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2P5mPHCEC8On64OoPcDwg447EYh.jpg" group-title="Movies | (V|DE) IMDb Top 50",(DE-) -33- Whiplash - 2014
@@ -20039,7 +19663,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/246244.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg" group-title="Movies | (V|DE) IMDb Top 50",(DE-) -50- Dangal: Die Hoffnung Auf Den Großen Sieg - 2016
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/245039.mkv
 
-# --- Movies | (V|DE) IMDb Top 50 Western (50) ---
+# --- Movies | (V|DE) IMDb Top 50 Western (49) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pdOqKAVXEtUZdN00mCq6V357X6k.jpg" group-title="Movies | (V|DE) IMDb Top 50 Western",(DE-) -1- Zwei Glorreiche Halunken - 1966
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/248300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yK0qrQhi3BbOXvTNOBWHgpcbckZ.jpg" group-title="Movies | (V|DE) IMDb Top 50 Western",(DE-) -2- Django Unchained - 2012
@@ -20070,8 +19694,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/248317.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/248318.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l5JEjfZMZ0o6yxfexQVwM2CVcbq.jpg" group-title="Movies | (V|DE) IMDb Top 50 Western",(DE-) -15- Legenden Der Leidenschaft - 1994
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/506071.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/fCQ13cqd02dop7Chkov0fPl4r3t.jpg" group-title="Movies | (V|DE) IMDb Top 50 Western",(DE-) -16- Deadwood: Der Film - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/248302.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4MmTHpn2Y8emqvBgvOjufImUmKZ.jpg" group-title="Movies | (V|DE) IMDb Top 50 Western",(DE-) -17- Bone Tomahawk - 2015
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/248320.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hDIoubHJ5oVzYcIWBTxpeIt64ak.jpg" group-title="Movies | (V|DE) IMDb Top 50 Western",(DE-) -18- Die Ermordung Des Jesse James Durch Den Feigling Robert Ford - 2007
@@ -20141,7 +19763,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/248352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/q5eicHQWsRRRJGm2jb3yQONmLat.jpg" group-title="Movies | (V|DE) IMDb Top 50 Western",(DE-) -50- Der Pferdeflüsterer - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/248353.mkv
 
-# --- Movies | (V|TR) Animasyon - Cizgi Filmleri (616) ---
+# --- Movies | (V|TR) Animasyon - Cizgi Filmleri (560) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/A7J9KaSC3BYAqMoR0TKJXDbm0QX_big.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Chainsaw Man The Movie: Reze Arc - 2025
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/652860.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4yUFu6D37waAHbRApzfmeVHFaS1_big.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Gabby's Dollhouse: The Movie - 2025
@@ -20968,14 +20590,10 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198834.avi
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198835.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7P2ucmTmQ1opU2UJeBVPNtwtpR1.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Fly Me To The Moon - 2008
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198836.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9F4yd1lnTKFHZkme1nuPWmH1hbl.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Justice League Vs. The Fatal Five - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206384.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/z9VHoUcZ1GiH3f3qYz7Me7Zc1Fd.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Bolt - 2008
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198837.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xuaQfvnb6ZAu2C3LwDzN9LXSC1V.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Bratz Girlz Really Rock - 2008
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198838.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/opduaXaTUpekvNUkLE7ccXfYmBb.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) The Big Bad Fox And Other Tales - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206385.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6wP8uzSTw8OmpFd3nEGcyA50Yrp.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Monster House - 2006
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198839.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cvDzqJHBV4oM5WE6Vbdc7SwtB71.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Monsters Vs Aliens - 2009
@@ -21000,16 +20618,12 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/162750.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198848.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/d2aToPc2oKAF2sSCvoSkTyW56OT.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Delgo - 2008
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198849.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ucfQWkB2JRGQhmHJkjR4ONy3ZyU.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Dev Armut'un İnanılmaz Hikayesi - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206387.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sGus7hPNTUM6GpRIPmT4aiQj4hD.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Donkey X - 2007
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198850.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2MOI6Zcw99uv4K22Is5S9LxBkDD.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Dumbo - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198851.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pwwfSOoPNfzE4dM7JALiVBPdzGA.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Dragon Hunters - 2008
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198852.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9NCUFk0EucrVY7alet8rjjCEkN5.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) How To Train Your Dragon: The Hidden World - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206388.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vIQfHPgtoheJl5XW0jM73lgJxKP.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Flushed Away - 2006
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161988.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9VFauPfgRHi2zutzoFP3Uz7rVnW.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Ferdinand - 2017
@@ -21044,20 +20658,14 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198862.avi
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/179609.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lYO0iRJIqRcqO7lWS5jYDc8mvLo.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) İnanılmaz Aile - 2004
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161993.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6MxzidSWgzDzCQLcpFJYhQ3ymqu.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Izzie'nin Eve Dönüşü - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206390.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4hVeLUvq2X4pdMHlZJR9XYW6nrv.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Home On The Range - 2004
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198795.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bSjPFdR6ekzqIvQ1cVfZKVtHkQ6.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Capt'n Sharky - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206391.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/u3Ozx1AoVrGAt42Me1gSfvlRuVW.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) The Snow Queen 3: Fire And Ice - 2016
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203099.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/b0Y2M2FB6XETpQGuRLg8Fz49K9m.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) The Stolen Princess: Ruslan And Ludmila - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/164426.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nLJWWPrRwaOOnzEeYNBMkdI6A7n.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Hoodwinked! - 2005
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161995.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/aJA2Ln6fqEoxhQW7ENvHRDJ9sC2.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Kırmızı Kaplumbağa - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206441.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/j5ZuJTEzPxyifFTYs1BvGRQfLb3.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Bigfoot - 2012
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161996.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/tbkgvMSzBG8YUllBGNBQvCshsUB.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Köfte Yağmuru - 2009
@@ -21080,8 +20688,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161998.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/175971.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zxz7Qo3GhiHkkFl26tWJ3uIwXiJ.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Lego DC Comics Super Heroes: The Flash - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161999.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/auiRFbbnMhnclaIMNGcQg0Uba8Y.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206392.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wHt0FWqtSKcSldc85oXXh5OK9nl.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Looney Tunes: Tavşanın Kaçışı - 2015
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/177695.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jksxBK7oypUaMjq7QTQr2OtMplH.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Madagaskar 2 - 2008
@@ -21098,8 +20704,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/162003.avi
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/162004.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5UVxCCwEyCjeK1dBSRvNrng1NI3.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Minions: The Rise of Gru - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/177696.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lriJn0GKWslKR5gQRCirwKydKjU.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Mirai - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206393.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wAwyhGDOdeqeWW9OGVQfRULiSzj.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Canavar Adası - 2017
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/162005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gelp4QIAaYbJnMMjotGtfDIiLvV.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Wonder Park - 2019
@@ -21114,10 +20718,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198801.avi
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198802.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/osdUQB47lU3XVL0u93zlIYnDV0Y.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Otel Transilvanya 2 - 2015
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198360.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/m1MB0oIUYGYvr08oR2HMtW7eAc2.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Ralph Breaks The Internet - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206395.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9MP51jJ3ksNy0zXqkuhF8mgOPMJ.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Pachamama - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206397.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/fwg66VZQeM2RGdjjzPxr4NCWWuf.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Barnyard - 2006
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198803.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hyVVmCnE4Vw1MVUTH4p93YpmLtz.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Patron Bebek 1 - 2021
@@ -21154,8 +20754,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/162114.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198811.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9Ql1KEdLPr0bl5503qFiUscDT1q.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Scooby-Doo: Franken Canavarı - 2014
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198353.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gwyT0ljh8mVViwO6N5p4ACcIsW5.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Scooby-Doo! Moon Monster Madness - 2015
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206398.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/uI9enNoQsqseLXQK60YbscDr5L6.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Scooby-Doo Meets Batman - 1972
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/162009.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ost7ABvfjcDfVyBqd61uUXYokhP.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Sevimli Canavarlar Üniversitesi - 2013
@@ -21164,10 +20762,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/162010.avi
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/162011.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2LkLGOTHOvMCxKwJBav607Hqmgw.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Beans - 2021
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/162008.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/e6tMR6q9PehFROC0si9BGCi4S6p.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) A Wizard's Tale - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206399.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ijDT8hWUpeF8FWfqNySnOYbGUmx.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Sindirella - 2015
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206400.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yO72ITloDiYqh6ok8VyYbdYCaOv.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Roadside Romeo - 2008
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198813.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/s2V5cc7S1bun7pHXw48nWt4BAh1.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Star Wars - 1977
@@ -21192,8 +20786,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198817.avi
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198818.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7BIkcJvEkolTUi9e1FaIyvAzUpx.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Angry Birds Filmi 2 - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221910.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ilidZnybfQ7JglltvNbOP3fIlvf.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Lego Filmi 2 - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206401.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qcnNhUTmkL9YqWAJzDYNGL6btkM.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) The Tigger Movie - 2000
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198819.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sy18W9WWN8ZT5nyU11svBAcYhCb.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) My Friends Tigger & Pooh: Friendly Tails - 2008
@@ -21222,92 +20814,10 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198827.avi
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/162022.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8rUEO5BjmWEQcGUm5SmO134NBC3.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Howl's Moving Castle - 2004
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/162023.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yJRuGTuTIB4jf2NLOK5PcIkAgu2.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Pokémon Detective Pikachu - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206324.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vTbH8LT2LpGUI2Tq99UuPrHGsya.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Bling - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206402.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pmYUrlTc6KwZKSHMXuyCvZF19tf.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Gantz: O - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206403.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4failL0e71LR1gsiSQDbR3Lv4U2.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Hulk Hands - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206404.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sBVmqaOjUCoxiCygAIwj1ncyrFM.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Kabakçığın Hayatı - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206405.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nUDVt2uKDHPSOraCQBzzPiEKGhm.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Kahraman Ördek - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206406.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/koY4vBbjcd5jxJEMFFJYfuMRBaI.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Norm Of The North - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206407.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oajNi4Su39WAByHI6EONu8G8HYn.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Kung Fu Panda 3 - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206408.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6oTgfnOF12WjRApyEEs5Vm0cFCi.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Sheep & Wolves - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206409.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7BKjvfzobUIqFmCaV6chCnX4bO2.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Leylekler - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206410.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cTcyzuv1O7ufAwopfcTAan7Njwk.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Moana - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206411.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/Iprme5Ll5eqeT8C7MN4IVjJqP1.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Pete's Dragon - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206412.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jkJrZzi5s2upabcU8KwL43Sg84k.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Robinson Cruso - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206413.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/c5sJ6tHCWO3KeRl9Ht48WtKev8U.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Şarkını Söyle - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206414.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/m7DRX7hXomPDTZVopf5i42tovx6.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Sosis Partisi - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206415.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4zj2KfykL4qvYCrbMv46Yd5vnYM.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Spark: Bir Uzay Serüveni - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206416.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/opJR4L8b6lXpUPEtoCssh0XAkHr.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Süper Yetenek - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206417.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ufchk8FXO4LELBw8e8dolnrAnMf.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) İyi Kalpli Koca Adam - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206418.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bUBEvaHsecWklGdtFbPRHJbBLWI.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Troller - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206419.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cL6gPwwhcYIGdrpj6vzIaKlb5zQ.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Zootropolis: Hayvanlar Şehri - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206420.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rPX6yJuKPCK87TGW5cVMQft8mit.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Büyülü Kanatlar - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206421.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7jXRLT0QfKRxhRT0hzNmgo3ybrN.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Coco - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206423.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/x9uCZMvhGGTfi3nGHDK74DV32NB.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Hazine Avcısının Maceraları Ve Kral Midasın Sırrı - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206425.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8RD9Rd694V6vPHjh78WuQMGKOT2.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Karlar Ülkesi Olaf'ın Maceraları - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206428.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/uCd6ziQ0turvBCI65g0QY4ZJfEk.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Kar Kralicesi - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206427.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5yCQvhFuFPY0pACxoUpLUlYCxop.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Kocaayak Ve Oğlu - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206429.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zBGfZGKX3KJnljxsX6r24lzRe0i.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Küçük Vampir - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206430.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mpTAgw8m9b3Ay7UBsKLDoe3xyQK.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Lego Batman Filmi - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206431.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hyVVmCnE4Vw1MVUTH4p93YpmLtz.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Patron Bebek 2: Aile Şirket - 2021
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206432.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o4cRCahieCvFFy5ROulqnPgGK3K.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Şirinler: Kayıp Köy - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206433.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yP3h0Pu8htyb9450mWJ9Vu1rU.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Batman: Ninja Kaplumbağalar - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206434.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gjDbd43e7o2Ssn7P1l50Bv0rtIl.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Mutlu Canavar Ailesi - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206435.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/infEeywPKw41Ia9DaiDHY6icWQD.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Taş Devri Firarda - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206436.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/enLzg9KbqaL4ZUkapo1lLKiusSk.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Tavşan Peter - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206437.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/e15yYkxZp27Lg433mQaydIKwDU7.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Arabalar 3 - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206438.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5YSESQ2qApL9rzGQXjZdYF8AEiO.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Emoji Filmi - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206439.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kwTptFZUmJTfsZ8p3BRCbQOUrpR.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Evcil Hayvanların Gizli Yaşamı - 2016
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206440.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3mxu1ZyPm7wHglp8xF0vvtCJsKN.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Lego Ninjago Filmi - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206442.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zaa6sIF3lsTwTR8HX5WEtuVysJ0.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Köpek Adası 2 - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206376.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nl2u7yQANT6rI5aYH0W25roS0BC.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Çılgın Dostlar 4: Korkak Kahraman - 2015
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/177693.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hUgUFZY5h07PUWP0izzZFRvFmyg.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Özgür Ruh - 2002
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206443.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9Hxx811Z56FtBX2HW7FTQZzFxl2.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Incredibles 2 - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/169540.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4Qyg2losaxa2wFVpamOjgnLFj1u.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Kaptan Düşükdon: Destansı İlk Film - 2017
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206426.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/trPGnNb016DTCJVWX30VhOQBi1h.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Winx Club: The Secret Of The Lost Kingdom - 2007
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/162020.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zBIcmSygQtuzpVvYuavlKMvbwXb.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Addams Ailesi - 2019
@@ -21375,7 +20885,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/276572.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/siDr808qTQsvcavBQ8e0JxLwZRb.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Yaramazlar Takımı: Zaman Yolcuları - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/276573.mkv
 
-# --- Movies | (V|TR) Belgeseller (597) ---
+# --- Movies | (V|TR) Belgeseller (596) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8I7fIZ4yVWrQldZ0yMv7DM0h9Kv_big.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Cover-Up - 2025
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/651397.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/hyDL02uwMkJDUVcggnvQi6ND85n_big.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Murder In Monaco - 2025
@@ -21702,8 +21212,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/441351.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/441348.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cksDBstIK9jt72vsy6vyrlBqsDg.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Elon Musk - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/438095.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/tysPOuv9LMqWR6tkGiKbl8SACjr.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) The Redeem Team - 2022
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/437311.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jbPqPMbJbhFttJy2joNVsO7a7Po.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Aftershock - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/435158.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xPN5A0DU8jrtazEircoYHNBle39.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) A Trip To Infinity - 2022
@@ -22571,7 +22079,15 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (124) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (128) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 164)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654824.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 13)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654822.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kod Adi Kirlangic (Bolum 71)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654821.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 200)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654608.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uHIOTJXN9nNTc51WyunL43Fvge3_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Tasacak Bu Deniz (Bolum 13)
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654534.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kizilcik Serbeti (Bolum 120)
@@ -24553,7 +24069,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/244305.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4DgA0EDDVv37C8xISc3Vv0rhxlL.jpg" group-title="Movies | (V|TR) Turkce Altyazili Filmler",(TR-) The Way Back - 2020
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/244576.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj (589) ---
+# --- Movies | (V|TR) Turkce Dublaj (531) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/taUigNpu8yEf36dqMBTy1X6znIE.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Dangal - 2016
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/526676.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ao0FIhz1ne3CzPza3Zn5NL4zAc2.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) The Last Witch Hunter - 2015
@@ -24704,8 +24220,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/180717.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/213001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qbs6IbeItv4YMzgeGSqz1U12nV3.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Premium Rush - 2012
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161761.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dUBCi5mv6wOgZIR35B5AW8qDDtL.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Adrift - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206320.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2s69P0aW8u27nibMUSlDakwMZj7.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) The Scorpion King: Quest For Power - 2015
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161399.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/d5Kd0BOmc4huq5pru69tCdAOBHI.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) American Wedding - 2003
@@ -24722,8 +24236,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/164727.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/189362.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dMg1wPakqPx54yMzm0OuHn1jl42.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Assassination Nation - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/224198.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jHfChVjSGjUUDn56L2dIbNxsoSl.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) At Eternity's Gate - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/224297.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kziBJGQFo9f0Vkj9s37qI0G9I0I.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Fire With Fire - 2012
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161402.avi
 #EXTINF:-1 tvg-logo="https://www.turk-dreamworld.com/bayraklar/avanakajanlar.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Bullit & Ripper - 2012
@@ -24846,8 +24358,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161445.avi
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198433.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1oC6UwQQm79VxHJUoSi8vcE6Jsm.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Gun City - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/168909.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/68NwFv2vI4Ne2FBSPeldz7Dadd9.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Halloween - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/222174.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/iq29YyxcoZQEBZz3chpHmEmgSC3.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Ghost Rider: Spirit Of Vengeance - 2011
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161447.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gRKEluSpV1wBrZVTvLLaCSkzqcf.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Wicker Park - 2004
@@ -25006,8 +24516,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225546.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203052.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6BnywwZkvTrAIOsNCyfPPkwknUF.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Reversing Roe - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/167514.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yCb4LweL6U7KTgSda3Wb7vHiA9J.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) The Wind That Shakes The Barley - 2006
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206321.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9F7xtVA6cKGdjkVu2s33C09oZAP.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Scarface - 1983
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161760.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/XF5jV0UxKnYNPAimem0hbwPfCR.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Set It Up - 2018
@@ -25020,8 +24528,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/169789.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/162149.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/YTYSziZZP5aXt5CDvdEMwKDzme.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Sleeper - 1973
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/165612.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7JUiBfyH8kbyjRM0mkVSeg1zwlM.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) How To Get Over A Breakup - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/171542.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/g0S29nH9G40rGognyqDawc3W1Ql.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) The Last Samurai - 2003
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161739.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/526uxanwv4mMK0YTxjVrsmMXXo2.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) American Heist - 2014
@@ -25060,8 +24566,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/169740.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198256.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/djRVmvYxKHxJESq1BIdqqWmIByM.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) The World Is Yours - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/171592.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/t7rep7SCqiy4COUsq2cOcdQwzU0.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Wishmaster - 1997
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206346.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) To All The Boys I've Loved Before - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198257.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/iNVw3iqZnNHeoNRfsMsyEvgkxbs.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) To The Bone - 2017
@@ -25080,8 +24584,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/204281.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/230259.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qKIzedklQlIKw2Y05JMoIaf3Sv2.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Troy - 2004
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161751.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wDI4YXBXolMYi15Qx2kClvdSERM.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Tully - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206323.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oD5RxDJGdJgpX8X61QMX0qNyYYu.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Unbroken: Path To Redemption - 2018
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228982.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rGe3eWy3F3qggDZMc86bASN4I7C.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Unicorn Store - 2017
@@ -25118,104 +24620,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161442.avi
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161844.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vCFoSJPF6fEFHKTfyWYAX05OIwK.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) The Mask of Zorro - 1998
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161843.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yM6kRGeXo8feWDjNEO7hZBln8TK.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Vertigo - 1958
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206325.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rNhGpaA13hCcnHYCadf2eiMeG57.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Exorcist 2: The Heretic - 1977
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206326.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/VTqLdveNXxGsIAZL5I4RliTTt7.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Scanners - 1981
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206327.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qPFleKfJZ35e6RrnYTu76RPxpyg.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) The Evil Dead - 1981
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206328.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zKdGICQgSQOcGMA9rGQM4FxfLEZ.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Halloween 3: Season Of The Witch - 1982
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206329.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/53kxYw0G3o55yJ23K7s7KMaOyAM.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) A Nightmare On Elm Street Part 2: Freddy's Revenge - 1985
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206330.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/Apzx9D0fNAj07c7KYSvjGax9R3.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Psycho 3 - 1986
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206331.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qbtZewU6EGvxi8yFVzwZ31NijLX.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) A Nightmare on Elm Street 3: Dream Warriors - 1987
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206332.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mVRYuep3qkIpobecB71njL1GemP.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Evil Dead 2 - 1987
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206333.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/boStYG7jKdoIZTduiOOsUVknD13.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) A Nightmare on Elm Street 4: The Dream Master - 1988
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206334.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ch4qnJ92lTfJWCwjUt59MsGv891.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) A Nightmare On Elm Street: The Dream Child - 1989
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206335.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rYvP6yMXCIVHnkVtwGaAXFmpzkB.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Halloween 5: The Revenge Of Michael Myers - 1989
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206336.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vxWTkQRAvTvA6rbBhsdC4pdnHuq.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Psycho 4: The Beginning - 1990
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206337.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/fHzWvnvAKpmGEa9Qkp05Z6g3jIc.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) The Devil's Teardrop - 2010
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206338.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ffwd8k2AYbGCPskdjKthY2VaFGv.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Freddy's Dead: The Final Nightmare - 1991
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206339.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mVRYuep3qkIpobecB71njL1GemP.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Evil Dead 2 - 1987
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206340.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hIzUFPIatFb5STY2pYIC18jUACK.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) A Nightmare On Elm Street - 2010
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206341.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rYvP6yMXCIVHnkVtwGaAXFmpzkB.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Halloween 5: The Revenge Of Michael Myers - 1989
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206342.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/meIuuXHhuDg1iUVOp8fr14XOXR1.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Tremors 2: Aftershocks - 1996
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206343.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wxxraxzq5onCRch4s4cI0295Ja0.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Scream 2 - 1997
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206344.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xWQFvGWnaVThNVefN1rhkAxMGgG.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Halloween: Resurrection - 2002
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206347.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/aQaOymRoRpNBFOaFRnoxXj6dwJv.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Wishmaster 3: Beyond The Gates Of Hell - 2001
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206348.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yhh1zMGoy6nYSXMgrsYoNRbclJn.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Tremors 4: The Legend Begins - 2004
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206350.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2NS3zkF1f3FnxBoUvWKKXAr5UIv.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Exorcist: The Beginning - 2004
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206351.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1CReU0D7Xrcs0YYqXLZq7KdB8LQ.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) The Descent 1 - 2005
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206352.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gOrPzLVhYlwYLk8pdYMvZojDoCb.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) The Ring Two - 2005
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206353.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1LVGjf1QWgkNNPQssZtuT1GYKoP.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Joy Ride - 2001
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206355.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hbmFLrX8OSETxntALMUs474EN5Q.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) The Descent 2 - 2009
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206356.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3wyVOWENl5yhl6VlLNLYTXTc5Vx.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Halloween 2 - 2009
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206357.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gDr5TaM129kUNwXkUUZ7Cha2CNn.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Mirrors 2 - 2010
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206358.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vjOexZBcAr7R47qnZXfpvwCTyrv.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) I Spit On Your Grave 1 - 2010
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206359.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5Q49aSpdngnAEIugRdHjDjNZ7dS.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Insidious 1 - 2010
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206360.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ouQOquRqqaO8sPAziD4BFoNO1Pb.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Quarantine 2: Terminal - 2011
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206361.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/spxX2IsfIhFyEm4eshLjv4VPdlp.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Fright Night - 2011
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206362.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3FIyhp7M4OrIGD5EzgQQbdciAmb.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Fright Night 2: New Blood - 2013
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206363.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lB19HPMSIOYKp2adr2TYHo6nk2k.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) I Spit On Your Grave 2 - 2013
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206364.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/n3yCnRrF04ee830vyqEByHXNPmT.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Insidious: Chapter 2 - 2013
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206365.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/b3T1cnFUPNxyrcOfPQ4u4Z0MaRl.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Meeting Evil - 2012
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206366.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8dnfEnLpLJh7dRHnkN8AfIo4mpq.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) The Departed - 2006
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206367.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hkmj04bnCdAkdLIOOosCxqSAanm.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) The Absent One - 2014
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206368.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9NcUFNCSzw4IFci3OhbX8ZyzoFn.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) The Woman In Black 2: Angel Of Death - 2014
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206369.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/54Xye5FgoiQNdL27A71UvqD8Wrf.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Sinister 2 - 2015
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206370.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/33SjiOzVTh5b730EYpdrCeGanph.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Insidious: Chapter 3 - 2015
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206371.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xUt65MCAIYkCtCM0CiaUFEr9uhT.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) The Pyramid - 2014
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206372.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/q869M8MTy0eynwfiE5vIlFgAUze.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Gotti - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206373.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/czHXd9O51eAWAK1Ub0L8p03e1IX.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Bad Times At The El Royale - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206374.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nsYUKZ1d3DDGHpMx6Vqk12ntopS.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) The Night Eats The World - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206375.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ii3AyMpyoYRo62UVX1mCgxFvTPD.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Solo - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206377.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2dpgRy7ekDUNNk2FxYPkxBcG8li.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Tremors 3: Back To Perfection - 2001
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206382.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cx7CuTtcJvjZAP6ZFWoxylCXKFP.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Hummingbird - 2013
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161422.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/n0Ey89Ei5Y6M5jq3crfwdptr4Qd.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Bullet Head - 2017
@@ -25514,12 +24918,8 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/258895.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/258896.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nZRNNNEWvqnVpJUGSzeSBlTSpE8.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Police Academy 7: Mission to Moscow - 1994
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/258897.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3SItK9MQh1wWSxX1VRyzfFOlgaE.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Final Destination 1 - 2000
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/259229.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/89KWV9rJpTckBnd9XciWSXdAEZb.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Final Destination 2 - 2003
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/258899.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4yVU4LG0LuulTYBHReWTdk2UpZF.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Final Destination 3 - 2006
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/259230.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bXudrfWpEua78F3wm1pp6d3jE1W.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Final Destination 4 - 2009
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/258900.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9Y9R0BOJEaORFn4p3EIz6SPAeeP.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) Final Destination 5 - 2011
@@ -25733,7 +25133,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/276575.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cgsNBfT8zPWSwGssHUmDIOgV9vL.jpg" group-title="Movies | (V|TR) Turkce Dublaj",(TR-) The Hitman's Bodyguard - 2017
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/276576.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2019 (268) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2019 (252) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gMuJ7ATXF881oh5ubANUeBm0RMU.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Rambo: Last Blood - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/415697.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mF2ZYPwhMwRp1rJSCI7KKIkw4fc.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The True Adventures Of Wolfboy - 2019
@@ -25862,18 +25262,12 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/208932.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198344.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6mm9XCL7A6zthX0Fd5ikkLoCUC1.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) What Men Want - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198350.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) 6 Underground - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/224296.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4PBwZGBP6ziKuOgHRpbVRyGoqy3.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) A Score To Settle - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/222218.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5Ggf38fEAhOCdgvfLOfUcfEQTQT.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Abigail - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/224217.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gKPJiZZx4D0SAlK0kuPMQkJH9Cw.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) After The Wedding - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225544.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dq1LARPa8YJo9m2euUG6mQToZkc.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Against The Clock - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/179548.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Aladdin - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/222167.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rJOj0T5DyChfECevDg0xpEGznsl.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Alien Warfare - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/194487.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/51ar1gM4mIfJNqaitFUThBrw75e.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Alita: Battle Angel - 2019
@@ -25882,10 +25276,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203095.avi
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/198032.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hqTmECREKuVuohizH6IbPBW3lJM.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Angel Of Mine - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/224578.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/or06FN3Dka5tukK1e9sl16pB3iy.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Avengers: Endgame - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/222168.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8ODDHNLasgXIXnSQI7BwQSPIpKo.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Brightburn - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/222169.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oW1v3xDSOcjAH6ztghFXLCXiDL.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Close - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/178019.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oOtrXHNyDMRczaRdak2gff9kB1f.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Crawl - 2019
@@ -25896,18 +25286,12 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225545.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225749.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/uux9KFV5PnTN3zE3xXKGgF24HVJ.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Doctor Sleep - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/224599.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sq7U5W7mkGyC22PcSkG2FXk9DlX.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Dora And The Lost City Of Gold - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/222171.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Downton Abbey - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/230258.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bIID8uZTYNnSMfWwaIluRTzaZQL.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Eli - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/222172.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5VI3ItNvQkw2BvQplgErw8xodVM.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) A Tale Of Love: The Untold Truth That Everybody Knows - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225750.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Extremely Wicked Shockingly Evil and Vile - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/196853.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/Am1mIWClibXSNcDudFRV9F9RdBm.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Fast & Furious Presents: Hobbs & Shaw - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/222173.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rGpilX279VCVir8TBCPwc3CW0bT.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Fighting with My Family - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203382.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/paZNRffT3kUckuRFKbeDBuX1YcZ.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Fractured - 2019
@@ -25926,12 +25310,8 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/227184.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/223037.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/b3jWxwWRFqvNDJTvBcmKJVHnzKK.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) I Am Mother - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/225236.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1RxhzwFkAUqMt215Brb06u8P8pn.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) In The Tall Grass - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/222175.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/a9owp5MlydhRmz3vYixffNigRBH.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Io - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/177961.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kMsi0Op9JJASx7ph0NvQvkM6lrE.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) It Chapter Two - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/222176.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/c1QmssgO9Kfx2fVFP0c1X7CGXX9.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) John Wick 3: Chapter Parabellum - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/224269.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oioWvyxqspVyZL9wulttXZ0IdHI.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Joker - 2019
@@ -25964,16 +25344,10 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/203383.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/223040.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/tQyXwU1bcTvgOnuTOtVgdpFnmnm.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Pain and Glory - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/228981.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/h0q0ATqmFWmh5MpIOvE2ZBc321n.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Paradise Beach - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/222179.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/of68Pm2SfWcKikHUKAsuKnBT4KH.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Peel - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/222757.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mPyNQD92BhShuws1qlsOTG6rC2a.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Pet Sematary - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/222180.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/weAvkxl0dnPevIKD8fwHjiOi6tc.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Point Blank - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/200928.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cEr3S3Atr4eRlHmMOA1GvaX0f4p.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Rattlesnake - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/222181.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/tgAL1YoXv3yvarxx43KWFVuO043.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Ready or Not - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221743.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yhzTeZU5OULn3ePGF58Rc5oIocZ.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Rim Of the World - 2019
@@ -26008,8 +25382,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/227726.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/202600.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hqkqvEkbwLYT1LIgyeK1FcD5Beu.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Hard Way - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/188499.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kBlCxZzTWEdsdFZDf6vbsNycwqQ.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Highwaymen - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206322.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Irishman - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221747.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lnY7pZrAreZ3cAXEfDGbJM9ijIA.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The King - 2019
@@ -26042,8 +25414,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/222759.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/227607.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Triple Frontier - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/188560.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4QKjyxiQsjqOhzK0rxmKXgN1dUh.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Us - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/222184.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/eUQyvpTtirjQRYi4gVRsVrDvf6T.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Walk Ride Rodeo - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/188335.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8hZE44NL6Tz9ZSxWivEtP429UKU.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Who Would You Take to a Deserted Island? - 2019
@@ -26054,8 +25424,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/196819.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/179375.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/r4T9mVgTCbmd5criQGzfhizx62j.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Zombieland: Double Tap - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/224270.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/y9LWIxH2jdubK9Epumtzz3sFTMt.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Happy Death Day 2U - 2019
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/206381.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qaqtwuinRn0068P9azL41RqSHl0.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Escape Room - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/197856.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Uncut Gems - 2019
@@ -27427,7 +26795,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/312030.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/y9k5MjbLsCftyrQ4ec6bPmRtORf.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2021",(TR-) Double Dad - 2021
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/312029.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2022 (387) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2022 (385) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dyoISrZCA2QbzaMa4H7xh3zZkOc.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2022",(TR-) The Son - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/511193.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hboYDjuFPzYkJpqUb5yP3vLJiqL.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2022",(TR-) Belle And Sebastian: Next Generation - 2022
@@ -27780,8 +27148,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/449924.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/449922.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vQgXpov9sCg9Fs7EuIok5bPAWOs.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2022",(TR-) Father Stu - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/449919.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/f6mMqxJfAD2Ao4sto7kOq6a7tWg.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2022",(TR-) The Noel Diary - 2022
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/449682.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2LSh1aWqk7z7dJk6dKNK2HNplSl.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2022",(TR-) The Swimmers - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/449615.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3PjOpMdui2biCjmzm2yXwlStSj2.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2022",(TR-) Memory - 2022
@@ -27876,8 +27242,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/439229.mkv
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/438387.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/19M5cRLcMJq1YkphCEFxBUod044.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2022",(TR-) Grimcutty - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/438209.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/usGAbFtPxiEvMi0xvW1F3YVi2i.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2022",(TR-) Luckiest Girl Alive - 2022
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/437310.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2022",(TR-) Werewolf By Night - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/437304.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gqpecbRFD7nS2TXaJACPczbDiev.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2022",(TR-) Old People - 2022
@@ -29429,7 +28793,9 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/508684.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zDjpCBr7fleewKN7HpF2EPQT1jN_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2024",(TR-) Parthenope - 2024
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/635435.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2025 (201) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2025 (202) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2ZqZ1olQyizSwwPTpYlTRH2Vguv_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Five Nights At Freddy's 2 - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654820.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/oxgsAQDAAxA92mFGYCZllgWkH9J_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Bugonia - 2025
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/653499.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1OfHBk5zCjcBeBKHpSYtdwG9VPy_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) The Roses - 2025
@@ -30135,7 +29501,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/545622.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zT8lFDAHxlNCCxxmn72daL2ENbk.jpg" group-title="Movies | (V|TR) Turkce Film - 4K",(TR-) Abigail 4K - 2024
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/545621.mkv
 
-# --- Movies | (V|TR) Yerli Film (620) ---
+# --- Movies | (V|TR) Yerli Film (619) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/guDQzXQNscgektD6AJMTkdP9XNV_big.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Hüddam - 2015
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/647728.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1ULMl1gCbiOY2jS3fPvk7pn1cF4_big.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Mahpeyker: Kösem Sultan - 2010
@@ -30700,8 +30066,6 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/161310.avi
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/221443.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/62085cUf5lpMITIjLIIoaYqyg7e.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Kafes - 2015
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/175912.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/LxwGYJQUFcxzIFOVT4pmxCVjia_big.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Kafir - 2018
-http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/199454.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ix1v5PlQlqWyfTvjzmE9Yvt8xsj.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Kalbim Sende - 2013
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/162177.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/iwggjU6fsrFqBULKBkBLIi2F5Lu.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Kanımdaki Barut - 2009
@@ -32437,7 +31801,9 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/516919.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/os3YzJC18qjb96531jZ9U32Ju2I.jpg" group-title="Movies | (V|TR) Yerli Film - 2024",(TR-) Kül - 2024
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/514793.mkv
 
-# --- Movies | (V|TR) Yerli Film - 2025 (35) ---
+# --- Movies | (V|TR) Yerli Film - 2025 (36) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b2sP8nhFRZXQKiUGrn6YI0irSdn_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Siccîn 8 - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654823.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5pWCpxei0x4JYi26vqS5iXFuUgF_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Sihirli Annem: Hepimiz Biriz - 2025
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/654411.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/i37ytdJc0YpRSTGSD4C9lfCNiTP_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Doğu Demirkol Ile Kusaklar Arasi - 2025
@@ -32513,4 +31879,4 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/10625.mp4
 
-# Total: 16207
+# Total: 15890

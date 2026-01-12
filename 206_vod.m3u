@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 206.212.244.71:8080
-# Generated: 2026-01-12 07:18:27
+# Generated: 2026-01-12 18:41:28
 # Expires: 2026-06-05
 # Family Safe Edition
 # ==============================================
@@ -27879,7 +27879,7 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2332
 #EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",A Man on the Inside
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2344
 
-# --- Series | 2025 TV Series (22) ---
+# --- Series | 2025 TV Series (23) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Watson
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2320
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Prime Target
@@ -27924,6 +27924,8 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2345
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2346
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Last Samurai Standing
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2347
+#EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Heated Rivalry
+http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2349
 
 # --- Series | All Series (331) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Mirror
@@ -28589,4 +28591,4 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2319
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Sopranos
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2348
 
-# Total: 14237
+# Total: 14238

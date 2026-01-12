@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: newborne.pro
-# Generated: 2026-01-12 07:13:00
+# Generated: 2026-01-12 18:35:00
 # Expires: 2026-08-21
 # Family Safe Edition
 # ==============================================
@@ -2983,7 +2983,9 @@ http://newborne.pro/movie/Adorait/yKNEk1etre/83917.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6oH378KUfCEitzJkm07r97L0RsZ.jpg" group-title="Movies | Filma Te Dubluar Në Shqip Për Femijë",Elementet - Dubluar në Shqip 2023
 http://newborne.pro/movie/Adorait/yKNEk1etre/83914.mp4
 
-# --- Movies | Filma Te Fundit Me Titra Shqip (1172) ---
+# --- Movies | Filma Te Fundit Me Titra Shqip (1173) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7hCXcZeB3C9K2lI6wZ0OPHBbEcT.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Not Without Hope (2025)
+http://newborne.pro/movie/Adorait/yKNEk1etre/114912.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Troll 2 (2025)
 http://newborne.pro/movie/Adorait/yKNEk1etre/114833.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfGlYjINEcGtxV46viW4olwHHSz.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Merv (2025)
@@ -9671,4 +9673,4 @@ http://newborne.pro/series/Adorait/yKNEk1etre/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://newborne.pro/series/Adorait/yKNEk1etre/247
 
-# Total: 4805
+# Total: 4806

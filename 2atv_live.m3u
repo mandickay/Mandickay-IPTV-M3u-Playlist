@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 2atv.xyz:83
-# Generated: 2026-01-12 07:09:10
+# Generated: 2026-01-12 18:34:36
 # Expires: 2026-01-16
 # Family Safe Edition
 # ==============================================
@@ -5248,8 +5248,6 @@ http://2atv.xyz:83/live/os4124/os1234/789809.m3u8
 http://2atv.xyz:83/live/os4124/os1234/789453.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/new/NFL/NFL_02_.png" group-title="NFL",NFL 02: Bills vs. Jaguars (1.11 1:00 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/789454.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/new/NFL/NFL_03_.png" group-title="NFL",NFL 03: 49ers vs. Eagles (1.11 4:30 PM ET)
-http://2atv.xyz:83/live/os4124/os1234/789455.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/new/NFL/NFL_05_.png" group-title="NFL",NFL 05: Chargers vs. Patriots (1.11 8:15 PM ET)
 http://2atv.xyz:83/live/os4124/os1234/789457.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/new/NFL/NFL_06_.png" group-title="NFL",NFL 06: Chargers vs. Patriots (1.11 8:15 PM ET)
@@ -5312,6 +5310,8 @@ http://2atv.xyz:83/live/os4124/os1234/789456.m3u8
 http://2atv.xyz:83/live/os4124/os1234/824817.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Symbol.png" group-title="NFL",NFL : CBS
 http://2atv.xyz:83/live/os4124/os1234/790861.m3u8
+#EXTINF:-1 tvg-logo="https://puddintap.click/ico/new/NFL/NFL_03_.png" group-title="NFL",NFL 03: 49ers vs. Eagles (1.11 4:30 PM ET)
+http://2atv.xyz:83/live/os4124/os1234/789455.m3u8
 
 # --- NHL (15) ---
 #EXTINF:-1 tvg-logo="https://brybar.cx:443/images/inICU-NdeMFmEhiOlrOCNtICxJevaIUCvsvSxMoRQQvu8uzcgiP9td8mHiAxUucR.png" group-title="NHL",NHL 01: Devils vs. Jets (1.11 2:00 PM ET)
@@ -7765,254 +7765,6 @@ http://2atv.xyz:83/live/os4124/os1234/815112.m3u8
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/KIDS/NICK_JR_TOO.png" group-title="USA | KIDS",NICK JR TOO
 http://2atv.xyz:83/live/os4124/os1234/815113.m3u8
 
-# --- USA | NBC LOCALS (123) ---
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/AL%20_%20Birmingham%20_%20NBC%20WVTM.png" group-title="USA | NBC LOCALS",AL | BIRMINGHAM | NBC 13 WVTM
-http://2atv.xyz:83/live/os4124/os1234/759472.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/AL%20_%20Huntsville%20_%20NBC%20WAFF.png" group-title="USA | NBC LOCALS",AL | HUNTSVILLE | NBC 48 WAFF
-http://2atv.xyz:83/live/os4124/os1234/759473.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/AL%20_%20Mobile%20_%20NBC%20WPMI.png" group-title="USA | NBC LOCALS",AL | MOBILE | NBC 15 WPMI
-http://2atv.xyz:83/live/os4124/os1234/759474.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/AL%20_%20Montgomery%20_%20NBC%20WSFA.png" group-title="USA | NBC LOCALS",AL | MONTGOMERY | NBC 12 WSFA
-http://2atv.xyz:83/live/os4124/os1234/759475.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/AR%20_%20Little%20Rock%20_%20NBC%20KARK.png" group-title="USA | NBC LOCALS",AR | LITTLE ROCK | NBC 4 KARK
-http://2atv.xyz:83/live/os4124/os1234/759476.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/AZ%20_%20Tucson%20_%20NBC%20KVOA.png" group-title="USA | NBC LOCALS",AZ | TUCSON | NBC 4 KVOA
-http://2atv.xyz:83/live/os4124/os1234/759477.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/AZ%20_%20Yuma%20_%20NBC%20KYMA.png" group-title="USA | NBC LOCALS",AZ | YUMA | NBC 11 KYMA
-http://2atv.xyz:83/live/os4124/os1234/759478.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/CA%20_%20Bakersfield%20_%20NBC%20KGET.png" group-title="USA | NBC LOCALS",CA | BAKERSFIELD | NBC 17 KGET
-http://2atv.xyz:83/live/os4124/os1234/759479.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/CA%20_%20Chico%20_%20NBC%20KNVN.png" group-title="USA | NBC LOCALS",CA | CHICO | NBC 24 KNVN
-http://2atv.xyz:83/live/os4124/os1234/759480.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/CA%20_%20Fresno%20_%20NBC%20KSEE.png" group-title="USA | NBC LOCALS",CA | FRESNO | NBC 24 KSEE
-http://2atv.xyz:83/live/os4124/os1234/759482.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/CA%20_%20Los%20Angeles%20_%20NBC%20KNBC.png" group-title="USA | NBC LOCALS",CA | LOS ANGELES | NBC 4 KNBC
-http://2atv.xyz:83/live/os4124/os1234/759483.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/CA%20_%20Palm%20Springs%20_%20NBC%20KMIR.png" group-title="USA | NBC LOCALS",CA | PALM SPRINGS | NBC 6 KMIR
-http://2atv.xyz:83/live/os4124/os1234/759484.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/CA%20_%20Sacramento%20_%20NBC%20KCRA.png" group-title="USA | NBC LOCALS",CA | SACRAMENTO | NBC 3 KCRA
-http://2atv.xyz:83/live/os4124/os1234/759485.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/CA%20_%20San%20Diego%20_%20NBC%20KNSD.png" group-title="USA | NBC LOCALS",CA | SAN DIEGO | NBC 7 KNSD
-http://2atv.xyz:83/live/os4124/os1234/759487.m3u8
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.NCcd7TZz4Kf3mdcbB5r3NAHaCy&pid=Api&P=0" group-title="USA | NBC LOCALS",CA | SAN FRANCISCO | NBC 11 KNTV
-http://2atv.xyz:83/live/os4124/os1234/759488.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/CO%20_%20Denver%20_%20NBC%20KUSA.png" group-title="USA | NBC LOCALS",CO | DENVER | NBC 9 KUSA
-http://2atv.xyz:83/live/os4124/os1234/759489.m3u8
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.TqWRUcKXFAfU0vHPq_E9uQHaDR&pid=Api&P=0" group-title="USA | NBC LOCALS",CT | HARTFORD | NBC 30 WVIT
-http://2atv.xyz:83/live/os4124/os1234/759492.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/DC%20_%20Washington%20_%20NBC%20WRC.png" group-title="USA | NBC LOCALS",DC | WASHINGTON | NBC 4 WRC
-http://2atv.xyz:83/live/os4124/os1234/759493.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20Fort%20Myers%20_%20NBC%20WBBH.png" group-title="USA | NBC LOCALS",FL | FT MYERS | NBC 2 WBBH
-http://2atv.xyz:83/live/os4124/os1234/759494.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20Gainesville%20_%20NBC%20WNBW.png" group-title="USA | NBC LOCALS",FL | GAINSVILLE | NBC 9 WNBW
-http://2atv.xyz:83/live/os4124/os1234/759495.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20Jacksonville%20_%20NBC%20WTLV.png" group-title="USA | NBC LOCALS",FL | JACKSONVILLE | NBC 12 WTLV
-http://2atv.xyz:83/live/os4124/os1234/759496.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20Miami%20_%20NBC%20WTVJ.png" group-title="USA | NBC LOCALS",FL | MIAMI | NBC 6 WTVJ
-http://2atv.xyz:83/live/os4124/os1234/759497.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20Orlando%20_%20NBC%202%20WESH.png" group-title="USA | NBC LOCALS",FL | ORLANDO | NBC 2 WESH
-http://2atv.xyz:83/live/os4124/os1234/759498.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20Panama%20City%20_%20NBC%20WJHG.png" group-title="USA | NBC LOCALS",FL | PANAMA CITY | NBC 7 WJHG
-http://2atv.xyz:83/live/os4124/os1234/759499.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20Tallahassee%20_%20NBC%20WTWC.png" group-title="USA | NBC LOCALS",FL | TALLAHASSEE | NBC 40 WTWC
-http://2atv.xyz:83/live/os4124/os1234/759500.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/FL%20_%20Tampa%20_%20NBC%20WFLA.png" group-title="USA | NBC LOCALS",FL | TAMPA | NBC 8 WFLA
-http://2atv.xyz:83/live/os4124/os1234/759501.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/GA%20_%20Albany%20_%20NBC%20WALB.png" group-title="USA | NBC LOCALS",GA | ALBANY | NBC 10 WALB
-http://2atv.xyz:83/live/os4124/os1234/759503.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/GA%20_%20Atlanta%20_%20NBC%20WXIA.png" group-title="USA | NBC LOCALS",GA | ATLANTA | NBC 11 WXIA
-http://2atv.xyz:83/live/os4124/os1234/759504.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/GA%20_%20Augusta%20_%20NBC%20WAGT.png" group-title="USA | NBC LOCALS",GA | AUGUSTA | NBC 26 WAGT
-http://2atv.xyz:83/live/os4124/os1234/759505.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/GA%20_%20Savannah%20_%20NBC%20WSAV.png" group-title="USA | NBC LOCALS",GA | SAVANNAH | NBC 3 WSAV
-http://2atv.xyz:83/live/os4124/os1234/759508.m3u8
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.odC_C69LJxgBK0nELI1YYQHaHa&pid=Api&P=0" group-title="USA | NBC LOCALS",WA | SPOKANE | NBC 6 KHQ
-http://2atv.xyz:83/live/os4124/os1234/759509.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/IA%20_%20Davenport%20_%20NBC%20KWQC.png" group-title="USA | NBC LOCALS",IA | DAVENPORT | NBC 6 KWQC
-http://2atv.xyz:83/live/os4124/os1234/759510.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/IA%20_%20Des%20Moines%20_%20NBC%20WHO.png" group-title="USA | NBC LOCALS",IA | DES MOINES | NBC 13 WHO
-http://2atv.xyz:83/live/os4124/os1234/759511.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/IA%20_%20Sioux%20City%20_%20NBC%20KTIV.png" group-title="USA | NBC LOCALS",IA | SIOUX CITY | NBC 4 KTIV
-http://2atv.xyz:83/live/os4124/os1234/759513.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/ID%20_%20Boise%20_%20NBC%20KTVB.png" group-title="USA | NBC LOCALS",ID | BOISE | NBC 7 KTVB
-http://2atv.xyz:83/live/os4124/os1234/759514.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/ID%20_%20Idaho%20Falls-Pocatello%20_%20NBC%20KPVI.png" group-title="USA | NBC LOCALS",ID | IDAHO FALLS | NBC 6 KPVI
-http://2atv.xyz:83/live/os4124/os1234/759515.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/ID%20_%20Twin%20Falls%20_%20NBC%20KTFT.png" group-title="USA | NBC LOCALS",ID | TWIN FALLS | NBC 7 KTFT
-http://2atv.xyz:83/live/os4124/os1234/759516.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/IL%20_%20Peoria%20_%20NBC%20WEEK.png" group-title="USA | NBC LOCALS",IL | PEORIA | NBC 25 WEEK
-http://2atv.xyz:83/live/os4124/os1234/759519.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/IN%20_%20Indianapolis%20_%20NBC%20WTHR.png" group-title="USA | NBC LOCALS",IN | INDIANAPOLIS | NBC 13 WTHR
-http://2atv.xyz:83/live/os4124/os1234/759524.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/KS%20_%20Wichita%20_%20NBC%20KSNW.png" group-title="USA | NBC LOCALS",KS | WICHITA | NBC 3 KSNW
-http://2atv.xyz:83/live/os4124/os1234/759529.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/KY%20_%20Lexington%20_%20NBC%20WLEX.png" group-title="USA | NBC LOCALS",KY | LEXINGTON | NBC 18 WLEX
-http://2atv.xyz:83/live/os4124/os1234/759531.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/KY%20_%20Louisville%20_%20NBC%20WAVE.png" group-title="USA | NBC LOCALS",KY | LOUISVILLE | NBC 3 WAVE
-http://2atv.xyz:83/live/os4124/os1234/759532.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/LA%20_%20Alexandria%20_%20NBC%20KALB.png" group-title="USA | NBC LOCALS",LA | ALEXANDRIA | NBC 5 KALB
-http://2atv.xyz:83/live/os4124/os1234/759534.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/LA%20_%20Baton%20Rouge%20_%20NBC%20WVLA.png" group-title="USA | NBC LOCALS",LA | BATON ROUGE | NBC 33 WVLA
-http://2atv.xyz:83/live/os4124/os1234/759535.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/LA%20%20Lafayette%20NBC%20KLAF.png" group-title="USA | NBC LOCALS",LA | LAFAYETTE | NBC 15 KLAF
-http://2atv.xyz:83/live/os4124/os1234/759536.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/LA%20_%20New%20Orleans%20_%20NBC%20WDSU.png" group-title="USA | NBC LOCALS",LA | NEW ORLEANS | NBC 6 WDSU
-http://2atv.xyz:83/live/os4124/os1234/759538.m3u8
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.MJ5hvhwWjhYlwzFe4VRzpgHaEI&pid=Api&P=0" group-title="USA | NBC LOCALS",UT | SALT LAKE CITY | NBC 5 KSL
-http://2atv.xyz:83/live/os4124/os1234/759539.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MA%20_%20Boston%20_%20NBC%20WBTS.png" group-title="USA | NBC LOCALS",MA | BOSTON | NBC 10 WBTS
-http://2atv.xyz:83/live/os4124/os1234/759540.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MA%20_%20Springfield%20_%20NBC%20WWLP.png" group-title="USA | NBC LOCALS",MA | SPRINGFIELD | NBC 22 WWLP
-http://2atv.xyz:83/live/os4124/os1234/759541.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MD%20_%20Baltimore%20_%20NBC%20WBAL.png" group-title="USA | NBC LOCALS",MD | BALTIMORE | NBC 11 WBAL
-http://2atv.xyz:83/live/os4124/os1234/759542.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MD%20_%20Salisbury%20_%20NBC%20WRDE.png" group-title="USA | NBC LOCALS",MD | SALISBURY | NBC 31 WRDE
-http://2atv.xyz:83/live/os4124/os1234/759543.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/ME%20_%20Bangor%20_%20NBC%20WLBZ.png" group-title="USA | NBC LOCALS",ME | BANGOR | NBC 2 WLBZ
-http://2atv.xyz:83/live/os4124/os1234/759544.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/ME%20_%20Portland%20_%20NBC%20WCSH.png" group-title="USA | NBC LOCALS",ME | PORTLAND | NBC 6 WCSH
-http://2atv.xyz:83/live/os4124/os1234/759545.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MI%20_%20Detroit%20_%20NBC%20WDIV.png" group-title="USA | NBC LOCALS",MI | DETROIT | NBC 4 WDIV
-http://2atv.xyz:83/live/os4124/os1234/759546.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MI%20_%20Grand%20Rapids%20_%20NBC%20WOOD.png" group-title="USA | NBC LOCALS",MI | GRAND RAPIDS | NBC 8 WOOD
-http://2atv.xyz:83/live/os4124/os1234/759547.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MI%20_%20Marquette%20_%20NBC%20WLUC.png" group-title="USA | NBC LOCALS",MI | MARQUETTE | NBC 6 WLUC
-http://2atv.xyz:83/live/os4124/os1234/759548.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MN%20_%20Minneapolis%20_%20NBC%20KARE.png" group-title="USA | NBC LOCALS",MN | MINNEAPOLIS | NBC 11 KARE
-http://2atv.xyz:83/live/os4124/os1234/759552.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MO%20_%20Columbia%20_%20NBC%20KOMU.png" group-title="USA | NBC LOCALS",MO | COLUMBIA | NBC 8 KOMU
-http://2atv.xyz:83/live/os4124/os1234/759553.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MO%20_%20Kansas%20City%20_%20NBC%20KSHB.png" group-title="USA | NBC LOCALS",MO | KANSAS CITY | NBC 41 KSHB
-http://2atv.xyz:83/live/os4124/os1234/759554.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MO%20_%20Springfield%20_%20NBC%20KYTV.png" group-title="USA | NBC LOCALS",MO | SPRINGFIELD | NBC 2 KYTV
-http://2atv.xyz:83/live/os4124/os1234/759555.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MO%20_%20St.%20Joseph%20_%20NBC%20KNPG.png" group-title="USA | NBC LOCALS",MO | ST JOSEPH | NBC 21 KNPG
-http://2atv.xyz:83/live/os4124/os1234/759556.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MO%20_%20St.%20LOUIS%20_%20NBC%20KSDK.png" group-title="USA | NBC LOCALS",MO | ST LOUIS | NBC 5 KSDK
-http://2atv.xyz:83/live/os4124/os1234/759557.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MS%20_%20Columbus%20_%20NBC%20WTVA.png" group-title="USA | NBC LOCALS",MS | COLUMBUS | NBC 9 WTVA
-http://2atv.xyz:83/live/os4124/os1234/759558.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MS%20_%20Jackson%20_%20NBC%20WLBT.png" group-title="USA | NBC LOCALS",MS | JACKSON | NBC 3 WLBT
-http://2atv.xyz:83/live/os4124/os1234/759560.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MS%20_%20Laurel%20_%20NBC%20WDAM.png" group-title="USA | NBC LOCALS",MS | LAUREL | NBC 7 WDAM
-http://2atv.xyz:83/live/os4124/os1234/759561.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MT%20_%20Butte%20_%20NBC%20KTVM.png" group-title="USA | NBC LOCALS",MT | BUTTE | NBC 6 KTVM
-http://2atv.xyz:83/live/os4124/os1234/759564.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/MT%20_%20Helena%20_%20NBC%20KTVH.png" group-title="USA | NBC LOCALS",MT | HELENA | NBC 12 KTVH
-http://2atv.xyz:83/live/os4124/os1234/759566.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/NC%20_%20Charlotte%20_%20NBC%20WCNC.png" group-title="USA | NBC LOCALS",NC | CHARLOTTE | NBC 36 WCNC
-http://2atv.xyz:83/live/os4124/os1234/759568.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/NC%20_%20Raleigh%20_%20NBC%20WRAL.png" group-title="USA | NBC LOCALS",NC | RALEIGH | NBC 5 WRAL
-http://2atv.xyz:83/live/os4124/os1234/759569.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/ND%20_%20Fargo%20_%20NBC%20KVLY.png" group-title="USA | NBC LOCALS",ND | FARGO | NBC 11 KVLY
-http://2atv.xyz:83/live/os4124/os1234/759573.m3u8
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.SV0JYFrS7qRqcFtQQFDRPwAAAA&pid=Api&P=0" group-title="USA | NBC LOCALS",NE | HASTINGS | NBC 4 KSNB
-http://2atv.xyz:83/live/os4124/os1234/759576.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/NV%20_%20Reno%20_%20NBC%20KRNV.png" group-title="USA | NBC LOCALS",NV | RENO | NBC 4 KRNV
-http://2atv.xyz:83/live/os4124/os1234/759579.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/NY%20_%20Albany%20_%20NBC%20WNYT.png" group-title="USA | NBC LOCALS",NY | ALBANY | NBC 13 WNYT
-http://2atv.xyz:83/live/os4124/os1234/759580.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/NY%20_%20Buffalo%20_%20NBC%20WGRZ.png" group-title="USA | NBC LOCALS",NY | BUFFALO | NBC 2 WGRZ
-http://2atv.xyz:83/live/os4124/os1234/759582.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/NY%20_%20New%20York%20_%20NBC%20WNBC.png" group-title="USA | NBC LOCALS",NY | NEW YORK | NBC 4 WNBC
-http://2atv.xyz:83/live/os4124/os1234/759584.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/NY%20_%20Rochester%20_%20NBC%20WHEC.png" group-title="USA | NBC LOCALS",NY | ROCHESTER | NBC 10 WHEC
-http://2atv.xyz:83/live/os4124/os1234/759586.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/OH%20_%20Cleveland%20_%20NBC%20WKYC.png" group-title="USA | NBC LOCALS",OH | CLEVELAND | NBC 3 WKYC
-http://2atv.xyz:83/live/os4124/os1234/759591.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/OH%20_%20Columbus%20_%20NBC%20WCMH.png" group-title="USA | NBC LOCALS",OH | COLUMBUS | NBC 4 WCMH
-http://2atv.xyz:83/live/os4124/os1234/759592.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/OH%20_%20Dayton%20_%20NBC%20WDTN.png" group-title="USA | NBC LOCALS",OH | DAYTON | NBC 2 WDTN
-http://2atv.xyz:83/live/os4124/os1234/759593.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/PA%20_%20Lancaster%20_%20NBC%20WGAL.png" group-title="USA | NBC LOCALS",PA | LANCASTER | NBC 8 WGAL
-http://2atv.xyz:83/live/os4124/os1234/759605.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/PA%20_%20Philadelphia%20_%20NBC%20WCAU.png" group-title="USA | NBC LOCALS",PA | PHILADELPHIA | NBC 10 WCAU
-http://2atv.xyz:83/live/os4124/os1234/759606.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/PA%20_%20Pittsburgh%20_%20NBC%20WPXI.png" group-title="USA | NBC LOCALS",PA | PITTSBURG | NBC 11 WPXI
-http://2atv.xyz:83/live/os4124/os1234/759607.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/SC%20_%20Columbia%20_%20NBC%20WIS.png" group-title="USA | NBC LOCALS",SC | COLUMBIA | NBC 10 WIS
-http://2atv.xyz:83/live/os4124/os1234/759611.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/SC%20_%20Myrtle%20Beach%20_%20NBC%20WMBF.png" group-title="USA | NBC LOCALS",SC | MYRTLE BEACH | NBC 2 WMBF
-http://2atv.xyz:83/live/os4124/os1234/759613.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/SD%20_%20Rapid%20City%20_%20NBC%20KNBN.png" group-title="USA | NBC LOCALS",SD | RAPID CITY | NBC 21 KNBN
-http://2atv.xyz:83/live/os4124/os1234/759614.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/TN%20_%20Chattanooga%20_%20NBC%20WRCB.png" group-title="USA | NBC LOCALS",TN | CHATTANOOGA | NBC 3 WRCB
-http://2atv.xyz:83/live/os4124/os1234/759616.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/TN%20_%20Knoxville%20_%20NBC%20WBIR.png" group-title="USA | NBC LOCALS",TN | KNOXVILLE | NBC 10 WBIR
-http://2atv.xyz:83/live/os4124/os1234/759618.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/TN%20_%20Memphis%20_%20NBC%20WMC.png" group-title="USA | NBC LOCALS",TN | MEMPHIS | NBC 5 WMC
-http://2atv.xyz:83/live/os4124/os1234/759619.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/TN%20_%20Nashville%20_%20NBC%20WSMV.png" group-title="USA | NBC LOCALS",TN | NASHVILLE | NBC 4 WSMV
-http://2atv.xyz:83/live/os4124/os1234/759620.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/TX%20_%20Austin%20_%20NBC%20KXAN.png" group-title="USA | NBC LOCALS",TX | AUSTIN | NBC 36 KXAN
-http://2atv.xyz:83/live/os4124/os1234/759621.m3u8
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.UILWIdcSFTNCxVyiYAnOlwAAAA&pid=Api&P=0" group-title="USA | NBC LOCALS",TX | DALLAS | NBC 5 KXAS
-http://2atv.xyz:83/live/os4124/os1234/759624.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/TX%20_%20Houston%20_%20NBC%20KPRC.png" group-title="USA | NBC LOCALS",TX | HOUSTON | NBC 2 KPRC
-http://2atv.xyz:83/live/os4124/os1234/759625.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/VA%20_%20Roanoke%20_%20NBC%20WSLS.png" group-title="USA | NBC LOCALS",VA | ROANOKE | NBC 10 WSLS
-http://2atv.xyz:83/live/os4124/os1234/759631.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/WA%20_%20Seattle%20_%20NBC%20KING.png" group-title="USA | NBC LOCALS",WA | SEATTLE | NBC 5 KING
-http://2atv.xyz:83/live/os4124/os1234/759633.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/DC%20_%20Washington%20_%20NBC%20WRC.png" group-title="USA | NBC LOCALS",DC | WASHINGTON | NBC 4 WRC
-http://2atv.xyz:83/live/os4124/os1234/759634.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/WI%20_%20Green%20Bay%20_%20NBC%20WGBA.png" group-title="USA | NBC LOCALS",WI | GREEN BAY | NBC 26 WGBA
-http://2atv.xyz:83/live/os4124/os1234/759636.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/WY%20_%20Casper%20_%20NBC%20KCWY.png" group-title="USA | NBC LOCALS",WY | CASPER | NBC 13 KCWY
-http://2atv.xyz:83/live/os4124/os1234/759646.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | NBC LOCALS",VA | BRISTOL | NBC 5 WCYB
-http://2atv.xyz:83/live/os4124/os1234/759907.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/IL%20_%20Chicago%20_%20NBC%20WMAQ.png" group-title="USA | NBC LOCALS",IL | CHICAGO | NBC 5 WMAQ
-http://2atv.xyz:83/live/os4124/os1234/814829.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/NE%20_%20Omaha%20_%20NBC%20WOWT.png" group-title="USA | NBC LOCALS",NE | OMAHA | NBC 6 WOWT
-http://2atv.xyz:83/live/os4124/os1234/814831.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/NV%20_%20Las%20Vegas%20_%20NBC%20KSNV.png" group-title="USA | NBC LOCALS",NV | LAS VEGAS | NBC 3 KSNV
-http://2atv.xyz:83/live/os4124/os1234/814833.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/NY%20_%20Binghamton%20_%20NBC%20WBGH.png" group-title="USA | NBC LOCALS",NY | BINGHAMTON| NBC 5 WBGH
-http://2atv.xyz:83/live/os4124/os1234/814834.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/NY%20_%20Syracuse%20_%20NBC%20WSTM.png" group-title="USA | NBC LOCALS",NY | SYRACUSE | NBC 3 WSTM
-http://2atv.xyz:83/live/os4124/os1234/814836.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/OH%20_%20Cincinnati%20_%20NBC%20WLWT.png" group-title="USA | NBC LOCALS",OH | CINCINNATI | NBC 5 WLWT
-http://2atv.xyz:83/live/os4124/os1234/814838.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/OH%20_%20Steubenville%20_%20NBC%20WTOV.png" group-title="USA | NBC LOCALS",OH | STEUBENVILLE | NBC 9 WTOV
-http://2atv.xyz:83/live/os4124/os1234/814840.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/OK%20_%20Oklahoma%20City%20_%20NBC%20KFOR.png" group-title="USA | NBC LOCALS",OK | OKLAHOMA CITY | NBC 4 KFOR
-http://2atv.xyz:83/live/os4124/os1234/814842.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/OK%20_%20Tulsa%20_%20NBC%20KJRH.png" group-title="USA | NBC LOCALS",OK | TULSA | NBC 2 KJRH
-http://2atv.xyz:83/live/os4124/os1234/814843.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/OR%20_%20Bend%20_%20NBC%20KTVZ.png" group-title="USA | NBC LOCALS",OR | BEND | NBC 21 KTVZ
-http://2atv.xyz:83/live/os4124/os1234/814844.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/PA%20_%20Johnstown%20_%20NBC%20WJAC.png" group-title="USA | NBC LOCALS",PA | JOHNSTOWN | NBC 6 WJAC
-http://2atv.xyz:83/live/os4124/os1234/814845.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | NBC LOCALS",RI | PROVIDENCE | NBC 10 WJAR
-http://2atv.xyz:83/live/os4124/os1234/814848.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/SC%20_%20Charleston%20_%20NBC%20WCBD.png" group-title="USA | NBC LOCALS",SC | CHARLESTON | NBC 2 WCBD
-http://2atv.xyz:83/live/os4124/os1234/814849.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/SD%20_%20Sioux%20Falls%20_%20NBC%20KDLT.png" group-title="USA | NBC LOCALS",SD | SIOUX FALLS | NBC 46 KDLT
-http://2atv.xyz:83/live/os4124/os1234/814851.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/TX%20_%20San%20Antonio%20_%20NBC%20WOAI.png" group-title="USA | NBC LOCALS",TX | SAN ANTONIO | NBC 4 WOAI
-http://2atv.xyz:83/live/os4124/os1234/814855.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/TX%20_%20Texarkana%20_%20NBC%20KTAL.png" group-title="USA | NBC LOCALS",TX | SHREVEPORT TEXARKANA | NBC 6 KTAL
-http://2atv.xyz:83/live/os4124/os1234/814856.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/VA%20_%20Richmond%20_%20NBC%20WWBT.png" group-title="USA | NBC LOCALS",VA | RICHMOND | NBC 12 WWBT
-http://2atv.xyz:83/live/os4124/os1234/814857.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/Virgin%20Islands%20_%20Charlotte%20Amalie%20_%20NBC%20WVGN.png" group-title="USA | NBC LOCALS",VI | CHARLOTTE AMALIE | NBC 14 WVGN
-http://2atv.xyz:83/live/os4124/os1234/814858.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/WA%20_%20Yakima%20_%20NBC%20KNDO.png" group-title="USA | NBC LOCALS",WA | YAKIMA | NBC 23 KNDO
-http://2atv.xyz:83/live/os4124/os1234/814859.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/WI%20_%20Madison%20_%20NBC%20WMTV.png" group-title="USA | NBC LOCALS",WI | MADISON | NBC 15 WMTV
-http://2atv.xyz:83/live/os4124/os1234/814861.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/WI%20_%20Milwaukee%20_%20NBC%20WTMJ.png" group-title="USA | NBC LOCALS",WI | MILWAUKEE | NBC 4 WTMJ
-http://2atv.xyz:83/live/os4124/os1234/814862.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/WV%20_%20Huntington%20_%20NBC%20WSAZ.png" group-title="USA | NBC LOCALS",WV | HUNTINGTON | NBC 3 WSAZ
-http://2atv.xyz:83/live/os4124/os1234/814867.m3u8
-#EXTINF:-1 tvg-logo="https://puddintap.click/ico/ALL/WY%20_%20Lander%20_%20NBC%20KGW.png" group-title="USA | NBC LOCALS",WY | LANDER | NBC 8 KGW
-http://2atv.xyz:83/live/os4124/os1234/814870.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | NBC LOCALS",AZ | PHOENIX | NBC 12 KPNX
-http://2atv.xyz:83/live/os4124/os1234/814871.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA | NBC LOCALS",TX | EL PASO | NBC 9 KTSM
-http://2atv.xyz:83/live/os4124/os1234/814874.m3u8
-
 # --- USA | NEWS/WEATHER (26) ---
 #EXTINF:-1 tvg-logo="https://puddintap.click/ico/USA-Color/accuweather.png" group-title="USA | NEWS/WEATHER",USA: ACCUWEATHER
 http://2atv.xyz:83/live/os4124/os1234/814498.m3u8
@@ -8473,4 +8225,4 @@ http://2atv.xyz:83/live/os4124/os1234/798161.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WNBA",WNBA 15:
 http://2atv.xyz:83/live/os4124/os1234/798162.m3u8
 
-# Total: 4194
+# Total: 4071

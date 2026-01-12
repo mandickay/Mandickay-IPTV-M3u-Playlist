@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: caffe.link:25461
-# Generated: 2026-01-12 07:15:12
+# Generated: 2026-01-12 18:38:37
 # Expires: 2026-05-01
 # Family Safe Edition
 # ==============================================
@@ -201,13 +201,11 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6411.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/favicon-www.televizija5.ba.png" group-title="BiH",Televizija 5
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/3244.m3u8
 
-# --- CINECAFFE (5) ---
+# --- CINECAFFE (4) ---
 #EXTINF:-1 tvg-logo="" group-title="CINECAFFE",Caffe Western
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118804.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CINECAFFE",Caffe Marvel Movies
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118805.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CINECAFFE",Caffe SCIFI
-http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118806.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CINECAFFE",Caffe ExYu
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118807.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CINECAFFE",Caffe ExYu 2
@@ -1593,4 +1591,4 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7374.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Švicarska",CH: TELE 1 HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7382.m3u8
 
-# Total: 769
+# Total: 768

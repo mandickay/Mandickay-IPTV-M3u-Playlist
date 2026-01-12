@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2026-01-12 07:14:04
+# Generated: 2026-01-12 18:32:01
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -13815,7 +13815,9 @@ http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/268613.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Gente que conocemos en Vacaciones (2026)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/279293.mp4
 
-# --- Movies | → VOD ESTRENOS SUBTITULADOS ← (54) ---
+# --- Movies | → VOD ESTRENOS SUBTITULADOS ← (55) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIVa5m9s7bKYdI0KH8wFw1qLxHl.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",Pecadores (2025) SUB
+http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/279297.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iANU8C9n6lH7Wx0MbOdM4aATfrW.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",Predator: Badlands (2025)(SUB)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/278821.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOFkG4AGmMQcsXNRZ2bA1Gm7EkK.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",Materialistas SUB (2025)
@@ -19641,4 +19643,4 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2492
 
-# Total: 9744
+# Total: 9745

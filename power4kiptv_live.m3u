@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: power4kiptv.info:8080
-# Generated: 2026-01-12 07:20:23
+# Generated: 2026-01-12 18:41:22
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -2415,19 +2415,9 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/248847.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RwN0Cpv.png" group-title="DE | MUSIK",SCHLAGER FUER ALLE
 http://power4kiptv.info:8080/live/ernstalex/17012022/198547.m3u8
 
-# --- DE | NEWS (20) ---
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dw-de.png" group-title="DE | NEWS",DEUTSCHE WELLE HD
-http://power4kiptv.info:8080/live/ernstalex/17012022/867612.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dw-de.png" group-title="DE | NEWS",DEUTSCHE WELLE FHD
-http://power4kiptv.info:8080/live/ernstalex/17012022/867611.m3u8
+# --- DE | NEWS (21) ---
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/ger-news.png" group-title="DE | NEWS",★☆★ NEWS ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/95650.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1KJZxvx/image.png" group-title="DE | NEWS",RT DEUTSCH NEWS HD
-http://power4kiptv.info:8080/live/ernstalex/17012022/568655.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1KJZxvx/image.png" group-title="DE | NEWS",RT DEUTSCH NEWS FHD
-http://power4kiptv.info:8080/live/ernstalex/17012022/568654.m3u8
-#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/N-TV_Germany_HD_Logo_2017.png" group-title="DE | NEWS",N-TV HEVC
-http://power4kiptv.info:8080/live/ernstalex/17012022/95544.m3u8
 #EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/N-TV_Germany_HD_Logo_2017.png" group-title="DE | NEWS",N-TV FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/95651.m3u8
 #EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/N-TV_Germany_HD_Logo_2017.png" group-title="DE | NEWS",N-TV HD
@@ -2440,18 +2430,30 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/95654.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/599949.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/bild.png" group-title="DE | NEWS",BILD TV HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/599948.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/tagesschau_24.png" group-title="DE | NEWS",TAGESSCHAU 24 HEVC
-http://power4kiptv.info:8080/live/ernstalex/17012022/240814.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/tagesschau_24.png" group-title="DE | NEWS",TAGESSCHAU 24 HD
+http://power4kiptv.info:8080/live/ernstalex/17012022/240814.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/tagesschau_24.png" group-title="DE | NEWS",TAGESSCHAU 24
 http://power4kiptv.info:8080/live/ernstalex/17012022/95658.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/phoenix.png" group-title="DE | NEWS",PHOENIX HEVC
-http://power4kiptv.info:8080/live/ernstalex/17012022/240815.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/phoenix.png" group-title="DE | NEWS",PHOENIX
-http://power4kiptv.info:8080/live/ernstalex/17012022/95655.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/ktv.png" group-title="DE | NEWS",K-TV FHD
+http://power4kiptv.info:8080/live/ernstalex/17012022/867701.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/ktv.png" group-title="DE | NEWS",K-TV HD
+http://power4kiptv.info:8080/live/ernstalex/17012022/867700.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/RECORD%20NEWS.png" group-title="DE | NEWS",DER AKTIONAR TV HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/240813.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/RECORD%20NEWS.png" group-title="DE | NEWS",DER AKTIONAR TV HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/141376.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1KJZxvx/image.png" group-title="DE | NEWS",RT DEUTSCH NEWS FHD
+http://power4kiptv.info:8080/live/ernstalex/17012022/568654.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1KJZxvx/image.png" group-title="DE | NEWS",RT DEUTSCH NEWS HD
+http://power4kiptv.info:8080/live/ernstalex/17012022/568655.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dw-de.png" group-title="DE | NEWS",DEUTSCHE WELLE FHD
+http://power4kiptv.info:8080/live/ernstalex/17012022/867611.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dw-de.png" group-title="DE | NEWS",DEUTSCHE WELLE HD
+http://power4kiptv.info:8080/live/ernstalex/17012022/867612.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/phoenix.png" group-title="DE | NEWS",PHOENIX HEVC
+http://power4kiptv.info:8080/live/ernstalex/17012022/240815.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/phoenix.png" group-title="DE | NEWS",PHOENIX
+http://power4kiptv.info:8080/live/ernstalex/17012022/95655.m3u8
 #EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/euronews.png" group-title="DE | NEWS",EURONEWS DEUTSCH LIVE HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/240816.m3u8
 #EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/euronews.png" group-title="DE | NEWS",EURONEWS DEUTSCH LIVE
@@ -4821,4 +4823,4 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/601228.m3u8
 #EXTINF:-1 tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg" group-title="VIP | SPORT VIAPLAY",VIAPLAY XTRA 53
 http://power4kiptv.info:8080/live/ernstalex/17012022/601227.m3u8
 
-# Total: 2359
+# Total: 2360

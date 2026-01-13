@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: gjrctv.com:8080
-# Generated: 2026-01-13 07:12:31
+# Generated: 2026-01-13 18:41:13
 # Expires: 2026-02-12
 # Family Safe Edition
 # ==============================================
@@ -95,19 +95,31 @@ http://gjrctv.com:8080/live/josechagas1/8muRH8/913992.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band Parana
 http://gjrctv.com:8080/live/josechagas1/8muRH8/940846.m3u8
 
-# --- BBB 26 (6) ---
+# --- BBB 26 (12) ---
 #EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",BBB 01
 http://gjrctv.com:8080/live/josechagas1/8muRH8/1271892.m3u8
 #EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",BBB 02
 http://gjrctv.com:8080/live/josechagas1/8muRH8/1271891.m3u8
 #EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",BBB 03
 http://gjrctv.com:8080/live/josechagas1/8muRH8/1271890.m3u8
-#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",BBB 04
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",Quarto Sonho de Eternidade
 http://gjrctv.com:8080/live/josechagas1/8muRH8/1271889.m3u8
-#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",BBB 05
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",Quarto Sonho de Voar
 http://gjrctv.com:8080/live/josechagas1/8muRH8/1271888.m3u8
-#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",BBB 06
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",Quarto Sonho do Grande Amor
 http://gjrctv.com:8080/live/josechagas1/8muRH8/1271887.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",BBB 07
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1278716.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",BBB 08
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1278717.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",BBB 09
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1278718.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",BBB 10
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1278719.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",BBB 11
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1278720.m3u8
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",BBB 12
+http://gjrctv.com:8080/live/josechagas1/8muRH8/1278721.m3u8
 
 # --- CINE SKY (10) ---
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 1
@@ -1674,29 +1686,29 @@ http://gjrctv.com:8080/live/josechagas1/8muRH8/2160.m3u8
 http://gjrctv.com:8080/live/josechagas1/8muRH8/2159.m3u8
 
 # --- HORA DO JOGO (13) ---
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",14h30 Al Hilal x Al Nassr
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",11h00 Gremio x Marcilio Dias (CP)
 http://gjrctv.com:8080/live/josechagas1/8muRH8/981577.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",16h45 Liverpool x Barnsley
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",11h00 XV de Piracicaba x Ceara (CP)
 http://gjrctv.com:8080/live/josechagas1/8muRH8/981578.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",16h45 Juventus x Cremonese
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",14h00 Konyaspor x Fenerbahce
 http://gjrctv.com:8080/live/josechagas1/8muRH8/981579.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",17h10 PSG x Paris FC
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",15h00 Vasco x Juventus-SP (CP)
 http://gjrctv.com:8080/live/josechagas1/8muRH8/981580.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",17h00 Sevilla x Celta de Vigo
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",15h00 America-MG x Fortaleza (CP)
 http://gjrctv.com:8080/live/josechagas1/8muRH8/981581.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",14h30 Genoa x Cagliari
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",16h45 Monza x Fiorentina
 http://gjrctv.com:8080/live/josechagas1/8muRH8/981582.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",21h00 Atl. Tucuman x Cerro Largo
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",17h00 Real Sociedad x Villarreal
 http://gjrctv.com:8080/live/josechagas1/8muRH8/981817.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 8
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",17h30 Corinthians x Falcon-SE (CP)
 http://gjrctv.com:8080/live/josechagas1/8muRH8/981818.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 9
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",19h30 Palmeiras x Referencia-SP (CP)
 http://gjrctv.com:8080/live/josechagas1/8muRH8/981819.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 10
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",19h30 Novorizontino x Athletico-PR (CP)
 http://gjrctv.com:8080/live/josechagas1/8muRH8/982820.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 11
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",21h45 Flamengo x Bragantino (CP)
 http://gjrctv.com:8080/live/josechagas1/8muRH8/1119431.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 12
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",22h00 San Lorenzo x Nacional-URU
 http://gjrctv.com:8080/live/josechagas1/8muRH8/1203221.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 13
 http://gjrctv.com:8080/live/josechagas1/8muRH8/1268343.m3u8
@@ -2579,4 +2591,4 @@ http://gjrctv.com:8080/live/josechagas1/8muRH8/2294.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/NHK.png" group-title="VARIEDADES",NHK
 http://gjrctv.com:8080/live/josechagas1/8muRH8/1210.m3u8
 
-# Total: 1249
+# Total: 1255

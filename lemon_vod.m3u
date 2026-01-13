@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-01-13 07:05:53
+# Generated: 2026-01-13 18:30:00
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -10553,7 +10553,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/128736.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1m0SgH91AtSVcAY9p7dtqh0Pgr.jpg" group-title="Movies | KERSTFILMS",De Familie Claus 2 (2021)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/129312.mkv
 
-# --- Movies | Laatst toegevoegd (50) ---
+# --- Movies | Laatst toegevoegd (51) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Laatst toegevoegd",Martijn Koning Oudejaarsconference
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/117600.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Laatst toegevoegd",Martijn Koning: Koning van de Dieren (2017)
@@ -10654,6 +10654,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/191745.mkv
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/191752.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMPR3OFhKNVvJw4eZoRhf9RzfHJ.jpg" group-title="Movies | Laatst toegevoegd",The Core (2003)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196376.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOrJqRyt1pklNgDwJMjzN1GuNXS.jpg" group-title="Movies | Laatst toegevoegd",People We Meet on Vacation (2026)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196480.mkv
 
 # --- Movies | MUZIEKCONCERTEN (42) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHt8XZqLHqzv8ks4IEKOKzFZ6zk.jpg" group-title="Movies | MUZIEKCONCERTEN",Guus Meeuwis – Groots Met Een Zachte G 2019 - 2019
@@ -17967,7 +17969,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/189678.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg" group-title="Movies | Nieuwe Releases 2024",Thelma De Eenhoorn (2024) NL Gesproken
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190125.mkv
 
-# --- Movies | Nieuwe Releases 2025 (427) ---
+# --- Movies | Nieuwe Releases 2025 (426) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHcG8FPk9yILRVPnHEcrwtrkAAN.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 16: Dolphins @ Jets
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/119331.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldEVs1GQiYLGXZEwa93tb5t3gsD.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 17: Chiefs @ Broncos
@@ -18430,8 +18432,6 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/187152.mkv
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/187165.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nBOFo78pKgzLipgGZhC8VA33wp.jpg" group-title="Movies | Nieuwe Releases 2025",Oh, Hi! (2025)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/187166.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg" group-title="Movies | Nieuwe Releases 2025",Weapons (2025)
-http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/187181.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxiDj3dTgZuCPkx30Jvyq8K9QUV.jpg" group-title="Movies | Nieuwe Releases 2025",Sketch (2025)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/187182.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0KRoR842OgNByCfw9iFHbWoeR9.jpg" group-title="Movies | Nieuwe Releases 2025",The Wrong Paris (2025)

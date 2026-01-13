@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.darktv.eu:25461
-# Generated: 2026-01-13 07:04:37
+# Generated: 2026-01-13 18:33:49
 # Expires: 2026-02-05
 # Family Safe Edition
 # ==============================================
@@ -5287,7 +5287,7 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/216449.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/AMAZON.png" group-title="IT - AMAZON EVENTS",(IT) Amazon Prime 16 HD (only events)
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/216448.m3u8
 
-# --- IT - CINEMA (32) ---
+# --- IT - CINEMA (33) ---
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/raimoviehd.png" group-title="IT - CINEMA",(IT) Rai Movie FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217419.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/raipremiumhd.png" group-title="IT - CINEMA",(IT) Rai Premium FHD
@@ -5304,6 +5304,8 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217459.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217461.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/comedycentral.png" group-title="IT - CINEMA",(IT) Comedy Central FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217460.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/crimeandinvestigation.png" group-title="IT - CINEMA",(IT) Premium Crime FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/51499.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/skymeteo24-phibruspel.png" group-title="IT - CINEMA",(IT) Sky MTV
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217462.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/skyselect-wispelutri.png" group-title="IT - CINEMA",(IT) Sky Serie FHD
@@ -5739,7 +5741,7 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/216308.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/daznevents.png" group-title="IT - DAZN SPORTS",(IT) Dazn Ufc 20
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/216309.m3u8
 
-# --- IT - DOCUMENTARIES (19) ---
+# --- IT - DOCUMENTARIES (20) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/raiscuola.png" group-title="IT - DOCUMENTARIES",(IT) Rai Scoula FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38536.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/raistoria.png" group-title="IT - DOCUMENTARIES",(IT) Rai Storia FHD
@@ -5750,6 +5752,8 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/216883.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/42674.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoverychannel.png" group-title="IT - DOCUMENTARIES",(IT) Discovery Channel FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/51491.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foodnetworkhd.png" group-title="IT - DOCUMENTARIES",(IT) Food Network FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/89775.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/skynature.png" group-title="IT - DOCUMENTARIES",(IT) Sky Nature FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/216822.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/skyadventure.png" group-title="IT - DOCUMENTARIES",(IT) Sky Adventure FHD
@@ -5779,8 +5783,10 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/42672.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nationalgeographic.png" group-title="IT - DOCUMENTARIES",(IT) Nat Geo HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/42675.m3u8
 
-# --- IT - ITALIA (28) ---
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rai1hd.png" group-title="IT - ITALIA",(IT) Rai 1 HD
+# --- IT - ITALIA (25) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rai1hd.png" group-title="IT - ITALIA",(IT) Rai 1 4K ᵘˡᵗʳᵃ
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/218314.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rai1hd.png" group-title="IT - ITALIA",(IT) Rai 1 FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38566.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rai2hd.png" group-title="IT - ITALIA",(IT) Rai 2 FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38564.m3u8
@@ -5796,15 +5802,13 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38554.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/51488.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/la5.png" group-title="IT - ITALIA",(IT) La 5
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38546.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/la7.png" group-title="IT - ITALIA",(IT) LA7 D
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/la7.png" group-title="IT - ITALIA",(IT) LA7 D FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/51536.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foodnetworkhd.png" group-title="IT - ITALIA",(IT) Food Network 4K+
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/89775.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telepace.png" group-title="IT - ITALIA",(IT) Telepace 4K+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telepace.png" group-title="IT - ITALIA",(IT) Telepace FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/89774.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rsila1.png" group-title="IT - ITALIA",(IT) RSI LA 1 HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rsila1.png" group-title="IT - ITALIA",(IT) RSI La 1 FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/51486.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rsila2.png" group-title="IT - ITALIA",(IT) RSI LA 2 HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rsila2.png" group-title="IT - ITALIA",(IT) RSI La 2 FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/51487.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/mediasetitalia.png" group-title="IT - ITALIA",(IT) Mediaset 20
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38547.m3u8
@@ -5814,16 +5818,10 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38549.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38544.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rete4hd.png" group-title="IT - ITALIA",(IT) Rete 4
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38557.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tv8-gesacheclu.png" group-title="IT - ITALIA",(IT) TV 8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tv8-gesacheclu.png" group-title="IT - ITALIA",(IT) Sky TV 8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38551.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/crimeandinvestigation.png" group-title="IT - ITALIA",(IT) Premium Crime HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/51499.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foxcrime.png" group-title="IT - ITALIA",(IT) Fox Crime HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/51498.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="IT - ITALIA",(IT) Tv 2000 FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/89846.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/videolina.png" group-title="IT - ITALIA",(IT) Videolina
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/51538.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IT - ITALIA",(IT) Mediaset Italia 2 FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/129213.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IT - ITALIA",(IT) Uninettuno University TV
@@ -5838,6 +5836,8 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/144497.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/129222.m3u8
 
 # --- IT - KIDS (14) ---
+#EXTINF:-1 tvg-logo="" group-title="IT - KIDS",(IT) Frisbee HD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/129212.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneyjunior.png" group-title="IT - KIDS",(IT) Disney Junior
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/42669.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/babytv.png" group-title="IT - KIDS",(IT) Baby TV
@@ -5864,8 +5864,6 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/105073.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/216770.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/k2.png" group-title="IT - KIDS",(IT) K2 HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/51507.m3u8
-#EXTINF:-1 tvg-logo="" group-title="IT - KIDS",(IT) Frisbee HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/129212.m3u8
 
 # --- IT - MUZIC (7) ---
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/radionorba.png" group-title="IT - MUZIC",(IT) Radio Norba TV
@@ -5945,7 +5943,7 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/216617.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/italievlag.png" group-title="IT - MotoGP-VolleyBall",(IT) VolleyBall  World Event 20
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/216616.m3u8
 
-# --- IT - NOTIZIE (7) ---
+# --- IT - NOTIZIE (8) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skytg24-phibruspel.png" group-title="IT - NOTIZIE",(IT) Sky TG 24 HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/51511.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rainews24hd.png" group-title="IT - NOTIZIE",(IT) Rai News 24 FHD
@@ -5958,12 +5956,12 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/38552.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/89779.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/senatoitaliano.png" group-title="IT - NOTIZIE",(IT) Senato HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/218312.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/videolina.png" group-title="IT - NOTIZIE",(IT) Videolina TG
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/51538.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IT - NOTIZIE",(IT) Sky Tg 24 FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/218191.m3u8
 
-# --- IT - SKY SPORTS (44) ---
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/SportItaliaSoloCalcio.png" group-title="IT - SKY SPORTS",(IT) Sport Italia SoloCalcio FHD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217506.m3u8
+# --- IT - SKY SPORTS (43) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="IT - SKY SPORTS",(IT) Sky Sport Uno FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/42737.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport24hd-phibruspel.png" group-title="IT - SKY SPORTS",(IT) Sky Sport 24 FHD
@@ -6051,15 +6049,15 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/218187.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IT - SKY SPORTS",(IT) Sky Sport 259 FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/218189.m3u8
 
-# --- IT - SPORTS (30) ---
-#EXTINF:-1 tvg-logo="" group-title="IT - SPORTS",(IT) Lega Volley Summer Tour
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/129207.m3u8
+# --- IT - SPORTS (31) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/raisport.png" group-title="IT - SPORTS",(IT) Rai Sport + FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/42739.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/sportitalia.png" group-title="IT - SPORTS",(IT) Sport Italia FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217507.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sportitalia.png" group-title="IT - SPORTS",(IT) Sport Italia Live24
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/42740.m3u8
+#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/SportItaliaSoloCalcio.png" group-title="IT - SPORTS",(IT) Sport Italia SoloCalcio FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217506.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/acisport.jpg" group-title="IT - SPORTS",(IT) ACI Sport TV FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217503.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/ACLCornhole.png" group-title="IT - SPORTS",(IT) ACL Cornhole FHD
@@ -6100,6 +6098,8 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/218203.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/218204.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/pdcdarts.png" group-title="IT - SPORTS",(IT) PDC Darts HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217789.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IT - SPORTS",(IT) Lega Volley Summer Tour
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/129207.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/napolimia.png" group-title="IT - SPORTS",(IT) Napoli PPV (Event only)
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217505.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/interchannel.png" group-title="IT - SPORTS",(IT) Replay Inter

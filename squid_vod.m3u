@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-13 07:12:41
+# Generated: 2026-01-13 18:33:04
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -5905,7 +5905,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (615) ---
+# --- Movies | Filme 2025 (616) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pM7B1ZQZqo7kgyGlygEwk3gAR1.jpg" group-title="Movies | Filme 2025",P77 - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67002.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg" group-title="Movies | Filme 2025",People We Meet on Vacation - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66724.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maazlylskrhO9WUAMp1W64l3toS.jpg" group-title="Movies | Filme 2025",Nu ma lasa sa mor (2025)
@@ -9415,7 +9417,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/40886.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/4nssBcQUBadCTBjrAkX46mVEKts.jpg" group-title="Movies | Filme Animatie Dublate (NOU)",Cinderella  (1950)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/13371.mp4
 
-# --- Movies | Filme Animatie Subtitrate (155) ---
+# --- Movies | Filme Animatie Subtitrate (156) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg" group-title="Movies | Filme Animatie Subtitrate",Despicable Me - 2010
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67000.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ftutOnMM5JHl69mvkNbs8f1AUR.jpg" group-title="Movies | Filme Animatie Subtitrate",Angela's Christmas Wish - 2020
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66109.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xUjYwL6Ol7TLJPPKs7sYW5PWLX.jpg" group-title="Movies | Filme Animatie Subtitrate",The Prince of Egypt (1998)
@@ -19751,4 +19755,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8684
+# Total: 8686

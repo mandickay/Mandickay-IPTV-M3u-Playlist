@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-01-13 18:36:40
+# Generated: 2026-01-14 07:16:40
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -5279,7 +5279,7 @@ http://allone8k.info:8080/live/hany/hany1234/124662.m3u8
 #EXTINF:-1 tvg-logo="https://media4.giphy.com/media/UoRR2d1b8xs04A2bV8/giphy.gif?cid=6c09b952ha3gai0yu95137dkgyp4kplwjygm7hnnvxfbtvyt&ep=v1_stickers_related&rid=giphy.gif&ct=s" group-title="AR | NETFLIX ORIGINALS 4K",✪ Netflix Sci-Fi ✪ 07
 http://allone8k.info:8080/live/hany/hany1234/124663.m3u8
 
-# --- AR | NEWS 4K | الأخبارية (33) ---
+# --- AR | NEWS 4K | الأخبارية (35) ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-24-fr.png" group-title="AR | NEWS 4K | الأخبارية",NEWS: France 24 AR 4K
 http://allone8k.info:8080/live/hany/hany1234/420103.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-24-fr.png" group-title="AR | NEWS 4K | الأخبارية",NEWS: France 24 AR HD
@@ -5308,6 +5308,10 @@ http://allone8k.info:8080/live/hany/hany1234/142363.m3u8
 http://allone8k.info:8080/live/hany/hany1234/142365.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1253779919563300865/h9IiN-o7_400x400.jpg" group-title="AR | NEWS 4K | الأخبارية",NEWS: Al Arabiya SD.
 http://allone8k.info:8080/live/hany/hany1234/142364.m3u8
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAMAAABgZ9sFAAAAflBMVEUGI0sIJEzw8P/z8//19f8AE0L39//Pz94AADcAADMAIUqGip0AADz7+//p6fgAADoAHUimqboAGEUAACEADkB7gZX///90eY5oboQAABuMj6IkM1XZ2ugAAC2go7S6u8tbY3tET2swPFpPV3GVmKoAACjGxtUbLVIAABQ7RmIjXPUhAAAB6klEQVRIie2Ua5OyIBTHCYQQ4yJ5KcNblj19/y/4HAwrdnqz73Z29u+MzpEfniuizbeENuhb+sN/N26p9bcgK54LxttfcT00tbWHLKgWK2HHBmwT47yXstfcsafK3YM+EzAUj3AzVZhl1DKCV1UH6xc2Cl4l/S7CaYMVnuhEVBDDxMEXBfU0ZpciDiY9HvcGmTToWjNcUSS4S7wntnh64bvZudk7NPqBl4AXIp3Bi8JYbkSEa0lYr2Hb2Ksl8iWYtGc4cU2C10wDbiaJWUMRv8hkTbYa2lzCt9M+IbOOcNowLAejGwlVWMooSX29AI1vqSJJV0S47hMsqTkxjElXeh1oWsJecqdGvjINOHcEQi06CPXUci/ND54eUz2AY6OjVDXzneBbgl2XB0EFyRasGZLp8jBDC25G6TuhfZbJKp8ugefSpmgIaMYwG4pzRT7I72LREGjwLAu9/SgCHdiW712FTDE+q+kf37fHfXu9ttd2v9deKcQpb/y9MmIXJpDdXK1clufNXDpXiNCRpEXoHTdQb1nzgbg+d5e7U9v5oB5DqOEc5EWEI60kHjTtMnVxfbOrpuqc5+7ReGHsiw6FvGfWInG/nU/TMNKpGOlpWMMVr1P7HDEqlgUhjIGph0sY9Ek/9Lf0h/9c/D8w5iNQYxkzwQAAAABJRU5ErkJggg==" group-title="AR | NEWS 4K | الأخبارية",NEWS:  i24 NEWS ARABIC 4K
+http://allone8k.info:8080/live/hany/hany1234/641030.m3u8
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAMAAABgZ9sFAAAAflBMVEUGI0sIJEzw8P/z8//19f8AE0L39//Pz94AADcAADMAIUqGip0AADz7+//p6fgAADoAHUimqboAGEUAACEADkB7gZX///90eY5oboQAABuMj6IkM1XZ2ugAAC2go7S6u8tbY3tET2swPFpPV3GVmKoAACjGxtUbLVIAABQ7RmIjXPUhAAAB6klEQVRIie2Ua5OyIBTHCYQQ4yJ5KcNblj19/y/4HAwrdnqz73Z29u+MzpEfniuizbeENuhb+sN/N26p9bcgK54LxttfcT00tbWHLKgWK2HHBmwT47yXstfcsafK3YM+EzAUj3AzVZhl1DKCV1UH6xc2Cl4l/S7CaYMVnuhEVBDDxMEXBfU0ZpciDiY9HvcGmTToWjNcUSS4S7wntnh64bvZudk7NPqBl4AXIp3Bi8JYbkSEa0lYr2Hb2Ksl8iWYtGc4cU2C10wDbiaJWUMRv8hkTbYa2lzCt9M+IbOOcNowLAejGwlVWMooSX29AI1vqSJJV0S47hMsqTkxjElXeh1oWsJecqdGvjINOHcEQi06CPXUci/ND54eUz2AY6OjVDXzneBbgl2XB0EFyRasGZLp8jBDC25G6TuhfZbJKp8ugefSpmgIaMYwG4pzRT7I72LREGjwLAu9/SgCHdiW712FTDE+q+kf37fHfXu9ttd2v9deKcQpb/y9MmIXJpDdXK1clufNXDpXiNCRpEXoHTdQb1nzgbg+d5e7U9v5oB5DqOEc5EWEI60kHjTtMnVxfbOrpuqc5+7ReGHsiw6FvGfWInG/nU/TMNKpGOlpWMMVr1P7HDEqlgUhjIGph0sY9Ek/9Lf0h/9c/D8w5iNQYxkzwQAAAABJRU5ErkJggg==" group-title="AR | NEWS 4K | الأخبارية",NEWS:  i24 NEWS ARABIC HD
+http://allone8k.info:8080/live/hany/hany1234/641029.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/AlHADATH.png" group-title="AR | NEWS 4K | الأخبارية",NEWS: Al Arabiya Al Hadath 4K الحدث
 http://allone8k.info:8080/live/hany/hany1234/142368.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/AlHADATH.png" group-title="AR | NEWS 4K | الأخبارية",NEWS: Al Arabiya Al Hadath SD.
@@ -18301,4 +18305,4 @@ http://allone8k.info:8080/live/hany/hany1234/618315.m3u8
 #EXTINF:-1 tvg-logo="" group-title="مهم",mbc masr test
 http://allone8k.info:8080/live/hany/hany1234/473269.m3u8
 
-# Total: 8940
+# Total: 8942

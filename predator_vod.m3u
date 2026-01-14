@@ -1,15 +1,17 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-01-13 07:02:45
+# Generated: 2026-01-14 07:17:55
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | Deutsche Serien (41) ---
+# --- Movies | Deutsche Serien (42) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",=====Deutsche Serien=====
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",True Detective (2014) DE
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/283.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Das Buch von Boba Fett (2021)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/280.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deutsche Serien",Slow Horses - Ein Fall für Jackson Lamb (2022)
@@ -8993,4 +8995,4 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69012.mkv
 
-# Total: 4484
+# Total: 4485

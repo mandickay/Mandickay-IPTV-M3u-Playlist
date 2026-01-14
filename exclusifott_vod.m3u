@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-01-13 18:31:17
+# Generated: 2026-01-14 07:21:50
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -6367,7 +6367,13 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1984014.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg" group-title="Movies | |EN| 4K CHILDREN",EN - The First Snow of Fraggle Rock 4K (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1984033.mkv
 
-# --- Movies | |EN| 4K MOVIES (29) ---
+# --- Movies | |EN| 4K MOVIES (32) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xgDjVEOtu5LlbPEngxfbCqWEFg.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Beast of War 4K (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2002831.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg" group-title="Movies | |EN| 4K MOVIES",EN - I Swear 4K (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2002834.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/si9tolnefLSUKaqQEGz1bWArOaL.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Wicked: For Good 4K (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2002844.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvKfxdKaV20YikapsiYA23ETXG.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Fog of War 4K (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2001682.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Predator: Badlands 4K (2025)
@@ -18083,4 +18089,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 8994
+# Total: 8997

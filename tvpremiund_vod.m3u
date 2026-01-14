@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-01-13 18:41:38
+# Generated: 2026-01-14 07:17:28
 # Expires: 2026-02-14
 # Family Safe Edition
 # ==============================================
@@ -7651,7 +7651,7 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/80844.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOboKSPT9PPZFKhOya3YHrY4rHn.jpg" group-title="Movies | CINE PERUANO",¿Mi Novia es Él? (2019)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/80845.mp4
 
-# --- Movies | COMEDIA (1214) ---
+# --- Movies | COMEDIA (1216) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxtvnvWdeibiDc6mU5ftAUPGofe.jpg" group-title="Movies | COMEDIA",4 Latas (2019)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/5863.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nITLSFHonQJGVrnfDzfNqvtbOjO.jpg" group-title="Movies | COMEDIA",Ace Ventura 1: Detective de Mascotas (1994)
@@ -10080,6 +10080,10 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2516.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2520.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",El tiempo de las moscas
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2521.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Oríllese a la Orilla
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2525.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Sicily Express
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2527.mp4
 
 # --- Movies | CONCIERTOS & SHOWS (355) ---
 #EXTINF:-1 tvg-logo="https://s33.postimg.cc/evlncu9vj/Americo_-_Vi_a_del_Mar_2011.jpg" group-title="Movies | CONCIERTOS & SHOWS",Américo - Viña del Mar (2011)
@@ -12101,7 +12105,7 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2459.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOCUMENTALES",La peor vuelta al mundo
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2471.mp4
 
-# --- Movies | DRAMA (1510) ---
+# --- Movies | DRAMA (1512) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YcjGJtW4AEHyNH8yrs8FAaPBM.jpg" group-title="Movies | DRAMA",12 valientes (2018)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/3344.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XbNkZMLXD9dYGZJ87nmQ62Mp2l.jpg" group-title="Movies | DRAMA",127 Horas (2010)
@@ -15122,6 +15126,10 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2501.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2506.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Valle salvaje
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2515.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Rebelde
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2524.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",El infiltrado
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2526.mp4
 
 # --- Movies | INFANTILES (838) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp7d1OGYpBGyG5E6fr1fMi01bvK.jpg" group-title="Movies | INFANTILES",Abominable (2019)
@@ -21719,4 +21727,4 @@ http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2452
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Doménica Montero
 http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2511
 
-# Total: 10825
+# Total: 10829

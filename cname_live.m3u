@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cname.dino.ws:80
-# Generated: 2026-01-13 18:39:57
+# Generated: 2026-01-14 07:07:59
 # Expires: 2026-02-27
 # Family Safe Edition
 # ==============================================
@@ -1373,7 +1373,31 @@ http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1068540.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/AFROFLIX-PREMIER.png" group-title="|AF| SOMALIA",SOM - AFROFLIX PREMIER
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1068539.m3u8
 
-# --- |AM| BRAZIL (135) ---
+# --- |AM| BRAZIL (147) ---
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BIGBROTHER.png" group-title="|AM| BRAZIL",BR - BIG BROTHER BRAZIL ᴿᴬᵂ
+http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1350313.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BIGBROTHER.png" group-title="|AM| BRAZIL",BR - BIG BROTHER 2 BRAZIL ᴿᴬᵂ
+http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1350312.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BIGBROTHER.png" group-title="|AM| BRAZIL",BR - BIG BROTHER 3 BRAZIL ᴿᴬᵂ
+http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1350311.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BIGBROTHER.png" group-title="|AM| BRAZIL",BR - BIG BROTHER 4 BRAZIL ᴿᴬᵂ
+http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1350310.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BIGBROTHER.png" group-title="|AM| BRAZIL",BR - BIG BROTHER 5 BRAZIL ᴿᴬᵂ
+http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1350309.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BIGBROTHER.png" group-title="|AM| BRAZIL",BR - BIG BROTHER 6 BRAZIL ᴿᴬᵂ
+http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1350308.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BIGBROTHER.png" group-title="|AM| BRAZIL",BR - BIG BROTHER 7 BRAZIL ᴿᴬᵂ
+http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1350307.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BIGBROTHER.png" group-title="|AM| BRAZIL",BR - BIG BROTHER 8 BRAZIL ᴿᴬᵂ
+http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1350306.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BIGBROTHER.png" group-title="|AM| BRAZIL",BR - BIG BROTHER 9 BRAZIL ᴿᴬᵂ
+http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1350305.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BIGBROTHER.png" group-title="|AM| BRAZIL",BR - BIG BROTHER 10 BRAZIL ᴿᴬᵂ
+http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1350304.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BIGBROTHER.png" group-title="|AM| BRAZIL",BR - BIG BROTHER 11 BRAZIL ᴿᴬᵂ
+http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1350303.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BIGBROTHER.png" group-title="|AM| BRAZIL",BR - BIG BROTHER 12 BRAZIL ᴿᴬᵂ
+http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1350302.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/Band_HD.png" group-title="|AM| BRAZIL",BR - BAND UHD
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/264197.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/bandnews.jpg" group-title="|AM| BRAZIL",BR - BAND NEWS UHD
@@ -2982,13 +3006,13 @@ http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/750139.m3u8
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1142828.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 1 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177699.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 2 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 2 - CHL: BRYNÄS IF VS. FRÖLUNDA GOTHENBURG - HALBFINALE - KOMMENTIERT VON CHRISTOPH FETZER | Tue 13 Jan 17:45
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177698.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 3 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 3 - KREISLIGA 2 - SPG BAVARIATURNERBUND G1 - SKK 98 POING G1 | Tue 13 Jan 18:00
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177697.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 14 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177696.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 5 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 5 - CHL: EV ZUG VS. LULEÅ HOCKEY - HALBFINALE - KOMMENTIERT VON TOBI FISCHBECK | Tue 13 Jan 18:30
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177695.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 6 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/1177694.m3u8
@@ -5127,4 +5151,4 @@ http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/250573.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/piconsnew/zapvivahd.png" group-title="|PT| INTERNACIONAL",PT - ZAP VIVA UHD
 http://cname.dino.ws:80/live/8001ac32290f/6f827a0c99c5/250560.m3u8
 
-# Total: 2517
+# Total: 2529

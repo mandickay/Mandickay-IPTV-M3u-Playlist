@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: gimenes.top:8080
-# Generated: 2026-01-13 18:41:14
+# Generated: 2026-01-14 07:09:04
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
@@ -489,7 +489,7 @@ http://gimenes.top:8080/live/denisfonseca/4915334/149865.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rS4Kuai.png" group-title="ESPORTES",BAND SPORTS UHD 4K
 http://gimenes.top:8080/live/denisfonseca/4915334/213162.m3u8
 
-# --- FILMES/SERIES (67) ---
+# --- FILMES/SERIES (59) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uHED1Yu.png" group-title="FILMES/SERIES",AMC BRASIL FHD
 http://gimenes.top:8080/live/denisfonseca/4915334/13494.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uHED1Yu.png" group-title="FILMES/SERIES",AMC BRASIL FHD H265
@@ -530,12 +530,6 @@ http://gimenes.top:8080/live/denisfonseca/4915334/8120.m3u8
 http://gimenes.top:8080/live/denisfonseca/4915334/24206.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/amKCOUv.png" group-title="FILMES/SERIES",CINEMAX SD
 http://gimenes.top:8080/live/denisfonseca/4915334/8121.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RuFpZ2G.png" group-title="FILMES/SERIES",COMEDY CENTRAL FHD
-http://gimenes.top:8080/live/denisfonseca/4915334/13486.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RuFpZ2G.png" group-title="FILMES/SERIES",COMEDY CENTRAL FHD H265
-http://gimenes.top:8080/live/denisfonseca/4915334/45411.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RuFpZ2G.png" group-title="FILMES/SERIES",COMEDY CENTRAL HD
-http://gimenes.top:8080/live/denisfonseca/4915334/8116.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuFpZ2G.png" group-title="FILMES/SERIES",COMEDY CENTRAL HD [ALTER]
 http://gimenes.top:8080/live/denisfonseca/4915334/24207.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuFpZ2G.png" group-title="FILMES/SERIES",COMEDY CENTRAL SD
@@ -550,16 +544,8 @@ http://gimenes.top:8080/live/denisfonseca/4915334/7936.m3u8
 http://gimenes.top:8080/live/denisfonseca/4915334/1124.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kHvaLFZ.png" group-title="FILMES/SERIES",SPACE SD
 http://gimenes.top:8080/live/denisfonseca/4915334/7937.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qF6xTv5.png" group-title="FILMES/SERIES",PARAMOUNT NETWORK FHD
-http://gimenes.top:8080/live/denisfonseca/4915334/13452.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qF6xTv5.png" group-title="FILMES/SERIES",PARAMOUNT NETWORK FHD H265
-http://gimenes.top:8080/live/denisfonseca/4915334/45419.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qF6xTv5.png" group-title="FILMES/SERIES",PARAMOUNT NETWORK HD
 http://gimenes.top:8080/live/denisfonseca/4915334/7969.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qF6xTv5.png" group-title="FILMES/SERIES",PARAMOUNT NETWORK HD [ALTER]
-http://gimenes.top:8080/live/denisfonseca/4915334/1159.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qF6xTv5.png" group-title="FILMES/SERIES",PARAMOUNT NETWORK SD
-http://gimenes.top:8080/live/denisfonseca/4915334/7970.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYKinWQ.png" group-title="FILMES/SERIES",TCM HD
 http://gimenes.top:8080/live/denisfonseca/4915334/42037.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYKinWQ.png" group-title="FILMES/SERIES",TCM SD
@@ -618,8 +604,6 @@ http://gimenes.top:8080/live/denisfonseca/4915334/255838.m3u8
 http://gimenes.top:8080/live/denisfonseca/4915334/255839.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gnd4SiV.png" group-title="FILMES/SERIES",AXN 4K
 http://gimenes.top:8080/live/denisfonseca/4915334/149869.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RuFpZ2G.png" group-title="FILMES/SERIES",COMEDY CENTRAL 4K
-http://gimenes.top:8080/live/denisfonseca/4915334/149864.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qMVtaM9.png" group-title="FILMES/SERIES",TNT 4K
 http://gimenes.top:8080/live/denisfonseca/4915334/149842.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ko6hZ8f.png" group-title="FILMES/SERIES",TNT SERIES 4K
@@ -963,7 +947,7 @@ http://gimenes.top:8080/live/denisfonseca/4915334/232015.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kgD2Dd6.png" group-title="GLOBO SUL",GB RBS TV SANTA ROSA SD
 http://gimenes.top:8080/live/denisfonseca/4915334/232016.m3u8
 
-# --- INFANTIL (44) ---
+# --- INFANTIL (40) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yyLYPZx.png" group-title="INFANTIL",CARTOON NETWORK FHD
 http://gimenes.top:8080/live/denisfonseca/4915334/13497.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yyLYPZx.png" group-title="INFANTIL",CARTOON NETWORK FHD H265
@@ -1010,12 +994,6 @@ http://gimenes.top:8080/live/denisfonseca/4915334/8023.m3u8
 http://gimenes.top:8080/live/denisfonseca/4915334/8022.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aoH6AnI.png" group-title="INFANTIL",NICK FHD
 http://gimenes.top:8080/live/denisfonseca/4915334/13454.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aoH6AnI.png" group-title="INFANTIL",NICK FHD H265
-http://gimenes.top:8080/live/denisfonseca/4915334/45413.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aoH6AnI.png" group-title="INFANTIL",NICK HD
-http://gimenes.top:8080/live/denisfonseca/4915334/7973.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aoH6AnI.png" group-title="INFANTIL",NICK HD [ALTER]
-http://gimenes.top:8080/live/denisfonseca/4915334/1162.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aoH6AnI.png" group-title="INFANTIL",NICK SD
 http://gimenes.top:8080/live/denisfonseca/4915334/7974.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mSxkyPK.png" group-title="INFANTIL",NICK JR FHD
@@ -1026,8 +1004,6 @@ http://gimenes.top:8080/live/denisfonseca/4915334/45414.m3u8
 http://gimenes.top:8080/live/denisfonseca/4915334/7975.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mSxkyPK.png" group-title="INFANTIL",NICK JR HD [ALTER]
 http://gimenes.top:8080/live/denisfonseca/4915334/7121.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mSxkyPK.png" group-title="INFANTIL",NICK JR SD
-http://gimenes.top:8080/live/denisfonseca/4915334/7976.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/atOLXgX.png" group-title="INFANTIL",TOONCAST FHD
 http://gimenes.top:8080/live/denisfonseca/4915334/213468.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/atOLXgX.png" group-title="INFANTIL",TOONCAST HD
@@ -1053,7 +1029,7 @@ http://gimenes.top:8080/live/denisfonseca/4915334/239519.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yyLYPZx.png" group-title="INFANTIL",CARTOON NETWORK 4K
 http://gimenes.top:8080/live/denisfonseca/4915334/149867.m3u8
 
-# --- MUSICAS (23) ---
+# --- MUSICAS (20) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRj46dh.png" group-title="MUSICAS",MULTISHOW FHD
 http://gimenes.top:8080/live/denisfonseca/4915334/13505.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJJ7zi5.png" group-title="MUSICAS",MULTISHOW FHD H265
@@ -1064,12 +1040,6 @@ http://gimenes.top:8080/live/denisfonseca/4915334/7986.m3u8
 http://gimenes.top:8080/live/denisfonseca/4915334/1170.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRj46dh.png" group-title="MUSICAS",MULTISHOW SD
 http://gimenes.top:8080/live/denisfonseca/4915334/7987.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B2xFSJD.png" group-title="MUSICAS",MTV FHD
-http://gimenes.top:8080/live/denisfonseca/4915334/13459.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B2xFSJD.png" group-title="MUSICAS",MTV HD
-http://gimenes.top:8080/live/denisfonseca/4915334/7988.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B2xFSJD.png" group-title="MUSICAS",MTV HD [ALTER]
-http://gimenes.top:8080/live/denisfonseca/4915334/1173.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B2xFSJD.png" group-title="MUSICAS",MTV SD
 http://gimenes.top:8080/live/denisfonseca/4915334/7989.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6h3XIZd.png" group-title="MUSICAS",MTV LIVE SD
@@ -1101,7 +1071,7 @@ http://gimenes.top:8080/live/denisfonseca/4915334/7985.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJJ7zi5.png" group-title="MUSICAS",MULTISHOW  4K
 http://gimenes.top:8080/live/denisfonseca/4915334/149852.m3u8
 
-# --- NOTICIAS (40) ---
+# --- NOTICIAS (39) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rxL0WKU.png" group-title="NOTICIAS",CNN BRASIL FHD
 http://gimenes.top:8080/live/denisfonseca/4915334/59728.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rxL0WKU.png" group-title="NOTICIAS",CNN BRASIL FHD H265
@@ -1166,8 +1136,6 @@ http://gimenes.top:8080/live/denisfonseca/4915334/255960.m3u8
 http://gimenes.top:8080/live/denisfonseca/4915334/255961.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBszD1Tx/P1Hn-YHh-400x400.jpg" group-title="NOTICIAS",BM&C FHD
 http://gimenes.top:8080/live/denisfonseca/4915334/253752.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PfvnXc3w/logo-preview.png" group-title="NOTICIAS",NEW BRASIL HD
-http://gimenes.top:8080/live/denisfonseca/4915334/253751.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhBwR7Wv/ef531434-f8a2-4d2a-b7d0-065bcf6f8eae.png" group-title="NOTICIAS",UOL FHD
 http://gimenes.top:8080/live/denisfonseca/4915334/253753.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pwd0nRR.png" group-title="NOTICIAS",TV SENADO FHD
@@ -1583,7 +1551,7 @@ http://gimenes.top:8080/live/denisfonseca/4915334/253846.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD SP CAPITAL UHD 4K
 http://gimenes.top:8080/live/denisfonseca/4915334/149850.m3u8
 
-# --- REDE SBT (27) ---
+# --- REDE SBT (26) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT SP FHD
 http://gimenes.top:8080/live/denisfonseca/4915334/96876.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT SP HD
@@ -1630,8 +1598,6 @@ http://gimenes.top:8080/live/denisfonseca/4915334/221693.m3u8
 http://gimenes.top:8080/live/denisfonseca/4915334/239518.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mjmxl18.png" group-title="REDE SBT",+SBT NOVELAS
 http://gimenes.top:8080/live/denisfonseca/4915334/214954.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mjmxl18.png" group-title="REDE SBT",+SBT SAUDADE
-http://gimenes.top:8080/live/denisfonseca/4915334/214952.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mjmxl18.png" group-title="REDE SBT",+SBT RAIZ
 http://gimenes.top:8080/live/denisfonseca/4915334/214950.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mjmxl18.png" group-title="REDE SBT",+SBT TVZYN
@@ -2295,4 +2261,4 @@ http://gimenes.top:8080/live/denisfonseca/4915334/224050.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HJJkspv/images.jpg" group-title="⭐ REALITY | BBB 26",BBB MOSAICO
 http://gimenes.top:8080/live/denisfonseca/4915334/257154.m3u8
 
-# Total: 1103
+# Total: 1086

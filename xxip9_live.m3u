@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: xxip9.top:8080
-# Generated: 2026-01-13 18:33:49
+# Generated: 2026-01-14 07:10:16
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -3385,47 +3385,53 @@ http://xxip9.top:8080/live/100340233/100340233/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://xxip9.top:8080/live/100340233/100340233/21091.m3u8
 
-# --- NBA (20) ---
+# --- NBA (23) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://xxip9.top:8080/live/100340233/100340233/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://xxip9.top:8080/live/100340233/100340233/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Utah Jazz @ Cleveland Cavaliers | Home Stream | 01/12/2026 7:00 PM ET
-http://xxip9.top:8080/live/100340233/100340233/259087.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: Utah Jazz vs Cleveland Cavaliers @ 07:00 PM EST
-http://xxip9.top:8080/live/100340233/100340233/259088.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Utah Jazz @ Cleveland Cavaliers | Away Stream | 01/12/2026 7:00 PM ET
-http://xxip9.top:8080/live/100340233/100340233/259089.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Boston Celtics vs Indiana Pacers @ 07:30 PM EST
-http://xxip9.top:8080/live/100340233/100340233/259090.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Boston Celtics @ Indiana Pacers | Away Stream | 01/12/2026 7:30 PM ET
-http://xxip9.top:8080/live/100340233/100340233/259091.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Philadelphia 76ers vs Toronto Raptors @ 07:30 PM EST
-http://xxip9.top:8080/live/100340233/100340233/259092.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Boston Celtics @ Indiana Pacers | Home Stream | 01/12/2026 7:30 PM ET
-http://xxip9.top:8080/live/100340233/100340233/259093.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Brooklyn Nets vs Dallas Mavericks @ 08:30 PM EST
-http://xxip9.top:8080/live/100340233/100340233/259094.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Philadelphia 76ers @ Toronto Raptors | Away Stream | 01/12/2026 7:30 PM ET
-http://xxip9.top:8080/live/100340233/100340233/259095.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Los Angeles Lakers vs Sacramento Kings @ 10:00 PM EST
-http://xxip9.top:8080/live/100340233/100340233/259096.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Philadelphia 76ers @ Toronto Raptors | Home Stream | 01/12/2026 7:30 PM ET
-http://xxip9.top:8080/live/100340233/100340233/259097.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Charlotte Hornets vs LA Clippers @ 10:30 PM EST
-http://xxip9.top:8080/live/100340233/100340233/259098.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Brooklyn Nets @ Dallas Mavericks | Home Stream | 01/12/2026 8:30 PM ET
-http://xxip9.top:8080/live/100340233/100340233/259099.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Brooklyn Nets @ Dallas Mavericks | Away Stream | 01/12/2026 8:30 PM ET
-http://xxip9.top:8080/live/100340233/100340233/259100.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Los Angeles Lakers @ Sacramento Kings | Home Stream | 01/12/2026 10:00 PM ET
-http://xxip9.top:8080/live/100340233/100340233/259101.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Los Angeles Lakers @ Sacramento Kings | Away Stream | 01/12/2026 10:00 PM ET
-http://xxip9.top:8080/live/100340233/100340233/259102.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Charlotte Hornets @ Los Angeles Clippers | Home Stream | 01/12/2026 10:30 PM ET
-http://xxip9.top:8080/live/100340233/100340233/259103.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Charlotte Hornets @ Los Angeles Clippers | Away Stream | 01/12/2026 10:30 PM ET
-http://xxip9.top:8080/live/100340233/100340233/259104.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Phoenix Suns @ Miami Heat | Away Stream | 01/13/2026 7:30 PM ET
+http://xxip9.top:8080/live/100340233/100340233/259118.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: Phoenix Suns vs Miami Heat @ 07:30 PM EST
+http://xxip9.top:8080/live/100340233/100340233/259119.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Phoenix Suns @ Miami Heat | Home Stream | 01/13/2026 7:30 PM ET
+http://xxip9.top:8080/live/100340233/100340233/259120.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Chicago Bulls vs Houston Rockets @ 08:00 PM EST
+http://xxip9.top:8080/live/100340233/100340233/259121.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Chicago Bulls @ Houston Rockets | Away Stream | 01/13/2026 8:00 PM ET
+http://xxip9.top:8080/live/100340233/100340233/259122.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Minnesota Timberwolves vs Milwaukee Bucks @ 08:00 PM EST
+http://xxip9.top:8080/live/100340233/100340233/259123.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Chicago Bulls @ Houston Rockets | Home Stream | 01/13/2026 8:00 PM ET
+http://xxip9.top:8080/live/100340233/100340233/259124.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Denver Nuggets vs New Orleans Pelicans @ 08:00 PM EST
+http://xxip9.top:8080/live/100340233/100340233/259125.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Minnesota Timberwolves @ Milwaukee Bucks | Away Stream | 01/13/2026 8:00 PM ET
+http://xxip9.top:8080/live/100340233/100340233/259126.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: San Antonio Spurs vs Oklahoma City Thunder @ 08:00 PM EST
+http://xxip9.top:8080/live/100340233/100340233/259127.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Minnesota Timberwolves @ Milwaukee Bucks | Home Stream | 01/13/2026 8:00 PM ET
+http://xxip9.top:8080/live/100340233/100340233/259128.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Atlanta Hawks vs Los Angeles Lakers @ 10:30 PM EST
+http://xxip9.top:8080/live/100340233/100340233/259129.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Denver Nuggets @ New Orleans Pelicans | Away Stream | 01/13/2026 8:00 PM ET
+http://xxip9.top:8080/live/100340233/100340233/259130.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Portland Trail Blazers vs Golden State Warriors @ 11:00 PM EST
+http://xxip9.top:8080/live/100340233/100340233/259131.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Denver Nuggets @ New Orleans Pelicans | Home Stream | 01/13/2026 8:00 PM ET
+http://xxip9.top:8080/live/100340233/100340233/259132.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: San Antonio Spurs @ Oklahoma City Thunder | Away Stream | 01/13/2026 8:00 PM ET
+http://xxip9.top:8080/live/100340233/100340233/259133.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: San Antonio Spurs @ Oklahoma City Thunder | Home Stream | 01/13/2026 8:00 PM ET
+http://xxip9.top:8080/live/100340233/100340233/259134.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Atlanta Hawks @ Los Angeles Lakers | Home Stream | 01/13/2026 10:30 PM ET
+http://xxip9.top:8080/live/100340233/100340233/259135.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Atlanta Hawks @ Los Angeles Lakers | Away Stream | 01/13/2026 10:30 PM ET
+http://xxip9.top:8080/live/100340233/100340233/259136.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13: Portland Trail Blazers @ Golden State Warriors | Home Stream | 01/13/2026 11:00 PM ET
+http://xxip9.top:8080/live/100340233/100340233/259137.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 14: Portland Trail Blazers @ Golden State Warriors | Away Stream | 01/13/2026 11:00 PM ET
+http://xxip9.top:8080/live/100340233/100340233/259138.m3u8
 
 # --- NFL (23) ---
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" group-title="NFL",US NFL Network
@@ -3475,35 +3481,29 @@ http://xxip9.top:8080/live/100340233/100340233/253677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 15:
 http://xxip9.top:8080/live/100340233/100340233/253678.m3u8
 
-# --- NHL (14) ---
+# --- NHL (11) ---
 #EXTINF:-1 tvg-logo="" group-title="NHL",US NHL Network
 http://xxip9.top:8080/live/100340233/100340233/253636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: SEA VS NYR (NHLN Feed ) @ 7:00 pm
-http://xxip9.top:8080/live/100340233/100340233/259105.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: SEA VS NYR (MSG Feed ) @ 7:00 pm
-http://xxip9.top:8080/live/100340233/100340233/259106.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: TBL VS PHI (NBCSP Feed ) @ 7:00 pm
-http://xxip9.top:8080/live/100340233/100340233/259107.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: VAN VS MTL (Prime Feed ) @ 7:30 pm
-http://xxip9.top:8080/live/100340233/100340233/259108.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: VAN VS MTL (RDS Feed ) @ 7:30 pm
-http://xxip9.top:8080/live/100340233/100340233/259109.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: EDM VS CHI (SNW Feed ) @ 8:30 pm
-http://xxip9.top:8080/live/100340233/100340233/259110.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: TOR VS COL (TVAS Feed ) @ 10:00 pm
-http://xxip9.top:8080/live/100340233/100340233/259111.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: TOR VS COL (ALT Feed ) @ 10:00 pm
-http://xxip9.top:8080/live/100340233/100340233/259112.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: Florida Panthers vs Buffalo Sabres @ 07:00 PM
-http://xxip9.top:8080/live/100340233/100340233/259113.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 10: Carolina Hurricanes vs Detroit Red Wings  @ 07:00 PM
-http://xxip9.top:8080/live/100340233/100340233/259114.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 11: New Jersey Devils vs Minnesota Wild @   @ 08:00 PM
-http://xxip9.top:8080/live/100340233/100340233/259115.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 12: Edmonton Oilers vs Chicago Blackhawks @ 08:30 PM
-http://xxip9.top:8080/live/100340233/100340233/259116.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 13: Dallas Stars vs Los Angeles Kings @ 10:00 PM
-http://xxip9.top:8080/live/100340233/100340233/259117.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: MTL VS WSH (RDS Feed ) @ 7:00 pm
+http://xxip9.top:8080/live/100340233/100340233/259139.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: CGY VS CBJ (SNW Feed ) @ 7:00 pm
+http://xxip9.top:8080/live/100340233/100340233/259140.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: DET VS BOS (NESN Feed ) @ 7:30 pm
+http://xxip9.top:8080/live/100340233/100340233/259141.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: EDM VS NSH (SN1 Feed ) @ 8:00 pm
+http://xxip9.top:8080/live/100340233/100340233/259142.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: TOR VS UTA (TVAS Feed ) @ 10:00 pm
+http://xxip9.top:8080/live/100340233/100340233/259143.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: DAL VS ANA (SN Feed ) @ 10:00 pm
+http://xxip9.top:8080/live/100340233/100340233/259144.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: Vancouver Canucks vs Ottawa Senators @ 07:00 PM
+http://xxip9.top:8080/live/100340233/100340233/259145.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: Tampa Bay Lightning vs Pittsburgh Penguins @ 07:00 PM
+http://xxip9.top:8080/live/100340233/100340233/259146.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 10: New York Islanders vs Winnipeg Jets @ @ 08:00 PM
+http://xxip9.top:8080/live/100340233/100340233/259148.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 11: Toronto Maple Leafs vs Utah Mammoth @ 10:00 PM
+http://xxip9.top:8080/live/100340233/100340233/259149.m3u8
 
 # --- PERU (7) ---
 #EXTINF:-1 tvg-logo="" group-title="PERU",PE: PANAMERICANA HD

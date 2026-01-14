@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: power4kiptv.info:8080
-# Generated: 2026-01-13 18:36:11
+# Generated: 2026-01-14 07:14:28
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -1833,121 +1833,63 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/707200.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/sExul.png" group-title="DE | HALLOWEN 24/7",24/7 HALLOWEN KINO 10
 http://power4kiptv.info:8080/live/ernstalex/17012022/707193.m3u8
 
-# --- DE | HEVC / RAW (57) ---
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/de.png" group-title="DE | HEVC / RAW",★☆★ HEVC & RAW ★☆★
+# --- DE | HEVC (28) ---
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/de.png" group-title="DE | HEVC",★☆★ HEVC ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/133771.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE | HEVC / RAW",ARD HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE | HEVC",ARD HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/97742.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="DE | HEVC / RAW",ZDF HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="DE | HEVC",ZDF HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/97743.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="DE | HEVC / RAW",RTL HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="DE | HEVC",RTL HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95520.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL.ZWEI.png" group-title="DE | HEVC / RAW",RTL ZWEI HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL.ZWEI.png" group-title="DE | HEVC",RTL ZWEI HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95521.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat-1-eno.png" group-title="DE | HEVC / RAW",SAT 1 HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat-1-eno.png" group-title="DE | HEVC",SAT 1 HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95523.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat.1.Gold-eno.png" group-title="DE | HEVC / RAW",SAT 1 GOLD HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat.1.Gold-eno.png" group-title="DE | HEVC",SAT 1 GOLD HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95528.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ProSieben.png" group-title="DE | HEVC / RAW",PROSIEBEN HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ProSieben.png" group-title="DE | HEVC",PROSIEBEN HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95522.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/prosiebenmaxx.png" group-title="DE | HEVC / RAW",PROSIEBEN MAXX HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/prosiebenmaxx.png" group-title="DE | HEVC",PROSIEBEN MAXX HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95526.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/VOX.png" group-title="DE | HEVC / RAW",VOX HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/VOX.png" group-title="DE | HEVC",VOX HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95524.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabel-eins.png" group-title="DE | HEVC / RAW",KABEL EINS HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabel-eins.png" group-title="DE | HEVC",KABEL EINS HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95525.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabeleinsdoku.png" group-title="DE | HEVC / RAW",KABEL EINS DOKU HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabeleinsdoku.png" group-title="DE | HEVC",KABEL EINS DOKU HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95539.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/nitro.png" group-title="DE | HEVC / RAW",NITRO HEVC
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/nitro.png" group-title="DE | HEVC",NITRO HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95529.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/SIXX.HD.png" group-title="DE | HEVC / RAW",SIXX HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/SIXX.HD.png" group-title="DE | HEVC",SIXX HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95527.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/ORF_1_2019-min.png" group-title="DE | HEVC / RAW",ORF 1 HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/orf1-at.png" group-title="DE | HEVC",ORF 1 HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/160904.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/ORF-2-2019-min.png" group-title="DE | HEVC / RAW",ORF 2 HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/orf2-at.png" group-title="DE | HEVC",ORF 2 HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/160905.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/ORF_III_2019-min.png" group-title="DE | HEVC / RAW",ORF 3 HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/orf3-at.png" group-title="DE | HEVC",ORF 3 HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/160906.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/HOLLANDA/TLC.png" group-title="DE | HEVC / RAW",TLC HEVC
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/HOLLANDA/TLC.png" group-title="DE | HEVC",TLC HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95540.m3u8
-#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Download.png" group-title="DE | HEVC / RAW",TELE 5 HEVC
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Download.png" group-title="DE | HEVC",TELE 5 HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95541.m3u8
-#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Nat_Geo_HD.png" group-title="DE | HEVC / RAW",NATIONAL GEOGRAPHIC HEVC
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Nat_Geo_HD.png" group-title="DE | HEVC",NATIONAL GEOGRAPHIC HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95535.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/national_geo_wild.png" group-title="DE | HEVC / RAW",NAT GEO WILD HEVC
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/national_geo_wild.png" group-title="DE | HEVC",NAT GEO WILD HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95536.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/dmaxx.png" group-title="DE | HEVC / RAW",DMAX HEVC
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/dmaxx.png" group-title="DE | HEVC",DMAX HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95538.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/discovery_channel.png" group-title="DE | HEVC / RAW",DISCOVERY HEVC
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/discovery_channel.png" group-title="DE | HEVC",DISCOVERY HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95534.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/animalplanet.png" group-title="DE | HEVC / RAW",ANIMAL PLANET HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/animalplanet.png" group-title="DE | HEVC",ANIMAL PLANET HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/208601.m3u8
-#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/HistoryHD_Logo_2015_4C_Black_type.png" group-title="DE | HEVC / RAW",HISTORY HEVC
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/HistoryHD_Logo_2015_4C_Black_type.png" group-title="DE | HEVC",HISTORY HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95537.m3u8
-#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Spiegel_Geschichte_HD_Logo_2014.svg.png" group-title="DE | HEVC / RAW",SPIEGEL GESCHICHTE HEVC
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Spiegel_Geschichte_HD_Logo_2014.svg.png" group-title="DE | HEVC",SPIEGEL GESCHICHTE HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95542.m3u8
-#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Comedy_Central_HD_Logo_2018.svg.png" group-title="DE | HEVC / RAW",COMEDY CENTRAL HEVC
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Comedy_Central_HD_Logo_2018.svg.png" group-title="DE | HEVC",COMEDY CENTRAL HEVC
 http://power4kiptv.info:8080/live/ernstalex/17012022/95531.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE | HEVC / RAW",ARD RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/126473.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="DE | HEVC / RAW",ZDF RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/126485.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/zdf-neo.png" group-title="DE | HEVC / RAW",ZDF NEO RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/126487.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="DE | HEVC / RAW",RTL UHD
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="DE | HEVC",RTL UHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/182905.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="DE | HEVC / RAW",RTL RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/129198.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL.ZWEI.png" group-title="DE | HEVC / RAW",RTL ZWEI RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/126477.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat-1-eno.png" group-title="DE | HEVC / RAW",SAT 1 RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/126457.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat.1.Gold-eno.png" group-title="DE | HEVC / RAW",SAT 1 GOLD RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/126456.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/prosiebensat1-uhd-de.png" group-title="DE | HEVC / RAW",PROSIEBEN SAT 1 UHD RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/182904.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ProSieben.png" group-title="DE | HEVC / RAW",PROSIEBEN RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/126455.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/prosiebenmaxx.png" group-title="DE | HEVC / RAW",PROSIEBEN MAXX RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/126454.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/prosieben-fun.png" group-title="DE | HEVC / RAW",PROSIEBEN FUN RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/160902.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/VOX.png" group-title="DE | HEVC / RAW",VOX RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/126484.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/VOXup-eno.png" group-title="DE | HEVC / RAW",VOX UP RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/160903.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabel-eins.png" group-title="DE | HEVC / RAW",KABEL EINS RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/126472.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabeleinsdoku.png" group-title="DE | HEVC / RAW",KABEL EINS DOKU RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/129768.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/nitro.png" group-title="DE | HEVC / RAW",NITRO RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/126475.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/SIXX.HD.png" group-title="DE | HEVC / RAW",SIXX RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/126458.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/ORF_1_2019-min.png" group-title="DE | HEVC / RAW",ORF 1 RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/126453.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/ORF-2-2019-min.png" group-title="DE | HEVC / RAW",ORF 2 RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/126493.m3u8
-#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/N-TV_Germany_HD_Logo_2017.png" group-title="DE | HEVC / RAW",N-TV RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/126486.m3u8
-#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/welt.png" group-title="DE | HEVC / RAW",WELT RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/160908.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/HOLLANDA/TLC.png" group-title="DE | HEVC / RAW",TLC RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/160910.m3u8
-#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Download.png" group-title="DE | HEVC / RAW",TELE 5 RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/160911.m3u8
-#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Nat_Geo_HD.png" group-title="DE | HEVC / RAW",NATIONAL GEOGRAPHIC RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/129764.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/national_geo_wild.png" group-title="DE | HEVC / RAW",NAT GEO WILD RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/129765.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/dmaxx.png" group-title="DE | HEVC / RAW",DMAX RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/129769.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/discovery_channel.png" group-title="DE | HEVC / RAW",DISCOVERY RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/129766.m3u8
-#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/HistoryHD_Logo_2015_4C_Black_type.png" group-title="DE | HEVC / RAW",HISTORY RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/129767.m3u8
-#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Comedy_Central_HD_Logo_2018.svg.png" group-title="DE | HEVC / RAW",COMEDY CENTRAL RAW
-http://power4kiptv.info:8080/live/ernstalex/17012022/160914.m3u8
 
 # --- DE | KINDER 24/7 (102) ---
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/ger-kinder.png" group-title="DE | KINDER 24/7",★☆★ KINDER ★☆★
@@ -2621,7 +2563,69 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/553605.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PmbFZ0L/image.png" group-title="DE | RADIO",FM: 181. FM CLASSICAL
 http://power4kiptv.info:8080/live/ernstalex/17012022/553604.m3u8
 
-# --- DE | REGIONAL (57) ---
+# --- DE | RAW (30) ---
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/de.png" group-title="DE | RAW",★☆★ RAW ★☆★
+http://power4kiptv.info:8080/live/ernstalex/17012022/867771.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE | RAW",ARD RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/126473.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="DE | RAW",ZDF RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/126485.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/zdf-neo.png" group-title="DE | RAW",ZDF NEO RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/126487.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="DE | RAW",RTL RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/129198.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL.ZWEI.png" group-title="DE | RAW",RTL ZWEI RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/126477.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat-1-eno.png" group-title="DE | RAW",SAT 1 RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/126457.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat.1.Gold-eno.png" group-title="DE | RAW",SAT 1 GOLD RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/126456.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/prosiebensat1-uhd-de.png" group-title="DE | RAW",PROSIEBEN SAT 1 UHD RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/182904.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ProSieben.png" group-title="DE | RAW",PROSIEBEN RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/126455.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/prosiebenmaxx.png" group-title="DE | RAW",PROSIEBEN MAXX RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/126454.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/prosieben-fun.png" group-title="DE | RAW",PROSIEBEN FUN RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/160902.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/VOX.png" group-title="DE | RAW",VOX RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/126484.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/VOXup-eno.png" group-title="DE | RAW",VOX UP RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/160903.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabel-eins.png" group-title="DE | RAW",KABEL EINS RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/126472.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabeleinsdoku.png" group-title="DE | RAW",KABEL EINS DOKU RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/129768.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/nitro.png" group-title="DE | RAW",NITRO RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/126475.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/SIXX.HD.png" group-title="DE | RAW",SIXX RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/126458.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/orf3-at.png" group-title="DE | RAW",ORF 1 RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/126453.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/orf2-at.png" group-title="DE | RAW",ORF 2 RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/126493.m3u8
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/N-TV_Germany_HD_Logo_2017.png" group-title="DE | RAW",N-TV RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/126486.m3u8
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/welt.png" group-title="DE | RAW",WELT RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/160908.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/HOLLANDA/TLC.png" group-title="DE | RAW",TLC RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/160910.m3u8
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Download.png" group-title="DE | RAW",TELE 5 RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/160911.m3u8
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Nat_Geo_HD.png" group-title="DE | RAW",NATIONAL GEOGRAPHIC RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/129764.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/national_geo_wild.png" group-title="DE | RAW",NAT GEO WILD RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/129765.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/dmaxx.png" group-title="DE | RAW",DMAX RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/129769.m3u8
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/discovery_channel.png" group-title="DE | RAW",DISCOVERY RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/129766.m3u8
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/HistoryHD_Logo_2015_4C_Black_type.png" group-title="DE | RAW",HISTORY RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/129767.m3u8
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Comedy_Central_HD_Logo_2018.svg.png" group-title="DE | RAW",COMEDY CENTRAL RAW
+http://power4kiptv.info:8080/live/ernstalex/17012022/160914.m3u8
+
+# --- DE | REGIONAL (56) ---
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/de.png" group-title="DE | REGIONAL",★☆★ REGIONAL ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/279317.m3u8
 #EXTINF:-1 tvg-logo="https://tvfueralle.de/channel-logos/alpha.png" group-title="DE | REGIONAL",ARD ALPHA HD
@@ -2666,12 +2670,10 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/95604.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/95603.m3u8
 #EXTINF:-1 tvg-logo="https://excpicon.cfd/de/ndrfssh.png" group-title="DE | REGIONAL",NDR MV
 http://power4kiptv.info:8080/live/ernstalex/17012022/625939.m3u8
-#EXTINF:-1 tvg-logo="https://excpicon.cfd/de/ndrfssh.png" group-title="DE | REGIONAL",NDR FERNSEHEN NIEDERSACHSEN
-http://power4kiptv.info:8080/live/ernstalex/17012022/278067.m3u8
-#EXTINF:-1 tvg-logo="https://excpicon.cfd/de/ndrfssh.png" group-title="DE | REGIONAL",NDR FERNSEHEN HAMBURG
+#EXTINF:-1 tvg-logo="https://excpicon.cfd/de/ndrfssh.png" group-title="DE | REGIONAL",NDR FERNSEHEN FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/278070.m3u8
-#EXTINF:-1 tvg-logo="https://excpicon.cfd/de/ndrfssh.png" group-title="DE | REGIONAL",NDR FERNSEHEN SCHLESWIG-HOLSTEIN
-http://power4kiptv.info:8080/live/ernstalex/17012022/278071.m3u8
+#EXTINF:-1 tvg-logo="https://excpicon.cfd/de/ndrfssh.png" group-title="DE | REGIONAL",NDR FERNSEHEN HD
+http://power4kiptv.info:8080/live/ernstalex/17012022/278067.m3u8
 #EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/mdr.png" group-title="DE | REGIONAL",MDR HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/95601.m3u8
 #EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/mdr.png" group-title="DE | REGIONAL",MDR
@@ -3762,7 +3764,7 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/676973.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/676974.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/FC_Bayern.tv.png" group-title="DE | SPORT",FC BAYERN TV
 http://power4kiptv.info:8080/live/ernstalex/17012022/684168.m3u8
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/de-news/clubmyhorse.png" group-title="DE | SPORT",CLIP MY HORSE TV
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/clip-my-horse-tv-de.png" group-title="DE | SPORT",CLIP MY HORSE TV
 http://power4kiptv.info:8080/live/ernstalex/17012022/598764.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/servustv-motorsport.png" group-title="DE | SPORT",SERVUS TV MOTORSPORT FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/659930.m3u8

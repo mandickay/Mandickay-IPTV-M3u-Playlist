@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2026-01-13 18:30:31
+# Generated: 2026-01-14 07:15:28
 # Expires: 2026-12-23
 # Family Safe Edition
 # ==============================================
@@ -7931,127 +7931,67 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861545.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/sExul.png" group-title="DE ✨ HALLOWEN 24/7",24/7 HALLOWEN KINO 10
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861538.m3u8
 
-# --- DE ✨ HEVC ⁕ RAW (60) ---
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE ✨ HEVC ⁕ RAW",ARD HEVC
+# --- DE ✨ HEVC (30) ---
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE ✨ HEVC",ARD HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/634.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="DE ✨ HEVC ⁕ RAW",ZDF HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="DE ✨ HEVC",ZDF HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/636.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="DE ✨ HEVC ⁕ RAW",RTL HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="DE ✨ HEVC",RTL HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/641.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL.ZWEI.png" group-title="DE ✨ HEVC ⁕ RAW",RTL ZWEI HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL.ZWEI.png" group-title="DE ✨ HEVC",RTL ZWEI HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/643.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabel-eins.png" group-title="DE ✨ HEVC ⁕ RAW",KABEL EINS HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabel-eins.png" group-title="DE ✨ HEVC",KABEL EINS HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/661.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat-1-eno.png" group-title="DE ✨ HEVC ⁕ RAW",SAT 1 HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat-1-eno.png" group-title="DE ✨ HEVC",SAT 1 HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/645.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/VOX.png" group-title="DE ✨ HEVC ⁕ RAW",VOX HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/VOX.png" group-title="DE ✨ HEVC",VOX HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/657.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ProSieben.png" group-title="DE ✨ HEVC ⁕ RAW",PROSIEBEN HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ProSieben.png" group-title="DE ✨ HEVC",PROSIEBEN HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/651.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/prosiebenmaxx.png" group-title="DE ✨ HEVC ⁕ RAW",PROSIEBEN MAXX HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/prosiebenmaxx.png" group-title="DE ✨ HEVC",PROSIEBEN MAXX HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/653.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/prosieben-fun.png" group-title="DE ✨ HEVC ⁕ RAW",PROSIEBEN FUN HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/prosieben-fun.png" group-title="DE ✨ HEVC",PROSIEBEN FUN HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/655.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat.1.Gold-eno.png" group-title="DE ✨ HEVC ⁕ RAW",SAT.1 GOLD HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat.1.Gold-eno.png" group-title="DE ✨ HEVC",SAT.1 GOLD HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/647.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/VOXup-eno.png" group-title="DE ✨ HEVC ⁕ RAW",VOXUP HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/VOXup-eno.png" group-title="DE ✨ HEVC",VOXUP HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/659.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/zdf-neo.png" group-title="DE ✨ HEVC ⁕ RAW",ZDF NEO HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/zdf-neo.png" group-title="DE ✨ HEVC",ZDF NEO HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/638.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabeleinsdoku.png" group-title="DE ✨ HEVC ⁕ RAW",KABEL EINS DOKU HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabeleinsdoku.png" group-title="DE ✨ HEVC",KABEL EINS DOKU HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/663.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtlnitro.png" group-title="DE ✨ HEVC ⁕ RAW",NITRO HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtlnitro.png" group-title="DE ✨ HEVC",NITRO HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/667.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/SIXX.HD.png" group-title="DE ✨ HEVC ⁕ RAW",SIXX HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/SIXX.HD.png" group-title="DE ✨ HEVC",SIXX HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/669.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/ntv-de.png" group-title="DE ✨ HEVC ⁕ RAW",N-TV HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/ntv-de.png" group-title="DE ✨ HEVC",N-TV HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/679.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/welthd.png" group-title="DE ✨ HEVC ⁕ RAW",WELT HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/welthd.png" group-title="DE ✨ HEVC",WELT HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/681.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/TLC.png" group-title="DE ✨ HEVC ⁕ RAW",TLC HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/TLC.png" group-title="DE ✨ HEVC",TLC HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/687.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/Tele-5.png" group-title="DE ✨ HEVC ⁕ RAW",TELE 5 HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/Tele-5.png" group-title="DE ✨ HEVC",TELE 5 HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/689.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/NATGEO.png" group-title="DE ✨ HEVC ⁕ RAW",NATIONAL GEOGRAPHIC HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/NATGEO.png" group-title="DE ✨ HEVC",NATIONAL GEOGRAPHIC HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/691.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/national_geo_wild.png" group-title="DE ✨ HEVC ⁕ RAW",NAT GEO WILD HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/national_geo_wild.png" group-title="DE ✨ HEVC",NAT GEO WILD HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/693.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/dmax.png" group-title="DE ✨ HEVC ⁕ RAW",DMAX HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/dmax.png" group-title="DE ✨ HEVC",DMAX HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/695.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/discovery-channel-de.png" group-title="DE ✨ HEVC ⁕ RAW",DISCOVERY HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/discovery-channel-de.png" group-title="DE ✨ HEVC",DISCOVERY HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/697.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/historychannel.png" group-title="DE ✨ HEVC ⁕ RAW",HISTORY HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/historychannel.png" group-title="DE ✨ HEVC",HISTORY HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/699.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/crime-and-investigation-de.png" group-title="DE ✨ HEVC ⁕ RAW",CRIME+ INVESTIGATION HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/crime-and-investigation-de.png" group-title="DE ✨ HEVC",CRIME+ INVESTIGATION HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/701.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/spiegel-geschichte-de.png" group-title="DE ✨ HEVC ⁕ RAW",SPIEGEL GESCHICHTE HEVC
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/703.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/geohd.png" group-title="DE ✨ HEVC ⁕ RAW",GEO TV HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/geohd.png" group-title="DE ✨ HEVC",GEO TV HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/705.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/hgtv.png" group-title="DE ✨ HEVC ⁕ RAW",HGTV HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/hgtv.png" group-title="DE ✨ HEVC",HGTV HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/707.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/comedycentral.png" group-title="DE ✨ HEVC ⁕ RAW",COMEDY CENTRAL HEVC
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/comedycentral.png" group-title="DE ✨ HEVC",COMEDY CENTRAL HEVC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/711.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="DE ✨ HEVC ⁕ RAW",RTL UHD
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="DE ✨ HEVC",RTL UHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/639.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE ✨ HEVC ⁕ RAW",ARD RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/633.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="DE ✨ HEVC ⁕ RAW",ZDF RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/635.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="DE ✨ HEVC ⁕ RAW",RTL RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/640.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL.ZWEI.png" group-title="DE ✨ HEVC ⁕ RAW",RTL ZWEI RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/642.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabel-eins.png" group-title="DE ✨ HEVC ⁕ RAW",KABEL EINS RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/660.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat-1-eno.png" group-title="DE ✨ HEVC ⁕ RAW",SAT.1 RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/644.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/VOX.png" group-title="DE ✨ HEVC ⁕ RAW",VOX RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/656.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ProSieben.png" group-title="DE ✨ HEVC ⁕ RAW",PROSIEBEN RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/650.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/prosiebenmaxx.png" group-title="DE ✨ HEVC ⁕ RAW",PROSIEBEN MAXX RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/652.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/prosieben-fun.png" group-title="DE ✨ HEVC ⁕ RAW",PROSIEBEN FUN RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/654.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat.1.Gold-eno.png" group-title="DE ✨ HEVC ⁕ RAW",SAT.1 GOLD RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/646.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/VOXup-eno.png" group-title="DE ✨ HEVC ⁕ RAW",VOXUP RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/658.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/zdf-neo.png" group-title="DE ✨ HEVC ⁕ RAW",ZDF NEO RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/637.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabeleinsdoku.png" group-title="DE ✨ HEVC ⁕ RAW",KABEL EINS DOKU RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/662.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtlnitro.png" group-title="DE ✨ HEVC ⁕ RAW",NITRO RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/666.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/SIXX.HD.png" group-title="DE ✨ HEVC ⁕ RAW",SIXX RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/668.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/ntv-de.png" group-title="DE ✨ HEVC ⁕ RAW",N-TV RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/678.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/welthd.png" group-title="DE ✨ HEVC ⁕ RAW",WELT RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/680.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/TLC.png" group-title="DE ✨ HEVC ⁕ RAW",TLC RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/686.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/Tele-5.png" group-title="DE ✨ HEVC ⁕ RAW",TELE 5 RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/688.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/NATGEO.png" group-title="DE ✨ HEVC ⁕ RAW",NATIONAL GEOGRAPHIC RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/690.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/national_geo_wild.png" group-title="DE ✨ HEVC ⁕ RAW",NAT GEO WILD RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/692.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/dmax.png" group-title="DE ✨ HEVC ⁕ RAW",DMAX RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/694.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/discovery-channel-de.png" group-title="DE ✨ HEVC ⁕ RAW",DISCOVERY RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/696.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/historychannel.png" group-title="DE ✨ HEVC ⁕ RAW",HISTORY RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/698.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/crime-and-investigation-de.png" group-title="DE ✨ HEVC ⁕ RAW",CRIME+ INVESTIGATION RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/700.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/geohd.png" group-title="DE ✨ HEVC ⁕ RAW",GEO TV RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/704.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/hgtv.png" group-title="DE ✨ HEVC ⁕ RAW",HGTV RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/706.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/comedycentral.png" group-title="DE ✨ HEVC ⁕ RAW",COMEDY CENTRAL RAW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/710.m3u8
 
 # --- DE ✨ KINDER ⁕ 24/7 (131) ---
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Toggo-Logo.png" group-title="DE ✨ KINDER ⁕ 24/7",TOGGO FHD
@@ -8701,38 +8641,38 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/857.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/RT..png" group-title="DE ✨ NACHRICHTEN",RT DEUTSCH NEWS HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/858.m3u8
 
-# --- DE ✨ QHD-2K (16) ---
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE ✨ QHD-2K",ARD 4K
+# --- DE ✨ QHD - UHD (16) ---
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE ✨ QHD - UHD",ARD 4K
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/552083.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="DE ✨ QHD-2K",ZDF 4K
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="DE ✨ QHD - UHD",ZDF 4K
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/552082.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="DE ✨ QHD-2K",RTL 4K
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="DE ✨ QHD - UHD",RTL 4K
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/552081.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL.ZWEI.png" group-title="DE ✨ QHD-2K",RTL ZWEI 4K
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL.ZWEI.png" group-title="DE ✨ QHD - UHD",RTL ZWEI 4K
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/552080.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat-1-eno.png" group-title="DE ✨ QHD-2K",SAT 1 4K
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat-1-eno.png" group-title="DE ✨ QHD - UHD",SAT 1 4K
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/552079.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ProSieben.png" group-title="DE ✨ QHD-2K",PROSIEBEN 4K
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ProSieben.png" group-title="DE ✨ QHD - UHD",PROSIEBEN 4K
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/552078.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/VOX_1.png" group-title="DE ✨ QHD-2K",VOX 4K
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/VOX_1.png" group-title="DE ✨ QHD - UHD",VOX 4K
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/552075.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabel-eins.png" group-title="DE ✨ QHD-2K",KABEL EINS 4K
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabel-eins.png" group-title="DE ✨ QHD - UHD",KABEL EINS 4K
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/552074.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE ✨ QHD-2K",ARD 2K
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE ✨ QHD - UHD",ARD 2K
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/846014.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="DE ✨ QHD-2K",ZDF 2K
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="DE ✨ QHD - UHD",ZDF 2K
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/846013.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="DE ✨ QHD-2K",RTL 2K
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="DE ✨ QHD - UHD",RTL 2K
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/846012.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL.ZWEI.png" group-title="DE ✨ QHD-2K",RTL ZWEI 2K
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL.ZWEI.png" group-title="DE ✨ QHD - UHD",RTL ZWEI 2K
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/846011.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat-1-eno.png" group-title="DE ✨ QHD-2K",SAT 1 2K
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat-1-eno.png" group-title="DE ✨ QHD - UHD",SAT 1 2K
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/846010.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ProSieben.png" group-title="DE ✨ QHD-2K",PROSIEBEN 2K
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ProSieben.png" group-title="DE ✨ QHD - UHD",PROSIEBEN 2K
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/846009.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabel-eins.png" group-title="DE ✨ QHD-2K",KABEL EINS 2K
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabel-eins.png" group-title="DE ✨ QHD - UHD",KABEL EINS 2K
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/846007.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/VOX_1.png" group-title="DE ✨ QHD-2K",VOX 2K
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/VOX_1.png" group-title="DE ✨ QHD - UHD",VOX 2K
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/846008.m3u8
 
 # --- DE ✨ RADIO (75) ---
@@ -8887,7 +8827,67 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/553422.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PmbFZ0L/image.png" group-title="DE ✨ RADIO",FM: 181. FM CLASSICAL
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/553421.m3u8
 
-# --- DE ✨ REGIONAL (56) ---
+# --- DE ✨ RAW (29) ---
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE ✨ RAW",ARD RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/633.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Zdff.png" group-title="DE ✨ RAW",ZDF RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/635.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/rtl_eno.png" group-title="DE ✨ RAW",RTL RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/640.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/RTL.ZWEI.png" group-title="DE ✨ RAW",RTL ZWEI RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/642.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabel-eins.png" group-title="DE ✨ RAW",KABEL EINS RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/660.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat-1-eno.png" group-title="DE ✨ RAW",SAT.1 RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/644.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/VOX.png" group-title="DE ✨ RAW",VOX RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/656.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ProSieben.png" group-title="DE ✨ RAW",PROSIEBEN RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/650.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/prosiebenmaxx.png" group-title="DE ✨ RAW",PROSIEBEN MAXX RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/652.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/prosieben-fun.png" group-title="DE ✨ RAW",PROSIEBEN FUN RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/654.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/austria/sat.1.Gold-eno.png" group-title="DE ✨ RAW",SAT.1 GOLD RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/646.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/VOXup-eno.png" group-title="DE ✨ RAW",VOXUP RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/658.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/zdf-neo.png" group-title="DE ✨ RAW",ZDF NEO RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/637.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/kabeleinsdoku.png" group-title="DE ✨ RAW",KABEL EINS DOKU RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/662.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/rtlnitro.png" group-title="DE ✨ RAW",NITRO RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/666.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/SIXX.HD.png" group-title="DE ✨ RAW",SIXX RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/668.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/ntv-de.png" group-title="DE ✨ RAW",N-TV RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/678.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/welthd.png" group-title="DE ✨ RAW",WELT RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/680.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/TLC.png" group-title="DE ✨ RAW",TLC RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/686.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/Tele-5.png" group-title="DE ✨ RAW",TELE 5 RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/688.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/NATGEO.png" group-title="DE ✨ RAW",NATIONAL GEOGRAPHIC RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/690.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/national_geo_wild.png" group-title="DE ✨ RAW",NAT GEO WILD RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/692.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/dmax.png" group-title="DE ✨ RAW",DMAX RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/694.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/discovery-channel-de.png" group-title="DE ✨ RAW",DISCOVERY RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/696.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/historychannel.png" group-title="DE ✨ RAW",HISTORY RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/698.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/crime-and-investigation-de.png" group-title="DE ✨ RAW",CRIME+ INVESTIGATION RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/700.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/geohd.png" group-title="DE ✨ RAW",GEO TV RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/704.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/hgtv.png" group-title="DE ✨ RAW",HGTV RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/706.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/comedycentral.png" group-title="DE ✨ RAW",COMEDY CENTRAL RAW
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/710.m3u8
+
+# --- DE ✨ REGIONAL (54) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRh38wt.png" group-title="DE ✨ REGIONAL",WDR KOLN HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/798.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRh38wt.png" group-title="DE ✨ REGIONAL",WDR FERNSEHEN BIELEFELD
@@ -8934,10 +8934,6 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/818.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/819.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6wEnGD9.png" group-title="DE ✨ REGIONAL",NDR FERNSEHEN HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/820.m3u8
-#EXTINF:-1 tvg-logo="https://excpicon.cfd/de/ndrfssh.png" group-title="DE ✨ REGIONAL",NDR FERNSEHEN HAMBURG
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/816530.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/ndr.png" group-title="DE ✨ REGIONAL",NDR FERNSEHEN - MECKLENBURG VORPOMMERN
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/858652.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I3ln2U3.png" group-title="DE ✨ REGIONAL",BR FERNSEHEN FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/821.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I3ln2U3.png" group-title="DE ✨ REGIONAL",BR FERNSEHEN HD
@@ -10272,25 +10268,25 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861224.m3u8
 # --- DE ✨ Z1 KINO 2025 (11) ---
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",―――⁆ LOUNGE ⁅―――
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/592777.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",1- Zikaden (2025)
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",1- Greenland 2 (2026)
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/592778.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",2- One Battle After Another (2025)
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",2- Final Fight - Die letzte Chance (2025)
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/592779.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",3- Ballad of a Small Player (2025)
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",3- Zoomania 2 (2025)
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/592780.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",4- Stolen Girl (2025)
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",4- Off the Grid (2025)
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/592781.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",5- Tron: Ares (2025)
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",5- Ghost Divers (2025)
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/592782.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",6- Babo - Die Haftbefehl Story (2025)
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",6- Tortured - Dein letztes Date! (2025)
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/592783.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",7- The Long Walk - Todesmarsch (2025)
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",7- Pretty Thing (2025)
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/592784.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",8- Black Phone 2 (2025)
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",8- Fog of War - Spion im Nebel (2025)
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/781150.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",9- A House of Dynamite (2025)
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",9- Morgan: Killer Doll (2025)
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/781151.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",10- Cash Out 2 (2025)
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",10- 22 Bahnen (2025)
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/781154.m3u8
 
 # --- DE ✨Z1 KINDER  7/24 (10) ---
@@ -26391,4 +26387,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 12937
+# Total: 12934

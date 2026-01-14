@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: com.trt1000.com:80
-# Generated: 2026-01-13 18:32:04
+# Generated: 2026-01-14 07:11:21
 # Expires: 2027-01-09
 # Family Safe Edition
 # ==============================================
@@ -23333,7 +23333,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/38008.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtlDK3r8G282Vi0cGMxLVJJkhke.jpg" group-title="Movies | YABANCI TURKCE DUBLAJ",Asla Pes Etme 3: Never Back Down (2013)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/59554.mkv
 
-# --- Series | TURK DIZILERI SERIES (94) ---
+# --- Series | TURK DIZILERI SERIES (95) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Güzel Köylü
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/67
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Kudus Fatihi: Selahaddin Eyyubi
@@ -23522,5 +23522,7 @@ http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1313
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1314
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Rüya Gibi
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1328
+#EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",A.B.I.
+http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1344
 
-# Total: 11728
+# Total: 11729

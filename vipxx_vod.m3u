@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: vipxx.p-0101.pw:80
-# Generated: 2026-01-13 18:34:31
+# Generated: 2026-01-14 07:16:44
 # Expires: 2026-08-12
 # Family Safe Edition
 # ==============================================
@@ -4221,7 +4221,7 @@ http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/359215.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | +18 Turk İfsa",turk-ifsa-1 (101)
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/359216.mp4
 
-# --- Movies | DE|FİLM • Germany Movies (741) ---
+# --- Movies | DE|FİLM • Germany Movies (743) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p0UNteYkL5uVWtNKmXnTm1Xj7af.jpg" group-title="Movies | DE|FİLM • Germany Movies",Kötü Adamın 10 Günü (2023)
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/310300.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dfS5qHWFuXyZQnwYREwb7N4qU5p.jpg" group-title="Movies | DE|FİLM • Germany Movies",57 Saniye (2023)
@@ -5704,6 +5704,10 @@ http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/372634.mp4
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/372635.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/keeGrBHoziNjAyEP8BWFlLSWLKw.jpg" group-title="Movies | DE|FİLM • Germany Movies",[DE] Primate (2026)
 http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/372636.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4lH9ETPquCrYLrUeWc5rjWzWjtx.jpg" group-title="Movies | DE|FİLM • Germany Movies",[DE] Greenland 2 (2026)
+http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/373074.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/TJ4XqmIJ0I2LONPTLJBkuNwEgN.jpg" group-title="Movies | DE|FİLM • Germany Movies",[DE] Tortured - Dein letztes Date! (2025)
+http://vipxx.p-0101.pw:80/movie/vpplus1129/6BQhtYhdLF/373075.mp4
 
 # --- Movies | FR|FİLM • France Cinema (588) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5dCIBGXnIuPdP1gmlElEDMTcIGT.jpg" group-title="Movies | FR|FİLM • France Cinema",[2021 FR] 7 Prisonniers (2021)
@@ -32467,9 +32471,11 @@ http://vipxx.p-0101.pw:80/series/vpplus1129/6BQhtYhdLF/4555
 #EXTINF:-1 tvg-logo="" group-title="Series | DE|SERIES • Germany",[2026 DE] Frühlingsgefühle
 http://vipxx.p-0101.pw:80/series/vpplus1129/6BQhtYhdLF/4556
 
-# --- Series | DE|SERIES • HBO (1) ---
+# --- Series | DE|SERIES • HBO (2) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | DE|SERIES • HBO",[2025 DE] Task
 http://vipxx.p-0101.pw:80/series/vpplus1129/6BQhtYhdLF/4301
+#EXTINF:-1 tvg-logo="" group-title="Series | DE|SERIES • HBO",[2011 DE] Game of Thrones
+http://vipxx.p-0101.pw:80/series/vpplus1129/6BQhtYhdLF/4564
 
 # --- Series | DE|SERIES • Netflix (39) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | DE|SERIES • Netflix",[2025 DE] Love is Blind: France
@@ -32603,4 +32609,4 @@ http://vipxx.p-0101.pw:80/series/vpplus1129/6BQhtYhdLF/4490
 #EXTINF:-1 tvg-logo="" group-title="Series | DE|SERIES • Sky.de",[2025 DE] Amadeus
 http://vipxx.p-0101.pw:80/series/vpplus1129/6BQhtYhdLF/4538
 
-# Total: 16194
+# Total: 16197

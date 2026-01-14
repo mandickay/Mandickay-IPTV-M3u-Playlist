@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2026-01-13 18:40:51
+# Generated: 2026-01-14 07:21:25
 # Expires: 2026-01-18
 # Family Safe Edition
 # ==============================================
@@ -499,10 +499,6 @@ http://brone.fyi/live/felipe_irma/Teste44/297798.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BAND",BAND TVBV SC FHD
 http://brone.fyi/live/felipe_irma/Teste44/320516.m3u8
 
-# --- BBB 2026 (1) ---
-#EXTINF:-1 tvg-logo="https://marcasmais.com.br/wp-content/uploads/2023/01/bbb_23-1024x576.png" group-title="BBB 2026",BBB MOSAICO
-http://brone.fyi/live/felipe_irma/Teste44/332708.m3u8
-
 # --- CANADA (135) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/internacionais/canada.png" group-title="CANADA",CA: A&E HD
 http://brone.fyi/live/felipe_irma/Teste44/277401.m3u8
@@ -809,7 +805,7 @@ http://brone.fyi/live/felipe_irma/Teste44/298512.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FAST",DREAMWORKS FAST
 http://brone.fyi/live/felipe_irma/Teste44/324901.m3u8
 
-# --- CAZE | PRIME VIDEO (25) ---
+# --- CAZE | PRIME VIDEO (20) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/cazetvhd.png" group-title="CAZE | PRIME VIDEO",CAZE TV (ALT 1)
 http://brone.fyi/live/felipe_irma/Teste44/248499.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/cazetvhd.png" group-title="CAZE | PRIME VIDEO",CAZE TV (ALT 2)
@@ -850,16 +846,6 @@ http://brone.fyi/live/felipe_irma/Teste44/306720.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/306876.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/primevideohd.png" group-title="CAZE | PRIME VIDEO",PRIME VIDEO 9
 http://brone.fyi/live/felipe_irma/Teste44/306877.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="CAZE | PRIME VIDEO",COPINHA 01
-http://brone.fyi/live/felipe_irma/Teste44/332210.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="CAZE | PRIME VIDEO",COPINHA 02
-http://brone.fyi/live/felipe_irma/Teste44/332211.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="CAZE | PRIME VIDEO",COPINHA 03
-http://brone.fyi/live/felipe_irma/Teste44/332212.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="CAZE | PRIME VIDEO",COPINHA 04
-http://brone.fyi/live/felipe_irma/Teste44/332213.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="CAZE | PRIME VIDEO",COPINHA 05
-http://brone.fyi/live/felipe_irma/Teste44/332214.m3u8
 
 # --- CINE PPV (17) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/filmeseseries/cineskyhd.png" group-title="CINE PPV",CINE SKY
@@ -930,6 +916,32 @@ http://brone.fyi/live/felipe_irma/Teste44/290021.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/308222.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/netflix.png" group-title="COMBATE | +FIGHT",NETFLIX (ALT 2)
 http://brone.fyi/live/felipe_irma/Teste44/320455.m3u8
+
+# --- COPINHA 2026 (12) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="COPINHA 2026",COPINHA 01
+http://brone.fyi/live/felipe_irma/Teste44/332210.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="COPINHA 2026",COPINHA 02
+http://brone.fyi/live/felipe_irma/Teste44/332211.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="COPINHA 2026",COPINHA 03
+http://brone.fyi/live/felipe_irma/Teste44/332212.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="COPINHA 2026",COPINHA 04
+http://brone.fyi/live/felipe_irma/Teste44/332213.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="COPINHA 2026",COPINHA 05
+http://brone.fyi/live/felipe_irma/Teste44/332214.m3u8
+#EXTINF:-1 tvg-logo="https://jogohoje.com/wp-content/uploads/sites/22/2024/01/jogohoje-footer.png" group-title="COPINHA 2026",JOGOS DO DIA
+http://brone.fyi/live/felipe_irma/Teste44/332778.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/esportes/bandsportsfhd.png" group-title="COPINHA 2026",BAND SPORTS FHD ALT ²
+http://brone.fyi/live/felipe_irma/Teste44/332779.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/esportes/sportv2fhd.png" group-title="COPINHA 2026",SPORTV 2 FHD ALT ²
+http://brone.fyi/live/felipe_irma/Teste44/332780.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/espn/4fhd.png" group-title="COPINHA 2026",ESPN 4 FHD ALT  ²
+http://brone.fyi/live/felipe_irma/Teste44/332781.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/premiere/4fhd.png" group-title="COPINHA 2026",PREMIERE 4 FHD ALT ²
+http://brone.fyi/live/felipe_irma/Teste44/332782.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Xsports_logo.png" group-title="COPINHA 2026",XSPORTS FHD ALT ²
+http://brone.fyi/live/felipe_irma/Teste44/332783.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/esportes/sportvfhd.png" group-title="COPINHA 2026",SPORTV FHD ALT ²
+http://brone.fyi/live/felipe_irma/Teste44/332784.m3u8
 
 # --- DESENHOS 24H (213) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H",[24H] 101 DALMATAS
@@ -1358,6 +1370,60 @@ http://brone.fyi/live/felipe_irma/Teste44/252622.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/296769.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H",[24H] ZE BUSCAPE
 http://brone.fyi/live/felipe_irma/Teste44/252568.m3u8
+
+# --- DESENHOS 24H (POR TEMP.) (26) ---
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] SUPERMAN (1996) T03
+http://brone.fyi/live/felipe_irma/Teste44/307863.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] SUPERMAN (1996) T02
+http://brone.fyi/live/felipe_irma/Teste44/307862.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] SUPERMAN (1996) T01
+http://brone.fyi/live/felipe_irma/Teste44/307861.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] CLARENCIO OTIMISTA T02
+http://brone.fyi/live/felipe_irma/Teste44/307644.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] CLARENCIO OTIMISTA T01
+http://brone.fyi/live/felipe_irma/Teste44/307643.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] BATMAN (1999) DO FUTURO T03
+http://brone.fyi/live/felipe_irma/Teste44/307641.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] BATMAN (1999) DO FUTURO T02
+http://brone.fyi/live/felipe_irma/Teste44/307640.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] BATMAN (1999) DO FUTURO T01
+http://brone.fyi/live/felipe_irma/Teste44/307639.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] AS TARTARUGAS NINJA (2012) T05
+http://brone.fyi/live/felipe_irma/Teste44/307638.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] AS TARTARUGAS NINJA (2012) T02
+http://brone.fyi/live/felipe_irma/Teste44/307635.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] AS TARTARUGAS NINJA (2012) T01
+http://brone.fyi/live/felipe_irma/Teste44/307634.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] BIBO PAI E BOBI FILHO T03
+http://brone.fyi/live/felipe_irma/Teste44/307631.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] BIBO PAI E BOBI FILHO T02
+http://brone.fyi/live/felipe_irma/Teste44/307630.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] AS TERRIVEIS AVENTURAS DE BILLY E MANDY T06
+http://brone.fyi/live/felipe_irma/Teste44/296636.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] AS TERRIVEIS AVENTURAS DE BILLY E MANDY T05
+http://brone.fyi/live/felipe_irma/Teste44/296635.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] AS TERRIVEIS AVENTURAS DE BILLY E MANDY T04
+http://brone.fyi/live/felipe_irma/Teste44/296634.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] AS TERRIVEIS AVENTURAS DE BILLY E MANDY T03
+http://brone.fyi/live/felipe_irma/Teste44/296633.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] AS TERRIVEIS AVENTURAS DE BILLY E MANDY T02
+http://brone.fyi/live/felipe_irma/Teste44/296632.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] AS MENINAS SUPERPODEROSAS T06
+http://brone.fyi/live/felipe_irma/Teste44/296612.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] AS MENINAS SUPERPODEROSAS T05
+http://brone.fyi/live/felipe_irma/Teste44/296611.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] AS MENINAS SUPERPODEROSAS T04
+http://brone.fyi/live/felipe_irma/Teste44/296610.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] AS MENINAS SUPERPODEROSAS T03
+http://brone.fyi/live/felipe_irma/Teste44/296609.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] AS MENINAS SUPERPODEROSAS T02
+http://brone.fyi/live/felipe_irma/Teste44/296608.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] AS MENINAS SUPERPODEROSAS T01
+http://brone.fyi/live/felipe_irma/Teste44/296607.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] AS AVENTURAS DE JACKIE CHAN T05
+http://brone.fyi/live/felipe_irma/Teste44/296606.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H (POR TEMP.)",[24H] AS TERRIVEIS AVENTURAS DE BILLY E MANDY T01
+http://brone.fyi/live/felipe_irma/Teste44/296631.m3u8
 
 # --- DISCOVERY (49) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/discovery/channelh265.png" group-title="DISCOVERY",DISCOVERY CHANNEL H265
@@ -7845,4 +7911,4 @@ http://brone.fyi/live/felipe_irma/Teste44/327934.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="VARIEDADES 24H",[24H] YOGA
 http://brone.fyi/live/felipe_irma/Teste44/328699.m3u8
 
-# Total: 3870
+# Total: 3902

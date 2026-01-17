@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-01-16 18:32:26
+# Generated: 2026-01-17 07:08:46
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -1401,7 +1401,7 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/236090.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47Cd0MIpIG6qoz9FdHl3NBdU8Oh.jpg" group-title="Movies | → VOD ANIME ←",Bleach: Hell Verse (2010)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/236092.mp4
 
-# --- Movies | → VOD AVENTURAS ← (603) ---
+# --- Movies | → VOD AVENTURAS ← (602) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0pJ0SZ9xAEpqo0tx7WOQ9xv8Ns.jpg" group-title="Movies | → VOD AVENTURAS ←",Robin Hood, príncipe de los ladrones
 http://fastream.xyz:8080/movie/940246862tv/12ws79/278676.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovspKcx8UmWaurGYo0SaeUH999Q.jpg" group-title="Movies | → VOD AVENTURAS ←",El Alucinante viaje de Bill y Ted
@@ -2344,8 +2344,6 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/4366.mp4
 http://fastream.xyz:8080/movie/940246862tv/12ws79/4367.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5l3SyHcxizajXKUEswDYcbLckRu.jpg" group-title="Movies | → VOD AVENTURAS ←",Guerra de Dragones (2007)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/4368.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50Ug4tJ66gJ9ZgivMGzZnGkdw1p.jpg" group-title="Movies | → VOD AVENTURAS ←",El hombre de la máscara de hierro (1998)
-http://fastream.xyz:8080/movie/940246862tv/12ws79/4369.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gkL95QZzXVkQeDD5BC3wsjq1RV.jpg" group-title="Movies | → VOD AVENTURAS ←",Amundsen: La Gran Expedición (2019)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/4371.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEuIC6M7PnBewZo91DrRr3RIXYx.jpg" group-title="Movies | → VOD AVENTURAS ←",Junto a los dioses: Los dos mundos (2017)
@@ -5341,7 +5339,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/3359.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SgSuCHLsdAhtJtYpzNjYO7dfLl.jpg" group-title="Movies | → VOD CLÁSICAS ←",Un plan brillante (2007)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/3360.mp4
 
-# --- Movies | → VOD COMEDIA ← (368) ---
+# --- Movies | → VOD COMEDIA ← (369) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6gXo6Ph0ZmauWucuWiPY3PgUk9.jpg" group-title="Movies | → VOD COMEDIA ←",Una Noche en el Roxbury
+http://fastream.xyz:8080/movie/940246862tv/12ws79/279352.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCpABsHAJz7eKDNgPiAxl6nSFjU.jpg" group-title="Movies | → VOD COMEDIA ←",Una Esposa de Mentira
 http://fastream.xyz:8080/movie/940246862tv/12ws79/279158.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DMpgcsydoSvmd8gp8LPKvEXSn5.jpg" group-title="Movies | → VOD COMEDIA ←",High School Musical 3: Fin de curso
@@ -13811,7 +13811,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (1) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (2) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28hTjQCq0ul6WUR22qRsWEeuxlj.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",El Botin (2026)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/279351.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Gente que conocemos en Vacaciones (2026)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/279293.mp4
 
@@ -19655,4 +19657,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9751
+# Total: 9752

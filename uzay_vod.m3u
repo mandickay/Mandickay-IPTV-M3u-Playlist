@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-01-16 07:07:15
+# Generated: 2026-01-17 07:15:59
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -745,7 +745,7 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11703.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) DoReMi
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11704.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1366) ---
+# --- Movies | (S|DE) Deutsche Serien (1367) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3478,8 +3478,76 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11700.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11701.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Girl Taken
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11705.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Vampire Diaries
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11724.mp4
 
-# --- Movies | (V|AL) Filma (3259) ---
+# --- Movies | (V|AL) Filma (3292) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/A5mQcSgBeML2OBQLCH6RXn7gNNy_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Unseen Enemy
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658135.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/jRuiKL4S9UpLma2ZlM47xIu2gbe_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Turbulence
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658134.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/6tpAPeuuqbVnYWWPoOLEDLSBU7a_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Trap House
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658133.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5JHPHQxcE1b0W2Spbncq5uJKW7i_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) The Wrecker
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658132.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/kJnd51QG9VEqHGzaCY4FVznhI1v_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Believe: The Ultimate Battle
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658131.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/e0RU6KpdnrqFxDKlI3NOqN8nHL6_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) The Shadow's Edge
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658130.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/hCQjAPmraF3ppv3KfNXA4lkBnbe_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) The Mastermind
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658129.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rHv89mDoWy9SxjPwsiPausnIaqJ_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) The Gentleman
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658128.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qnsu5IXk4tSrWwdv1fWmyN192Sq_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) The Correction Unit
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658127.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2JYSb2qiOSkAdCuIRmXRWBecAAr_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) The Best You Can
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658126.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/udkbDwBbysCGEydt0FHnl9dVO2k_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Thamma
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658125.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/d6LkmLq2DcDIu1ctygYINGMMyUR_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Speed Train
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658124.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1vpNS7FcsW12NRenyp9RuluvJ4t_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Ruthless Bastards
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658123.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ilHG4EayOVoYeKqslspY3pR4wzC_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Run
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658122.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1BwKbTidW5QaEKb1pVY3p4u9cVg_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Rob Peace
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658121.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/jNsttCWZyPtW66MjhUozBzVsRb7_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Sisu: Road to Revenge
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658120.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/oD3Eey4e4Z259XLm3eD3WGcoJAh_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Now You See Me: Now You Don't
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658119.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1W3wolPtifDn0FlXvDA1zSFPBDj_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Neurovenge
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658118.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/xoPLfMbNYYuk3X2iVGhfaM6vxIP_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Kombucha
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658117.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/cbryTyaWdqrKpQCw6K7zm2jrB5v_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Hunting Season
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658116.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/xT88rTDQzZ1TOsiSpSY2jbvXVGM_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Guns & Moses
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658115.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2xXMCYFMVIebOlpakkMcAk3749Z_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Give Me Back My Daughter
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658114.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ymH9eGV2Z48iW5hz15qcyhoQAhh_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Girl in the Attic
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658113.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/t6LLguAmu6iZUN8pWhT7Q0IcaQ5_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Gabby's Dollhouse: The Movie
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658112.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/aRdbTNiklT1xsv6mk30ZXnkt0A1_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Frontier Crucible
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658111.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/o8pg20G67BGmQvRkXwstNre062J_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Eternity
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658110.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/tp3gc29vrZYBhqBzqh5OR0zFQ81_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Don't Tell Larry
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658109.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/aERt7hv8bSPLuZ31Di3mUIT0wEr_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Dishing Up Love
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658108.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/kajpShbFhOdpl6yCrLezMrr9tB4_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Die My Love
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658107.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8qTMRmC07XCGidnKQFLbRM3FoDU_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Muzzle: City of Wolves
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658106.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/wm8vkpJmY7UbUXME8lXkxqIalX6_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Lake Jesup: Bonecrusher's Revenge
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658105.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/tc5z5OADIYlOZLn0xNNM32c0Cq5_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) GATAO: Big Brothers
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658104.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/xKEcbWxQYEgDrNWj0sXDHxRyxl9_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) American Warrior
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/658103.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ddALthk9xANnSrS1Y91cuDcfWgn_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Worst. Christmas. Ever.
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/650285.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qLZTmOH8clD3bUCYcjCCBzq5fcc_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Wastelands
@@ -12211,7 +12279,13 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/255929.mkv
 
-# --- Movies | (V|DE) Filme (1163) ---
+# --- Movies | (V|DE) Filme (1166) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sSABNmy52mUcbzopIdVMBe4sKwQ_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Eine Wie Keine - 1999
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/657984.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/t4MxhCDLlWPg0ZhSJFD4n4ElKpD_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Mission Impossible: Rogue Nation - 2015
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/657983.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sXzh9I53LWGbVqBucXiHMLXlVGm_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Mission Impossible: Fallout - 2018
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/657982.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7Pi8egnTOvXJqCkottfzJsm3j4E_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Die Simpsons: Der Film - 2007
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/656136.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ndlHzeb0WwdorqDzikjuQg9Lxw1_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) A Silent Voice - 2016
@@ -16085,7 +16159,9 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/276808.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/fAqjSis2c2P6lHGCovL3ZuawxUy.jpg" group-title="Movies | (V|DE) Filme - 2020",(DE-) Chemical Hearts - 2020
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/276809.mp4
 
-# --- Movies | (V|DE) Filme - 2021 (629) ---
+# --- Movies | (V|DE) Filme - 2021 (630) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/o30zApVZQRcQCM5UL977cumg7Ks_big.jpg" group-title="Movies | (V|DE) Filme - 2021",(DE-) Einer Wie Keiner - 2021
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/657981.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u81Gf4UYqQfhxeC9x2CqebsulXT_big.jpg" group-title="Movies | (V|DE) Filme - 2021",(DE-) They Want Me Dead - 2021
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/641512.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dPhNB63EsHebwc6FwHM35pdw1vE_big.jpg" group-title="Movies | (V|DE) Filme - 2021",(DE-) Furioza - 2021
@@ -21991,7 +22067,11 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (501) ---
+# --- Movies | (V|DE) Filme - 2025 (503) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/h5dVninAEetJNam33dcGyft4Aw8_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Not Without Hope - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/657812.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/msSEguK8zKWEUPIaKktbZV3rtrR_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Americana - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/657809.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/foNIl77csO9GmsvCvTZ6ixt0fZf_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Family McMullen - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/654605.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/TJ4XqmIJ0I2LONPTLJBkuNwEgN_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Tortured: Dein Letztes Date! - 2025
@@ -22995,7 +23075,11 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647453.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1BIOKfuEOukw2OoKZnAsPuW17kD_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Julian Assange: Mundtot Gemacht - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647451.mp4
 
-# --- Movies | (V|DE) Filme - 2026 (2) ---
+# --- Movies | (V|DE) Filme - 2026 (4) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/fBrCsda9YUhrx6f2YGcWCIXkAK6_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Checker Tobi 3: Die Heimliche Herrscherin Der Erde - 2026
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/657810.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/aZhrAx5CevLfjXcGIG3wBXxDiAL_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Ein Letztes Abenteuer: Making Stranger Things 5 - 2026
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/657808.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4lH9ETPquCrYLrUeWc5rjWzWjtx_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Greenland 2 - 2026
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/654517.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/xzZaU0MN6L9oc1pl0RUXSB7hWwD_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) People We Meet On Vacation - 2026
@@ -23701,4 +23785,4 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248353.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/10625.mp4
 
-# Total: 11825
+# Total: 11867

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-01-18 18:32:19
+# Generated: 2026-01-19 07:18:27
 # Expires: 2026-02-14
 # Family Safe Edition
 # ==============================================
@@ -1628,8 +1628,6 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/5600.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/5601.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES",ES*PN ARG 3 HD
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/31026.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png" group-title="DEPORTES",Es*pn Premium Argentina
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/6463.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png" group-title="DEPORTES",Es*pn Premium Argentina HD
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/3085.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dfcvzc3w/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png" group-title="DEPORTES",ES*PN 4
@@ -1914,6 +1912,8 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/36.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/123399.m3u8
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2011/04/RS1129_ESPN_Deportes_CLR_Pos-scr.jpg" group-title="DEPORTES",ES*PN Deportes
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/130533.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png" group-title="DEPORTES",Es*pn Premium Argentina
+http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/6463.m3u8
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/bandsports.png" group-title="DEPORTES",Band Sports
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/5190.m3u8
 

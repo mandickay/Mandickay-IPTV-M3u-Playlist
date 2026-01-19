@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-01-18 18:30:02
+# Generated: 2026-01-19 07:10:02
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1433,9 +1433,15 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/153235.m3u8
 #EXTINF:-1 tvg-logo="https://images.derstandard.at/img/2020/03/25/PULS-24.jpg?w=750&s=200374dc" group-title="DE-DOKU/NEWS/KULTUR",AT: Puls 24 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/27080.m3u8
 
-# --- DE-MAGENTA SPORT (35) ---
+# --- DE-MAGENTA SPORT (38) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-MAGENTA SPORT",##### DE MAGENTA/TELEKOM SPORT #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/36250.m3u8
+#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: MS Sport
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175416.m3u8
+#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Golf 1
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175414.m3u8
+#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Golf 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175415.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: MagentaSport
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/123191.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Sport 1 HD
@@ -1500,10 +1506,10 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/123198.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/166660.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Sport 16 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/123199.m3u8
-#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Sport 17 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/123200.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Sport 18 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/123201.m3u8
+#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Sport 17 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/123200.m3u8
 
 # --- DE-MUSIK (8) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-MUSIK",##### DE MUSIK ####
@@ -6633,4 +6639,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165884.m3u8
 
-# Total: 3258
+# Total: 3261

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: dnssp.site:80
-# Generated: 2026-01-18 18:39:10
+# Generated: 2026-01-19 07:12:20
 # Expires: 2026-02-16
 # Family Safe Edition
 # ==============================================
@@ -57,7 +57,7 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2125.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cultura.png" group-title="ABERTOS",TV Cultura PA
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/928412.m3u8
 
-# --- BAND (18) ---
+# --- BAND (17) ---
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20HD.png" group-title="BAND",Band SP FHD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1878.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20HD.png" group-title="BAND",Band SP HD
@@ -66,8 +66,6 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2056.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/2055.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20HD.png" group-title="BAND",Band SP Alternativo HD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1268.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band SP Alternativo
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1179.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band Taubate HD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1243452.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band.png" group-title="BAND",Band RJ
@@ -569,7 +567,7 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/1540.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Motorvision.png" group-title="DESPORTO",MotorVision TV
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1541.m3u8
 
-# --- DISCOVERY (29) ---
+# --- DISCOVERY (28) ---
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Channel%20HD.png" group-title="DISCOVERY",Discovery Channel FHD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1881.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Channel%20HD.png" group-title="DISCOVERY",Discovery Channel HD
@@ -604,8 +602,6 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/1843.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/2152.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Investigation%20Discovery.png" group-title="DISCOVERY",Investigation Discovery
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/2151.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Investigation%20Discovery.png" group-title="DISCOVERY",Investigation Discovery Alternativo
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1200.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Investigation%20Discovery%20HD.png" group-title="DISCOVERY",Investigation Discovery Alternativo HD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1320.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20World%20HD.png" group-title="DISCOVERY",Discovery World FHD
@@ -657,7 +653,7 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/902437.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DISNEY+",Disney+ 11
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/914838.m3u8
 
-# --- DOCUMENTÁRIOS (20) ---
+# --- DOCUMENTÁRIOS (19) ---
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Animal%20Planet.png" group-title="DOCUMENTÁRIOS",Animal Planet FHD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1808.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Animal%20Planet.png" group-title="DOCUMENTÁRIOS",Animal Planet HD
@@ -666,8 +662,6 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2050.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/2049.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Animal%20Planet.png" group-title="DOCUMENTÁRIOS",Animal Planet Alternativo HD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1288.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Animal%20Planet.png" group-title="DOCUMENTÁRIOS",Animal Planet Alternativo
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1177.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/HGTV.png" group-title="DOCUMENTÁRIOS",HGTV FHD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1819.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/HGTV.png" group-title="DOCUMENTÁRIOS",HGTV HD
@@ -857,7 +851,7 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/1272979.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/287DJaz.jpg" group-title="ESPECIAIS 24H",[24h] A Praça é Nossa
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1272978.m3u8
 
-# --- ESPN (36) ---
+# --- ESPN (31) ---
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20Brasil%20HD.png" group-title="ESPN",ESPN FHD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1883.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20Brasil%20HD.png" group-title="ESPN",ESPN HD
@@ -868,8 +862,6 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2104.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/13087.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20Brasil%20HD.png" group-title="ESPN",ESPN Alternativo HD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1294.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20Brasil.png" group-title="ESPN",ESPN Alternativo
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1193.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 4 FHD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1887.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 4 HD
@@ -880,8 +872,6 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2121.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/13078.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 4 Alternativo HD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1295.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 4 Alternativo
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1136.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPN",ESPN 2 FHD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1884.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPN",ESPN 2 HD
@@ -904,8 +894,6 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2102.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/13084.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPN",ESPN 3 Alternativo HD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1293.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPN",ESPN 3 Alternativo
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1192.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 5 FHD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1886.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 5 HD
@@ -916,8 +904,6 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2123.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/13081.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 5 Alternativo HD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1314.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 5 Alternativo
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1135.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 6 FHD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1828.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 6 HD
@@ -928,10 +914,8 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2106.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/13093.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 6 Alternativo HD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1310.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%2B.png" group-title="ESPN",ESPN 6 Alternativo
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1131.m3u8
 
-# --- ESPORTES (32) ---
+# --- ESPORTES (28) ---
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV.png" group-title="ESPORTES",SporTV FHD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/2035.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV.png" group-title="ESPORTES",SporTV HD
@@ -950,8 +934,6 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2036.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/2219.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%202.png" group-title="ESPORTES",SporTV 2 Alternativo HD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1301.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%202.png" group-title="ESPORTES",SporTV 2 Alternativo
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1173.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%203.png" group-title="ESPORTES",SporTV 3 FHD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1918.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%203.png" group-title="ESPORTES",SporTV 3 HD
@@ -962,8 +944,6 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2220.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/13075.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%203.png" group-title="ESPORTES",SporTV 3 Alternativo  HD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1302.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%203.png" group-title="ESPORTES",SporTV 3 Alternativo
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1174.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ge-logo.png" group-title="ESPORTES",GE TV HD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1277947.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/ge-logo.png" group-title="ESPORTES",GE TV FHD
@@ -978,8 +958,6 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2059.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/13099.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20Sports%20HD.png" group-title="ESPORTES",Band Sports Alternativo HD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1289.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20Sports.png" group-title="ESPORTES",Band Sports Alternativo
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1180.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Combate.png" group-title="ESPORTES",Combate FHD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1880.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Combate.png" group-title="ESPORTES",Combate HD
@@ -990,8 +968,6 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2075.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/13095.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Combate.png" group-title="ESPORTES",Combate Alternativo HD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1291.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Combate.png" group-title="ESPORTES",Combate Alternativo
-http://dnssp.site:80/live/f98lugg8/pzczhs7r/1186.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Xsports_logo.png/960px-Xsports_logo.png" group-title="ESPORTES",Xsports FHD
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1270005.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Xsports_logo.png/960px-Xsports_logo.png" group-title="ESPORTES",Xsports HD
@@ -1978,31 +1954,31 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2160.m3u8
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/2159.m3u8
 
 # --- HORA DO JOGO (13) ---
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",09h30 Manchester United x Manchester City
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",11h00 Wolverhampton x Newcastle
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/981577.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",10h00 Ituano x Palmeiras (CP)
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",12h15 Atletico de Madrid x Alaves
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/981578.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",11h00 Udinese x Inter de Milao
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",16h00 Marrocos x Senegal
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/981579.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",14h30 RB Leipzig x Bayern
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",16h00 Corinthians x Sao Paulo
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/981580.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",14h30 Ibrachina x Internacional (CP)
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",16h45 Milan x Lecce
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/981581.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",16h00 Athletico-PR x Coritiba
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",17h00 Real Sociedad x Barcelona
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/981582.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",16h30 Botafogo x Itaquaquecetuba (CP)
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",18h00 Atletico-MG x Tombense
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/981817.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",18h30 Cruzeiro x Uberlandia
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",18h00 Vasco x Nova Iguacu
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/981818.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",18h30 Boavista x Fluminense
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",18h00 Nautico x Sport
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/981819.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",18h30 RB Bragantino x Sao Paulo (CP)
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",18h00 Ypiranga x Internacional
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/982820.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",19h00 Gremio x Sao Luiz
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",18h00 Fortaleza x Marcanaa
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1119431.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",20h30 Palmeiras x Mirassol
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",20h30 Guarani x Santos
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1203221.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",21h30 Volta Redonda x Flamengo
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",20h30 Sampaio Correa-RJ x Botafogo
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1268343.m3u8
 
 # --- INFANTIS (21) ---
@@ -3153,4 +3129,4 @@ http://dnssp.site:80/live/f98lugg8/pzczhs7r/2294.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/NHK.png" group-title="VARIEDADES",NHK
 http://dnssp.site:80/live/f98lugg8/pzczhs7r/1210.m3u8
 
-# Total: 1530
+# Total: 1518

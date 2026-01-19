@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2026-01-18 18:39:44
+# Generated: 2026-01-19 07:10:06
 # Expires: 2026-12-23
 # Family Safe Edition
 # ==============================================
@@ -7400,11 +7400,11 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/982.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/851939.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png" group-title="DE ✨ DAZN SENDER",DAZN SPORT 1 FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/986.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png" group-title="DE ✨ DAZN SENDER",DAZN SPORT 1 FHD ERSATZ
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png" group-title="DE ✨ DAZN SENDER",DAZN SPORT 1 FHD+
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/984.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png" group-title="DE ✨ DAZN SENDER",DAZN SPORT 1 HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/987.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png" group-title="DE ✨ DAZN SENDER",DAZN SPORT 1 HD ERSATZ
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png" group-title="DE ✨ DAZN SENDER",DAZN SPORT 1 HD+
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/597441.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png" group-title="DE ✨ DAZN SENDER",DAZN SPORT 1 SD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/988.m3u8
@@ -7416,11 +7416,11 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/989.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/851938.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png" group-title="DE ✨ DAZN SENDER",DAZN SPORT 2 FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/992.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png" group-title="DE ✨ DAZN SENDER",DAZN SPORT 2 FHD ERSATZ
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png" group-title="DE ✨ DAZN SENDER",DAZN SPORT 2 FHD+
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/990.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png" group-title="DE ✨ DAZN SENDER",DAZN SPORT 2 HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/993.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png" group-title="DE ✨ DAZN SENDER",DAZN SPORT 2 HD ERSATZ
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png" group-title="DE ✨ DAZN SENDER",DAZN SPORT 2 HD+
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/846129.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png" group-title="DE ✨ DAZN SENDER",DAZN SPORT 2 SD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/994.m3u8
@@ -19529,15 +19529,11 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/640328.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igRJyt842ceKg1pM0J7C9XiDDNb.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",GUZEL ASKLAR DIYARI ⚜️ SON BOLUM
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/640329.m3u8
 
-# --- TR ✨  MUZIK (123) ---
+# --- TR ✨  MUZIK (121) ---
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/trtmuzik.png" group-title="TR ✨  MUZIK",TRT MUZIK FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/836443.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/trtmuzik.png" group-title="TR ✨  MUZIK",TRT MUZIK HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/836442.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/kralPop.png" group-title="TR ✨  MUZIK",KRAL POP FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/836441.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/kralPop.png" group-title="TR ✨  MUZIK",KRAL POP HD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/836440.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Dream_T%C3%BCrk.png" group-title="TR ✨  MUZIK",DREAM TURK FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/836439.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Dream_T%C3%BCrk.png" group-title="TR ✨  MUZIK",DREAM TURK HD
@@ -26379,4 +26375,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 12930
+# Total: 12928

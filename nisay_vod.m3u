@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-18 18:36:18
+# Generated: 2026-01-19 07:17:29
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -16085,7 +16085,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/91667.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MUZIK VOD",Bulgaria Music
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/83163.mkv
 
-# --- Movies | NETFLIX (372) ---
+# --- Movies | NETFLIX (373) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Altered Carbon
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/36.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Dogs of Berlin
@@ -16830,6 +16830,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1853.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1864.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Ayrılık da Sevdaya Dahil
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1866.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Can This Love Be Translated?
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1867.mp4
 
 # --- Movies | NOSTALJI FILM (73) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJmoR4kdHEw6w8CncTKJ058RV7o.jpg" group-title="Movies | NOSTALJI FILM",Pearl Harbor (2001)
@@ -20097,4 +20099,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9981
+# Total: 9982

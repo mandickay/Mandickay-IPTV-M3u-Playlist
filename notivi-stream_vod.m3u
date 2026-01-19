@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: notivi-stream.com:64640
-# Generated: 2026-01-18 18:26:02
+# Generated: 2026-01-19 07:21:51
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -7135,7 +7135,7 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/733.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- HBO SERIEN ]",The White Lotus
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/987.mp4
 
-# --- Movies | [ DE- NETFLiX SERIEN ] (94) ---
+# --- Movies | [ DE- NETFLiX SERIEN ] (96) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- NETFLiX SERIEN ]",12 Monkeys
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/580.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- NETFLiX SERIEN ]",2 Broke Girls
@@ -7324,6 +7324,10 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/919.mp4
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/1045.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- NETFLiX SERIEN ]",Power
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/1089.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- NETFLiX SERIEN ]",Good Behavior
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/1090.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- NETFLiX SERIEN ]",The Pitt
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/1091.mp4
 
 # --- Movies | [ DEUTSCHE 4K FiLME ] (56) ---
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/p7OyrLOe3x64BAjKQa3Jfix0slderWO9OZun0WHY_rnTZm6wOpdcHOjYYtjUL31KKH_w4VcyDbB1JRfDW66GM9ZfDOMVLDpCqvwFN_7uOfM.jpg" group-title="Movies | [ DEUTSCHE 4K FiLME ]",Konklave
@@ -10409,4 +10413,4 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/127922.mkv
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/p7OyrLOe3x64BAjKQa3Jfix0slderWO9OZun0WHY_rnTZm6wOpdcHOjYYtjUL31KJ4GOhBiWenAfGqAV5rAK3dmqahVBHEEa21qXpOChZzU.jpg" group-title="Movies | [ TÜRKCE 4K FiLME ]",Uncharted
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/127923.mkv
 
-# Total: 5141
+# Total: 5143

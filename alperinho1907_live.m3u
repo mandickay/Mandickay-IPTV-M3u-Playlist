@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: alperinho1907.kralsmart.xyz:2086
-# Generated: 2026-01-18 18:36:15
+# Generated: 2026-01-19 07:10:39
 # Expires: 2026-02-08
 # Family Safe Edition
 # ==============================================
@@ -1433,9 +1433,15 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/153235.m3u8
 #EXTINF:-1 tvg-logo="https://images.derstandard.at/img/2020/03/25/PULS-24.jpg?w=750&s=200374dc" group-title="DE-DOKU/NEWS/KULTUR",AT: Puls 24 HD
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/27080.m3u8
 
-# --- DE-MAGENTA SPORT (35) ---
+# --- DE-MAGENTA SPORT (38) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-MAGENTA SPORT",##### DE MAGENTA/TELEKOM SPORT #####
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/36250.m3u8
+#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: MS Sport
+http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/175416.m3u8
+#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Golf 1
+http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/175414.m3u8
+#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Golf 2
+http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/175415.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: MagentaSport
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/123191.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Sport 1 HD
@@ -1500,10 +1506,10 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/123198.m3u8
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/166660.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Sport 16 HD
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/123199.m3u8
-#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Sport 17 HD
-http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/123200.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Sport 18 HD
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/123201.m3u8
+#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Sport 17 HD
+http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/123200.m3u8
 
 # --- DE-MUSIK (8) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-MUSIK",##### DE MUSIK ####
@@ -6633,4 +6639,4 @@ http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://alperinho1907.kralsmart.xyz:2086/live/ahmetozturk/VTy8VXbToT/165884.m3u8
 
-# Total: 3258
+# Total: 3261

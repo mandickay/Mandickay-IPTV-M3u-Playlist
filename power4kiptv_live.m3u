@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: power4kiptv.info:8080
-# Generated: 2026-01-18 18:37:05
+# Generated: 2026-01-19 07:09:48
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -774,11 +774,11 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/698219.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/868045.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE | DAZN SPORT",DAZN 1 FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/698215.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE | DAZN SPORT",DAZN 1 FHD ERSATZ
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE | DAZN SPORT",DAZN 1 FHD+
 http://power4kiptv.info:8080/live/ernstalex/17012022/698218.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE | DAZN SPORT",DAZN 1 HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/698217.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE | DAZN SPORT",DAZN 1 HD ERSATZ
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE | DAZN SPORT",DAZN 1 HD+
 http://power4kiptv.info:8080/live/ernstalex/17012022/698225.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE | DAZN SPORT",DAZN 1 SD
 http://power4kiptv.info:8080/live/ernstalex/17012022/698226.m3u8
@@ -790,11 +790,11 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/698228.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/868046.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE | DAZN SPORT",DAZN 2 FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/698223.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE | DAZN SPORT",DAZN 2 FHD ERSATZ
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE | DAZN SPORT",DAZN 2 FHD+
 http://power4kiptv.info:8080/live/ernstalex/17012022/698222.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE | DAZN SPORT",DAZN 2 HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/698224.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE | DAZN SPORT",DAZN 2 HD ERSATZ
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE | DAZN SPORT",DAZN 2 HD+
 http://power4kiptv.info:8080/live/ernstalex/17012022/698221.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE | DAZN SPORT",DAZN 2 SD
 http://power4kiptv.info:8080/live/ernstalex/17012022/698227.m3u8
@@ -2660,11 +2660,11 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/95606.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/95604.m3u8
 #EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/ndr.png" group-title="DE | REGIONAL",NDR
 http://power4kiptv.info:8080/live/ernstalex/17012022/95603.m3u8
-#EXTINF:-1 tvg-logo="https://excpicon.cfd/de/ndrfssh.png" group-title="DE | REGIONAL",NDR MV
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/ndr.png" group-title="DE | REGIONAL",NDR MV
 http://power4kiptv.info:8080/live/ernstalex/17012022/625939.m3u8
-#EXTINF:-1 tvg-logo="https://excpicon.cfd/de/ndrfssh.png" group-title="DE | REGIONAL",NDR FERNSEHEN FHD
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/ndr.png" group-title="DE | REGIONAL",NDR FERNSEHEN FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/278070.m3u8
-#EXTINF:-1 tvg-logo="https://excpicon.cfd/de/ndrfssh.png" group-title="DE | REGIONAL",NDR FERNSEHEN HD
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/ndr.png" group-title="DE | REGIONAL",NDR FERNSEHEN HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/278067.m3u8
 #EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/mdr.png" group-title="DE | REGIONAL",MDR HD
 http://power4kiptv.info:8080/live/ernstalex/17012022/95601.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: italians-app.net:8080
-# Generated: 2026-01-18 18:27:13
+# Generated: 2026-01-19 07:12:24
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -10147,9 +10147,11 @@ http://italians-app.net:8080/movie/hele/cart@/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://italians-app.net:8080/movie/hele/cart@/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1551) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1552) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://italians-app.net:8080/movie/hele/cart@/1662.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/cf8473618fc146efbd93867d129e285b.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Last Showgirl (2024)
+http://italians-app.net:8080/movie/hele/cart@/86586.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/dd70bede7ec603bbda9f1a49b94ba817.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Zvanì  Il romanzo famigliare di Giovanni Pascoli (2025)
 http://italians-app.net:8080/movie/hele/cart@/86555.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/dd7f972ecd8249bbd628c9ccdfdb489e.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Fight Club (1999)
@@ -32939,4 +32941,4 @@ http://italians-app.net:8080/movie/hele/cart@/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://italians-app.net:8080/movie/hele/cart@/20654.mkv
 
-# Total: 16438
+# Total: 16439

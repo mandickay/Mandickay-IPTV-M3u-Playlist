@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uksolvix.uk:8080
-# Generated: 2026-01-21 07:13:58
+# Generated: 2026-01-21 18:34:16
 # Expires: 2026-06-04
 # Family Safe Edition
 # ==============================================
@@ -160,6 +160,16 @@ http://uksolvix.uk:8080/live/Nicu-stefan/FAFnLZ6Wuq8V/33.m3u8
 http://uksolvix.uk:8080/live/Nicu-stefan/FAFnLZ6Wuq8V/172410.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/digi_sport_4.png" group-title="⭐ROMANIA",DIGI SPORT 4 FHD
 http://uksolvix.uk:8080/live/Nicu-stefan/FAFnLZ6Wuq8V/35.m3u8
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_1.png" group-title="⭐ROMANIA",EUROSPORT 1 FHD
+http://uksolvix.uk:8080/live/Nicu-stefan/FAFnLZ6Wuq8V/45.m3u8
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_1.png" group-title="⭐ROMANIA",EUROSPORT 1 SD
+http://uksolvix.uk:8080/live/Nicu-stefan/FAFnLZ6Wuq8V/46.m3u8
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_2.png" group-title="⭐ROMANIA",EUROSPORT 2 FHD
+http://uksolvix.uk:8080/live/Nicu-stefan/FAFnLZ6Wuq8V/47.m3u8
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_2.png" group-title="⭐ROMANIA",EUROSPORT 2 SD
+http://uksolvix.uk:8080/live/Nicu-stefan/FAFnLZ6Wuq8V/48.m3u8
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_4k.png" group-title="⭐ROMANIA",EUROSPORT 4K
+http://uksolvix.uk:8080/live/Nicu-stefan/FAFnLZ6Wuq8V/266.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/fightbox.png" group-title="⭐ROMANIA",FIGHTBOX FHD
 http://uksolvix.uk:8080/live/Nicu-stefan/FAFnLZ6Wuq8V/209382.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/motorvision_plus.png" group-title="⭐ROMANIA",MOTORVISION+ FHD
@@ -1050,15 +1060,5 @@ http://uksolvix.uk:8080/live/Nicu-stefan/FAFnLZ6Wuq8V/134883.m3u8
 http://uksolvix.uk:8080/live/Nicu-stefan/FAFnLZ6Wuq8V/111281.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXdwSw5d/GOLD.png" group-title="⭐ROMANIA",GOLD HORROR 2 FHD
 http://uksolvix.uk:8080/live/Nicu-stefan/FAFnLZ6Wuq8V/135155.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_1.png" group-title="⭐ROMANIA",EUROSPORT 1 FHD
-http://uksolvix.uk:8080/live/Nicu-stefan/FAFnLZ6Wuq8V/45.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_1.png" group-title="⭐ROMANIA",EUROSPORT 1 SD
-http://uksolvix.uk:8080/live/Nicu-stefan/FAFnLZ6Wuq8V/46.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_2.png" group-title="⭐ROMANIA",EUROSPORT 2 FHD
-http://uksolvix.uk:8080/live/Nicu-stefan/FAFnLZ6Wuq8V/47.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_2.png" group-title="⭐ROMANIA",EUROSPORT 2 SD
-http://uksolvix.uk:8080/live/Nicu-stefan/FAFnLZ6Wuq8V/48.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_4k.png" group-title="⭐ROMANIA",EUROSPORT 4K
-http://uksolvix.uk:8080/live/Nicu-stefan/FAFnLZ6Wuq8V/266.m3u8
 
 # Total: 525

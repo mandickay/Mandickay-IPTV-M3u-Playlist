@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 206.212.244.71:8080
-# Generated: 2026-01-21 07:10:02
+# Generated: 2026-01-21 18:40:26
 # Expires: 2026-06-05
 # Family Safe Edition
 # ==============================================
@@ -27941,7 +27941,7 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2347
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Heated Rivalry
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2349
 
-# --- Series | All Series (331) ---
+# --- Series | All Series (332) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Mirror
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/331
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Hightown
@@ -28604,5 +28604,7 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2306
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2319
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Sopranos
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2348
+#EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Night Manager
+http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2350
 
-# Total: 14245
+# Total: 14246

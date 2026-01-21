@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: aztkplay.pro:8080
-# Generated: 2026-01-21 07:18:25
+# Generated: 2026-01-21 18:37:53
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -11,7 +11,7 @@
 #EXTINF:-1 tvg-logo="" group-title="Movies | ------------------------------",intro01
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10496.mp4
 
-# --- Movies | Accion (292) ---
+# --- Movies | Accion (294) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Accion",24 Horas (2001) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/5757.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Accion",A.D. Police (1999) (.Sub.)
@@ -596,6 +596,10 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11010.mp4
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11041.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Accion",Kingdom (2012) (.Dual.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11049.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Accion",Capoeiras (2025) (.Lat.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11054.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Accion",El Turco (2025) (.Sub.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11056.mp4
 
 # --- Movies | Animación (630) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animación",009-1 (2006) (.Sub.)
@@ -6671,7 +6675,7 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10904.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Disney / Star Plus / Hulu",LEGO Marvel Avengers: Strange Tails (2025) (.Dual.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10911.mp4
 
-# --- Movies | Documental (546) ---
+# --- Movies | Documental (551) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Documental",1000 Maneras de morir (2009) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/5736.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Documental",Ola de 100 pies (2021) (.Sub.)
@@ -7764,6 +7768,16 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10962.mp4
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10971.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Documental",Sean Combs: Ajuste de cuentas (2025) (.Lat.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10992.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Documental",Toros Neza (2026) (.Lat.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11050.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Documental",Pelayo: Más allá del límite (2026) (.Lat.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11051.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Documental",Fabrizio Corona: Io sono notizia (2026) (.Lat.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11052.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Documental",The Tech Bro Murders (2025) (.Dual.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11057.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Documental",De polo a polo con Will Smith (2026) (.Dual.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11059.mp4
 
 # --- Movies | Doramas (76) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Doramas",18 otra vez (2020) (.Sub.)
@@ -7919,7 +7933,7 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10913.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Doramas",Si no hubiera visto el sol (2025) (.Dual.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10916.mp4
 
-# --- Movies | Drama (1696) ---
+# --- Movies | Drama (1699) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",11 Tiros (2022) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/5729.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",22.11.63 (2016) (.Sub.)
@@ -11312,6 +11326,12 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11024.mp4
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11035.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",The O.C. Vidas Ajenas (2003) (.Dual.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11042.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Stenbeck (2025) (.Sub.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11055.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Ponies (2026) (.Dual.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11058.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Las Esposas Cazadoras (2025) (.Dual.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11060.mp4
 
 # --- Movies | Familia (52) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Familia",Amber Brown (2022) (.Sub.)
@@ -15987,7 +16007,7 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10914.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Prime Video",Malice (2025) (.Dual.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10915.mp4
 
-# --- Movies | Reality (186) ---
+# --- Movies | Reality (187) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Reality",007: Road to a Million (2023) (.Sub.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/5733.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Reality",1000-lb Sisters (2020) (.Sub.)
@@ -16360,6 +16380,8 @@ http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10979.mp4
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/10997.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Reality",ラヴ上等 (2025) (.Dual.)
 http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11004.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Reality",Nos vamos de madre (2026) (.Lat.)
+http://aztkplay.pro:8080/movie/eliseoVICENTE6060/orRAY2FalJ/11053.mp4
 
 # --- Movies | Religion (6) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Religion",Josué y la tierra prometida (2016) (.Sub.)
@@ -25543,4 +25565,4 @@ http://aztkplay.pro:8080/series/eliseoVICENTE6060/orRAY2FalJ/5387
 #EXTINF:-1 tvg-logo="" group-title="Series | TV-SHOW | TELENOVELAS / NARCOSERIES",Velvet el nuevo imperio (2025) lat
 http://aztkplay.pro:8080/series/eliseoVICENTE6060/orRAY2FalJ/5403
 
-# Total: 12702
+# Total: 12713

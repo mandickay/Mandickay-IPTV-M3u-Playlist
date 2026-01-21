@@ -1,11 +1,203 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 4smarts.xyz
-# Generated: 2026-01-20 07:12:38
+# Generated: 2026-01-21 07:06:52
 # Expires: 2026-01-23
 # Family Safe Edition
 # ==============================================
 
+
+# --- AS | TURKISH | DIGER (95) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/TRTBELGESELHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - TRT Belgesel HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/823498.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/trt-cocuk-1.png" group-title="AS | TURKISH | DIGER",TR - TRT Cocuk
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/823499.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TRTTÜRK.png" group-title="AS | TURKISH | DIGER",TR - TRT Turk FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/823500.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TRTTÜRK.png" group-title="AS | TURKISH | DIGER",TR - TRT Turk HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/823501.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TURKEY.png" group-title="AS | TURKISH | DIGER",##### TR - EUROPA #####
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39748.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/SHOWHD.png" group-title="AS | TURKISH | DIGER",TR - SHOW TÜRK EUROPA
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39745.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/KANALDEUROPA.png" group-title="AS | TURKISH | DIGER",TR - EURO D
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/65135.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/star-tv.png" group-title="AS | TURKISH | DIGER",TR - EURO STAR
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/65134.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TV8INTEUROPA.png" group-title="AS | TURKISH | DIGER",TR - TV 8 INT EUROPA
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39743.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/tgrteu.png" group-title="AS | TURKISH | DIGER",TR - TGRT EU
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39679.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TURKEY.png" group-title="AS | TURKISH | DIGER",##### TR - HABER #####
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39742.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TRTHABER.png" group-title="AS | TURKISH | DIGER",TR - TRT HABER HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39741.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/CNN.png" group-title="AS | TURKISH | DIGER",TR - CNN TURK HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39740.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/NTVHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - NTV HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39739.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/24HABER.png" group-title="AS | TURKISH | DIGER",TR - 24 HABER HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39737.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/HABERGLOBAL.png" group-title="AS | TURKISH | DIGER",TR - HABER GLOBAL HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/65144.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/eko-turk.png" group-title="AS | TURKISH | DIGER",TR - EKO TÜRK TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/65143.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/TVNETHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - TV NET HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39734.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/ulketv.png" group-title="AS | TURKISH | DIGER",TR - ÜLKE TV HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39733.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/TR/ahaberplus.png" group-title="AS | TURKISH | DIGER",TR - A HABER HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39736.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/AKITTV.png" group-title="AS | TURKISH | DIGER",TR - AKIT TV HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39659.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TV-100.png" group-title="AS | TURKISH | DIGER",TR - TV 100 HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/65142.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/BLOOMBERG.png" group-title="AS | TURKISH | DIGER",TR - BLOOMBERG HT HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39730.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/TR/APARAHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - A PARA HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39608.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TRTWORLDHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - TRT WORLD HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39607.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/a-news.png" group-title="AS | TURKISH | DIGER",TR - A NEWS HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39729.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/HALKTV.png" group-title="AS | TURKISH | DIGER",TR - HALK TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39678.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/tgrteu.png" group-title="AS | TURKISH | DIGER",TR - TGRT HABER
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39735.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TELE-1.png" group-title="AS | TURKISH | DIGER",TR - TELE 1
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/65141.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/UZAYHABER.png" group-title="AS | TURKISH | DIGER",TR - UZAY HABER
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39654.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/krt.png" group-title="AS | TURKISH | DIGER",TR - KRT HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/65139.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/HABERTURKHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - HABER TURK HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39738.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TV-100.png" group-title="AS | TURKISH | DIGER",TR - TV 100 BALIKESIR
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39636.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/ARTITV.png" group-title="AS | TURKISH | DIGER",TR - ARTI TV HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/82313.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/CAN-TV.png" group-title="AS | TURKISH | DIGER",TR - Can TV HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/82314.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TURKEY.png" group-title="AS | TURKISH | DIGER",##### TR - KEMAL SUNAL #####
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/65158.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/KEMALSUNALTV.png" group-title="AS | TURKISH | DIGER",TR - KEMAL SUNAL TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39565.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TURKEY.png" group-title="AS | TURKISH | DIGER",##### TR - BELGESEL #####
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39721.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/TRTBELGESELHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - TRT BELGESEL HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39720.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/tgrteu.png" group-title="AS | TURKISH | DIGER",TR - TGRT BELGESEL
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39719.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/Discovery_Channel.png" group-title="AS | TURKISH | DIGER",TR - DISCOVERY CHANNEL HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39716.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/Discovery_Science.png" group-title="AS | TURKISH | DIGER",TR - DISCOVERY SCIENCE HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39715.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/BeINGurme.png" group-title="AS | TURKISH | DIGER",TR - BEIN GÜRME HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39708.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/History.png" group-title="AS | TURKISH | DIGER",TR - HISTORY CHANNEL HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39710.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/BEINIZ.png" group-title="AS | TURKISH | DIGER",TR - BEIN IZ FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/65138.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/24Kitchen.png" group-title="AS | TURKISH | DIGER",TR - 24 KITCHEN HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/82324.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/BBCEARTHHD.png" group-title="AS | TURKISH | DIGER",TR - BBC EARTH HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/82341.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/Da_Vinci.png" group-title="AS | TURKISH | DIGER",TR - DA VINCI HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/82327.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/Da_Vinci.png" group-title="AS | TURKISH | DIGER",TR - DA VINCI HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/82339.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/DISCOVERY-WORLD-HD-1.png" group-title="AS | TURKISH | DIGER",TR - VIASAT HISTORY HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/82328.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/D-MAX-HD.png" group-title="AS | TURKISH | DIGER",TR - D MAX HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/82340.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TURKEY.png" group-title="AS | TURKISH | DIGER",##### TR - CUCUK #####
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39705.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/trt-cocuk-1.png" group-title="AS | TURKISH | DIGER",TR - TRT ÇOCUK HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39703.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/Minika_go.png" group-title="AS | TURKISH | DIGER",TR - MINIKA GO
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39701.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/MinikaCOCUK.png" group-title="AS | TURKISH | DIGER",TR - MINIKA ÇOCUK
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39700.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/NICKJR.png" group-title="AS | TURKISH | DIGER",TR - NICK JR
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39699.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/NICKELODEONHD.png" group-title="AS | TURKISH | DIGER",TR - NICKELODEON HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39698.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/CARTOONNETWORK.png" group-title="AS | TURKISH | DIGER",TR - CARTOON NETWORK
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39696.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/BOOMERANG-HD.png" group-title="AS | TURKISH | DIGER",TR - BOOMERANG HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/82350.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/NILOYA-TV.png" group-title="AS | TURKISH | DIGER",TR - NILOYA TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/82353.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/BABY_TV_HD.png" group-title="AS | TURKISH | DIGER",TR - BABY TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/82351.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TURKEY.png" group-title="AS | TURKISH | DIGER",##### TR - MUZIK #####
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39695.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/KRAL-POP-90.png" group-title="AS | TURKISH | DIGER",TR - KRAL POP
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39693.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/Powerturk.png" group-title="AS | TURKISH | DIGER",TR - POWER TURK HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39692.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/POWERHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - POWER HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39690.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/dreamturktv.png" group-title="AS | TURKISH | DIGER",TR - DREAM TÜRK
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39691.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/NR1HDPLUS.png" group-title="AS | TURKISH | DIGER",TR - NR 1 HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39687.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/NR1HDPLUS.png" group-title="AS | TURKISH | DIGER",TR - NR 1 TURK HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39688.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/trt-muzik.png" group-title="AS | TURKISH | DIGER",TR - TRT MUZIK HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39725.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TURKEY.png" group-title="AS | TURKISH | DIGER",##### TR - YEREL #####
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39685.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TRTDIYANET.png" group-title="AS | TURKISH | DIGER",TR - TRT DIYANET
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39726.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TRTTÜRK.png" group-title="AS | TURKISH | DIGER",TR - TRT TÜRK
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39724.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TRTAVAZ.png" group-title="AS | TURKISH | DIGER",TR - TRT AVAZ HD PLUS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39723.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/VATANTV.png" group-title="AS | TURKISH | DIGER",TR - VATAN TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39682.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/BENGUTURK.png" group-title="AS | TURKISH | DIGER",TR - BENGU TURK
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39681.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/CEMTV.png" group-title="AS | TURKISH | DIGER",TR - CEM TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39676.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/KONTVKONYA.png" group-title="AS | TURKISH | DIGER",TR - KON TV KONYA
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39674.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/UCANKUSTV.png" group-title="AS | TURKISH | DIGER",TR - UCAN KUS TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39672.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/MELTEMTV.png" group-title="AS | TURKISH | DIGER",TR - MELTEM TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39668.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/TV5.png" group-title="AS | TURKISH | DIGER",TR - TV 5
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39666.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/KUDUSTV.png" group-title="AS | TURKISH | DIGER",TR - KUDUS TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39655.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/TVKAYSERI.png" group-title="AS | TURKISH | DIGER",TR - TV KAYSERI
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39652.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/mavi.png" group-title="AS | TURKISH | DIGER",TR - MAVI KARADENIZ
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39649.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/ALTASTVORDU.png" group-title="AS | TURKISH | DIGER",TR - ALTAS TV ORDU
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39648.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/kay.png" group-title="AS | TURKISH | DIGER",TR - ÇAY TV RIZE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39644.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/REHBERTV.png" group-title="AS | TURKISH | DIGER",TR - REHBER TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39641.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/BRT1.png" group-title="AS | TURKISH | DIGER",TR - BRT 1 HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39626.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/BRT2.png" group-title="AS | TURKISH | DIGER",TR - BRT 2
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39625.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/Kanal_T.png" group-title="AS | TURKISH | DIGER",TR - LALEGUL TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39613.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/SEMERKANDTVHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - SEMERKAND TV HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39617.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/DOSTTV.png" group-title="AS | TURKISH | DIGER",TR - DOST TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/39618.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/yol.png" group-title="AS | TURKISH | DIGER",TR - YOL TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/73047.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/ATVHD.png" group-title="AS | TURKISH | DIGER",TR - ATV SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/823495.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/BeINGurme.png" group-title="AS | TURKISH | DIGER",TR - BeIN Gurme HD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/823496.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/HABERTURKHDPLUS.png" group-title="AS | TURKISH | DIGER",TR - Haber Turk SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/823497.m3u8
 
 # --- AS | TURKISH | SINEMA (196) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TURKEY/TURKEY.png" group-title="AS | TURKISH | SINEMA",##### TR - SINEMA #####
@@ -2129,6 +2321,168 @@ http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1296057.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/novo19.png" group-title="EU | FRANCE GENERAL",FR - NOVO 19 HEVC
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1296058.m3u8
 
+# --- EU | FRANCE KIDS (80) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="EU | FRANCE KIDS",##### FRANCE  KIDS  FHD #####
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56774.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png" group-title="EU | FRANCE KIDS",FR - NICKELODEON +1 FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/263872.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png" group-title="EU | FRANCE KIDS",FR - NICKELODEON FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56766.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON_JUNIOR.png" group-title="EU | FRANCE KIDS",FR - NICKELODEON JUNIOR FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56765.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEY_CHANNEL.png" group-title="EU | FRANCE KIDS",FR - DISNEY CHANNEL FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56763.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEY_JUNIOR.png" group-title="EU | FRANCE KIDS",FR - DISNEY JUNIOR FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56762.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEY_CHANNEL.png" group-title="EU | FRANCE KIDS",FR - C DISNEY CHANNEL  1 FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56773.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/TELETOON+.png" group-title="EU | FRANCE KIDS",FR - TELE TOON  FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56771.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/TELETOON+.png" group-title="EU | FRANCE KIDS",FR - TELE TOON +1 FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56770.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/Gong(1).png" group-title="EU | FRANCE KIDS",FR - GONG FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/310624.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png" group-title="EU | FRANCE KIDS",FR - CARTOONITO FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56992.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png" group-title="EU | FRANCE KIDS",FR - CARTOONITO FHD ²
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1028715.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONNETWORKFHD.png" group-title="EU | FRANCE KIDS",FR - CARTOON NETWORK FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56759.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/TV_Pitchoun_Pari.png" group-title="EU | FRANCE KIDS",FR - TV PITCHOUN FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/310625.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/BABYTV-1.png" group-title="EU | FRANCE KIDS",FR - BABY TV FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/64684.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/BOOMERANGFHD.png" group-title="EU | FRANCE KIDS",FR - BOOMERANG FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56760.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/PIWI+.png" group-title="EU | FRANCE KIDS",FR - PIWI +  FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56772.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/GULLI.png" group-title="EU | FRANCE KIDS",FR - GULLI FHD ◉
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/60119.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/MANGAS_FHD.png" group-title="EU | FRANCE KIDS",FR - MANGAS FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/63845.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/TIJIFHD.png" group-title="EU | FRANCE KIDS",FR - TIJI FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56757.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/gameone.png" group-title="EU | FRANCE KIDS",FR - GAME ONE +1 FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56883.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/gameone.png" group-title="EU | FRANCE KIDS",FR - GAME ONE FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56995.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/JONE111.png" group-title="EU | FRANCE KIDS",FR - J ONE FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56991.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="EU | FRANCE KIDS",##### FRANCE  KIDS HEVC #####
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56775.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png" group-title="EU | FRANCE KIDS",FR - NICKELODEON +1 HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/263871.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON.png" group-title="EU | FRANCE KIDS",FR - NICKELODEON HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56749.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON_JUNIOR.png" group-title="EU | FRANCE KIDS",FR - NICKELODEON JUNIOR HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56748.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEY_CHANNEL.png" group-title="EU | FRANCE KIDS",FR - DISNEY CHANNEL HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56746.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEY_JUNIOR.png" group-title="EU | FRANCE KIDS",FR - DISNEY JUNIOR HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56745.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEY_CHANNEL.png" group-title="EU | FRANCE KIDS",FR - C DISNEY CHANNEL  1 HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56756.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/TELETOON+.png" group-title="EU | FRANCE KIDS",FR - TELE TOON  HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56754.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/TELETOON+.png" group-title="EU | FRANCE KIDS",FR - TELE TOON +1 HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56753.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png" group-title="EU | FRANCE KIDS",FR - CARTOONITO HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56949.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONNETWORKFHD.png" group-title="EU | FRANCE KIDS",FR - CARTOON NETWORK HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56742.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/BABYTV-1.png" group-title="EU | FRANCE KIDS",FR - BABY TV HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/64683.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/BOOMERANGFHD.png" group-title="EU | FRANCE KIDS",FR - BOOMERANG HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56743.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/PIWI+.png" group-title="EU | FRANCE KIDS",FR - PIWI +  HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56755.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/GULLI.png" group-title="EU | FRANCE KIDS",FR - GULLI HEVC ◉
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/60098.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/MANGAS_FHD.png" group-title="EU | FRANCE KIDS",FR - MANGAS HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/64686.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/TIJIFHD.png" group-title="EU | FRANCE KIDS",FR - TIJI HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56740.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/gameone.png" group-title="EU | FRANCE KIDS",FR - GAME ONE HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56952.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/CANADA/canadafr/dark.png" group-title="EU | FRANCE KIDS",FR - TÉLÉTOON HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1028713.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/JONE111.png" group-title="EU | FRANCE KIDS",FR - J ONE HEVC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56948.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="EU | FRANCE KIDS",##### FRANCE  KIDS SD #####
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56776.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png" group-title="EU | FRANCE KIDS",FR - NICKELODEON +1 SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/263870.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON.png" group-title="EU | FRANCE KIDS",FR - NICKELODEON SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56732.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON_JUNIOR.png" group-title="EU | FRANCE KIDS",FR - NICKELODEON JUNIOR SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56731.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEY_CHANNEL.png" group-title="EU | FRANCE KIDS",FR - DISNEY CHANNEL SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56729.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEY_JUNIOR.png" group-title="EU | FRANCE KIDS",FR - DISNEY JUNIOR SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56728.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEY_CHANNEL.png" group-title="EU | FRANCE KIDS",FR - C DISNEY CHANNEL  1 SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56739.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/TELETOON+.png" group-title="EU | FRANCE KIDS",FR - TELE TOON  SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56737.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/TELETOON+.png" group-title="EU | FRANCE KIDS",FR - TELE TOON +1 SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56736.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png" group-title="EU | FRANCE KIDS",FR - CARTOONITO SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56906.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONNETWORKFHD.png" group-title="EU | FRANCE KIDS",FR - CARTOON NETWORK SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56725.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/BABYTV-1.png" group-title="EU | FRANCE KIDS",FR - BABY TV SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/64682.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/BOOMERANGFHD.png" group-title="EU | FRANCE KIDS",FR - BOOMERANG SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56726.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/PIWI+.png" group-title="EU | FRANCE KIDS",FR - PIWI +  SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56738.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/GULLI.png" group-title="EU | FRANCE KIDS",FR - GULLI SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/60080.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/MANGAS_FHD.png" group-title="EU | FRANCE KIDS",FR - MANGAS SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/64685.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/TIJIFHD.png" group-title="EU | FRANCE KIDS",FR - TIJI SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56723.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/gameone.png" group-title="EU | FRANCE KIDS",FR - GAME ONE SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56909.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/JONE111.png" group-title="EU | FRANCE KIDS",FR - J ONE SD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56905.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="EU | FRANCE KIDS",#### GOLD TV - 24/7 FRANCE ####
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1137129.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="EU | FRANCE KIDS",FR - GOLD TV 24/7 | ENFANT 1 FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/622475.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="EU | FRANCE KIDS",FR - GOLD TV 24/7 | ENFANT 2 FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/622476.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="EU | FRANCE KIDS",FR - GOLD TV 24/7 | ENFANT 3 FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/622477.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="EU | FRANCE KIDS",FR - GOLD TV 24/7 | ENFANT 4 FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/622478.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="EU | FRANCE KIDS",FR - GOLD TV 24/7 | ENFANT 5 FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/622479.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="EU | FRANCE KIDS",FR - GOLD TV 24/7 | ENFANT 6 FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/622480.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="EU | FRANCE KIDS",FR - GOLD TV 24/7 | ENFANT 7 FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/622481.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="EU | FRANCE KIDS",FR - GOLD TV 24/7 | LES SIMPSONS 1 FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/622482.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="EU | FRANCE KIDS",FR - GOLD TV 24/7 | LES SIMPSONS 2 FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/622483.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="EU | FRANCE KIDS",FR - GOLD TV 24/7 | LES SIMPSONS 3 FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/622484.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="EU | FRANCE KIDS",FR - GOLD TV 24/7 | LES SIMPSONS 4 FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/622485.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="EU | FRANCE KIDS",FR - GOLD TV 24/7 | MASHA ET MICHKA FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/622488.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="EU | FRANCE KIDS",FR - GOLD TV 24/7 | SUPER WINGS FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/622489.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="EU | FRANCE KIDS",FR - GOLD TV 24/7 | T'CHOUPI FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/622490.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="EU | FRANCE KIDS",FR - GOLD TV 24/7 | LA PAT PATROUILLE FHD
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/622491.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="EU | FRANCE KIDS",FR - GOLD TV 24/7 | DISNEY FILMS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/622469.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="EU | FRANCE KIDS",FR - GOLD TV 24/7 | ASTERIX
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/622474.m3u8
+
 # --- EU | FRANCE LIGUE 1+ (21) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="EU | FRANCE LIGUE 1+",##### FR-LIGUE 1+ #####
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1276471.m3u8
@@ -2272,6 +2626,224 @@ http://4smarts.xyz/live/Q7JNR7N/2F41MW2/287001.m3u8
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56853.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/EURONEWSHD.png" group-title="EU | FRANCE NEWS",FR - EURONEWS FRENCH SD
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/56855.m3u8
+
+# --- EU | FRANCE PLUTO TV (108) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="EU | FRANCE PLUTO TV",##### FRANCE PLUTO #####
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330318.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - STAR TREK: THE ORIGINAL SERIES
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330268.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - CINÉ BY PLUTO TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330270.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - MISSION IMPOSSIBLE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330271.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - STARSKY & HUTCH
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330272.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - FAITES ENTRER L'ACCUSÉ
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330273.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - INVESTIGATION BY PLUTO TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330274.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - CINÉ ROMANCE BY PLUTO TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330275.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - ONE PIECE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330276.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV SUPER KIDS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330277.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - LA MAISON FRANCE 5
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330278.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - MGG FAST
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330279.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV POLAR
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330280.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV BRIGADE CRIMINELLE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330281.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - FLASHPOINT
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330282.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - WALKER TEXAS RANGER
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330284.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - ALERTE COBRA
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330285.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - STARSKY & HUTCH
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330286.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - DIANE, FEMME FLIC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330287.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - LES CORDIER
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330288.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - JAG
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330289.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - MACGYVER
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330290.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - ALERTE À MALIBU
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330291.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV SÉRIES FANTASTIQUES
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330292.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV 2010'S CLASSICS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330293.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV 90'S CLASSICS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330294.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - TOUT LE MONDE DÉTESTE CHRIS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330295.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - CHEERS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330296.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - MELROSE PLACE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330297.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - DEGRASSI
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330298.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - BBC DRAMA
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330299.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - SERIES BY PLUTO TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330300.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - PLUS BELLE LA VIE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330301.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - PLUS BELLE LA VIE 2
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330302.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - UN SI GRAND SOLEIL
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330303.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - UN VILLAGE FRANÇAIS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330304.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - LOUIS LA BROCANTE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330305.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - COEUR OCÉAN
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330306.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - UN GARS, UNE FILLE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330307.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - LES FILLES D'À CÔTÉ
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330308.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - HÉLÈNE ET LES GARÇONS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330309.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - LE MIRACLE DE L'AMOUR
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330310.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - LES ANNÉES FAC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330311.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - INSTANT SAGA
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330312.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - GÉNÉRATION SITCOMS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330313.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV FRENCH COLLECTION
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330314.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - CINÉ ACTION BY PLUTO TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330315.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV GUERRE & HISTOIRE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330316.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/PlutoTV.png" group-title="EU | FRANCE PLUTO TV",FR - CINÉ SCI-FI BY PLUTO TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1330317.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/Monster Jam.png" group-title="EU | FRANCE PLUTO TV",FR - Monster Jam
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1090184.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/Pluto TV.png" group-title="EU | FRANCE PLUTO TV",FR - Pluto TV #1
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1090187.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/Pluto TV Catastrophe.png" group-title="EU | FRANCE PLUTO TV",FR - Pluto TV Catastrophe
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1090189.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/Pluto TV Rap.png" group-title="EU | FRANCE PLUTO TV",FR - Pluto TV Rap
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1090192.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/Pluto TV Western.png" group-title="EU | FRANCE PLUTO TV",FR - Pluto TV Western
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1090195.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/Qui veut gagner des millions.png" group-title="EU | FRANCE PLUTO TV",FR - Qui veut gagner des millions?
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1090196.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/Realmadrid TV.png" group-title="EU | FRANCE PLUTO TV",FR - Realmadrid TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1090197.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61325566b3c86a00078e4819/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - Top Gear
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1090204.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604930bc28b24d0007e0e171/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - Yu-Gi-Oh!
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1090208.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AUSTRALIA/INA 70.png" group-title="EU | FRANCE PLUTO TV",FR - INA 70
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1090182.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - ECHAPPÉES BELLES & CO
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363748.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV CINÉ
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363753.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV SCI-FI
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363754.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV THRILLERS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363755.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV ACTION
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363756.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV CINÉ D'ASIE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363757.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60b4d6c806ad2a00073b3108/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - WILD SIDE TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363758.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ece1a89d79800072510e6/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - THE ASYLUM
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363759.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV ROMANCE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363760.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV CINÉ RÉTRO
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363761.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f3e4bc08f5ec000744f552/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - ALERTE COBRA
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363765.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6245ceece1977a00079e2fbd/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - MELROSE PLACE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363767.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60afaa535580be0007ac9ee4/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - ALERTE À MALIBU
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363768.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV POLAR
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363770.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - BBC DRAMA
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363772.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - LOUIS LA BROCANTE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363781.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - UN GARS, UNE FILLE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363782.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60549d97cd7b090007c73314/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - LES FILLES D'À CÔTÉ
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363783.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604f8de01b479400078fb1e7/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - HÉLÈNE ET LES GARÇONS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363784.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60549c238c3f21000753d3e0/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - LE MIRACLE DE L'AMOUR
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363785.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed80fa09f120007c8daa5/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - LES CORDIER
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363786.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60afae68a7fc50000737186d/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - LES ANNÉES FAC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363787.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60afb203ec391c00070ea1bf/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - GÉNÉRATION SITCOMS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363790.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - CBS NEWS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363793.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV INVESTIGATION
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363799.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63921a3d00c96100082a3cb4/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - HOMICIDE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363800.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63921a1bf76e7d0007c998a6/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - ENQUÊTES DE CHOC
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363801.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8eb66537867f0007146953/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - CATFISH TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363803.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/612e044c970e6f00083bcf3b/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - Y'A QUE LA VÉRITÉ QUI COMPTE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363806.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e75226b7f420007c3f319/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - INAZUMA ELEVEN
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363820.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ecee24576bc0007a13b79/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV RETRO TOONS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363823.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63b579961bdba100071214cb/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - C'EST PAS SORCIER
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363829.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV ANIMAUX
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363833.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV INSIDE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363835.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV VOYAGE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363836.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60afa1508284e60007163c08/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - JUSTE POUR RIRE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363837.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - Pluto TV Comédie
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363840.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG-1608309057566.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV KIDS SERIES
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363843.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - ICARLY TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363844.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/617bae1d69bca3000729561e/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - DIGIMON ADVENTURE
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363845.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60b4c17a81e29300071d3a39/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - AVATAR
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363846.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - TORTUES NINJA TV
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363847.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e71322f5f180007001dde/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - DEGRASSI
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363848.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV KIDS ANIMATION
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363850.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV KIDS GAMING
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363854.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV JUNIOR
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363859.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625e79fe9b586d000785e330/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PUTO TV CLASSIC HIP-HOP
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363861.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619b80acac5329000740c022/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - PLUTO TV LOVE SONGS
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363865.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="EU | FRANCE PLUTO TV",FR - WPT
+http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363870.m3u8
 
 # --- EU | FRANCE SPORTS (150) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="EU | FRANCE SPORTS",##### FRANCE BEIN SPORTS #####
@@ -3020,7 +3592,7 @@ http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1018316.m3u8
 # --- VIP | PREMIER LEAGUE (42) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | PREMIER LEAGUE",##### ENGLISH #####
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1020754.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - BRIGHTON & HOVE ALBION VS AFC BOURNEMOUTH 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1100811.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1100810.m3u8
@@ -3042,7 +3614,7 @@ http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1015548.m3u8
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1015547.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | PREMIER LEAGUE",##### FRENCH #####
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1020753.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - BRIGHTON & HOVE ALBION VS AFC BOURNEMOUTH 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1100813.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1100812.m3u8
@@ -3064,7 +3636,7 @@ http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1015539.m3u8
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1015540.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | PREMIER LEAGUE",##### ARABIC #####
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1020752.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - BRIGHTON & HOVE ALBION VS AFC BOURNEMOUTH 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1100815.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1100814.m3u8
@@ -3086,7 +3658,7 @@ http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1015555.m3u8
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1015556.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="VIP | PREMIER LEAGUE",##### ALBANIAN #####
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1024114.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - BRIGHTON & HOVE ALBION VS AFC BOURNEMOUTH 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1225673.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/1182487.m3u8
@@ -3313,4 +3885,4 @@ http://4smarts.xyz/live/Q7JNR7N/2F41MW2/363875.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://4smarts.xyz/live/Q7JNR7N/2F41MW2/682940.m3u8
 
-# Total: 1631
+# Total: 1914

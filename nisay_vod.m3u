@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-20 18:42:05
+# Generated: 2026-01-21 07:08:33
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -5767,7 +5767,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138035.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoYqn1dS0DgxDsRqQ3Aqms72yGL.jpg" group-title="Movies | 3D TV",Güzel ve Çirkin 3D TV (2017)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138036.mkv
 
-# --- Movies | AMAZON (115) ---
+# --- Movies | AMAZON (116) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON",Fringe
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/214.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON",Chucky
@@ -5998,6 +5998,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1833.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1851.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON",Gece Müdürü
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1859.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON",A Knight of the Seven Kingdoms
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1870.mp4
 
 # --- Movies | BEIN/TODD (62) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | BEIN/TODD",Aile Sirketi
@@ -16087,7 +16089,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/91667.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MUZIK VOD",Bulgaria Music
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/83163.mkv
 
-# --- Movies | NETFLIX (373) ---
+# --- Movies | NETFLIX (374) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Altered Carbon
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/36.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Dogs of Berlin
@@ -16834,6 +16836,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1864.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1866.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Can This Love Be Translated?
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1867.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Agatha Christie - Yedi Kadran
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1871.mp4
 
 # --- Movies | NOSTALJI FILM (73) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJmoR4kdHEw6w8CncTKJ058RV7o.jpg" group-title="Movies | NOSTALJI FILM",Pearl Harbor (2001)
@@ -17337,7 +17341,15 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (334) ---
+# --- Movies | SON EKLENEN 300 FILM (338) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | SON EKLENEN 300 FILM",The Rip (2026)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160219.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/217ddlMrnXll436baw7y5ERmz3x.jpg" group-title="Movies | SON EKLENEN 300 FILM",Badland (2019)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160216.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5e4JWceLc71uPh47l6VT8NifqlK.jpg" group-title="Movies | SON EKLENEN 300 FILM",Boon (2022)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160217.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSgLSxoAG1Dt91dUSwnaKETmseW.jpg" group-title="Movies | SON EKLENEN 300 FILM",Hostile Territory (2022)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160218.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFQOK12Wn11cMSLbN7zfueK1BOY.jpg" group-title="Movies | SON EKLENEN 300 FILM",Suçüstü (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160172.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJm3kmd9NLZWypMas7g34oNFgbk.jpg" group-title="Movies | SON EKLENEN 300 FILM",Honey Don't! (2025)
@@ -20103,4 +20115,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9984
+# Total: 9990

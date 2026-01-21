@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-01-20 18:46:17
+# Generated: 2026-01-21 07:06:47
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -2539,11 +2539,15 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/52993.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht6EfsM5hrsUPSR4ReJQFDVU71F.jpg" group-title="Movies | Filma me titra Shqip",Roald Dahl's The Witches (2020)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/30398.mkv
 
-# --- Movies | Seriale me titra Shqip (196) ---
+# --- Movies | Seriale me titra Shqip (197) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",=====Seriale Me Titra Shqip=====
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",A Knight of the Seven Kingdoms (2026)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/285.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",HIS & HERS (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/286.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Hijack
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/159.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Pluribus (2025)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/282.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",True Detective (2014)
@@ -2720,8 +2724,6 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/164.mp4
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/162.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Invasion
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/160.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Hijack
-http://predator.digital:8080/movie/Edi/dWP7KSb4CM/159.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Time
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/157.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Secret Invasion
@@ -9003,4 +9005,4 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69012.mkv
 
-# Total: 4489
+# Total: 4490

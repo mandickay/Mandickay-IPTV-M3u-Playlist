@@ -1,13 +1,15 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvproeuropa1.com:8008
-# Generated: 2026-01-20 18:40:03
+# Generated: 2026-01-21 07:13:46
 # Expires: 2027-01-07
 # Family Safe Edition
 # ==============================================
 
 
-# --- ⚜️ROMANIA TV⚜️ (514) ---
+# --- ⚜️ROMANIA TV⚜️ (520) ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️PRO EUROPA INFO⚜️
+http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzfDK55q/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV UHD
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/33760.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSn8M9Mw/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV HD
@@ -500,6 +502,16 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/522171.m3u8
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/522170.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/a7tv.png" group-title="⚜️ROMANIA TV⚜️",A7 TV
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/331258.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfpQf3HR/resize.png" group-title="⚜️ROMANIA TV⚜️",LAS FIERBINTI SEZON 27 (2025)
+http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/533984.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/LOGO_.jpg/revision/latest/scale-to-width-down/250?cb=20250729105159" group-title="⚜️ROMANIA TV⚜️",ASIA EXPRESS (2025)
+http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/528829.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4CWVh9GeyEEmu9r2CV7tybz2RQ.jpg" group-title="⚜️ROMANIA TV⚜️",INSULA IUBIRII (2025)
+http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/531760.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFr9XmHN/GAME-OF-THRONES.jpg" group-title="⚜️ROMANIA TV⚜️",GAME OF THRONES (2011)
+http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/531762.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ2Fkp5n/HOME-ALONE.jpg" group-title="⚜️ROMANIA TV⚜️",HOME ALONE
+http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/548298.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ACTIUNE
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/557733.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ADAM SANDLER
@@ -1037,4 +1049,4 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/296305.m3u8
 
-# Total: 514
+# Total: 520

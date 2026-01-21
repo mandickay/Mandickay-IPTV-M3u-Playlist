@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fortv.cc:8080
-# Generated: 2026-01-20 18:39:13
+# Generated: 2026-01-21 07:15:06
 # Expires: 2026-01-31
 # Family Safe Edition
 # ==============================================
@@ -3383,151 +3383,121 @@ http://fortv.cc:8080/live/dmalcolmgb/entlive/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://fortv.cc:8080/live/dmalcolmgb/entlive/21091.m3u8
 
-# --- NBA (25) ---
+# --- NBA (23) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://fortv.cc:8080/live/dmalcolmgb/entlive/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://fortv.cc:8080/live/dmalcolmgb/entlive/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Milwaukee Bucks @ Atlanta Hawks | Home Stream | 01/19/2026 1:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259678.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: Milwaukee Bucks vs Atlanta Hawks @ 01:00 PM EST
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259679.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Milwaukee Bucks @ Atlanta Hawks | Away Stream | 01/19/2026 1:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259680.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Oklahoma City Thunder vs Cleveland Cavaliers @ 02:30 PM EST
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259681.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Oklahoma City Thunder @ Cleveland Cavaliers | Home Stream | 01/19/2026 2:30 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259682.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: LA Clippers vs Washington Wizards @ 03:00 PM EST
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259683.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Oklahoma City Thunder @ Cleveland Cavaliers | Away Stream | 01/19/2026 2:30 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259684.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Dallas Mavericks vs New York Knicks @ 05:00 PM EST
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259685.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Los Angeles Clippers @ Washington Wizards | Home Stream | 01/19/2026 3:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259686.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Utah Jazz vs San Antonio Spurs @ 05:00 PM EST
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259687.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Los Angeles Clippers @ Washington Wizards | Away Stream | 01/19/2026 3:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259688.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Indiana Pacers vs Philadelphia 76ers @ 07:00 PM EST
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259689.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Dallas Mavericks @ New York Knicks | Home Stream | 01/19/2026 5:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259690.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Phoenix Suns vs Brooklyn Nets @ 07:30 PM EST
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259691.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Dallas Mavericks @ New York Knicks | Away Stream | 01/19/2026 5:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259692.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 08: Boston Celtics vs Detroit Pistons @ 08:00 PM EST
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259693.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Utah Jazz @ San Antonio Spurs | Home Stream | 01/19/2026 5:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259694.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 09: Miami Heat vs Golden State Warriors @ 10:00 PM EST
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259695.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Utah Jazz @ San Antonio Spurs | Away Stream | 01/19/2026 5:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259696.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Indiana Pacers @ Philadelphia 76ers | Home Stream | 01/19/2026 7:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259697.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Indiana Pacers @ Philadelphia 76ers | Away Stream | 01/19/2026 7:00 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259698.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13: Phoenix Suns @ Brooklyn Nets | Home Stream | 01/19/2026 7:30 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259699.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 14: Phoenix Suns @ Brooklyn Nets | Away Stream | 01/19/2026 7:30 PM ET
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259700.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Phoenix Suns @ Philadelphia 76ers | Home Stream | 01/20/2026 7:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259776.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: Phoenix Suns vs Philadelphia 76ers @ 07:00 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259777.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Phoenix Suns @ Philadelphia 76ers | Away Stream | 01/20/2026 7:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259778.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: LA Clippers vs Chicago Bulls @ 08:00 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259779.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Los Angeles Clippers @ Chicago Bulls | Away Stream | 01/20/2026 8:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259780.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: San Antonio Spurs vs Houston Rockets @ 08:00 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259781.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Los Angeles Clippers @ Chicago Bulls | Home Stream | 01/20/2026 8:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259782.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Minnesota Timberwolves vs Utah Jazz @ 09:00 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259783.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: San Antonio Spurs @ Houston Rockets | Away Stream | 01/20/2026 8:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259784.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Los Angeles Lakers vs Denver Nuggets @ 10:00 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259785.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: San Antonio Spurs @ Houston Rockets | Home Stream | 01/20/2026 8:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259786.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Toronto Raptors vs Golden State Warriors @ 10:00 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259787.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Minnesota Timberwolves @ Utah Jazz | Home Stream | 01/20/2026 9:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259788.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Miami Heat vs Sacramento Kings @ 10:00 PM EST
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259789.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Minnesota Timberwolves @ Utah Jazz | Away Stream | 01/20/2026 9:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259790.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Miami Heat @ Sacramento Kings | Away Stream | 01/20/2026 10:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259791.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Los Angeles Lakers @ Denver Nuggets | Away Stream | 01/20/2026 10:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259792.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Toronto Raptors @ Golden State Warriors | Home Stream | 01/20/2026 10:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259793.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Toronto Raptors @ Golden State Warriors | Away Stream | 01/20/2026 10:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259794.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13: Los Angeles Lakers @ Denver Nuggets | Home Stream | 01/20/2026 10:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259795.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 14: Miami Heat @ Sacramento Kings | Home Stream | 01/20/2026 10:00 PM ET
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259796.m3u8
 
-# --- NCAAB (46) ---
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | NORTHEASTERN @ MONMOUTH (M) | 1.19 11:00 AM | CBSSN
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259730.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 002 | 14 OHIO STATE @ 10 TCU (W) | 1.19 12:00 PM | FOX
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259731.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 003 | DREXEL @ TOWSON (M) | 1.19 1:00 PM | CBSSN
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259732.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 004 | NIAGARA @ MOUNT ST. MARYS (W) | 1.19 1:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259733.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 005 | SAINT PETERS @ IONA (W) | 1.19 1:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259734.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 006 | VERMONT @ UALBANY (M) | 1.19 1:00 PM | ESPNU
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259735.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 007 | BROWN @ COLUMBIA (W) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259736.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 008 | BRYANT @ NJIT (M) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259737.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 009 | COLUMBIA @ YALE (M) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259738.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 010 | CORNELL @ BROWN (M) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259739.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 011 | FAIRFIELD @ SIENA (M) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259740.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 012 | HARVARD @ 22 PRINCETON (W) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259741.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 013 | IONA @ SAINT PETERS (M) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259742.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 014 | MANHATTAN @ QUINNIPIAC (M) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259743.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 015 | MARIST @ SACRED HEART (W) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259744.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 016 | MERRIMACK @ MARIST (M) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259745.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 017 | MOUNT ST. MARYS @ NIAGARA (M) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259746.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 018 | NEW HAMPSHIRE @ MAINE (M) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259747.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 019 | PENNSYLVANIA @ HARVARD (M) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259748.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 020 | QUINNIPIAC @ MERRIMACK (W) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259749.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 021 | SACRED HEART @ RIDER (M) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259750.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 022 | SIENA @ FAIRFIELD (W) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259751.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 023 | UMBC @ BINGHAMTON (M) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259752.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 024 | WAGNER @ FAIRLEIGH DICKINSON (M) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259753.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 025 | YALE @ CORNELL (W) | 1.19 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259754.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 026 | 8 MICHIGAN @ 5 VANDERBILT (W) | 1.19 2:30 PM | FOX
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259755.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 027 | SAINT JOSEPHS @ VCU (M) | 1.19 3:00 PM | CBSSN
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259756.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 028 | MCNEESE @ TEXAS A&M-CORPUS CHRISTI (M) | 1.19 4:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259757.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 029 | MOREHOUSE @ HOWARD (M) | 1.19 4:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259758.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 030 | NORTHERN ARIZONA @ MONTANA (W) | 1.19 4:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259759.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 031 | 23 NOTRE DAME @ 1 UCONN (W) | 1.19 5:00 PM | FOX
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259760.m3u8
+# --- NCAAB (33) ---
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | TOLEDO @ MASSACHUSETTS (M) | 1.20 6:00 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259809.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 002 | UT MARTIN @ SOUTHEAST MISSOURI STATE (W) | 1.20 6:15 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259810.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 003 | AKRON @ BUFFALO (M) | 1.20 6:30 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259811.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 004 | FLORIDA ATLANTIC @ CHARLOTTE (W) | 1.20 6:30 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259812.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 005 | MINNESOTA @ OHIO STATE (M) | 1.20 6:30 PM | BTN
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259813.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 006 | TOLEDO @ EASTERN MICHIGAN (W) | 1.20 6:30 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259814.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 007 | 24 SAINT LOUIS @ DUQUESNE (M) | 1.20 7:00 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259815.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 008 | 25 MIAMI (OH) @ KENT STATE (M) | 1.20 7:00 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259816.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 009 | BALL STATE @ CENTRAL MICHIGAN (M) | 1.20 7:00 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259817.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 010 | BOWLING GREEN @ WESTERN MICHIGAN (M) | 1.20 7:00 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259818.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 011 | FLORIDA STATE @ MIAMI (M) | 1.20 7:00 PM | ESPNU
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259819.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 012 | INDIANA @ 3 MICHIGAN (M) | 1.20 7:00 PM | PEACOCK
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259820.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 013 | LOYOLA CHICAGO @ ST. BONAVENTURE (M) | 1.20 7:00 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259821.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 014 | LSU @ 16 FLORIDA (M) | 1.20 7:00 PM | ESPN2
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259822.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 015 | MEMPHIS @ WICHITA STATE (W) | 1.20 7:00 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259823.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 016 | NC STATE @ 18 CLEMSON (M) | 1.20 7:00 PM | ACC NETWORK
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259824.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 017 | NORTH TEXAS @ UAB (W) | 1.20 7:00 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259825.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 018 | NORTHERN ILLINOIS @ OHIO (M) | 1.20 7:00 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259826.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 019 | OKLAHOMA @ SOUTH CAROLINA (M) | 1.20 7:00 PM | SEC NETWORK
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259827.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 020 | PROVIDENCE @ SETON HALL (W) | 1.20 7:00 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259828.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 021 | SETON HALL @ ST. JOHNS (M) | 1.20 7:00 PM | FS1
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259829.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 022 | SOUTH FLORIDA @ TEMPLE (W) | 1.20 7:00 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259830.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 023 | UCF @ 9 IOWA STATE (M) | 1.20 7:00 PM | CBSSN
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259831.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 024 | XAVIER @ CREIGHTON (W) | 1.20 7:00 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259832.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 025 | DEPAUL @ BUTLER (M) | 1.20 7:30 PM | TRUTV
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259833.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 026 | EAST CAROLINA @ UTSA (W) | 1.20 7:30 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259834.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 027 | RICE @ TULSA (W) | 1.20 7:30 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259835.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 028 | EVANSVILLE @ UIC (M) | 1.20 8:00 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259836.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 029 | KANSAS @ ARIZONA (W) | 1.20 8:00 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259837.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 030 | OKLAHOMA STATE @ TCU (M) | 1.20 8:00 PM | ESPN+
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259838.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 031 | RUTGERS @ IOWA (M) | 1.20 8:30 PM | BTN
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259839.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 032 | NORTHWESTERN @ 17 ILLINOIS (M) | 1/26 3:00 PM | BTN
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259761.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 033 | EAST TEXAS A&M @ INCARNATE WORD (M) | 1.19 6:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259762.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 034 | VALPARAISO @ UIC (W) | 1/26 3:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259763.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 035 | WICHITA STATE @ TULSA (M) | 1/26 3:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259764.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 036 | WISCONSIN @ 23 MINNESOTA (W) | 1/26 3:00 PM | B1G+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259765.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 037 | LOYOLA MARYLAND @ LEHIGH (M) | 1.19 7:00 PM | CBSSN
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259766.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 038 | RIDER @ MANHATTAN (W) | 1.19 7:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259767.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 039 | SE LOUISIANA @ UT RIO GRANDE VALLEY (M) | 1.19 7:30 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259768.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 040 | STEPHEN F. AUSTIN @ NICHOLLS (M) | 1.19 7:30 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259769.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 041 | LAMAR @ NEW ORLEANS (M) | 1.19 8:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259770.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 042 | MONTANA @ NORTHERN ARIZONA (M) | 1.19 8:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259771.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 043 | BRYANT @ BINGHAMTON (W) | 1/25 2:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259772.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 044 | NORTHWESTERN STATE @ HOUSTON CHRISTIAN (M) | 1.19 8:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259773.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 045 | NORTH CAROLINA A&T @ HAMPTON (M) | 1.19 9:00 PM | CBSSN
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259774.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 046 | NORTHERN COLORADO @ MONTANA STATE (W) | 1.19 9:00 PM | ESPN+
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259775.m3u8
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259840.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 033 | 10 MICHIGAN STATE @ OREGON (M) | 1.20 9:00 PM | FS1
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259841.m3u8
 
 # --- NFL (23) ---
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" group-title="NFL",US NFL Network
@@ -3577,31 +3547,29 @@ http://fortv.cc:8080/live/dmalcolmgb/entlive/253677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 15:
 http://fortv.cc:8080/live/dmalcolmgb/entlive/253678.m3u8
 
-# --- NHL (12) ---
+# --- NHL (11) ---
 #EXTINF:-1 tvg-logo="" group-title="NHL",US NHL Network
 http://fortv.cc:8080/live/dmalcolmgb/entlive/253636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: PIT VS SEA (TVAS Feed ) @ 5:00 pm
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259701.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: SJS VS FLA (NBCSCA Feed ) @ 6:00 pm
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259702.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: MIN VS TOR (Prime Feed ) @ 7:30 pm
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259703.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: WPG VS CHI (TVAS Feed ) @ 8:30 pm
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259704.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: NJD VS CGY (SNW Feed ) @ 9:00 pm
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259705.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: NYR VS ANA (MSG Feed ) @ 10:00 pm
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259706.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: Buffalo Sabres vs Carolina Hurricanes @ 01:30 PM
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259707.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: Washington Capitals vs Colorado Avalanche @ 04:00 PM
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259708.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: Philadelphia Flyers vs Vegas Golden Knights @ 08:00 PM
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259709.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 10: New Jersey Devils vs Calgary Flames @ 09:00 PM
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259710.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 11: New York Islanders vs Vancouver Canucks @ 10:00 PM
-http://fortv.cc:8080/live/dmalcolmgb/entlive/259711.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: MIN VS MTL (RDS Feed ) @ 7:00 pm
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259797.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: SJS VS TBL (SN Feed ) @ 7:00 pm
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259798.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: SJS VS TBL (NBCSCA Feed ) @ 7:00 pm
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259799.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: BOS VS DAL (SNE Feed ) @ 7:30 pm
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259800.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: BOS VS DAL (NESN Feed ) @ 7:30 pm
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259801.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: NJD VS EDM (SNW Feed ) @ 10:00 pm
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259802.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: NJD VS EDM (TVAS Feed ) @ 10:00 pm
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259803.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: NYR VS LAK (SN Feed ) @ 10:00 pm
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259804.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: NYR VS LAK (MSG Feed ) @ 10:00 pm
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259805.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 12: Buffalo Sabres vs Nashville Predators @ 08:00 PM
+http://fortv.cc:8080/live/dmalcolmgb/entlive/259808.m3u8
 
 # --- PERU (7) ---
 #EXTINF:-1 tvg-logo="" group-title="PERU",PE: PANAMERICANA HD
@@ -13451,4 +13419,4 @@ http://fortv.cc:8080/live/dmalcolmgb/entlive/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://fortv.cc:8080/live/dmalcolmgb/entlive/121048.m3u8
 
-# Total: 6686
+# Total: 6670

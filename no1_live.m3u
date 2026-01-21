@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-01-20 18:39:18
+# Generated: 2026-01-21 07:20:54
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1153,17 +1153,9 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (40) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aymhvxeok5gpb8iu2sat2s7nh_image-header_pDach_1761039585000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Almaty - Club Brügge (2026-01-20 15:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175443.m3u8
+# --- DE-DAZN EVENT (36) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a3uhmwusqkxeps2y6jgjhlqbp_image-header_pDach_1767645876000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Saudi Arabia Darts Masters | Viertelfinale, Halbfinale & Finale (2026-01-20 16:00:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175444.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6l6m6etq7vqo5bbl4cuxaehr7_image-header_pDach_1768299934000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Milan - Fiorentina | Viertelfinale (Hinspiel) (2026-01-20 17:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175445.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5t8bbecwb5nhv4or9c58evzvn_image-header_pDach_1766304408000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Al-Ahli - Al-Khaleej (2026-01-20 17:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175446.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cn8nff54yojt5x6aj7afbb70k_image-header_pDach_1761039764000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Bodö/Glimt - Man City (2026-01-20 17:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175447.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/zfshso1swdks22sszwg4lopu_image-header_pDach_1767690717000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Dienstags-Konferenz | 7. Spieltag (2026-01-20 19:15:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175448.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/15eoyyevteq1mbujhvo3y5h2m_image-header_pDach_1761040433000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Piräus - Bayer Leverkusen (2026-01-20 19:30:00)
@@ -5579,7 +5571,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/62557.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/f2p0og2.png" group-title="TR | MUZIK",TR: Relaxing  HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/62558.m3u8
 
-# --- TR | S SPORT (13) ---
+# --- TR | S SPORT (14) ---
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/ssport.png" group-title="TR | S SPORT",TR: S Sport HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/8020.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/ssport2.png" group-title="TR | S SPORT",TR: S Sport 2 HD
@@ -5606,6 +5598,8 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/137554.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165256.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/ssportplus10.png" group-title="TR | S SPORT",TR: S Sport Plus 10 HD (only Match Time)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165257.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TR | S SPORT",TESTDF1
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175502.m3u8
 
 # --- TR | SINEMA (81) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/turkey.png" group-title="TR | SINEMA",##### TURK SINEMA PAKETI #####
@@ -6551,4 +6545,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165884.m3u8
 
-# Total: 3217
+# Total: 3214

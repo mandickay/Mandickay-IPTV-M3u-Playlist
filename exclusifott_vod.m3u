@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-01-24 07:12:53
+# Generated: 2026-01-24 18:36:34
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -687,7 +687,7 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1524833.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dp0LlnahtNMwVk673H9fd1fat3.jpg" group-title="Movies | NETFLIX ASIA",NF - What If (2023)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1333134.mkv
 
-# --- Movies | NETFLIX KIDS (144) ---
+# --- Movies | NETFLIX KIDS (141) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wxgTMw6n1xbWfcucVD4EdRvJaOW.jpg" group-title="Movies | NETFLIX KIDS",EN - In Your Dreams (2025) (MULTI SUB)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1968321.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGaUNLF5VZbg9ovPTyjm9Rv5xWz.jpg" group-title="Movies | NETFLIX KIDS",NF - Plankton: The Movie (2025)
@@ -818,8 +818,6 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1359632.mkv
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/93036.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBWtdp8mgce4QQkH697LpaL0Iik.jpg" group-title="Movies | NETFLIX KIDS",NF - Peter Rabbit (2018)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/91353.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtwqIYSOCRwEndZTg9s6iWjEZc1.jpg" group-title="Movies | NETFLIX KIDS",NF - Pets United (2019)
-http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/294302.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPQzLZnfVw9fbXyxxglyOsmQBlu.jpg" group-title="Movies | NETFLIX KIDS",NF - Playmobil: The Movie (2019)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/137969.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | NETFLIX KIDS",NF - Pokemon: The Arceus Chronicles (Movie Version) (2022)
@@ -924,10 +922,6 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1319888.mkv
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/509022.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg" group-title="Movies | NETFLIX KIDS",NF - The Sea Beast  (2022)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/969652.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9xg4V5EDKiphgIksVJ9gewBM11.jpg" group-title="Movies | NETFLIX KIDS",NF - The Secret Life of Pets 2 (2019)
-http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/104391.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9xg4V5EDKiphgIksVJ9gewBM11.jpg" group-title="Movies | NETFLIX KIDS",NF - The Secret Life of Pets 2 (2019)
-http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/128212.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0ThmZQl5nHe4JefC2bXjqtgYp0.jpg" group-title="Movies | NETFLIX KIDS",NF - The Seven Deadly Sins: Cursed By Light (2021)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/738820.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1CSJZwI51YPGATc5iiExxfwvyg.jpg" group-title="Movies | NETFLIX KIDS",NF - The Seven Deadly Sins: Grudge of Edinburgh Part 1 (2022)
@@ -18099,4 +18093,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 9002
+# Total: 8999

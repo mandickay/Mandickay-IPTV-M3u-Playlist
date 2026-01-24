@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 593zona.live:8080
-# Generated: 2026-01-24 07:05:14
+# Generated: 2026-01-24 18:30:38
 # Expires: 2026-02-21
 # Family Safe Edition
 # ==============================================
@@ -6287,7 +6287,7 @@ http://593zona.live:8080/live/Shirley20/Shirley20/662328.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/yDcDkg5256nShkwb7J5ZelaLf2k=/0x0:1920x1080/1400x1050/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25357066/Disney__Logo_March_2024.png" group-title="⭐ | EVENTOS DISNEY+ (A LA HORA DEL EVENTO)",EVENTOS DISNEY+ 5 (SOLO EVENTOS)
 http://593zona.live:8080/live/Shirley20/Shirley20/662342.m3u8
 
-# --- ⭐ | EVENTOS PPV DEL DIA (32) ---
+# --- ⭐ | EVENTOS PPV DEL DIA (51) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kW2397C.png" group-title="⭐ | EVENTOS PPV DEL DIA",Eventos Varios #1 Tennis
 http://593zona.live:8080/live/Shirley20/Shirley20/1051257.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kW2397C.png" group-title="⭐ | EVENTOS PPV DEL DIA",CA: GOLF CHANNEL
@@ -6298,60 +6298,98 @@ http://593zona.live:8080/live/Shirley20/Shirley20/1051259.m3u8
 http://593zona.live:8080/live/Shirley20/Shirley20/1051260.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kW2397C.png" group-title="⭐ | EVENTOS PPV DEL DIA",Eventos Varios #5 Fórmula F1
 http://593zona.live:8080/live/Shirley20/Shirley20/1051261.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/87-caf-champions-league.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 11:00am Al Ahly vs Young Africans = BeinXtra
-http://593zona.live:8080/live/Shirley20/Shirley20/1054213.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/349-uefa-futsal-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 11:30am Belarus vs Belgium = VixPremiun
-http://593zona.live:8080/live/Shirley20/Shirley20/1054214.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/59-super-lig.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 12:00pm Trabzonspor vs Kasımpaşa = BeinXtra En Espanol
-http://593zona.live:8080/live/Shirley20/Shirley20/1054215.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/118-2-bundesliga.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 12:30pm Darmstadt 98 vs Nürnberg = SkyBundesLiga
-http://593zona.live:8080/live/Shirley20/Shirley20/1054216.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/118-2-bundesliga.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 12:30pm Arminia Bielefeld vs Holstein Kiel = SkyBundesLiga
-http://593zona.live:8080/live/Shirley20/Shirley20/1054217.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/545-frauen-bundesliga.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 12:30pm Union Berlin vs Bayer Leverkusen = Dazn1 DE
-http://593zona.live:8080/live/Shirley20/Shirley20/1054218.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/87-caf-champions-league.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 01:00pm Mamelodi Sundowns vs Al Hilal Omdurman = BeinXtra
-http://593zona.live:8080/live/Shirley20/Shirley20/1054219.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/230-fa-wsl.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 02:00pm Everton vs Brighton & Hove Albion = SkySportsPremier
-http://593zona.live:8080/live/Shirley20/Shirley20/1054220.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/349-uefa-futsal-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 02:30pm Slovenia vs Spain = Espn2Mx
-http://593zona.live:8080/live/Shirley20/Shirley20/1054221.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/349-uefa-futsal-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 02:30pm Slovenia vs Spain = VixPremiun
-http://593zona.live:8080/live/Shirley20/Shirley20/1054222.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/19-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 03:00pm Derby County vs West Bromwich Albion = Espn7 Sur
-http://593zona.live:8080/live/Shirley20/Shirley20/1054223.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/19-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 03:00pm Derby County vs West Bromwich Albion = SkySportsMain
-http://593zona.live:8080/live/Shirley20/Shirley20/1054224.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/19-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 03:00pm Derby County vs West Bromwich Albion = Espn3Mx
-http://593zona.live:8080/live/Shirley20/Shirley20/1054225.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/9-liga-sagres.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 03:15pm Casa Pia vs AVS = Sportv1
-http://593zona.live:8080/live/Shirley20/Shirley20/1054226.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 05:00pm San Lorenzo vs Lanús = TNT Sports
-http://593zona.live:8080/live/Shirley20/Shirley20/1054227.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 05:00pm San Lorenzo vs Lanús = TycSports
-http://593zona.live:8080/live/Shirley20/Shirley20/1054228.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 06:00pm Independiente vs Estudiantes = EspnPremiun
-http://593zona.live:8080/live/Shirley20/Shirley20/1054229.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/34-primera-a.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 06:20pm Inter Bogotá vs Cúcuta Deportivo = RCN
-http://593zona.live:8080/live/Shirley20/Shirley20/1054230.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/207-liga-de-ascenso.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 08:00pm Tepatitlán vs Tapatío = AYM
-http://593zona.live:8080/live/Shirley20/Shirley20/1054231.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/207-liga-de-ascenso.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 08:00pm Mineros de Zacatecas vs CA La Paz = EspnMx
-http://593zona.live:8080/live/Shirley20/Shirley20/1054232.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 08:15pm Independiente Rivadavia vs Atlético Tucumán = TNT Sports
-http://593zona.live:8080/live/Shirley20/Shirley20/1054233.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 08:15pm Talleres Córdoba vs Newell's Old Boys = Espn Sur
-http://593zona.live:8080/live/Shirley20/Shirley20/1054234.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 08:15pm Talleres Córdoba vs Newell's Old Boys = EspnPremiun
-http://593zona.live:8080/live/Shirley20/Shirley20/1054235.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/34-primera-a.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 08:30pm Deportes Tolima vs Alianza = RCN
-http://593zona.live:8080/live/Shirley20/Shirley20/1054236.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/138-a-league.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 11:00pm Auckland vs Central Coast Mariners = TNT 2
-http://593zona.live:8080/live/Shirley20/Shirley20/1054237.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/882-serie-rio-de-la-plata.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 05:45pm Colón vs Paysandu = EspnPremiun
-http://593zona.live:8080/live/Shirley20/Shirley20/1054238.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/882-serie-rio-de-la-plata.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/23 Soccer 07:55pm Deportes Concepción vs Torque = EspnPremiun
-http://593zona.live:8080/live/Shirley20/Shirley20/1054239.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/19-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 07:30am Millwall vs Charlton Athletic = SkySportsMain
+http://593zona.live:8080/live/Shirley20/Shirley20/1054357.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/19-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 07:30am Middlesbrough vs Preston North End = CbsSports
+http://593zona.live:8080/live/Shirley20/Shirley20/1054358.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/230-fa-wsl.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 07:30am Chelsea FC vs Arsenal = Espn5
+http://593zona.live:8080/live/Shirley20/Shirley20/1054359.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/247-ligue-2.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 08:00am Guingamp vs Troyes = BeinSportsLatino
+http://593zona.live:8080/live/Shirley20/Shirley20/1054360.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/349-uefa-futsal-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 08:30am Italy vs Portugal = VixPremiun
+http://593zona.live:8080/live/Shirley20/Shirley20/1054361.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/114-serie-b.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 09:00am Cesena vs Bari 1908 -= FoxSoccer
+http://593zona.live:8080/live/Shirley20/Shirley20/1054362.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/817-copa-america-de-futsal.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 10:00am Bolivia vs Chile = VixPremiun
+http://593zona.live:8080/live/Shirley20/Shirley20/1054363.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/13-eredivisie.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 10:30am Ajax vs Volendam = Espn2Mx
+http://593zona.live:8080/live/Shirley20/Shirley20/1054364.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/87-caf-champions-league.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 11:00am ES Tunis vs Simba = BeinXtra
+http://593zona.live:8080/live/Shirley20/Shirley20/1054365.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/349-uefa-futsal-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 11:30am Hungary vs Poland = VixPremiun
+http://593zona.live:8080/live/Shirley20/Shirley20/1054366.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/817-copa-america-de-futsal.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 12:30pm Brazil vs Colombia = Caracol
+http://593zona.live:8080/live/Shirley20/Shirley20/1054367.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/270-pro-league.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 12:30pm NEOM vs Al-Ahli = FoxSoccer
+http://593zona.live:8080/live/Shirley20/Shirley20/1054368.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/777-copa-del-reina.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 01:00pm Barcelona vs Real Madrid = TDP
+http://593zona.live:8080/live/Shirley20/Shirley20/1054369.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/9-liga-sagres.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 01:00pm Arouca vs Sporting CP = Sportv1
+http://593zona.live:8080/live/Shirley20/Shirley20/1054370.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/34-primera-a.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 02:00pm Deportivo Pereira vs Fortaleza CEIF = RCN
+http://593zona.live:8080/live/Shirley20/Shirley20/1054371.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/13-eredivisie.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 02:00pm PSV vs NAC Breda = Espn3 Mx
+http://593zona.live:8080/live/Shirley20/Shirley20/1054372.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 03:00pm Barracas Central vs River Plate = EspnPremiun
+http://593zona.live:8080/live/Shirley20/Shirley20/1054373.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 03:00pm Barracas Central vs River Plate = TycSports
+http://593zona.live:8080/live/Shirley20/Shirley20/1054374.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/817-copa-america-de-futsal.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 03:00pm Ecuador vs Uruguay =  VixPremiun
+http://593zona.live:8080/live/Shirley20/Shirley20/1054375.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/9-liga-sagres.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 03:30pm Estoril vs Vitória Guimarães = Sportv2
+http://593zona.live:8080/live/Shirley20/Shirley20/1054376.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/34-primera-a.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 04:10pm Llaneros vs Atlético Bucaramanga = RCN
+http://593zona.live:8080/live/Shirley20/Shirley20/1054377.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/548-concacaf-womens-u17-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 05:00pm Dominican Republic U17 vs Dominica U17 = FS2
+http://593zona.live:8080/live/Shirley20/Shirley20/1054378.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 05:30pm Gimnasia La Plata vs Racing Club = TNT Sports
+http://593zona.live:8080/live/Shirley20/Shirley20/1054379.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 05:30pm Gimnasia La Plata vs Racing Club = TyCSports
+http://593zona.live:8080/live/Shirley20/Shirley20/1054380.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/488-friendly-women.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 05:30pm USA vs Paraguay = Universo
+http://593zona.live:8080/live/Shirley20/Shirley20/1054381.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/817-copa-america-de-futsal.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 05:30pm Paraguay vs Peru = VixPremiun
+http://593zona.live:8080/live/Shirley20/Shirley20/1054382.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/700-liga-mx-femenil.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 05:30pm Atlético San Luis vs Tijuana = Espn4Mx
+http://593zona.live:8080/live/Shirley20/Shirley20/1054383.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/548-concacaf-womens-u17-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 06:00pm Trinidad and Tobago U17 vs Curaçao U17 = FoxSoccer
+http://593zona.live:8080/live/Shirley20/Shirley20/1054384.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/207-liga-de-ascenso.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 06:00pm Atlante vs CDS Tampico Madero = AztecaDeportes
+http://593zona.live:8080/live/Shirley20/Shirley20/1054385.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/38-liga-nacional.jpg?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 06:15pm Juticalpa vs Choloma = TVC Deportes Hn
+http://593zona.live:8080/live/Shirley20/Shirley20/1054386.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/34-primera-a.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 06:20pm Deportivo Cali vs Medellín = RCN
+http://593zona.live:8080/live/Shirley20/Shirley20/1054387.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/77-campeonato-mineiro.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 06:30pm Uberlândia vs América Mineiro = Premiertv
+http://593zona.live:8080/live/Shirley20/Shirley20/1054388.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/76-campeonato-carioca.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 07:00pm Botafogo vs Bangu = Sportv
+http://593zona.live:8080/live/Shirley20/Shirley20/1054389.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/207-liga-de-ascenso.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 07:00pm Tlaxcala vs Irapuato = Espn3 Mx
+http://593zona.live:8080/live/Shirley20/Shirley20/1054390.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/700-liga-mx-femenil.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 07:00pm Juárez vs Cruz Azul = FoxDeportes
+http://593zona.live:8080/live/Shirley20/Shirley20/1054391.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/90-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 07:00pm Puntarenas vs Guadalupe = TigoSports
+http://593zona.live:8080/live/Shirley20/Shirley20/1054392.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 08:00pm Rosario Central vs Belgrano = EspnPremiun
+http://593zona.live:8080/live/Shirley20/Shirley20/1054393.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 08:00pm Rosario Central vs Belgrano = TycSports
+http://593zona.live:8080/live/Shirley20/Shirley20/1054394.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/548-concacaf-womens-u17-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 08:00pm Nicaragua U17 vs Belize U17 = FoxSoccer
+http://593zona.live:8080/live/Shirley20/Shirley20/1054395.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/207-liga-de-ascenso.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 08:00pm Cancún vs Alebrijes de Oaxaca = AYM
+http://593zona.live:8080/live/Shirley20/Shirley20/1054396.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/34-primera-a.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 08:30pm Boyacá Chicó vs América de Cali = RCN
+http://593zona.live:8080/live/Shirley20/Shirley20/1054397.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/38-liga-nacional.jpg?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 08:30pm Real España vs Olancho = TVC Deportes Hn
+http://593zona.live:8080/live/Shirley20/Shirley20/1054398.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/90-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 09:00pm Alajuelense vs San Carlos = Futv
+http://593zona.live:8080/live/Shirley20/Shirley20/1054399.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/207-liga-de-ascenso.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 09:00pm Venados vs Dorados = LatinAmericas
+http://593zona.live:8080/live/Shirley20/Shirley20/1054400.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/700-liga-mx-femenil.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 09:06pm Tigres UANL vs Atlas = FoxDeportes
+http://593zona.live:8080/live/Shirley20/Shirley20/1054401.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/553-w-league.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/24 Soccer 10:00pm Wellington Phoenix vs Adelaide United = TNT 2
+http://593zona.live:8080/live/Shirley20/Shirley20/1054402.m3u8
 
 # --- ⭐ | EVENTOS UFC - BOX - WWE (18) ---
 #EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2024/01/rerer-1.jpg" group-title="⭐ | EVENTOS UFC - BOX - WWE",EVE | 01 NETFLIX WWE
@@ -6391,43 +6429,35 @@ http://593zona.live:8080/live/Shirley20/Shirley20/1047073.m3u8
 #EXTINF:-1 tvg-logo="http://novatv.us:80/images/e5Dm5xXpV7xsyO75rxsOH52w_EJ9T7fAvOg9FvziWpT9kUV1RKYlxt3CkExdAeguFwx0tK61gutBtWq6eSEd04y1EuyAOq9SCbgAbSZ3FxJuNY60xvr3ojZvjiMovu69iXCGBNAbdPhCMnpBVfjw3RXIMydT2puvfjHhJQG9LHg.png" group-title="⭐ | EVENTOS UFC - BOX - WWE",EVE | 19 UFC FIGHT PASS 5
 http://593zona.live:8080/live/Shirley20/Shirley20/1047074.m3u8
 
-# --- ⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA (18) ---
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tml3UkaxysnE3AHfsoevHb9vjh5HipOOxGz6r4utB5_cj58cwq6Y1E9ieQNGad29n45jKLDtR9xOwq-vmCcBiW8g.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 NBA 07:00pm Detroit Pistons vs Houston Rockets
-http://593zona.live:8080/live/Shirley20/Shirley20/1054240.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmumCLqXBqWZbs_1US_ZRlhDwwutTtUiJioSoSxF5hMSQ44jj1Em6cbOqcRsEPthvyNxY_nFqkt0ZsvQl2lTvwrw.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 NBA 07:30pm Cleveland Cavaliers vs Sacramento Kings
-http://593zona.live:8080/live/Shirley20/Shirley20/1054241.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmrGeWYc43AiXzxWMllvPhfH7dCAGMUxAWlfrYMxL6JZ8qQcHIaOoBKOM7ghmbDx5fWkVmJ3wfATB5gooJECD0Vw.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 NBA 07:30pm Atlanta Hawks vs Phoenix Suns
-http://593zona.live:8080/live/Shirley20/Shirley20/1054242.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmqtLKLHfHH6CEXayJuYEyTn-ayMr7XDwj8UcB9TTf35msavENxMF4I6MTGxnR1v5Zm8lHpNJzKKiPpRM87ml26Q.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 NBA 07:30pm Brooklyn Nets vs Boston Celtics
-http://593zona.live:8080/live/Shirley20/Shirley20/1054243.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmowSaZpD2-lqAq-CEJe4gUpfKyfH-HMuEvRYHQm38VncS13mWoUEtVmOpHnaVyhUzzR_n4xwzU32B5I8vRrtVoE.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 NBA 08:00pm Memphis Grizzlies vs New Orleans Pelicans
-http://593zona.live:8080/live/Shirley20/Shirley20/1054244.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmuz6ifINCetBVtg77_YHktLFzr6MaFvaRhHmOw3QbwQ36KiuTij3XTmjJx9y_f_Uy7dhvxRNEWLLF5lfijqUB5Y.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 NBA 08:00pm Oklahoma City Thunder vs Indiana Pacers
-http://593zona.live:8080/live/Shirley20/Shirley20/1054245.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmgAaqOLOnygWg4v3PWbNYBWU_4IUZzX0cur1JtM6Tm3skpDUa9HmhpoqFlVmb3JiKjllLHOB2FPD7km4Thb2K9k.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 NBA 09:30pm Milwaukee Bucks vs Denver Nuggets
-http://593zona.live:8080/live/Shirley20/Shirley20/1054246.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmrq7WRU4716lZ7gPkEKncNihTWNdhmm-0mpcMk6OuMBBKF57g5HqLpO7s4xFEMA0HAIy4ZxLnWUxhEDqJLl_pMo.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 NBA 10:00pm Portland Trail Blazers vs Toronto Raptors
-http://593zona.live:8080/live/Shirley20/Shirley20/1054247.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmvnrd8qBw-fwY8c53VpYaF2hgHRFsxZ4hTds_lK4sr6cwKYcjZVsoCXjK5wjLvDvbP_FFsDhmX58eAghGuMqwAs.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 NHL 07:00pm Toronto Maple Leafs vs Vegas Golden Knights
-http://593zona.live:8080/live/Shirley20/Shirley20/1054248.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmgZSostgtIgHTu1J9tirW5-p4n3ROXEgtLjd210swEIaltZbW2gXPM0UsUfFdeVoZTBbXqwTkEl8Vp849aCPHCo.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 NHL 07:00pm Chicago Blackhawks vs Tampa Bay Lightning
-http://593zona.live:8080/live/Shirley20/Shirley20/1054249.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmh2uc4EE9zS9zuCa0v1GuJ3FLbYussyXL4tbGw26My3_M5Fs4KJFRJIx_jPIxa79jkiHtQ7U-b7bbKuSMvbbsnk.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 NHL 09:00pm Colorado Avalanche vs Philadelphia Flyers
-http://593zona.live:8080/live/Shirley20/Shirley20/1054251.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmluNGoORhVtwrap5n9UGXR-t45NbMNHcr8EzJyAnGGMCOo1Iz729Y6LNtgXfiOc3FEONd3kme2t5nIaGZWlRZfQ.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 NHL 09:00pm Calgary Flames vs Washington Capitals
-http://593zona.live:8080/live/Shirley20/Shirley20/1054252.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmsamAC5bgQFBc-RG4_YYpGWdQaE-X5KaO7mcKAtxWnMLW6Z436Nj8O_A0gs2NHRQyVXjWdKuDHTabrtySmqyz_o.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 NHL 10:00pm Seattle Kraken vs Anaheim Ducks
-http://593zona.live:8080/live/Shirley20/Shirley20/1054253.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmgypTf4pW3XJg-U_3mP06eK2fTKtzn1pD1qpJGhqHpZV1XnqfZULSdShLlg89x5kXzMP1RzGCy52obP2o7m4KbI.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 NHL 10:00pm Vancouver Canucks vs New Jersey Devils
-http://593zona.live:8080/live/Shirley20/Shirley20/1054254.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmkoYL3ejOLZzLJgfsvJuJRLBFJFfFUROukljMynI0nfqAbnQPKHd8GlCW5eklsi4p0H26u1oL5Xsb3Cncap2qEA.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 NHL 10:00pm San Jose Sharks vs New York Rangers
-http://593zona.live:8080/live/Shirley20/Shirley20/1054255.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tms5HKFWZztTBfEOBeCJS625lm106hdTUNRLyfJBXfaFAsLrUQMOzOUHMrbBsVKj3OKqvXB8G-UzIOu0d1KwroSM.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 07:00pm Australian Open = EspnDeportes
-http://593zona.live:8080/live/Shirley20/Shirley20/1054256.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tms5HKFWZztTBfEOBeCJS625lm106hdTUNRLyfJBXfaFAsLrUQMOzOUHMrbBsVKj3OKqvXB8G-UzIOu0d1KwroSM.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 07:00pm Australian Open = TENNIS CHANNEL
-http://593zona.live:8080/live/Shirley20/Shirley20/1054257.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tms5HKFWZztTBfEOBeCJS625lm106hdTUNRLyfJBXfaFAsLrUQMOzOUHMrbBsVKj3OKqvXB8G-UzIOu0d1KwroSM.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/23 07:00pm Australian Open = TSN
-http://593zona.live:8080/live/Shirley20/Shirley20/1054258.m3u8
+# --- ⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA (14) ---
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmmLJ0laemCmiGPfuRZjNvNc51h67qfcZcGWN0iPfyS88A7UfITPMERoiwA_wGKpBqgLPM5H2ORImVgP-bz4ZuyU.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/24 NBA 03:00pm Philadelphia 76ers vs New York Knicks
+http://593zona.live:8080/live/Shirley20/Shirley20/1054341.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmlAM7paJNO6T617iLhmnvlOM6n1QLwFar2dsbjCc_HkSsj76gioVHlSWPWhz6DiQ_DKZ3UkUPsiH0KWOZrAlQQk.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/24 NBA 05:30pm Minnesota Timberwolves vs Golden State Warriors
+http://593zona.live:8080/live/Shirley20/Shirley20/1054342.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmgrGwF4fbGBTwC4tYMen493YhhVDphsNHtW4UTPVyBUZTXoLnm6vDeCQTfkX0T1ziHPwV2Ui8TXxn0oM_9TOsG4.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/24 NBA 06:00pm Charlotte Hornets vs Washington Wizards
+http://593zona.live:8080/live/Shirley20/Shirley20/1054343.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmkvTti6OGVZps9ghONAjmLcY9_G9qgNRvi6U7KkG6XXeQnHWnj5feZ3jsEybascI5ypS5ozrytw98z0llXAg_f8.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/24 NBA 07:00pm Orlando Magic vs Cleveland Cavaliers
+http://593zona.live:8080/live/Shirley20/Shirley20/1054344.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmhA8TuZE73xhLKZhPT5hKN43haHzCckwKlhjSfo_UwKYMVxuExQVmKXkbO8sSn3JC4qHAo373sulA9sBIobZY6c.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/24 NBA 08:00pm Chicago Bulls vs Boston Celtics
+http://593zona.live:8080/live/Shirley20/Shirley20/1054345.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmnJcJ0y-ACzK_17AI7TerkH1drcpWJPeQ982k9c4DbAzme0rM_09HZBaUFf_k8Xx0nps86EgNKAPd__TC8Sgwis.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/24 NBA 08:30pm Dallas Mavericks vs Los Angeles Lakers
+http://593zona.live:8080/live/Shirley20/Shirley20/1054346.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmmgw19t3LMQu0jxUlire7nYLpgivkmNmCMTaHoyctooGxl5yILY64N09zHVbolHa3DaPxXNBY8mnr-7iT8YDJXM.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/24 NBA 09:30pm Utah Jazz vs Miami Heat
+http://593zona.live:8080/live/Shirley20/Shirley20/1054347.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmoJd4jEW2tMOBa9r9QaDdt11wfGmicGOQK3ybbeGA_l_DndJqD9W7bl8eNYJxb4JiYlH2jIz1ulLQcp3gEETDNo.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/24 NHL 01:00pm New York Islanders vs Buffalo Sabres
+http://593zona.live:8080/live/Shirley20/Shirley20/1054348.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmsjeQhTzjoSjZRNX3yjX2PB1BDVY_tCL1Hbxg03586MinNURc22sg5ybu_uzPgVN-4qjOY_OMkIQcEvFiXULkwg.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/24 NHL 03:30pm Nashville Predators vs Utah Mammoth
+http://593zona.live:8080/live/Shirley20/Shirley20/1054349.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmmtwZOm0fszxylG8g5Fcj12eTBTxXlQYL6URiuxWmQ5tmFqLnRgHfImpMKsTOOUBUq1sZQF6p6cfef0wRejUkcE.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/24 NHL 07:00pm Boston Bruins vs Montreal Canadiens
+http://593zona.live:8080/live/Shirley20/Shirley20/1054350.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmqQh_-9IyF6kFhNn9YsNe1wikB-PY4RpS3Ft33DuTPcQqNDAMJaom5dKJDcSMGVkADFQ_goq2K53gfCTLNkUFlA.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/24 NHL 07:00pm Winnipeg Jets vs Detroit Red Wings
+http://593zona.live:8080/live/Shirley20/Shirley20/1054351.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmhkL-lCEt0rsGaGfkguy_HSIITfL1J4gW8qdnsFDpjCYclTrlH7UKHkFwv4oltFReQ7s2-3gVxI1Hdjdu0VWK6s.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/24 NHL 07:00pm Ottawa Senators vs Carolina Hurricanes
+http://593zona.live:8080/live/Shirley20/Shirley20/1054352.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmhQZdauN4P5bJooIEdfEtSFsju-0Fpe2rZY53QJJ2WGkug8ZiMYli02M08KAYdS4MAKFpCgp01z09wWe7hT9rV8.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/24 NHL 09:00pm Minnesota Wild vs Florida Panthers
+http://593zona.live:8080/live/Shirley20/Shirley20/1054355.m3u8
+#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmt5R6f9VbF4V6AKNXC6axR8pNBlciOuO1WZuyms4JupclhsF7S1MZMa3v9NgYpPZ3IEc3QJZ_EnkU9FcfV7wvd4.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/24 NHL 10:00pm Edmonton Oilers vs Washington Capitals
+http://593zona.live:8080/live/Shirley20/Shirley20/1054356.m3u8
 
 # --- ⭐ | NETFLIX CINEMA (12) ---
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" group-title="⭐ | NETFLIX CINEMA",✨24/7 MOV NETFLIX KIDS (01)
@@ -7209,15 +7239,55 @@ http://593zona.live:8080/live/Shirley20/Shirley20/841653.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/dee5cd/prime-video/1366_2000.jpg" group-title="⭐️ | AMAZON CINEMA",✨24/7 MOVIES AMAZON (03)
 http://593zona.live:8080/live/Shirley20/Shirley20/841654.m3u8
 
-# --- ⭐️ | EVENTOS FÚTBOL - EUROPA (4) ---
-#EXTINF:-1 tvg-logo="https://www.lfp.fr/assets/LFP_REVEAL_WEB_LFP_RS_1280x1600_b0591cf653.jpg" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",LIGUE 1 • 01 | 15:00 Auxerre vs PSG 23/01
-http://593zona.live:8080/live/Shirley20/Shirley20/1045531.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/010/994/305/non_2x/bundesliga-logo-symbol-white-design-germany-football-european-countries-football-teams-illustration-with-red-background-free-vector.jpg" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",BUNDESLIGA • 01 | 14:30 St. Pauli vs Hamburger SV 23/01
-http://593zona.live:8080/live/Shirley20/Shirley20/1045511.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FLRLq3RM/image.png" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",SERIE A • 01 | 15:45 Internazionale vs Pisa 23/01
-http://593zona.live:8080/live/Shirley20/Shirley20/1045521.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGyTMUlsYVoq4JtofNCRH2Qb8Gd4o_AanDkuI6zjej3dDjFrx2zjx4bk&s=10" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",LALIGA • 01 | 16:00 Levante vs Elche 23/01
+# --- ⭐️ | EVENTOS FÚTBOL - EUROPA (24) ---
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kcv5ZPM5/image.png" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",EPL • 01 | 08:30 West Ham United vs Sunderland 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045491.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kcv5ZPM5/image.png" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",EPL • 02 |  08:30 West Ham United vs Sunderland 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045492.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kcv5ZPM5/image.png" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",EPL • 03 | 11:00 Fulham vs Brighton & Hove Albion 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045493.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kcv5ZPM5/image.png" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",EPL • 06 | 11:00 Manchester City vs Wolverhampton Wanderers 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045496.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kcv5ZPM5/image.png" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",EPL • 07 | 13:30 AFC Bournemouth vs Liverpool 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045497.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kcv5ZPM5/image.png" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",EPL • 08 | 13:30 AFC Bournemouth vs Liverpool 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045498.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGyTMUlsYVoq4JtofNCRH2Qb8Gd4o_AanDkuI6zjej3dDjFrx2zjx4bk&s=10" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",LALIGA • 01 | 09:00 Rayo Vallecano vs Osasuna 24/01
 http://593zona.live:8080/live/Shirley20/Shirley20/1045501.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGyTMUlsYVoq4JtofNCRH2Qb8Gd4o_AanDkuI6zjej3dDjFrx2zjx4bk&s=10" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",LALIGA • 02 | 09:00 Rayo Vallecano vs Osasuna 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045502.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGyTMUlsYVoq4JtofNCRH2Qb8Gd4o_AanDkuI6zjej3dDjFrx2zjx4bk&s=10" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",LALIGA • 03 | 11:15 Valencia vs Espanyol 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045503.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGyTMUlsYVoq4JtofNCRH2Qb8Gd4o_AanDkuI6zjej3dDjFrx2zjx4bk&s=10" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",LALIGA • 04 | 11:15 Valencia vs Espanyol 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045504.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGyTMUlsYVoq4JtofNCRH2Qb8Gd4o_AanDkuI6zjej3dDjFrx2zjx4bk&s=10" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",LALIGA • 05 | 13:30 evilla vs Athletic Club 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045505.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGyTMUlsYVoq4JtofNCRH2Qb8Gd4o_AanDkuI6zjej3dDjFrx2zjx4bk&s=10" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",LALIGA • 06 | Villarreal vs Real Madrid 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045506.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGyTMUlsYVoq4JtofNCRH2Qb8Gd4o_AanDkuI6zjej3dDjFrx2zjx4bk&s=10" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",LALIGA • 07 | Villarreal vs Real Madrid 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045507.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FLRLq3RM/image.png" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",SERIE A • 01 |Como vs Torino 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045521.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FLRLq3RM/image.png" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",SERIE A • 02 | 13:00 Fiorentina vs Cagliari 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045522.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FLRLq3RM/image.png" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",SERIE A • 03 | 13:00 Fiorentina vs Cagliari 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045523.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FLRLq3RM/image.png" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",SERIE A • 04 | 15:45Lecce vs Lazio 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045524.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/010/994/305/non_2x/bundesliga-logo-symbol-white-design-germany-football-european-countries-football-teams-illustration-with-red-background-free-vector.jpg" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",BUNDESLIGA • 01 | 10:30 Bayern München vs Augsburg 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045511.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/010/994/305/non_2x/bundesliga-logo-symbol-white-design-germany-football-european-countries-football-teams-illustration-with-red-background-free-vector.jpg" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",BUNDESLIGA • 02 | 10:30 Mainz 05 vs Wolfsburg 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045512.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/010/994/305/non_2x/bundesliga-logo-symbol-white-design-germany-football-european-countries-football-teams-illustration-with-red-background-free-vector.jpg" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",BUNDESLIGA • 03 | 10:30 Bayer Leverkusen vs Werder Bremen 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045513.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/010/994/305/non_2x/bundesliga-logo-symbol-white-design-germany-football-european-countries-football-teams-illustration-with-red-background-free-vector.jpg" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",BUNDESLIGA • 04 | 13:30 Union Berlin vs Borussia Dortmund 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045514.m3u8
+#EXTINF:-1 tvg-logo="https://www.lfp.fr/assets/LFP_REVEAL_WEB_LFP_RS_1280x1600_b0591cf653.jpg" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",LIGUE 1 • 01 | 12:00 Rennes vs Lorient 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045531.m3u8
+#EXTINF:-1 tvg-logo="https://www.lfp.fr/assets/LFP_REVEAL_WEB_LFP_RS_1280x1600_b0591cf653.jpg" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",LIGUE 1 • 02 | 14:00 Le Havre vs Monaco 24/01
+http://593zona.live:8080/live/Shirley20/Shirley20/1045532.m3u8
+#EXTINF:-1 tvg-logo="https://www.lfp.fr/assets/LFP_REVEAL_WEB_LFP_RS_1280x1600_b0591cf653.jpg" group-title="⭐️ | EVENTOS FÚTBOL - EUROPA",LIGUE 1 • 03 | 16:05 Olympique Marseille vs Lens 24/12
+http://593zona.live:8080/live/Shirley20/Shirley20/1045533.m3u8
 
 # --- ⭐️ | HBO CINEMA (30) ---
 #EXTINF:-1 tvg-logo="http://wolkplay.com:80/images/xEvaOFQbbArDVATVOes4SCNT2AwVOINR3fEWR7_9mINP3iqHNreI7mzJhmkHc16K4Uu2_ayBmdoLco9Kup6MoHCbhP8bAtU8V8qhThTy4HlazFx2qdQesOCHpA9a4YKSYnWDOTT3E5A5njgPuLthoA.jpg" group-title="⭐️ | HBO CINEMA",✨24/7 MOVIES HBO (01)
@@ -7281,4 +7351,4 @@ http://593zona.live:8080/live/Shirley20/Shirley20/871822.m3u8
 #EXTINF:-1 tvg-logo="http://wolkplay.com:80/images/xEvaOFQbbArDVATVOes4SCNT2AwVOINR3fEWR7_9mINP3iqHNreI7mzJhmkHc16K4Uu2_ayBmdoLco9Kup6MoHCbhP8bAtU8V8qhThTy4HlazFx2qdQesOCHpA9a4YKSYnWDOTT3E5A5njgPuLthoA.jpg" group-title="⭐️ | HBO CINEMA",✨24/7 MOVIES HBO (22)
 http://593zona.live:8080/live/Shirley20/Shirley20/871823.m3u8
 
-# Total: 3532
+# Total: 3567

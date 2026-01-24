@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-01-24 07:08:11
+# Generated: 2026-01-24 18:27:45
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -7375,6 +7375,10 @@ http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2670.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sci-Fi & Fantasy",The Pendragon Cycle: Rise of the Merlin
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2683.mp4
 
+# --- Movies | Science Fiction (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Science Fiction",A Knight of the Seven Kingdoms
+http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2688.mp4
+
 # --- Movies | Soap (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Soap",Dallas
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/1872.mp4
@@ -7571,4 +7575,4 @@ http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2592.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The Last Frontier
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2673.mp4
 
-# Total: 3741
+# Total: 3742

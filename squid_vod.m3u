@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-24 07:07:36
+# Generated: 2026-01-24 18:33:05
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -5905,7 +5905,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (625) ---
+# --- Movies | Filme 2025 (626) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2//9jpq7YSNIwY4Wua15QM0lmGp3zn.jpg" group-title="Movies | Filme 2025",Jaras Enzar 2 - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67222.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArDLn658OjT3dMThIi4GDQJRuY3.jpg" group-title="Movies | Filme 2025",Truth & Treason - 2025
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67201.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WtE3XOgnYRkB5vagppTX9TdUOj.jpg" group-title="Movies | Filme 2025",The Orphans - 2025
@@ -7171,7 +7173,13 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66568.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE3nySukwrfUjouz8vzvKTcXNC.jpg" group-title="Movies | Filme 2026",Oscar Shaw (2026)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65748.mp4
 
-# --- Movies | Filme Actiune (525) ---
+# --- Movies | Filme Actiune (528) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0Vt3wx8ciKmPt4iXPx9sH4HBVU.jpg" group-title="Movies | Filme Actiune",The Grey - 2012
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67229.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZReMWU3zszvaktDUqOoWCzHssZ.jpg" group-title="Movies | Filme Actiune",Behind Enemy Lines - 2001
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67228.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2PkTPT5D9zB8SIm5wNlDAANEqM.jpg" group-title="Movies | Filme Actiune",2012 - 2009
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67227.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KymNvlWR0XF0sqX2BWRd9Z3yXR.jpg" group-title="Movies | Filme Actiune",Outbreak - 1995
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65074.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bOwV2V9r6LikmKHMDgmu9jcE92.jpg" group-title="Movies | Filme Actiune",Diabolik - 2021
@@ -19805,4 +19813,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8706
+# Total: 8710

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sudaka.link:25461
-# Generated: 2026-01-27 07:13:01
+# Generated: 2026-01-27 18:41:58
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -471,7 +471,7 @@ http://sudaka.link:25461/movie/fabian/fabian1/640079.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON",Mentiras, la serie (2025)
 http://sudaka.link:25461/movie/fabian/fabian1/640112.mp4
 
-# --- Movies | ANIME (54) ---
+# --- Movies | ANIME (55) ---
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLvVZ2fGuf2KUHRvFqnkfl59h27ykHAfNOWZZookfhHKY.jpg" group-title="Movies | ANIME",Sailor Moon R: La promesa de la rosa (1993)
 http://sudaka.link:25461/movie/fabian/fabian1/32450.mp4
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL3n2QDL7-iWXtepOLpVKaOe4LtTQXqxPDcSvwl4vuTTc.jpg" group-title="Movies | ANIME",Sailor Moon S: El amor de la princesa Kaguya (1994)
@@ -580,6 +580,8 @@ http://sudaka.link:25461/movie/fabian/fabian1/640071.mp4
 http://sudaka.link:25461/movie/fabian/fabian1/640081.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ANIME",After War Gundam X (1996)
 http://sudaka.link:25461/movie/fabian/fabian1/640102.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ANIME",Hell's Paradise (2023)
+http://sudaka.link:25461/movie/fabian/fabian1/640126.mp4
 
 # --- Movies | AVENTURA (72) ---
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLch6LY1mDz7uAeej7UTCyH8QIf3X1uDpQzy6GDSYyOe4.jpg" group-title="Movies | AVENTURA",Harry Potter y el prisionero de Azkaban (2004)
@@ -2767,7 +2769,7 @@ http://sudaka.link:25461/movie/fabian/fabian1/35727.mp4
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnhmaARU86wciE2FSPtK3hPekN1j0ii1wX0zYNmE-N1E.jpg" group-title="Movies | MUSICA",Roger Waters: THIS IS NOT A DRILL, Live at River Plate Stadium (2023)
 http://sudaka.link:25461/movie/fabian/fabian1/35728.mkv
 
-# --- Movies | NETFLIX (60) ---
+# --- Movies | NETFLIX (61) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",1983
 http://sudaka.link:25461/movie/fabian/fabian1/2.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",The Witcher (2019)
@@ -2888,6 +2890,8 @@ http://sudaka.link:25461/movie/fabian/fabian1/640114.mp4
 http://sudaka.link:25461/movie/fabian/fabian1/640116.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Monstruos: La historia de Lyle y Erik Menendez (2024)
 http://sudaka.link:25461/movie/fabian/fabian1/640119.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Adolescencia (2025)
+http://sudaka.link:25461/movie/fabian/fabian1/640127.mp4
 
 # --- Movies | NICOLAS CAGE (24) ---
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLY4pMFs2_91p9D4Lb1rVsbkVjs3Qn3z-snDxFYZ1GDBA.jpg" group-title="Movies | NICOLAS CAGE",60 Segundos (2000)
@@ -4309,6 +4313,10 @@ http://sudaka.link:25461/movie/fabian/fabian1/36087.mkv
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLkmYhji26_1W-VpgcVOA3QuZTErm3Fky22U9gUXwZIpA.jpg" group-title="Movies | PELICULAS 2025",Anaconda -CINE (2025)
 http://sudaka.link:25461/movie/fabian/fabian1/36088.mkv
 
+# --- Movies | PELICULAS 2026 (1) ---
+#EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLWVU4z-4yk3CrJXFhu53ffutoG-eVPP0AhTRFJ9O5CVY.jpg" group-title="Movies | PELICULAS 2026",Primate - CINE (2026)
+http://sudaka.link:25461/movie/fabian/fabian1/36166.mp4
+
 # --- Movies | PELICULAS 4K (7) ---
 #EXTINF:-1 tvg-logo="http://sudaka.link:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLUKA7GHPHGfCzULg_RaQB2fP5CI8stL-kkSRxloS8c2M.jpg" group-title="Movies | PELICULAS 4K",Terminator (1984)
 http://sudaka.link:25461/movie/fabian/fabian1/35210.mkv
@@ -4789,4 +4797,4 @@ http://sudaka.link:25461/series/fabian/fabian1/640052
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES RETRO",La isla de Gilligan (1964)
 http://sudaka.link:25461/series/fabian/fabian1/640053
 
-# Total: 2341
+# Total: 2344

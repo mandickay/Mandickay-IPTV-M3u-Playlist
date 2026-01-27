@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2026-01-27 07:12:19
+# Generated: 2026-01-27 18:36:51
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -25481,20 +25481,6 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1054620.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/SWITZERLAND/polar+.png" group-title="EU | SWISS | MOVIES & SERIES",CH - POLAR+ HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1054638.m3u8
 
-# --- EU | SWISS | NEWS (6) ---
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SWITZERLAND/SWITZERLAND.png" group-title="EU | SWISS | NEWS",##### CH - NEWS #####
-http://teck-tv.com/live/2605201443100597/C655BF416768/1356841.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frinfo.png" group-title="EU | SWISS | NEWS",CH - FRANCEINFO FHD
-http://teck-tv.com/live/2605201443100597/C655BF416768/1054625.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/BFM-TV-FHD.png" group-title="EU | SWISS | NEWS",CH - BFM TV HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/1054609.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/C_NEWS.png" group-title="EU | SWISS | NEWS",CH - C NEWS HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/1054619.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/LCI.png" group-title="EU | SWISS | NEWS",CH - LCI HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/1054630.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/LEMAN.png" group-title="EU | SWISS | NEWS",CH - LEMAN BLEU HD
-http://teck-tv.com/live/2605201443100597/C655BF416768/1358429.m3u8
-
 # --- EU | SWISS | SPORTS (28) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SWITZERLAND/SWITZERLAND.png" group-title="EU | SWISS | SPORTS",##### CH - SPORTS #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1356842.m3u8
@@ -28333,4 +28319,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/682935.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/682941.m3u8
 
-# Total: 14000
+# Total: 13994

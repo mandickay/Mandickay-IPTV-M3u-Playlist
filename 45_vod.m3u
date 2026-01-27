@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-01-27 07:10:25
+# Generated: 2026-01-27 18:33:48
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -3297,7 +3297,7 @@ http://45.139.122.199:8080/movie/Martin1/martin1/105090.mkv
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/bf79c78beca3513d9d21f4ae33697400.jpg" group-title="Movies | VOD: IMDB Top Movies [Multi-Sub]",The Pianist [IMDB] [2002]
 http://45.139.122.199:8080/movie/Martin1/martin1/217821.mkv
 
-# --- Movies | VOD: Kids Movies (1004) ---
+# --- Movies | VOD: Kids Movies (1005) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5emrp6FCB6zwZIJSiut9VppQ9y.jpg" group-title="Movies | VOD: Kids Movies",Djurexpressen [KIDS] [MULTI-AUDIO] [2025]
 http://45.139.122.199:8080/movie/Martin1/martin1/2241204.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khcQB7EDZUbo0AVqFORK9pWkZrJ.jpg" group-title="Movies | VOD: Kids Movies",Snowflake, the White Gorilla [KIDS] [MULTI-AUDIO] [2011]
@@ -5300,6 +5300,8 @@ http://45.139.122.199:8080/movie/Martin1/martin1/2189922.mkv
 http://45.139.122.199:8080/movie/Martin1/martin1/2204776.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD: Kids Movies",Lotte og Totte Min Foerste Ven - 2025
 http://45.139.122.199:8080/movie/Martin1/martin1/2207545.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg" group-title="Movies | VOD: Kids Movies",Zootopia 2 [KIDS] [MULTI-AUDIO] [2025]
+http://45.139.122.199:8080/movie/Martin1/martin1/2258815.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZb8KzZl2lUZMEwDKGTFQo33o8O.jpg" group-title="Movies | VOD: Kids Movies",Vem är du, Mamma Mu?Vem är du, Mamma Mu? [KIDS] [MULTI-AUDIO] [2023]
 http://45.139.122.199:8080/movie/Martin1/martin1/783882.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4CDi7j0CigPT2uB461VsoPOf69.jpg" group-title="Movies | VOD: Kids Movies",Ternet Ninja 3 - Checkered Ninja 3 [KIDS] [2025]
@@ -32973,4 +32975,4 @@ http://45.139.122.199:8080/movie/Martin1/martin1/1036211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9sa6ERZCpplbPEO7OMWE763CLD.jpg" group-title="Movies | VOD: [Dolby Vision] 4k Movies [Multi-Sub] [Only On Dolby Vision Devices]",First Blood [1982] [Dolby Vision] [Multi-Sub] [4K]
 http://45.139.122.199:8080/movie/Martin1/martin1/2173473.mkv
 
-# Total: 16467
+# Total: 16468

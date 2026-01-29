@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fb4k.live:8080
-# Generated: 2026-01-29 07:17:14
+# Generated: 2026-01-29 18:41:08
 # Expires: 2026-04-12
 # Family Safe Edition
 # ==============================================
@@ -6199,7 +6199,7 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11786.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Wonder Man
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11864.mp4
 
-# --- Movies | (S|TR) Yerli Diziler (406) ---
+# --- Movies | (S|TR) Yerli Diziler (407) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/444.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Sıfır Bir - MAX
@@ -7012,6 +7012,8 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11725.mp4
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11752.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Survivor Ceza - EXXEN
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11787.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Yeraltı
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/11869.mp4
 
 # --- Movies | (V|DE) Animation - Kinderfilme (625) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/43viCWUdwNvfsTFcfHRaXQNeA35_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Winnie Puuh Feiert Weihnachten - 2002
@@ -26935,7 +26937,15 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (171) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (175) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bu8ks983hBPEzyAH8gSATW5aPJ7_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Yeraltı (Bolum 1)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/663094.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahipsizler (Bolum 46)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/663092.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1kEgzEvhJmw5eSxuGwn0o1cgHlK_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kurulus: Orhan (Bolum 12)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/663091.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pYr58J7eePyXbUpUA9jhxPsabum_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Esref Rüya (Bolum 30)
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/663090.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 67)
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/662838.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 20)
@@ -34161,7 +34171,9 @@ http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/635434.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u64csVCG9nLpYqFWFFitrdvz7hG_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Daniela Forever - 2025
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/635432.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2026 (3) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2026 (4) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qDg6i7uqiq6K3PNHlVQz0MmZSX_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) The Wrecking Crew - 2026
+http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/663093.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3H1nv7rm9iHUzqABxbktpuqi0l6_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) From The Ashes: The Pit - 2026
 http://fb4k.live:8080/movie/samixalko1004/Ft4Gx1sEcG/661582.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/p4bW2sJKAwcHuLpfoZK7Zo63osA_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) The Rip - 2026
@@ -37325,4 +37337,4 @@ http://fb4k.live:8080/series/samixalko1004/Ft4Gx1sEcG/11861
 #EXTINF:-1 tvg-logo="" group-title="Series | (S|NL) Nederlandse Series",(NL-) Undercover Miss Hong (netflix)
 http://fb4k.live:8080/series/samixalko1004/Ft4Gx1sEcG/11862
 
-# Total: 18600
+# Total: 18606

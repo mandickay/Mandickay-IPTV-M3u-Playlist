@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: com.trt1000.com:80
-# Generated: 2026-01-29 07:30:27
+# Generated: 2026-01-29 18:42:59
 # Expires: 2027-01-09
 # Family Safe Edition
 # ==============================================
@@ -485,7 +485,7 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/63700.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FRANCE DIRECT",Bein Sport 3  Local
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/63701.m3u8
 
-# --- GERMANY CINEMA (45) ---
+# --- GERMANY CINEMA (44) ---
 #EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",CRIME + INVESTIGATION
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64845.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",SLK CRIME
@@ -534,8 +534,6 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/39153.m3u8
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/44890.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",CINEMA FAMILY HD
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15340.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",dE: Select iNFO
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64635.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",dE: Select 1
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/51141.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",dE: Select 2
@@ -1171,4 +1169,4 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/32345.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR: ALEM FM
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/32347.m3u8
 
-# Total: 572
+# Total: 571

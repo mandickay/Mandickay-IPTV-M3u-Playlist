@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-01-30 18:44:06
+# Generated: 2026-01-31 07:16:14
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -7893,7 +7893,9 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/5901.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BK1B6JQRxnLEc4vZyrUojdIiCq.jpg" group-title="Movies | → VOD DOCUMENTALES ←",La reina de la montaña: Lhakpa Sherpa y la cumbre del Everest (2024)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/249188.mp4
 
-# --- Movies | → VOD DRAMA ← (458) ---
+# --- Movies | → VOD DRAMA ← (459) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lizYHlyDZIEcziPMBuwvd7ubii6.jpg" group-title="Movies | → VOD DRAMA ←",La Ciudad de los Sueños
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/279751.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUh6lzns97I11wwBBbxmyQXspJP.jpg" group-title="Movies | → VOD DRAMA ←",El Ultimo verano
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/279011.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evpyqT25VJzFT5juDflTM6OW5zW.jpg" group-title="Movies | → VOD DRAMA ←",Una estafa Celestial
@@ -19679,4 +19681,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9763
+# Total: 9764

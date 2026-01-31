@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cord-cutter.net:8080
-# Generated: 2026-01-30 18:44:08
+# Generated: 2026-01-31 07:24:04
 # Expires: 2026-10-23
 # Family Safe Edition
 # ==============================================
@@ -3379,307 +3379,125 @@ http://cord-cutter.net:8080/live/315gBa/253680/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://cord-cutter.net:8080/live/315gBa/253680/21091.m3u8
 
-# --- NBA (24) ---
+# --- NBA (25) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://cord-cutter.net:8080/live/315gBa/253680/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://cord-cutter.net:8080/live/315gBa/253680/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Sacramento Kings @ Philadelphia 76ers | Away Stream | 01/29/2026 7:00 PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/260823.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: Sacramento Kings vs Philadelphia 76ers @ 07:00 PM EST
-http://cord-cutter.net:8080/live/315gBa/253680/260824.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Sacramento Kings @ Philadelphia 76ers | Home Stream | 01/29/2026 7:00 PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/260825.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Milwaukee Bucks vs Washington Wizards @ 07:00 PM EST
-http://cord-cutter.net:8080/live/315gBa/253680/260826.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Milwaukee Bucks @ Washington Wizards | Away Stream | 01/29/2026 7:00 PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/260827.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Miami Heat vs Chicago Bulls @ 08:00 PM EST
-http://cord-cutter.net:8080/live/315gBa/253680/260828.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Milwaukee Bucks @ Washington Wizards | Home Stream | 01/29/2026 7:00 PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/260829.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Houston Rockets vs Atlanta Hawks @ 08:00 PM EST
-http://cord-cutter.net:8080/live/315gBa/253680/260830.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Houston Rockets @ Atlanta Hawks | Home Stream | 01/29/2026 8:00 PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/260831.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Charlotte Hornets vs Dallas Mavericks @ 08:30 PM EST
-http://cord-cutter.net:8080/live/315gBa/253680/260832.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Houston Rockets @ Atlanta Hawks | Away Stream | 01/29/2026 8:00 PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/260833.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Brooklyn Nets vs Denver Nuggets @ 09:00 PM EST
-http://cord-cutter.net:8080/live/315gBa/253680/260834.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Miami Heat @ Chicago Bulls | Home Stream | 01/29/2026 8:00 PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/260835.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Detroit Pistons vs Phoenix Suns @ 09:00 PM EST
-http://cord-cutter.net:8080/live/315gBa/253680/260836.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Miami Heat @ Chicago Bulls | Away Stream | 01/29/2026 8:00 PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/260837.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 08: Oklahoma City Thunder vs Minnesota Timberwolves @ 09:30 PM EST
-http://cord-cutter.net:8080/live/315gBa/253680/260838.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Charlotte Hornets @ Dallas Mavericks | Home Stream | 01/29/2026 8:30 PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/260839.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Charlotte Hornets @ Dallas Mavericks | Away Stream | 01/29/2026 8:30 PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/260840.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Detroit Pistons @ Phoenix Suns | Home Stream | 01/29/2026 9:00 PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/260841.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Detroit Pistons @ Phoenix Suns | Away Stream | 01/29/2026 9:00 PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/260842.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13: Brooklyn Nets @ Denver Nuggets | Home Stream | 01/29/2026 9:00 PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/260843.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 14: Brooklyn Nets @ Denver Nuggets | Away Stream | 01/29/2026 9:00 PM ET
-http://cord-cutter.net:8080/live/315gBa/253680/260844.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Los Angeles Lakers @ Washington Wizards | Home Stream | 01/30/2026 7:00 PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/260897.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: TOR Raptors VS ORL Magic ( ESPN Feed ) @ 7:30 PM
+http://cord-cutter.net:8080/live/315gBa/253680/260898.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Los Angeles Lakers @ Washington Wizards | Away Stream | 01/30/2026 7:00 PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/260899.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: DET Pistons VS GSW Warriors ( ESPN Feed ) @ 10:00 PM
+http://cord-cutter.net:8080/live/315gBa/253680/260900.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Toronto Raptors @ Orlando Magic | Home Stream | 01/30/2026 7:30 PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/260901.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Los Angeles Lakers vs Washington Wizards @ 07:00 PM EST
+http://cord-cutter.net:8080/live/315gBa/253680/260902.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Toronto Raptors @ Orlando Magic | Away Stream | 01/30/2026 7:30 PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/260903.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Sacramento Kings vs Boston Celtics @ 07:30 PM EST
+http://cord-cutter.net:8080/live/315gBa/253680/260904.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Memphis Grizzlies @ New Orleans Pelicans | Home Stream | 01/30/2026 7:30 PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/260905.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Portland Trail Blazers vs New York Knicks @ 07:30 PM EST
+http://cord-cutter.net:8080/live/315gBa/253680/260906.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Memphis Grizzlies @ New Orleans Pelicans | Away Stream | 01/30/2026 7:30 PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/260907.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Memphis Grizzlies vs New Orleans Pelicans @ 07:30 PM EST
+http://cord-cutter.net:8080/live/315gBa/253680/260908.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Portland Trail Blazers @ New York Knicks | Home Stream | 01/30/2026 7:30 PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/260909.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Cleveland Cavaliers vs Phoenix Suns @ 09:00 PM EST
+http://cord-cutter.net:8080/live/315gBa/253680/260910.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Portland Trail Blazers @ New York Knicks | Away Stream | 01/30/2026 7:30 PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/260911.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 08: LA Clippers vs Denver Nuggets @ 09:00 PM EST
+http://cord-cutter.net:8080/live/315gBa/253680/260912.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Sacramento Kings @ Boston Celtics | Home Stream | 01/30/2026 7:30 PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/260913.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 09: Brooklyn Nets vs Utah Jazz @ 09:30 PM EST
+http://cord-cutter.net:8080/live/315gBa/253680/260914.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Sacramento Kings @ Boston Celtics | Away Stream | 01/30/2026 7:30 PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/260915.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Cleveland Cavaliers @ Phoenix Suns | Home Stream | 01/30/2026 9:00 PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/260916.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Cleveland Cavaliers @ Phoenix Suns | Away Stream | 01/30/2026 9:00 PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/260917.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13: Los Angeles Clippers @ Denver Nuggets | Home Stream | 01/30/2026 9:00 PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/260918.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 14: Los Angeles Clippers @ Denver Nuggets | Away Stream | 01/30/2026 9:00 PM ET
+http://cord-cutter.net:8080/live/315gBa/253680/260919.m3u8
 
-# --- NCAAB (125) ---
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | ARKANSAS STATE @ GEORGIA STATE (W) | 1.29 11:00 AM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260698.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 002 | IONA @ MERRIMACK (W) | 1.29 11:00 AM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260699.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 003 | SETON HALL @ GEORGETOWN (W) | 1.29 11:00 AM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260700.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 004 | INDIANA STATE @ VALPARAISO (W) | 1.29 12:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260701.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 005 | IDAHO @ NORTHERN COLORADO (W) | 1.29 2:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260702.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 006 | CANISIUS @ MARIST (W) | 1.29 5:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260703.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 007 | EASTERN WASHINGTON @ NORTHERN ARIZONA (W) | 1.29 5:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260704.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 008 | SAMFORD @ FURMAN (M) | 1.29 5:00 PM | CBSSN
-http://cord-cutter.net:8080/live/315gBa/253680/260705.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 009 | SIU EDWARDSVILLE @ MOREHEAD STATE (W) | 1.29 5:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260706.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 010 | STONEHILL @ FAIRLEIGH DICKINSON (W) | 1.29 5:00 PM | ESPNU
-http://cord-cutter.net:8080/live/315gBa/253680/260707.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 011 | 13 MICHIGAN STATE @ PURDUE (W) | 1.29 6:00 PM | BTN
-http://cord-cutter.net:8080/live/315gBa/253680/260708.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 012 | BINGHAMTON @ BRYANT (W) | 1.29 6:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260709.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 013 | BRYANT @ BINGHAMTON (M) | 1.29 6:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260710.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 014 | GEORGIA TECH @ SYRACUSE (W) | 1.29 6:00 PM | ACC EXTRA
-http://cord-cutter.net:8080/live/315gBa/253680/260711.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 015 | KANSAS @ 12 TCU (W) | 1.29 6:00 PM | ESPN
-http://cord-cutter.net:8080/live/315gBa/253680/260712.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 016 | LINDENWOOD @ SOUTHERN INDIANA (W) | 1.29 6:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260713.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 017 | LITTLE ROCK @ TENNESSEE STATE (W) | 1.29 6:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260714.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 018 | LOUISIANA @ JAMES MADISON (W) | 1.29 6:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260715.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 019 | MOUNT ST. MARYS @ RIDER (W) | 1.29 6:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260716.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 020 | NC STATE @ BOSTON COLLEGE (W) | 1.29 6:00 PM | ACC NETWORK
-http://cord-cutter.net:8080/live/315gBa/253680/260717.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 021 | NEW HAMPSHIRE @ UMASS LOWELL (W) | 1.29 6:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260718.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 022 | NIAGARA @ SIENA (W) | 1.29 6:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260719.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 023 | PITTSBURGH @ VIRGINIA TECH (W) | 1.29 6:00 PM | ACC EXTRA
-http://cord-cutter.net:8080/live/315gBa/253680/260720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 024 | SOUTHEAST MISSOURI STATE @ WESTERN ILLINOIS (W) | 1.29 6:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260721.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 025 | UALBANY @ NJIT (W) | 1.29 6:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260722.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 026 | UMASS LOWELL @ NEW HAMPSHIRE (M) | 1.29 6:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260723.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 027 | UT MARTIN @ EASTERN ILLINOIS (W) | 1.29 6:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260724.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 028 | VIRGINIA @ WAKE FOREST (W) | 1.29 6:00 PM | ACC EXTRA
-http://cord-cutter.net:8080/live/315gBa/253680/260725.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 029 | 24 ALABAMA @ 23 GEORGIA (W) | 1.29 6:30 PM | SEC NETWORK
-http://cord-cutter.net:8080/live/315gBa/253680/260726.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 030 | FLORIDA GULF COAST @ CENTRAL ARKANSAS (W) | 1.29 6:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260727.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 031 | GARDNER-WEBB @ UNC ASHEVILLE (M) | 1.29 6:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260728.m3u8
+# --- NCAAB (33) ---
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | GARDNER-WEBB @ UNC ASHEVILLE (W) | 1.30 12:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260864.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 002 | SAMFORD @ EAST TENNESSEE STATE (W) | 1.30 2:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260865.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 003 | TROY @ COASTAL CAROLINA (W) | 1.30 2:30 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260866.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 004 | 5 VANDERBILT @ 17 OLE MISS (W) | 1.30 3:00 PM | SECN+
+http://cord-cutter.net:8080/live/315gBa/253680/260867.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 005 | EAST CAROLINA @ CHARLOTTE (W) | 1.30 3:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260868.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 006 | BROWN @ DARTMOUTH (W) | 1.30 6:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260869.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 007 | CHARLESTON SOUTHERN @ SOUTH CAROLINA UPSTATE (W) | 1.30 6:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260870.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 008 | COLUMBIA @ 19 PRINCETON (W) | 1.30 6:00 PM | ESPNU
+http://cord-cutter.net:8080/live/315gBa/253680/260871.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 009 | CORNELL @ PENNSYLVANIA (W) | 1.30 6:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260872.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 010 | FURMAN @ WOFFORD (W) | 1.30 6:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260873.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 011 | KENT STATE @ AKRON (M) | 1.30 6:00 PM | CBSSN
+http://cord-cutter.net:8080/live/315gBa/253680/260874.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 012 | MERCER @ CHATTANOOGA (W) | 1.30 6:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260875.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 013 | PRINCETON @ CORNELL (M) | 1.30 6:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260876.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 014 | IU INDIANAPOLIS @ YOUNGSTOWN STATE (M) | 1.30 6:30 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260877.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 015 | SIENA @ NIAGARA (M) | 1.30 6:30 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260878.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 016 | CLEVELAND STATE @ GREEN BAY (M) | 1.30 7:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260879.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 017 | DARTMOUTH @ YALE (M) | 1.30 7:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260880.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 018 | FAIRFIELD @ IONA (M) | 1.30 7:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260881.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 019 | FLORIDA INTERNATIONAL @ LIBERTY (W) | 1.30 7:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260882.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 020 | HARVARD @ BROWN (M) | 1.30 7:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260883.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 021 | MARIST @ CANISIUS (M) | 1.30 7:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260884.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 022 | MISSOURI STATE @ DELAWARE (W) | 1.30 7:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260885.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 023 | NORTHERN KENTUCKY @ DETROIT MERCY (M) | 1.30 7:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260886.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 024 | PENNSYLVANIA @ COLUMBIA (M) | 1.30 7:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260887.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 025 | PROVIDENCE @ VILLANOVA (M) | 1.30 7:00 PM | FS1
+http://cord-cutter.net:8080/live/315gBa/253680/260888.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 026 | RICE @ CHARLOTTE (M) | 1.30 7:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260889.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 027 | RIDER @ MANHATTAN (M) | 1.30 7:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260890.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 028 | SACRED HEART @ QUINNIPIAC (M) | 1.30 7:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260891.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 029 | YALE @ HARVARD (W) | 1.30 7:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260892.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 030 | 3 MICHIGAN @ 7 MICHIGAN STATE (M) | 1.30 8:00 PM | FOX
+http://cord-cutter.net:8080/live/315gBa/253680/260893.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 031 | DAYTON @ 21 SAINT LOUIS (M) | 1.30 8:00 PM | CBSSN
+http://cord-cutter.net:8080/live/315gBa/253680/260894.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 032 | NORTHWESTERN @ 17 ILLINOIS (M) | 1/26 3:00 PM | BTN
-http://cord-cutter.net:8080/live/315gBa/253680/260729.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 033 | NJIT @ UALBANY (M) | 1.29 6:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260730.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 034 | VALPARAISO @ UIC (W) | 1/26 3:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260731.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 035 | WICHITA STATE @ TULSA (M) | 1/26 3:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260732.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 036 | WISCONSIN @ 23 MINNESOTA (W) | 1/26 3:00 PM | B1G+
-http://cord-cutter.net:8080/live/315gBa/253680/260733.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 037 | BELLARMINE @ QUEENS UNIVERSITY (W) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260734.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 038 | BELMONT @ EVANSVILLE (W) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260735.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 039 | COLORADO @ 8 IOWA STATE (M) | 1.29 7:00 PM | FS1
-http://cord-cutter.net:8080/live/315gBa/253680/260736.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 040 | DRAKE @ BRADLEY (W) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260737.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 041 | EASTERN KENTUCKY @ WEST GEORGIA (W) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260738.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 042 | FLORIDA INTERNATIONAL @ LIBERTY (W) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260739.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 043 | BRYANT @ BINGHAMTON (W) | 1/25 2:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260740.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 044 | JAMES MADISON @ TROY (M) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260741.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 045 | LAMAR @ SE LOUISIANA (W) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260742.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 046 | LIBERTY @ MIDDLE TENNESSEE (M) | 1.29 7:00 PM | CBSSN
-http://cord-cutter.net:8080/live/315gBa/253680/260743.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 047 | LIPSCOMB @ JACKSONVILLE (M) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260744.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 048 | LONGWOOD @ SOUTH CAROLINA UPSTATE (M) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260745.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 049 | MANHATTAN @ SACRED HEART (W) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260746.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 050 | BRADLEY VS. MISSOURI STATE | 02/29-07:30PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260747.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 051 | NORTH ALABAMA @ FLORIDA GULF COAST (M) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260748.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 052 | NORTH FLORIDA @ AUSTIN PEAY (W) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260749.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 053 | NORTHERN IOWA @ ILLINOIS STATE (W) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260750.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 054 | QUINNIPIAC @ FAIRFIELD (W) | 1.29 7:00 PM | ESPNU
-http://cord-cutter.net:8080/live/315gBa/253680/260751.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 055 | RADFORD @ CHARLESTON SOUTHERN (M) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260752.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 056 | SMU @ CLEMSON (W) | 1.29 7:00 PM | ACC EXTRA
-http://cord-cutter.net:8080/live/315gBa/253680/260753.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 057 | SOUTHERN ILLINOIS @ MURRAY STATE (W) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260754.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 057 | SOUTHERN ILLINOIS @ MURRAY STATE (W) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260755.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 059 | STETSON @ NORTH FLORIDA (M) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260756.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 060 | TEXAS A&M @ 10 OKLAHOMA (W) | 1.29 7:00 PM | SECN+
-http://cord-cutter.net:8080/live/315gBa/253680/260757.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 061 | UMBC @ VERMONT (M) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260758.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 062 | UNC GREENSBORO @ MERCER (M) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260759.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 063 | VMI @ THE CITADEL (M) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260760.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 064 | WESTERN CAROLINA @ EAST TENNESSEE STATE (M) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260761.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 065 | WOFFORD @ CHATTANOOGA (M) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260762.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 066 | WRIGHT STATE @ GREEN BAY (W) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260763.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 067 | YOUNGSTOWN STATE @ DETROIT MERCY (W) | 1.29 7:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260764.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 068 | 5 VANDERBILT @ 17 OLE MISS (W) | 1.29 7:30 PM | SECN+
-http://cord-cutter.net:8080/live/315gBa/253680/260765.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 069 | COLORADO @ KANSAS STATE (W) | 1.29 7:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260766.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 070 | GEORGIA SOUTHERN @ UL MONROE (M) | 1.29 7:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260767.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 071 | HOUSTON CHRISTIAN @ UT RIO GRANDE VALLEY (W) | 1.29 7:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260768.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 072 | JACKSONVILLE STATE @ SAM HOUSTON (W) | 1.29 7:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260769.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 073 | KENNESAW STATE @ LOUISIANA TECH (W) | 1.29 7:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260770.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 074 | MCNEESE @ STEPHEN F. AUSTIN (W) | 1.29 7:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260771.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 075 | NEW ORLEANS @ EAST TEXAS A&M (W) | 1.29 7:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260772.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 076 | NICHOLLS @ NORTHWESTERN STATE (W) | 1.29 7:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260773.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 077 | SIU EDWARDSVILLE @ MOREHEAD STATE (M) | 1.29 7:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260774.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 078 | 20 DUKE @ MIAMI (W) | 1.29 8:00 PM | ACC NETWORK
-http://cord-cutter.net:8080/live/315gBa/253680/260775.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 079 | 7 LOUISVILLE @ STANFORD (W) | 1.29 8:00 PM | ESPN
-http://cord-cutter.net:8080/live/315gBa/253680/260776.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 080 | APP STATE @ SOUTHERN MISS (M) | 1.29 8:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260777.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 081 | ARKANSAS @ 6 LSU (W) | 1.29 8:00 PM | SECN+
-http://cord-cutter.net:8080/live/315gBa/253680/260778.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 082 | COASTAL CAROLINA @ SOUTH ALABAMA (M) | 1.29 8:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260779.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 083 | EASTERN WASHINGTON @ NORTHERN ARIZONA (M) | 1.29 8:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260780.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 084 | FLORIDA ATLANTIC @ MEMPHIS (M) | 1.29 8:00 PM | ESPN2
-http://cord-cutter.net:8080/live/315gBa/253680/260781.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 085 | GEORGIA STATE @ LOUISIANA (M) | 1.29 8:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260782.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 086 | INCARNATE WORD @ TEXAS A&M-CORPUS CHRISTI (W) | 1.29 8:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260783.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 087 | PENN STATE @ NORTHWESTERN (M) | 1.29 8:00 PM | PEACOCK
-http://cord-cutter.net:8080/live/315gBa/253680/260784.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 088 | SOUTHERN UTAH @ UT ARLINGTON (M) | 1.29 8:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260785.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 089 | TARLETON STATE @ UTAH VALLEY (W) | 1.29 8:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260786.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 090 | UTAH TECH @ ABILENE CHRISTIAN (M) | 1.29 8:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260787.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 091 | UTAH VALLEY @ TARLETON STATE (M) | 1.29 8:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260788.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 092 | WISCONSIN @ 11 OHIO STATE (W) | 1.29 8:00 PM | BTN
-http://cord-cutter.net:8080/live/315gBa/253680/260789.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 093 | LINDENWOOD @ SOUTHERN INDIANA (M) | 1.29 8:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260790.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 094 | LITTLE ROCK @ TENNESSEE STATE (M) | 1.29 8:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260791.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 095 | SOUTHEAST MISSOURI STATE @ WESTERN ILLINOIS (M) | 1.29 8:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260792.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 096 | UT ARLINGTON @ SOUTHERN UTAH (W) | 1.29 8:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260793.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 097 | UT MARTIN @ EASTERN ILLINOIS (M) | 1.29 8:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260794.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 098 | 3 SOUTH CAROLINA @ AUBURN (W) | 1.29 9:00 PM | SEC NETWORK
-http://cord-cutter.net:8080/live/315gBa/253680/260795.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 099 | 8 IOWA @ USC (W) | 1.29 9:00 PM | PEACOCK
-http://cord-cutter.net:8080/live/315gBa/253680/260796.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 100 | ABILENE CHRISTIAN @ UTAH TECH (W) | 1.29 9:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260797.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 101 | CAL STATE BAKERSFIELD @ CAL POLY (W) | 1.29 9:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260798.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 102 | CAL STATE NORTHRIDGE @ UC DAVIS (W) | 1.29 9:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260799.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 103 | GONZAGA @ SAN FRANCISCO (W) | 1.29 9:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260800.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 104 | IDAHO @ NORTHERN COLORADO (M) | 1.29 9:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260801.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 105 | PACIFIC @ LOYOLA MARYMOUNT (W) | 1.29 9:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260802.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 106 | PORTLAND STATE @ MONTANA (W) | 1.29 9:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260803.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 107 | PRESBYTERIAN @ HIGH POINT (M) | 1.29 9:00 PM | ESPNU
-http://cord-cutter.net:8080/live/315gBa/253680/260804.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 108 | SACRAMENTO STATE @ MONTANA STATE (W) | 1.29 9:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260805.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 109 | SAINT MARYS @ PORTLAND (W) | 1.29 9:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260806.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 110 | SAN DIEGO @ OREGON STATE (W) | 1.29 9:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260807.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 111 | SEATTLE U @ PEPPERDINE (W) | 1.29 9:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260808.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 112 | UC RIVERSIDE @ LONG BEACH STATE (W) | 1.29 9:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260809.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 113 | UC SAN DIEGO @ UC SANTA BARBARA (W) | 1.29 9:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260810.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 114 | UNC WILMINGTON @ TOWSON (M) | 1.29 9:00 PM | CBSSN
-http://cord-cutter.net:8080/live/315gBa/253680/260811.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 115 | WASHINGTON @ 9 ILLINOIS (M) | 1.29 9:00 PM | FS1
-http://cord-cutter.net:8080/live/315gBa/253680/260812.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 116 | WASHINGTON STATE @ SANTA CLARA (W) | 1.29 9:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260813.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 117 | CAL POLY @ CAL STATE BAKERSFIELD (M) | 1.29 9:30 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260814.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 118 | LONG BEACH STATE @ UC RIVERSIDE (M) | 1.29 10:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260815.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 119 | MONTANA @ PORTLAND STATE (M) | 1.29 10:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260816.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 120 | MONTANA STATE @ SACRAMENTO STATE (M) | 1.29 10:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260817.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 121 | NOTRE DAME @ CALIFORNIA (W) | 1.29 10:00 PM | ACC EXTRA
-http://cord-cutter.net:8080/live/315gBa/253680/260818.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 122 | UC DAVIS @ CAL STATE NORTHRIDGE (M) | 1.29 10:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260819.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 123 | UC SANTA BARBARA @ UC SAN DIEGO (M) | 1.29 10:00 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260820.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 124 | HAWAII @ UC IRVINE (M) | 1.29 11:00 PM | ESPNU
-http://cord-cutter.net:8080/live/315gBa/253680/260821.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 125 | UC IRVINE @ HAWAII (W) | 1.29 11:59 PM | ESPN+
-http://cord-cutter.net:8080/live/315gBa/253680/260822.m3u8
+http://cord-cutter.net:8080/live/315gBa/253680/260895.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 033 | WRIGHT STATE @ MILWAUKEE (M) | 1.30 8:00 PM | ESPN+
+http://cord-cutter.net:8080/live/315gBa/253680/260896.m3u8
 
 # --- NFL (23) ---
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" group-title="NFL",US NFL Network
@@ -3729,45 +3547,15 @@ http://cord-cutter.net:8080/live/315gBa/253680/253677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 15:
 http://cord-cutter.net:8080/live/315gBa/253680/253678.m3u8
 
-# --- NHL (19) ---
+# --- NHL (4) ---
 #EXTINF:-1 tvg-logo="" group-title="NHL",US NHL Network
 http://cord-cutter.net:8080/live/315gBa/253680/253636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: PHI VS BOS (SNE Feed ) @ 7:00 pm
-http://cord-cutter.net:8080/live/315gBa/253680/260845.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: PHI VS BOS (NESN Feed ) @ 7:00 pm
-http://cord-cutter.net:8080/live/315gBa/253680/260846.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: COL VS MTL (RDS Feed ) @ 7:00 pm
-http://cord-cutter.net:8080/live/315gBa/253680/260847.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: COL VS MTL (ALT Feed ) @ 7:00 pm
-http://cord-cutter.net:8080/live/315gBa/253680/260848.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: NYI VS NYR (MSG Feed ) @ 7:00 pm
-http://cord-cutter.net:8080/live/315gBa/253680/260849.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: CHI VS PIT (SN Feed ) @ 7:00 pm
-http://cord-cutter.net:8080/live/315gBa/253680/260850.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: CHI VS PIT (TVAS Feed ) @ 7:00 pm
-http://cord-cutter.net:8080/live/315gBa/253680/260851.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: CGY VS MIN (SNW Feed ) @ 8:00 pm
-http://cord-cutter.net:8080/live/315gBa/253680/260852.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: SJS VS EDM (SN1 Feed ) @ 9:00 pm
-http://cord-cutter.net:8080/live/315gBa/253680/260853.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 10: SJS VS EDM (NBCSCA Feed ) @ 9:00 pm
-http://cord-cutter.net:8080/live/315gBa/253680/260854.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 11: TOR VS SEA (TVAS Feed ) @ 10:00 pm
-http://cord-cutter.net:8080/live/315gBa/253680/260855.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 12: Winnipeg Jets vs Tampa Bay Lightning @ 07:00 PM EST
-http://cord-cutter.net:8080/live/315gBa/253680/260856.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 13: Los Angeles Kings vs Buffalo Sabres @ 07:00 PM EST
-http://cord-cutter.net:8080/live/315gBa/253680/260857.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 14: Nashville Predators vs New Jersey Devils @ 07:00 PM EST
-http://cord-cutter.net:8080/live/315gBa/253680/260858.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 15: Utah Mammoth vs Carolina Hurricanes @ 07:00 PM EST
-http://cord-cutter.net:8080/live/315gBa/253680/260859.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 16: Washington Capitals vs Detroit Red Wings @ 07:30 PM EST
-http://cord-cutter.net:8080/live/315gBa/253680/260860.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 18: Dallas Stars vs Vegas Golden Knights @ 10:00 PM EST
-http://cord-cutter.net:8080/live/315gBa/253680/260862.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 19: Anaheim Ducks vs Vancouver Canucks @ 10:00 PM EST
-http://cord-cutter.net:8080/live/315gBa/253680/260863.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: CBJ VS CHI (NHLN Feed ) @ 8:30 pm
+http://cord-cutter.net:8080/live/315gBa/253680/260920.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: CBJ VS CHI (SN Feed ) @ 8:30 pm
+http://cord-cutter.net:8080/live/315gBa/253680/260921.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: CBJ VS CHI (TVAS Feed ) @ 8:30 pm
+http://cord-cutter.net:8080/live/315gBa/253680/260922.m3u8
 
 # --- PERU (7) ---
 #EXTINF:-1 tvg-logo="" group-title="PERU",PE: PANAMERICANA HD
@@ -13597,4 +13385,4 @@ http://cord-cutter.net:8080/live/315gBa/253680/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://cord-cutter.net:8080/live/315gBa/253680/121048.m3u8
 
-# Total: 6759
+# Total: 6653

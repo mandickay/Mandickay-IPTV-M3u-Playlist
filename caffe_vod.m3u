@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: caffe.link:25461
-# Generated: 2026-01-30 18:36:55
+# Generated: 2026-01-31 07:22:13
 # Expires: 2026-05-01
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | Crtani filmovi (524) ---
+# --- Movies | Crtani filmovi (522) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/2VrvxK4yxNCU6KVgo5TADJeBEQu.jpg" group-title="Movies | Crtani filmovi",100% Vuk (2020)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7494.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg" group-title="Movies | Crtani filmovi",101 Dalmatinac (1996)
@@ -16,10 +16,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7495.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7496.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/kP6tiCnPmJde9lcq5SEBLUzJx5v.jpg" group-title="Movies | Crtani filmovi",Abrafaxi pod Crnom Zastavom
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7498.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vJX08YpMhOOblf7SfrCnqOhKpS4.jpg" group-title="Movies | Crtani filmovi",Action Man: Robot ATAK (2004)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7499.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/l8HyObVj8fPrzacAPtGWWLDhcfh.jpg" group-title="Movies | Crtani filmovi",Ainbo: Dobri duh Amazone (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7500.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vJX08YpMhOOblf7SfrCnqOhKpS4.jpg" group-title="Movies | Crtani filmovi",Action Man: Robot ATAK (2004)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7499.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/2oFMKaoRow5OMSvQ9fVAGNVJuZE.jpg" group-title="Movies | Crtani filmovi",Ivanhoe (1986)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7501.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/nlaiczW81kY46GBdfIcTrBIqr8I.jpg" group-title="Movies | Crtani filmovi",Aladdin (1995)
@@ -42,8 +42,6 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7510.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7511.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/3tHRV61S9NWgme1pOHeXeDRBYvh.jpg" group-title="Movies | Crtani filmovi",An American Tail: The Treasure of Manhattan Island (1998)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7512.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Americka Prica 4
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7513.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wjhUy9af89vc9CviKcPgTNTrmIq.jpg" group-title="Movies | Crtani filmovi",Američka priča (1986)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7514.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yuwl1H6qCdgOJVxuonYlBQviC5S.jpg" group-title="Movies | Crtani filmovi",Annabelle's Wish (1997)
@@ -118,10 +116,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7560.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7561.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/nJmIZo7qX4iTACcBJdKh3qJ2Tyh.jpg" group-title="Movies | Crtani filmovi",Barbie Fairytopia 3: Čarolija duge (2007)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7562.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/uBCvRThFwjvwNQeS3Vy7xMPc0Rh.jpg" group-title="Movies | Crtani filmovi",Barbie Fairytopia 2: Sirenija (2006)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7563.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/qewfjmkNpggNuXQtrUjMl8hvHoM.jpg" group-title="Movies | Crtani filmovi",Barbie i Dijamantni Dvorac (2008)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7564.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/uBCvRThFwjvwNQeS3Vy7xMPc0Rh.jpg" group-title="Movies | Crtani filmovi",Barbie Fairytopia 2: Sirenija (2006)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7563.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wqKNLSzGN9lqnmtFFwu40g2eWgQ.jpg" group-title="Movies | Crtani filmovi",Barbie i čarolija Pegaza (2005)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7565.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/fX9g1AE1JIqjX3LPPKVjcmHs6fd.jpg" group-title="Movies | Crtani filmovi",Barbie u Božićnoj Priči (2008)
@@ -138,23 +136,23 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7570.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7572.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vLnRItOWvCW8Wife7vJT83u85uV.jpg" group-title="Movies | Crtani filmovi",Avanture obitelji Bigfoot (2020)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7573.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4sJ4kq7VrAtoC7g5PCh2Jq3D26V.jpg" group-title="Movies | Crtani filmovi",Bijeli očnjak (2018)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7575.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/9la0CSCJqwh6io3yk4Xv3aEZxEA.jpg" group-title="Movies | Crtani filmovi",Bijeg s planeta Zemlje (2013)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7574.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4sJ4kq7VrAtoC7g5PCh2Jq3D26V.jpg" group-title="Movies | Crtani filmovi",Bijeli očnjak (2018)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7575.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/v5aC4nrzXFGJDWY4JO1eengXzqk.jpg" group-title="Movies | Crtani filmovi",Grom (2008)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7576.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Božić Bata i čarobni panj
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7577.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/kVOaFo8RaYQceHfTqbZGmV9R80q.jpg" group-title="Movies | Crtani filmovi",Božićna priča o igračkama (2014)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7579.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ihjflA5aidYShPuMhnu6hIy8Apo.jpg" group-title="Movies | Crtani filmovi",Božić Ružnog pačeta (2004)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7578.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/kVOaFo8RaYQceHfTqbZGmV9R80q.jpg" group-title="Movies | Crtani filmovi",Božićna priča o igračkama (2014)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7579.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/74GSfa2Bj3pCxRCtWpe1xYJ9vXh.jpg" group-title="Movies | Crtani filmovi",Brzi Ozzy (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7580.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jBkQjdlA1EMD2zSX4WLHDbxs6vX.jpg" group-title="Movies | Crtani filmovi",Prinčeva strana priče (2018)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7582.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Carobni Mac HD
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pLfFEQ9HTw0HRvBkW3nI9RUze03.jpg" group-title="Movies | Crtani filmovi",Čarobni mač upotrazi za Kamelotom (1998)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7581.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/qUUxGu8Oxtzk2VasR99Jqy74ogK.jpg" group-title="Movies | Crtani filmovi",Čarobni vrtuljak (2004)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7583.ts
@@ -172,10 +170,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7588.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7589.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gOOlHRhdEoJbPNE1jpocNawjnc5.jpg" group-title="Movies | Crtani filmovi",Čiča miča, (ne)sretna je priča (2007)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7590.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/toSxNxZfk63jdWY0wNuM36zRUrS.jpg" group-title="Movies | Crtani filmovi",Coco i velika tajna (2017)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7591.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/h6wanVDcaIxnFsRbNmTx9bbkYz.jpg" group-title="Movies | Crtani filmovi",Mali zmaj Kokos (2020)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7592.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/toSxNxZfk63jdWY0wNuM36zRUrS.jpg" group-title="Movies | Crtani filmovi",Coco i velika tajna (2017)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7591.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/dCAqDMy9S7yOpg842P7tvMVuU5I.jpg" group-title="Movies | Crtani filmovi",Croods (2013)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7594.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ef11J5KGMp26kEzeg8ghAKeB65C.jpg" group-title="Movies | Crtani filmovi",Crni Kotao (1985)
@@ -188,7 +186,7 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7597.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7596.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/p7JecqohVFaffoO47OnMqkNgi9W.jpg" group-title="Movies | Crtani filmovi",Čudnovate zgode šegrta Hlapića (1997)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7598.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Čudo u zemlji igračaka (2008,
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",The miracle in Toyland
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7599.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/7FzmFHzyLAKNBFnbiGaSINI1lRC.jpg" group-title="Movies | Crtani filmovi",Čudovišta iz ormara (2001)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7600.ts
@@ -222,20 +220,20 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7614.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7616.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Djecak I Carobni Grah
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7617.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Djevojka Koja Je Skakala Kroz Vrijeme
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7619.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Dobri Dinosaur HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7620.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Djevojka Koja Je Skakala Kroz Vrijeme
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7619.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Dogtanjan I 3 Musketira
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7621.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/iRk9bQ9KC9tCpx8U0ghC2y01QMF.jpg" group-title="Movies | Crtani filmovi",Dora istražuje (2019)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7622.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Druga Zvijezda Lijevo
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7623.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Dva Ortaka I Jazavac HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7625.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Dusa (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7624.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Dva Ortaka I Jazavac HD
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7625.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Dzetsonovi HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7626.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/sJc8Sj9hTwjUFmKMG4MJTbPUv8o.jpg" group-title="Movies | Crtani filmovi",Dugi iz kamenog doba (2018)
@@ -256,20 +254,20 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7634.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7633.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wiRh6ggLZWmIdzssNsckNVzyDIC.jpg" group-title="Movies | Crtani filmovi",Ever After High: Epic Winter (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7635.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Everest Mladi Jeti
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/eIvZd5A5Pb06ykLCOUn0c4AXvMg.jpg" group-title="Movies | Crtani filmovi",Everest: Mladi Jeti (2019)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7636.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/5m9njnidjR0syG2gpVPVgcEMB2X.jpg" group-title="Movies | Crtani filmovi",Fantasia (1940)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7637.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Ferdinand HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7638.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/5m9njnidjR0syG2gpVPVgcEMB2X.jpg" group-title="Movies | Crtani filmovi",Fantasia (1940)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7637.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg" group-title="Movies | Crtani filmovi",Potraga za Nemom (2003)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7639.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/nWgOzD4LI6unGqWTqOewvdNhjhh.jpg" group-title="Movies | Crtani filmovi",Vatreno srce (2022)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7640.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Franklin Et Le Tr  Sor Du Lac
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7641.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Frozenov Bozic 2
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7642.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Franklin Et Le Tr  Sor Du Lac
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7641.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/eKf3ywh5scQ3wXOIfVgseF4LFir.jpg" group-title="Movies | Crtani filmovi",Garfield 2 (2006)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7643.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vVQwgfS9gSFviVT4gS7tZAmhRFc.jpg" group-title="Movies | Crtani filmovi",Gnomeo i Julija (2011)
@@ -280,10 +278,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7645.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7647.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Gospodin Krtica HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7646.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Guszt  V
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7649.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Guliverova Putovanja HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7648.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Guszt  V
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7649.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Gvozdeni Dzin HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7650.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/19P3Zgjc2EevxIma1re1rEKaaGf.jpg" group-title="Movies | Crtani filmovi",Ples malog pingvina (2006)
@@ -306,10 +304,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7658.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7659.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg" group-title="Movies | Crtani filmovi",Horton (2008)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7660.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Hrabri Pijetao
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7666.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Hrabra Merida HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7665.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Hrabri Pijetao
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7666.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4NS7L9xtGEOsZA0gnqdQBI7QiXu.jpg" group-title="Movies | Crtani filmovi",Hulk vs. Thor (2009)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7667.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pID2H5uwvrf0OTkQCaiSMlA9BID.jpg" group-title="Movies | Crtani filmovi",Ledeno doba 5: Veliki udar (2016)
@@ -332,16 +330,16 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7675.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7676.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/z6GrOTKOazrLnHQWVrN1pA082qi.jpg" group-title="Movies | Crtani filmovi",Juraj i hrabri vitezovi (2013)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7677.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Kako Izdresirati Zmaja 2 HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7678.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Kako Izdresirati Zmaja 3 HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7679.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Kako Izdresirati Zmaja 2 HD
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7678.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Kako Izdresirati Zmaja HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7680.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yhoOBcsHUMWtGm8ZynhAouYMirE.jpg" group-title="Movies | Crtani filmovi",Kako je Gru ukrao Mjesec (2010)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7682.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Kako Je Gru Ukrao Mjesec 2 HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7681.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yhoOBcsHUMWtGm8ZynhAouYMirE.jpg" group-title="Movies | Crtani filmovi",Kako je Gru ukrao Mjesec (2010)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7682.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Kako Je Gru Ukrao Mjesec HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7683.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xMFq7isIm7awHt53r05sVDlC0jL.jpg" group-title="Movies | Crtani filmovi",Kapetan Sabljozubi i Magični Dijamant (2020)
@@ -352,20 +350,20 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7685.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7686.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Klaus HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7687.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Knjiga O Dzungli HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7689.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Knjiga O Dzungli 2 HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7688.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/y40M9x9Crf3FFxT80vcxczqPPwv.jpg" group-title="Movies | Crtani filmovi",Jungle Book (1995)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7689.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/5FnCFlouRhbgCLCfXPmHgNVhtU4.jpg" group-title="Movies | Crtani filmovi",The Koala Brothers' Christmas (2022)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7690.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Kod Kuce HD
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/9RBSbmdrYlpgQq5zaUcVTNrMgFp.jpg" group-title="Movies | Crtani filmovi",Kod kuće (2015)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7691.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/lFKP0GZX3oKqwNra23RFDBj0YSU.jpg" group-title="Movies | Crtani filmovi",Konferencija životinja (2010)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7692.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Kong  Povratak U Dzunglu
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7693.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Korgi Kraljevski Pas Velikog Srca HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7694.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Kong  Povratak U Dzunglu
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7693.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/86GvPooCs8HnuBCN7wdxNz30Csb.jpg" group-title="Movies | Crtani filmovi",Mufasa: Kralj Lavova (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7695.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/9WSNUWOIB1i4ErMnXMeHruLjlII.jpg" group-title="Movies | Crtani filmovi",Kralj lavova (1994)
@@ -376,10 +374,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7697.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7698.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/9bCAfAifxwLpEvnoKDSJQKfdrMe.jpg" group-title="Movies | Crtani filmovi",Krš i lom (2012)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7699.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Kuca Cudoviste
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7701.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Kuca Velikog Madionicara HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7700.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Kuca Cudoviste
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7701.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Kung Fu Panda 2 HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7702.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/oajNi4Su39WAByHI6EONu8G8HYn.jpg" group-title="Movies | Crtani filmovi",Kung Fu Panda 3 (2016)
@@ -398,10 +396,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7708.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7709.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hlcbYCbB4ttfgCvCEYgoJ05bUoa.jpg" group-title="Movies | Crtani filmovi",Svjetlosni (2022)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7710.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Lisica I Pas HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7712.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Lilo   Stitch HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7711.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Lisica I Pas HD
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7712.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pPCVGKp1saSTH11hBnAWC2O5QQf.jpg" group-title="Movies | Crtani filmovi",Veliko putovanje 2: Specijalna dostava (2022)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7713.ts
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA2MTQ5Njk5MzheQTJeQWpwZ15BbWU3MDMyNTA3MjE@._V1_SX155.jpg" group-title="Movies | Crtani filmovi",Little Red Riding Hood (1995)
@@ -410,18 +408,18 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7714.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7715.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Ljute Ptice HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7716.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Lov Na Zmajeve
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7718.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/40lC4IHEBMGeSXgqKMoFpouDlQ2.jpg" group-title="Movies | Crtani filmovi",Lotte ja kuukivi saladus (2011)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7717.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Lov Na Zmajeve
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7718.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/i04x1trcaE8neU5AatI623w7eSN.jpg" group-title="Movies | Crtani filmovi",Luis i društvo iz svemira (2018)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7719.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Luka HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7720.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Macak U Cizmama HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7722.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg" group-title="Movies | Crtani filmovi",Mač u kamenu (1963)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7721.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Macak U Cizmama HD
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7722.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Madagascar HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7723.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Madagaskar 2  Bijeg U Afriku HD
@@ -434,21 +432,21 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7727.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7726.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Majstor Bob  Bozic
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7728.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Mala Sirena 2  Povratak U More HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7730.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Majstor Bob  Megamasine HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7729.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Mala Sirena HD
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/k3UHxvYv8ZgWLL0lM45f979OSo7.jpg" group-title="Movies | Crtani filmovi",Mala sirena 2: Povratak u more (2000)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7730.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/plcZXvI310FkbwIptvd6rqk63LP.jpg" group-title="Movies | Crtani filmovi",Mala sirena (1989)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7731.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Mali Bigfoot HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7733.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Malci HD
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/usCFlgDRx3TlZolNjblLBwY55Fa.jpg" group-title="Movies | Crtani filmovi",Malci (2015)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7732.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Mali Sef HD
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jdqdyRhENVUssf1XUnv42lOTTcV.jpg" group-title="Movies | Crtani filmovi",Mali Bigfoot (2017)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7733.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/z38roLaRBDGy63al6VLdJXGCfb9.jpg" group-title="Movies | Crtani filmovi",Mali šef (2017)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7734.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Mali Sef  Obiteljski Posao HD
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/96clt148L02CNokM6VZoYtBa9Cd.jpg" group-title="Movies | Crtani filmovi",Mali šef: Obiteljski posao (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7736.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Mali Princ HD
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/nrdBYiV3bS59GbvZdQC2Yi8Homn.jpg" group-title="Movies | Crtani filmovi",Mali princ (2015)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7735.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/boUXx3KWFkhYe8OllT1VCfI2kpu.jpg" group-title="Movies | Crtani filmovi",Manou the Swift (2019)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7737.ts
@@ -494,14 +492,14 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7756.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7757.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wBgehvNJEl8DAmyHIHhD8Ul3W0q.jpg" group-title="Movies | Crtani filmovi",Avanture gospodina Peabodya i Shermana (2014)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7758.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Mr HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7759.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Mulan HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7760.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ovAxLGM0I9Dn2DIUuYhgvNVbwht.jpg" group-title="Movies | Crtani filmovi",Mulan II (2004)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7761.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Mr HD
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7759.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Mumijevi Na Azurnoj Obali
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7762.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ovAxLGM0I9Dn2DIUuYhgvNVbwht.jpg" group-title="Movies | Crtani filmovi",Mulan II (2004)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7761.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/g1Vaitb2Z5Lxwg4EjM1OV77TqT9.jpg" group-title="Movies | Crtani filmovi",Mummies Alive! (1997)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7763.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Mune  Cuvar Mjeseca HD
@@ -522,10 +520,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7770.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7771.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Nevjerojatna Prica O Divovskoj Kruski HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7772.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg" group-title="Movies | Crtani filmovi",Zvjezdane staze: Nova generacija (1994)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7773.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Niko 2  Lent  J  Veljekset
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7774.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg" group-title="Movies | Crtani filmovi",Zvjezdane staze: Nova generacija (1994)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7773.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Niko  Lent  J  N Poika
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7775.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Obitelj Addams HD
@@ -554,10 +552,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7786.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7787.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/iZ03bBplIRf9nrf0YEqjOzJwkBs.jpg" group-title="Movies | Crtani filmovi",Psići u ophodnji: Moćan film (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7788.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pRlKlGLHulGUDYFBpK6esMmeYwH.jpg" group-title="Movies | Crtani filmovi",Psići u ophodnji: Film (2021)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7789.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",PETAR PAN 2  Povratak U Nigdjezemsku HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7790.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pRlKlGLHulGUDYFBpK6esMmeYwH.jpg" group-title="Movies | Crtani filmovi",Psići u ophodnji: Film (2021)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7789.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/em9f164rkukviGolHcfIDinZC1F.jpg" group-title="Movies | Crtani filmovi",Palčić (1980)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7791.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pandine Metode
@@ -566,22 +564,22 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7793.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7792.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/w1kQhDLXuREaxl38MKTix6Im2C9.jpg" group-title="Movies | Crtani filmovi",Pat i Mat na filmu (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7794.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Patke Za Nemoguce Zadatke HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7795.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Patuljci Uzvracaju Udarac HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7796.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pcelica Maja HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7798.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Patke Za Nemoguce Zadatke HD
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7795.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Paturiko
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7797.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pcelica Maja HD
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7798.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/flLg5MLyxT6Mo9362VkodRgSsXZ.jpg" group-title="Movies | Crtani filmovi",Pčelin film (2007)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7799.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pepeljuga 2  Snovi Se Ostvaruju HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7800.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/j91LJmcWo16CArFOoapsz84bwxb.jpg" group-title="Movies | Crtani filmovi",Pepeljuga (2015)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7801.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pernata Banda HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7802.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/j91LJmcWo16CArFOoapsz84bwxb.jpg" group-title="Movies | Crtani filmovi",Pepeljuga (2015)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7801.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pero Djetlic
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7803.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ufuKmgn2uwk7icvxugFY95KBuuA.jpg" group-title="Movies | Crtani filmovi",Pet legendi (2012)
@@ -596,10 +594,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7807.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7808.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pingvini S Madagaskara HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7809.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pinokio HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7812.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pinokijeve Avanture
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7811.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pinokio HD
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7812.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pipi Duga Carapa
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7813.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hX9TgZ3bnCu3QGwC0ISAowAiNfJ.jpg" group-title="Movies | Crtani filmovi",Pixies (2015)
@@ -610,16 +608,16 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7815.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7816.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pobuna Na Farmi HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7817.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pocahontas II  Putovanje U Novi Svijet HD
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gAnmNjw1TCTzS702mj1OwwmXBpM.jpg" group-title="Movies | Crtani filmovi",Pokahontas 2 Putovanje u novi svijet (1998)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7818.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg" group-title="Movies | Crtani filmovi",Pocahontas (1995)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7819.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pokemon  Tajne Dzungle
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7820.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pok  Mon Detective Pikachu
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7822.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pokemon  The Arceus Chronicles  Movie Version
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7821.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pok  Mon Detective Pikachu
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7822.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Polarna Avantura HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7823.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1RqvxR5y5UOWipapsEYCzAV3rxB.jpg" group-title="Movies | Crtani filmovi",平成狸合戦ぽんぽこ (1994)
@@ -628,10 +626,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7824.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7825.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg" group-title="Movies | Crtani filmovi",Posljednji Mohikanac (1992)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7826.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Postar Pat HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7827.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Potraga Za Dorom HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7828.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Postar Pat HD
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7827.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/zKaH6CbrgxNLw9lsEinLxx173Tw.jpg" group-title="Movies | Crtani filmovi",Povratak u Oz (1985)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7829.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/oeNKD3f10OQBUkBKvvqraxncVUS.jpg" group-title="Movies | Crtani filmovi",Povratak u australsku divljinu (2021)
@@ -642,22 +640,20 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7831.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7832.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Prica O Zmajevom Repu
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7833.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/rRMIvf9OismdaKSuyUoo3mQa3iD.jpg" group-title="Movies | Crtani filmovi",Zavjet: Priča o Mojsiju (2024)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7835.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Prica O Delfinu HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7834.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg" group-title="Movies | Crtani filmovi",Priča o igračkama 2 (1999)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7836.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Prica O Igrackama 4 HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7837.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg" group-title="Movies | Crtani filmovi",Priča o igračkama 2 (1999)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7836.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg" group-title="Movies | Crtani filmovi",Priča o igračkama (1995)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7838.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Prica O Igrackama  Noc Vjestica HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7839.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Price Sa Djubrsita
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7841.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6bBzgQ1uJabDHeGR9QvKrHvHYzG.jpg" group-title="Movies | Crtani filmovi",Priča o mišu zvanom Despero (2008)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7840.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Price Sa Djubrsita
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7841.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Princ Egipta HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7842.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Princeza I Zmaj HD
@@ -670,10 +666,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7845.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7847.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/9WPMI8PSGrzKZfFSEHxLDHht61Q.jpg" group-title="Movies | Crtani filmovi",Prste(n) k sebi (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7846.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Ptica Trkacica Vol1
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7848.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Ptice Selice
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7849.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Ptica Trkacica Vol1
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7848.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Pupijeva Potraga HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7850.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gnSU2wUBq2gTkBEkxY8C1d1fXAQ.jpg" group-title="Movies | Crtani filmovi",Purani u bijegu (2013)
@@ -704,10 +700,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7862.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7863.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/A5MP1guV8pbruieG0tnpPIbaJtt.jpg" group-title="Movies | Crtani filmovi",Rango (2011)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7864.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg" group-title="Movies | Crtani filmovi",Juhu-hu (2007)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7865.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Ratchet   Clank HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7866.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg" group-title="Movies | Crtani filmovi",Juhu-hu (2007)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7865.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Raya I Posljednji Zmaj HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7867.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/aLd1XSk30MxMpX20ttGAR662wjl.jpg" group-title="Movies | Crtani filmovi",Riba ribi grize rep (2004)
@@ -718,29 +714,29 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7869.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7870.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Ringe Ringe Raja HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7871.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Rio in HD (2010)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7873.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Rio 2 HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7872.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Ritam Dzungle
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7876.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Rio in HD (2010)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7873.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/i6TRDlVuuEXMyLSlIkDd8YhBN0r.jpg" group-title="Movies | Crtani filmovi",Riverdance: Animirana pustolovina (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7877.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Ritam Dzungle
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7876.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/nl7Lg6VqR9h1Z9IKuUtttBB93wo.jpg" group-title="Movies | Crtani filmovi",Rob Roy (1995)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7878.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Roboti HD
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg" group-title="Movies | Crtani filmovi",Roboti (2005)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7880.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Robinson Kruso HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7879.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Rode HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7882.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Rockeri Iz Kokosinjca
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/q5xSS8MNmrwR3em6VB6OC3992d6.jpg" group-title="Movies | Crtani filmovi",Rock-A-Doodle (1991)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7881.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Ronal Barbarin HD
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/doFrdCxoIdsL4OsWHg6drByvpcj.jpg" group-title="Movies | Crtani filmovi",Rode (2016)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7882.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/b1JpzPAWRp7dVj5XCq4lPfKzB0F.jpg" group-title="Movies | Crtani filmovi",Ronal Barbaren (2011)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7883.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Rudolph   Jelen Crvenog Nosica HD
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pNwHtfMVcqmWat1MfMJ9XSVBBXR.jpg" group-title="Movies | Crtani filmovi",Rudolph the Red-Nosed Reindeer: The Movie (1998)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7884.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Rugratovi U Divljini
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hpVpXRNY2IsU0xvfXtYOxu0QDwc.jpg" group-title="Movies | Crtani filmovi",Rugrats Go Wild (2003)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7885.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/l3VEpUkD7RAghdFrVr4OtpaPvb9.jpg" group-title="Movies | Crtani filmovi",La Gran Carrero Del Patito Feo (2004)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7886.ts
@@ -776,7 +772,7 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7900.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7901.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Shrek 2 HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7902.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Shrek HD
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/qbX9UE0Vq431aquc8smuGV4g2qg.jpg" group-title="Movies | Crtani filmovi",Shrek (2001)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7903.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Shrek Treci HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7904.ts
@@ -790,16 +786,16 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7907.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7908.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8wKt38YGKAnhzPwTsYT7H1geTRn.jpg" group-title="Movies | Crtani filmovi",Pjevajte s nama (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7909.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Snijezna Kraljica 4 HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7912.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Smotanko I Trapavko HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7911.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Snijezna Kraljica 4 HD
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7912.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/sCZFliVXMVMxt9Vwj27aXjVh3CL.jpg" group-title="Movies | Crtani filmovi",Snjeguljica
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7913.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Snjeguljica I Sedam Patuljaka 1932  HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7914.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Snjezna Kraljica 2 HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7915.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Snjeguljica I Sedam Patuljaka 1932  HD
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7914.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Snjezna Kraljica 3 Vatra I Led HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7916.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Snjezna Kraljica HD
@@ -818,10 +814,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7922.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7923.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8bphXC1TgjggyhgwJAcKlCVthqz.jpg" group-title="Movies | Crtani filmovi",Špijunaža i kamuflaža (2019)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7924.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Spirit Riding Free  Ride Along Adventure HR
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7926.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Spijunaza I Kamuflaza HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7925.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Spirit Riding Free  Ride Along Adventure HR
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7926.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Spuzva Bob Skockani Film  Spuzva Na Suhom HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7927.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/v2ure25o3KiQOuGO5fX6PW6KpFe.jpg" group-title="Movies | Crtani filmovi",Spužva Bob Skockani: Spužva u bijegu (2020)
@@ -856,18 +852,18 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7941.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7942.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Talicni Tom  Deizi Grad HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7943.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Talicni Tom  Ide Na Zapad HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7944.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Talicni Tom Balada O Daltonima HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7945.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Talicni Tom  Ide Na Zapad HD
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7944.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wWBAt1Q4YKz9kCpLWLAu5oKGxEv.jpg" group-title="Movies | Crtani filmovi",Vrlo zapetljana priča (2010)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7946.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Tarzan   Jane HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7947.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Tarzan HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7949.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xqkd4xlsIynWy16H9poHMcM02Gs.jpg" group-title="Movies | Crtani filmovi",Legenda o Tarzanu (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7948.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Tarzan HD
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7949.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Tarzan II HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7950.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cwmZY5PCWawjE2QZPdBaPBSnoqO.jpg" group-title="Movies | Crtani filmovi",The Adventures of Jimmy Neutron: Boy Genius (2006)
@@ -920,10 +916,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7974.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7975.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",The Toll
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7976.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Tko Se Boji Vuka 2
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7978.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/tjuMvHg7NJmE9hqKD3p86kW2Jvk.jpg" group-title="Movies | Crtani filmovi",Tko je smjestio crvenkapici (2005)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7977.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Tko Se Boji Vuka 2
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7978.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Tko Se Boji Vuka Jo   HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7979.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Tom And Jerry Blast Off To Mars  HD
@@ -950,10 +946,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7989.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7990.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/shWyqG6n2QISWn8smtxVAIdZqIe.jpg" group-title="Movies | Crtani filmovi",Trolovi (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7991.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Trolovi U Kutijama HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7992.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Trolovi  Svjetska Turneja HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7993.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Trolovi U Kutijama HD
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7992.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Turbo HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7994.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/iNL1ObzQZgp6d2Zib5hWGAEQEOE.jpg" group-title="Movies | Crtani filmovi",Crvena panda (2022)
@@ -964,10 +960,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7996.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7997.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Tvrd Orah HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7998.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Ukradena Princeza HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8000.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/p97LQ1TL95mptVL2AS8Rz1cJCQg.jpg" group-title="Movies | Crtani filmovi",Uglydolls (2019)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7999.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Ukradena Princeza HD
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8000.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Ups  Noa Je Otisao    HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8001.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Vaiana  Potraga Za Mitskim Otokom HD
@@ -1008,20 +1004,20 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8019.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8018.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/aZ2fbhAWyiwCUlxWVkxnpVq39lW.jpg" group-title="Movies | Crtani filmovi",Zecko Koš i tajna Mrkog Hrčka (2022)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8020.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Zekoslav Mrkva 1001 Zecija Prica
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8022.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Zekoslav Mrkva I Ptica Trkacica HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8021.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Zekoslav Mrkva 1001 Zecija Prica
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8022.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Zemlja Daleke Proslost 4
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8024.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Zemlja Daleke Proslost 3
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8023.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Zemlja Daleke Proslost 5
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8025.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Zemlja Daleke Proslost 6
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8026.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Zemlja Daleke Proslost 7
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8027.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Zemlja Daleke Proslost 6
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8026.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/lSwUyNrm4KaFwrM5ilY2ZWY5bEL.jpg" group-title="Movies | Crtani filmovi",Zemlja daleke prošlosti 10: Velika seoba dugovratih (2003)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8028.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/zREv4ST6lZUcxWIy2LPJKB011Gj.jpg" group-title="Movies | Crtani filmovi",Zemlja daleke prošlosti XI: Invazija minisaura (2005)
@@ -1044,10 +1040,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8036.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8037.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/urZWuveMBp8mA9HCijkdgU0DJPs.jpg" group-title="Movies | Crtani filmovi",Zootropola (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8038.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Zvoncica HD
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8040.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Zov Divljinje
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8039.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Zvoncica HD
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8040.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Zvoncica I Cudoviste Iz Nigdjezemske  HD
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8041.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crtani filmovi",Zvoncica I Gusarska Vila HD
@@ -1760,10 +1756,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1034.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1036.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Carobna Zemlja  2025   2025  Ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1037.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cOHg0YmefPTTgp35xNrsFHF1CVr.jpg" group-title="Movies | Domaci filmovi",Čekaj me i vratiću se (2023)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1040.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/dF1oa5gwmPpqk2VkEqtKhtPydjp.jpg" group-title="Movies | Domaci filmovi",Чекај ме, ја сигурно нећу доћи (2009)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1039.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cOHg0YmefPTTgp35xNrsFHF1CVr.jpg" group-title="Movies | Domaci filmovi",Čekaj me i vratiću se (2023)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1040.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yOkfdOVi7QP3juBsBCr22s2LicP.jpg" group-title="Movies | Domaci filmovi",Četvrti čovek (2007)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1043.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Cigani Lete U Nebo
@@ -1788,10 +1784,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1066.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1071.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/nu2Oi8VU5eo5bsgAHsWGCJU1OKr.jpg" group-title="Movies | Domaci filmovi",Dara iz Jasenovca (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1072.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/a7nTcA1ugh5bq6u9clMyCvaYvnV.jpg" group-title="Movies | Domaci filmovi",Deveti krug
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1081.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pHTqL2tD70wvMLJTcsqX2H9acWd.jpg" group-title="Movies | Domaci filmovi",Deset u pola (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1080.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/a7nTcA1ugh5bq6u9clMyCvaYvnV.jpg" group-title="Movies | Domaci filmovi",Deveti krug
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1081.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Direktan Prenos
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1087.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/iIbHUJMWIirOQihFbZZA5OBdKGJ.jpg" group-title="Movies | Domaci filmovi",Diši duboko (2004)
@@ -1852,10 +1848,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1136.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1137.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/bc5LVwosDz8gqG8aDCiROBrkg0Z.jpg" group-title="Movies | Domaci filmovi",Falsifikator (2013)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1138.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/x8BuwLpbQLtq1KgFqVqYmErAOoT.jpg" group-title="Movies | Domaci filmovi",Fine mrtve djevojke (2002)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1139.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/piGwnn2zjIBZfwsRKV8a8U0iaVo.jpg" group-title="Movies | Domaci filmovi",Fleke (2011)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1140.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/x8BuwLpbQLtq1KgFqVqYmErAOoT.jpg" group-title="Movies | Domaci filmovi",Fine mrtve djevojke (2002)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1139.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/coa24EtsVunVqMH9V4vhaMvhnwQ.jpg" group-title="Movies | Domaci filmovi",Flert (2005)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1141.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/uBbyjdhnt8ybWx0Cg7UU0zCIZ88.jpg" group-title="Movies | Domaci filmovi",Gde cveta limun žut (2006)
@@ -1984,10 +1980,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1270.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1271.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/53G3x4YMpUzaUjA3ipHYrYIm4n8.jpg" group-title="Movies | Domaci filmovi",Lijenština (2018)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1272.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Ljeto U Znoj Dolini
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1275.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Ljeto U Znoj Dolini 2003
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1274.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Ljeto U Znoj Dolini
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1275.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pGA97X5l8rDwhJxCd1BOKZMOtQy.jpg" group-title="Movies | Domaci filmovi",Koko: Ljubav ili smrt (2014)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1277.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8mGvG2BiOCFE6OuUxJwzZ9lZj6C.jpg" group-title="Movies | Domaci filmovi",Ljubavni slučaj (2016)
@@ -2016,10 +2012,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1311.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1313.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/fnZn6raItKZgtpx5FP95ZcJ6HMT.jpg" group-title="Movies | Domaci filmovi",Marginalci (2022)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1314.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Maturanti  Pazi   Ta Radis
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1319.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/k9kYT1IIqu5t7slPROL2BQSApRM.jpg" group-title="Movies | Domaci filmovi",Mater (2019)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1318.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Maturanti  Pazi   Ta Radis
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1319.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/iG0YohQWL6TCKqmNJo1LZPrYIk0.jpg" group-title="Movies | Domaci filmovi",Medeni mesec (2009)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1321.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/2tuHJsxbEXRfqExCLJ5OcwD5dP4.jpg" group-title="Movies | Domaci filmovi",Mehanizam (2000)
@@ -2054,10 +2050,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1345.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1346.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ksrb3PmFvsNY7G1jimxci4LBoF1.jpg" group-title="Movies | Domaci filmovi",Na mlečnom putu (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1347.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/u4XW6FBitl5lRqI7b2GsGCE59i1.jpg" group-title="Movies | Domaci filmovi",Na putu (2010)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1349.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jkZPiNarwWLPnoURDqFpW5TT0I7.jpg" group-title="Movies | Domaci filmovi",Nafaka (2006)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1350.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/u4XW6FBitl5lRqI7b2GsGCE59i1.jpg" group-title="Movies | Domaci filmovi",Na putu (2010)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1349.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Najsretniji Covjek Na Svijetu
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1354.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/dr5tjQ7BlU5NPP7MMzSg4zgmf4v.jpg" group-title="Movies | Domaci filmovi",Narodni heroj Ljiljan Vidić (2015)
@@ -2070,10 +2066,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1358.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1359.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4F1V1MyjgGyxoJoYg5k8VlNQcHb.jpg" group-title="Movies | Domaci filmovi",Ne igraj na Engleze (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1360.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Ne Zabor Disati 2019
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1362.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1wlceMhSuLnIlnund06sgW4XTEr.jpg" group-title="Movies | Domaci filmovi",Ne okreci se sine
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1361.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Ne Zabor Disati 2019
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1362.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/me8pwKRLeiKYIhUS9kwW9hSg5RF.jpg" group-title="Movies | Domaci filmovi",Nebesa (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1363.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xnDHna3TTCYs8r4dBs3Zwa9PYtD.jpg" group-title="Movies | Domaci filmovi",Nebo iznad krajolika (2006)
@@ -2400,10 +2396,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1715.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1717.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ugMOc29yoyvPlAmbAYRD6SdQVS9.jpg" group-title="Movies | Domaci filmovi",Družba Isusova (2017)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1720.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Država (2013)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1721.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Duga U Crnini
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1722.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Država (2013)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1721.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/fKjZqYtai06D7ZgSelbKIXXZ2bj.jpg" group-title="Movies | Domaci filmovi",Duh u močvari (2006)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1723.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/e7UB8bp8zDMLVDdrl1uDrjdHesC.jpg" group-title="Movies | Domaci filmovi",Dva sunčana dana (2010)
@@ -2444,10 +2440,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1770.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1771.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/udy1i91VaB1humCneyBsF3XK5C2.jpg" group-title="Movies | Domaci filmovi",I ja tebi... (2009)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1777.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jX850gYlB6lpwgQOroJEAzzm1Sh.jpg" group-title="Movies | Domaci filmovi",Idila (2015)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1781.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8gZ1qQJeO6jyqqB6TwO4UKcrPHu.jpg" group-title="Movies | Domaci filmovi",Igla ispod praga (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1782.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jX850gYlB6lpwgQOroJEAzzm1Sh.jpg" group-title="Movies | Domaci filmovi",Idila (2015)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1781.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/oCvvM6erjEDeuUftVgosgVkjFKC.jpg" group-title="Movies | Domaci filmovi",Igra u tami (2015)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1784.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yTFYxb37il737orsTtaQUj5nbXp.jpg" group-title="Movies | Domaci filmovi",Ime: Dobrica, prezime: nepoznato (2016)
@@ -2534,10 +2530,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1879.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1880.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hZ7IxFrISowD9btgx0gVqytvlow.jpg" group-title="Movies | Domaci filmovi",Ljubljana je ljubljena (2005)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1881.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Ljudski Zooloski Vrt Human Zoo   2009
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1883.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/opq3sFgD6yCB31qsLznvGoSMq9C.jpg" group-title="Movies | Domaci filmovi",Ljudožder vegetarijanac (2012)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1882.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Ljudski Zooloski Vrt Human Zoo   2009
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1883.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cSCqez1SaeR6kaBzCNEiomTrEXK.jpg" group-title="Movies | Domaci filmovi",Luka (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1886.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",MNJ
@@ -2546,10 +2542,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1891.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1893.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Mali ljubavni bog (2011)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1898.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Marijina Epizoda  2014
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1900.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/lxNnMlSSFi9sUFOLBTPy7QuHOFE.jpg" group-title="Movies | Domaci filmovi",Manja (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1899.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Domaci filmovi",Marijina Epizoda  2014
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1900.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/2zPyrmypUU7ZWxACLexsSPoom05.jpg" group-title="Movies | Domaci filmovi",Мегдан - Између воде и ватре (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1902.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/iZjieY6Yg1APLcGQg5UdR2kWjOI.jpg" group-title="Movies | Domaci filmovi",Meso (2018)
@@ -3082,10 +3078,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/603.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/604.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wmUtTp196L4jM1rCgnagr3Wc9hq.jpg" group-title="Movies | Filmovi 2024",Pridošlice (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/605.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/lN6iCgTgpNlylelUctrA29wJx4W.jpg" group-title="Movies | Filmovi 2024",Irenin zavjet (2024)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/606.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/v4Bb70dpIIQoEnZAHnm3nzCPauU.jpg" group-title="Movies | Filmovi 2024",Irska želja (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/607.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/lN6iCgTgpNlylelUctrA29wJx4W.jpg" group-title="Movies | Filmovi 2024",Irenin zavjet (2024)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/606.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/spIpmzG3WnkWK6rtipm3e8K8rPV.jpg" group-title="Movies | Filmovi 2024",Priča završava s nama (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/608.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/nxECASudeGWO9LDOl4WJqqCZqL6.jpg" group-title="Movies | Filmovi 2024",ŠTO SE KRIJE UNUTRA (2024)
@@ -3122,10 +3118,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/623.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/624.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg" group-title="Movies | Filmovi 2024",Late Night with the Devil (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/625.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/36o8ancoKDKW1sstzMi0YYkQkpU.jpg" group-title="Movies | Filmovi 2024",Lazareth (2024)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/627.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yNBDVUFmvgCgxzpEl5ZJ9TUSc8t.jpg" group-title="Movies | Filmovi 2024",Latency (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/626.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/36o8ancoKDKW1sstzMi0YYkQkpU.jpg" group-title="Movies | Filmovi 2024",Lazareth (2024)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/627.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/zdNWyuim8gpJHe1LtKaDrs43dWz.jpg" group-title="Movies | Filmovi 2024",Lee (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/628.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8TcU4ivPftTuY549Nkm0oGzEYVZ.jpg" group-title="Movies | Filmovi 2024",Polijetanje (2024)
@@ -3140,10 +3136,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/632.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/633.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/nEMc5IK3rkAtKCMhzBe3CX2Wpds.jpg" group-title="Movies | Filmovi 2024",Little Wing (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/634.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/27y5QGbOligWKc04A9OLNbg8x5d.jpg" group-title="Movies | Filmovi 2024",Lolo and the Kid (2024)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/636.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/3uaQ6ETNU3osziF66Qkj0C31ziy.jpg" group-title="Movies | Filmovi 2024",Lobola Man (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/635.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/27y5QGbOligWKc04A9OLNbg8x5d.jpg" group-title="Movies | Filmovi 2024",Lolo and the Kid (2024)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/636.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1ENAa0K2Qqm6VNf4eZoR4TaLDSn.jpg" group-title="Movies | Filmovi 2024",Long Gone Heroes (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/637.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vn0G7wZirBfDCmsTO6OKX9AAAXm.jpg" group-title="Movies | Filmovi 2024",Longing (2024)
@@ -3478,10 +3474,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/803.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/804.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/bHXdIPo2mrzLYb1G9O8e4GEo3e5.jpg" group-title="Movies | Filmovi 2024",Wallbanger (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/805.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Filmovi 2024",Whief  2024   2024
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/807.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pmdgdb8biQLLzTjySZLPdK13KwM.jpg" group-title="Movies | Filmovi 2024",Wanted Man (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/806.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmovi 2024",Whief  2024   2024
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/807.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/nU5ZeQpy32xbwtxHua1ZkT5QquZ.jpg" group-title="Movies | Filmovi 2024",We Are Zombies (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/808.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vnRdx0RG4RF2nMdSN6uTMvXzGVa.jpg" group-title="Movies | Filmovi 2024",Weak Layers (2024)
@@ -3511,7 +3507,7 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/820.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/9ODfAZsWTj1xXlwdsZC4EAmh98b.jpg" group-title="Movies | Filmovi 2024",unDEFILED (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/821.ts
 
-# --- Movies | Filmovi 2025 (477) ---
+# --- Movies | Filmovi 2025 (479) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/a3IR1ytzpT1WphB9MF1wnh9thhJ.jpg" group-title="Movies | Filmovi 2025",27 noći (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/1.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gNMmKXg3dXrkKHvTVHqN4yIvojz.jpg" group-title="Movies | Filmovi 2025",28 godina kasnije (2025)
@@ -3532,10 +3528,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jSG2mg1998DUAam6X9EA6SeJmqD.jpg" group-title="Movies | Filmovi 2025",A Line of Fire (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/10.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/dKaT7um4Dme0BWwp2W5208UpIaa.jpg" group-title="Movies | Filmovi 2025",Minecraft film (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/11.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/grbziZ90ldWxP0cWExuKZxrRhGl.jpg" group-title="Movies | Filmovi 2025",A Sloth Story (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/12.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/dKaT7um4Dme0BWwp2W5208UpIaa.jpg" group-title="Movies | Filmovi 2025",Minecraft film (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/11.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/tgmNdAQvLxLcSni35oP0nd8W3bq.jpg" group-title="Movies | Filmovi 2025",Crna udovica (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/13.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/q364Irdi5FHBCg7BWuB9JMAgCGR.jpg" group-title="Movies | Filmovi 2025",Opaki radnik (2025)
@@ -3550,26 +3546,26 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/16.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/19.ts
 #EXTINF:-1 tvg-logo="N/A" group-title="Movies | Filmovi 2025",Alma and the Wolf (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/18.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/7REWn0JCKF8ORdepVhdlqcrzj1C.jpg" group-title="Movies | Filmovi 2025",An Unexpected Valentine (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/21.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/2rK9NrcUedJXTzPV9ajQyEsZYLN.jpg" group-title="Movies | Filmovi 2025",American Scream (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/20.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/7REWn0JCKF8ORdepVhdlqcrzj1C.jpg" group-title="Movies | Filmovi 2025",An Unexpected Valentine (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/21.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yA2LhLNIW5tUGyLtaMuLg9NvvBJ.jpg" group-title="Movies | Filmovi 2025",Andrew Schulz: LIFE (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/22.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/zboCGZ4aIqPMd7VFI4HWnmc7KYJ.jpg" group-title="Movies | Filmovi 2025",Još jedna mala usluga (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/24.ts
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzE0ODRjZjctYjY1YS00ZjA3LWEzNDctNzFhNGQ0YjhmZDk0XkEyXkFqcGc@._V1_SX155.jpg" group-title="Movies | Filmovi 2025",Angelo dans la forêt mystérieuse (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/23.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/zboCGZ4aIqPMd7VFI4HWnmc7KYJ.jpg" group-title="Movies | Filmovi 2025",Još jedna mala usluga (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/24.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/bqVSFwwvNED8fIYNHLH7gTh6g8d.jpg" group-title="Movies | Filmovi 2025",Armed (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/25.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/RFtHlMIxHnWW6jx1Lswn5sKmyd.jpg" group-title="Movies | Filmovi 2025",Arouse (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/26.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1IAtzYFiIYzSPmIW4xYX3t16c1v.jpg" group-title="Movies | Filmovi 2025",Art Attack! The Dissection of Terrifier 3 (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/27.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/souvvkJHYhztC1UqZ8lEVUiJa3J.jpg" group-title="Movies | Filmovi 2025",Astronautkinja (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/29.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/nRa8B3tQCUK6pVwjasIyQehbvpF.jpg" group-title="Movies | Filmovi 2025",Pepeo (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/28.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/souvvkJHYhztC1UqZ8lEVUiJa3J.jpg" group-title="Movies | Filmovi 2025",Astronautkinja (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/29.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xYuySoNj5aVxI00KuvUYUl2gCIl.jpg" group-title="Movies | Filmovi 2025",Azaad (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/30.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg" group-title="Movies | Filmovi 2025",Opaki partneri (2025)
@@ -3710,10 +3706,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/98.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/99.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ryvTujfZqCI1O942dJ8smf2uyvV.jpg" group-title="Movies | Filmovi 2025",Čovpas (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/100.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/fgoFNWTEVkzWEzxBqwUgfTopp3l.jpg" group-title="Movies | Filmovi 2025",Domovina (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/101.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/2M0CF7UsbpQ45xGuVRhExAhUWBj.jpg" group-title="Movies | Filmovi 2025",Nemoj umrijeti: Čovjek koji želi živjeti zauvijek (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/102.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/fgoFNWTEVkzWEzxBqwUgfTopp3l.jpg" group-title="Movies | Filmovi 2025",Domovina (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/101.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/2UsSIs5Min8nt9ilYeUTnSDDSVr.jpg" group-title="Movies | Filmovi 2025",Dragón (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/103.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1iRYuoauUVGY0DxQ4APMoSmEMRr.jpg" group-title="Movies | Filmovi 2025",Drakula: Vječna ljubav (2025)
@@ -3722,10 +3718,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/104.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/105.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/9FzotQPMq3MG6eO3ZnShU3aRc9G.jpg" group-title="Movies | Filmovi 2025",Igra straha (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/106.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/AsqALJWqGRgnKEo3gt1TCOF4nCM.jpg" group-title="Movies | Filmovi 2025",Dolina jeke (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/108.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/lQT8l7Yy1pJgvuBQU2skJHHv36z.jpg" group-title="Movies | Filmovi 2025",Duh u bitci (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/107.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/AsqALJWqGRgnKEo3gt1TCOF4nCM.jpg" group-title="Movies | Filmovi 2025",Dolina jeke (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/108.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4GIqZUgPZ146BhibsPHMHef2nXX.jpg" group-title="Movies | Filmovi 2025",Eddington (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/109.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/z6r5YUNteRpOL1KspGmnzaKhCnr.jpg" group-title="Movies | Filmovi 2025",Raj (2025)
@@ -3768,10 +3764,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/129.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/128.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gX7qw0uQOVaKlGB9XgQxIp2H2NT.jpg" group-title="Movies | Filmovi 2025",फसक्लास दाभाडे (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/130.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wv6oWAleCJZUk5htrGg413t3GCy.jpg" group-title="Movies | Filmovi 2025",G20 (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/131.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/moiLQPK2YjritOYG674DrWHvlgp.jpg" group-title="Movies | Filmovi 2025",Gatillero (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/132.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wv6oWAleCJZUk5htrGg413t3GCy.jpg" group-title="Movies | Filmovi 2025",G20 (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/131.ts
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE2ODRjZDAtZTYzMS00MGIzLTg2YTgtMGRjZGYyYTlhZmU2XkEyXkFqcGc@._V1_SX155.jpg" group-title="Movies | Filmovi 2025",George Lopez: Muy Católico (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/134.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/2K88wqFiEB9ik7RoxkO3iJv7CV6.jpg" group-title="Movies | Filmovi 2025",Gemini (2025)
@@ -3802,48 +3798,48 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/145.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/146.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/erI0d8lBmXe0L8fmRWHhRrt7uZ6.jpg" group-title="Movies | Filmovi 2025",Hearts Around the Table: Shari's Second Act (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/148.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/lFPmEa3b3TH1j5ObdiU4F1xqgcg.jpg" group-title="Movies | Filmovi 2025",Helloween (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/151.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yfzWIdiS10jb9GpeOXYuxHXGIAa.jpg" group-title="Movies | Filmovi 2025",Heldin (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/149.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/q9rRLc9pRDR8H6YoJTmXrBmivxD.jpg" group-title="Movies | Filmovi 2025",Pakleno ljeto (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/150.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/kOzwIr0R7WhaFgoYUZFLPZA2RBZ.jpg" group-title="Movies | Filmovi 2025",Od vrha do dna (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/155.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hHowAaChDjwueySmwVbsjHmpWa.jpg" group-title="Movies | Filmovi 2025",High Rollers (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/154.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cqF7xuZWbBYXWHsp1I1H5PwujPs.jpg" group-title="Movies | Filmovi 2025",High Ground (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/153.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yfzWIdiS10jb9GpeOXYuxHXGIAa.jpg" group-title="Movies | Filmovi 2025",Heldin (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/149.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/lFPmEa3b3TH1j5ObdiU4F1xqgcg.jpg" group-title="Movies | Filmovi 2025",Helloween (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/151.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/dFWj2rOGsqSIX1PHFghbCBgpMnk.jpg" group-title="Movies | Filmovi 2025",Henry Opasan: Film (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/152.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hHowAaChDjwueySmwVbsjHmpWa.jpg" group-title="Movies | Filmovi 2025",High Rollers (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/154.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/kOzwIr0R7WhaFgoYUZFLPZA2RBZ.jpg" group-title="Movies | Filmovi 2025",Od vrha do dna (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/155.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cqF7xuZWbBYXWHsp1I1H5PwujPs.jpg" group-title="Movies | Filmovi 2025",High Ground (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/153.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8jp5zKzdSqzLkxqFsIWThrepazE.jpg" group-title="Movies | Filmovi 2025",Hobby Hustle (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/157.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/7MGnHpfhF8savUsrUJoI8Q7dTk9.jpg" group-title="Movies | Filmovi 2025",Holy Night Demon Hunters  2025
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/159.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg" group-title="Movies | Filmovi 2025",HIM (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/156.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg" group-title="Movies | Filmovi 2025",Holland (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/158.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/fJm3kmd9NLZWypMas7g34oNFgbk.jpg" group-title="Movies | Filmovi 2025",Honey Don't! (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/160.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vntwlS3CAKfoLTs90GaoK6lymBC.jpg" group-title="Movies | Filmovi 2025",Hostile Takeover (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/162.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg" group-title="Movies | Filmovi 2025",Holland (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/158.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/AhyvU3nIZ6uzop8lMgRB5N3AY9l.jpg" group-title="Movies | Filmovi 2025",Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/161.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vntwlS3CAKfoLTs90GaoK6lymBC.jpg" group-title="Movies | Filmovi 2025",Hostile Takeover (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/162.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/eYeFyVj1uq2o41muc9mkxBolsJ3.jpg" group-title="Movies | Filmovi 2025",Kako izdresirati zmaja (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/164.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/j2J6q7nOAxkOHfQT4isSihEe89v.jpg" group-title="Movies | Filmovi 2025",Hurry Up Tomorrow (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/166.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/h8bXP9F4fedvmbzXhsrlC1KPoNU.jpg" group-title="Movies | Filmovi 2025",I Don't Understand You (2024)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/167.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg" group-title="Movies | Filmovi 2025",Hunting Grounds (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/165.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/h8bXP9F4fedvmbzXhsrlC1KPoNU.jpg" group-title="Movies | Filmovi 2025",I Don't Understand You (2024)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/167.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/j2J6q7nOAxkOHfQT4isSihEe89v.jpg" group-title="Movies | Filmovi 2025",Hurry Up Tomorrow (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/166.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cQN9rZj06rXMVkk76UF1DfBAico.jpg" group-title="Movies | Filmovi 2025",Ledena cesta: Osveta (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/171.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg" group-title="Movies | Filmovi 2025",Icefall (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/170.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/2LDmNd56gUBYrKh90PNuWGtXE2O.jpg" group-title="Movies | Filmovi 2025",INCUBO (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/169.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cQN9rZj06rXMVkk76UF1DfBAico.jpg" group-title="Movies | Filmovi 2025",Ledena cesta: Osveta (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/171.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jvRa026H8UUi4UcBH7cO1IoZ8Hm.jpg" group-title="Movies | Filmovi 2025",I Will Never Leave You Alone (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/168.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/AtfV5Rl0YHtibZWuwC9ilHcHugU.jpg" group-title="Movies | Filmovi 2025",Ick (2025)
@@ -3858,28 +3854,28 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/175.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/176.ts
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWVjMTQ1MmEtMTQyZS00MWQ1LTk3ZWUtYjNjYzQyNWQyZTZlXkEyXkFqcGc@._V1_SX155.jpg" group-title="Movies | Filmovi 2025",Inheritance: Murder in the Family - The Thomas Kwan Affair (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/181.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/BTkcOikAvHCC7an9iLRwlxX94E.jpg" group-title="Movies | Filmovi 2025",Inherit the Witch (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/179.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8q8hPuQbobNakppxiTX1UjVXuvj.jpg" group-title="Movies | Filmovi 2025",U izgubljenim zemljama (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/178.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg" group-title="Movies | Filmovi 2025",Inheritance (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/180.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/BTkcOikAvHCC7an9iLRwlxX94E.jpg" group-title="Movies | Filmovi 2025",Inherit the Witch (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/179.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/qPvw21Y5pxojLQYDrK4ft5IYLlY.jpg" group-title="Movies | Filmovi 2025",U dubini (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/183.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/eVaoeQP8jj78vQ3b60Ybzt0RZrU.jpg" group-title="Movies | Filmovi 2025",Inside Damanhur - A Hidden World (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/182.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8QeDcxxkWuOLrWgsEFzoEMOyoNl.jpg" group-title="Movies | Filmovi 2025",Invincible Swordsman  2025
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/184.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/qPvw21Y5pxojLQYDrK4ft5IYLlY.jpg" group-title="Movies | Filmovi 2025",U dubini (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/183.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1q7DqE2BKtlpEPiyvSS6txxycqo.jpg" group-title="Movies | Filmovi 2025",Jedna bitka za drugom (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/187.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/x562cxzr8cyYW6Hgv8tehybtZdx.jpg" group-title="Movies | Filmovi 2025",Jezero straha (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/188.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4spOdjLgRAbIYO7mu22DQ2iInz7.jpg" group-title="Movies | Filmovi 2025",Juliet & Romeo (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/189.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/uC3lzzgOUgkubje7HR20qznAAGj.jpg" group-title="Movies | Filmovi 2025",Hrani se (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/186.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vXtJKt9vJTyMclwCsNKPMD8JC63.jpg" group-title="Movies | Filmovi 2025",Just Breathe (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/190.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1q7DqE2BKtlpEPiyvSS6txxycqo.jpg" group-title="Movies | Filmovi 2025",Jedna bitka za drugom (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/187.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4spOdjLgRAbIYO7mu22DQ2iInz7.jpg" group-title="Movies | Filmovi 2025",Juliet & Romeo (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/189.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8I1dWoLmWWNwSEpSDUs08j2T1Mn.jpg" group-title="Movies | Filmovi 2025",Karate Kid: Legende (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/193.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/uTbQg4zQ0eGXlKl8imLu64LLJQX.jpg" group-title="Movies | Filmovi 2025",K.O. (2025)
@@ -3896,68 +3892,68 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/195.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/199.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/e1znkPMVSZv44DfRMeTrQ6G6Da2.jpg" group-title="Movies | Filmovi 2025",Larissa: O Outro Lado de Anitta (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/201.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/AlFzDy8Bpe0HIxcpgGMU61fMHvT.jpg" group-title="Movies | Filmovi 2025",Krasnyy Shelk  2025
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/198.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/sEma5RN8aZ5Yu2Dkefyn5ULdlc1.jpg" group-title="Movies | Filmovi 2025",La Dolce Villa (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/200.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/AlFzDy8Bpe0HIxcpgGMU61fMHvT.jpg" group-title="Movies | Filmovi 2025",Krasnyy Shelk  2025
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/198.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/2uDzWRLQU7RzgpXweM4cmFE1D0n.jpg" group-title="Movies | Filmovi 2025",Like Friends (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/205.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/77YIxbYk11PzXazjEw8VylLDDad.jpg" group-title="Movies | Filmovi 2025",Last Take: Rust and the Story of Halyna (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/204.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/JHd9ncngmiFVPQaUVJNow39tnf.jpg" group-title="Movies | Filmovi 2025",Posljednji udah (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/202.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xccJs9vGCEvch1H9SIMSjNqrLKU.jpg" group-title="Movies | Filmovi 2025",Zametnuti metak 3 (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/203.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/77YIxbYk11PzXazjEw8VylLDDad.jpg" group-title="Movies | Filmovi 2025",Last Take: Rust and the Story of Halyna (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/204.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ckyJV5ehtl0O1wfqCW7nTrLQaTw.jpg" group-title="Movies | Filmovi 2025",Lilo i Stitch (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/206.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/u3hZiHZYo5dDdpqIefIkgMIITQy.jpg" group-title="Movies | Filmovi 2025",Ljubav boli (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/211.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/m5NKltgQqqyoWJNuK18IqEGRG7J.jpg" group-title="Movies | Filmovi 2025",Long Distance (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/207.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1mLmCjfwpMtiNjoiBBr2v2blQJf.jpg" group-title="Movies | Filmovi 2025",Lost in the Maze (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/210.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/u3hZiHZYo5dDdpqIefIkgMIITQy.jpg" group-title="Movies | Filmovi 2025",Ljubav boli (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/211.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/VZq0UExqBbST1LDYWJYsZ0qvMO.jpg" group-title="Movies | Filmovi 2025",Luccin svijet (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/209.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6twazEC3dnVlaIIMp2KXemLvzBa.jpg" group-title="Movies | Filmovi 2025",Lopov s krova (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/208.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/m5NKltgQqqyoWJNuK18IqEGRG7J.jpg" group-title="Movies | Filmovi 2025",Long Distance (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/207.ts
 #EXTINF:-1 tvg-logo="N/A" group-title="Movies | Filmovi 2025",Lune de miel avec ma mère (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/214.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hgqSjuEKVYhaxS2wann7DvcjEfN.jpg" group-title="Movies | Filmovi 2025",Love of the Irish (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/212.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg" group-title="Movies | Filmovi 2025",Madea's Destination Wedding (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/215.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/s9lDFwMqxIlJHD7ovZ9wUw0twwK.jpg" group-title="Movies | Filmovi 2025",Mango (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/217.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/naXhRZ2SaIOoFJNPUa6YMLKu6VC.jpg" group-title="Movies | Filmovi 2025",Manor of Darkness (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/219.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/t8kKdKBILYbEtPiNTOREDJ6lAFO.jpg" group-title="Movies | Filmovi 2025",Marijuambies (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/220.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/s9lDFwMqxIlJHD7ovZ9wUw0twwK.jpg" group-title="Movies | Filmovi 2025",Mango (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/217.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/eWHvROuznSzcxBAAkzX1X0Rmzoe.jpg" group-title="Movies | Filmovi 2025",Čovjek bez prošlosti (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/216.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/eoVpiHq6gqKzHTvspzxUZoL1Tqu.jpg" group-title="Movies | Filmovi 2025",Tetovirani (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/221.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/qjFrFQBEiH3DfKVpm179sDZh0GR.jpg" group-title="Movies | Filmovi 2025",Matthew Perry: A Hollywood Tragedy (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/224.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/paRFRd11WlFOxVbGnzjjCBym7FW.jpg" group-title="Movies | Filmovi 2025",Match of the Day (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/222.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/eoVpiHq6gqKzHTvspzxUZoL1Tqu.jpg" group-title="Movies | Filmovi 2025",Tetovirani (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/221.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/fapXmGtUU25HTNKUh9ApQykJIiK.jpg" group-title="Movies | Filmovi 2025",Spoj iz snova (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/223.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pofgUZkETInWRlyzFz82Kf6jOEZ.jpg" group-title="Movies | Filmovi 2025",Mladoženja i mladenke (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/229.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/dcoc4C57lCpAzBr2qojFjRCKO9E.jpg" group-title="Movies | Filmovi 2025",Missão Porto Seguro (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/227.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4MSDlIo74Xx0ZXOt0L5wea39Zaq.jpg" group-title="Movies | Filmovi 2025",Nemoguća misija: Konačna odmazda (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/228.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pofgUZkETInWRlyzFz82Kf6jOEZ.jpg" group-title="Movies | Filmovi 2025",Mladoženja i mladenke (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/229.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xU72geNctevcOmmJpAnhtPMdBFL.jpg" group-title="Movies | Filmovi 2025",Ljubavna prevara (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/225.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/z50xgEUYKUMozj6wmPGGJLrTvDg.jpg" group-title="Movies | Filmovi 2025",Mickey 17 (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/226.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/sEwJnAwqjucdtWQObed7qPaJIje.jpg" group-title="Movies | Filmovi 2025",Moon: Veliki panda (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/230.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xU72geNctevcOmmJpAnhtPMdBFL.jpg" group-title="Movies | Filmovi 2025",Ljubavna prevara (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/225.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/anYsDcdu5rQqg4Ex001v6D0YBNP.jpg" group-title="Movies | Filmovi 2025",Na vrhu (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/231.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/tEk8ZlboBcPLwO1npch7pQSu0Br.jpg" group-title="Movies | Filmovi 2025",Mouse of Horrors (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/232.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/sEwJnAwqjucdtWQObed7qPaJIje.jpg" group-title="Movies | Filmovi 2025",Moon: Veliki panda (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/230.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/3DBmBItPdy0A2ol59jgHhS54Lua.jpg" group-title="Movies | Filmovi 2025",Murder at the Embassy (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/233.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/s0J4iywfMLMRg4HIXxegzjXncQf.jpg" group-title="Movies | Filmovi 2025",Muromachi Burai  2025
@@ -3966,16 +3962,16 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/235.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/236.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4vWDKzP6aA962Pkyb8puS106gVN.jpg" group-title="Movies | Filmovi 2025",Murder at the Lighthouse (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/234.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/47EblKlcEQ4lHdTVnay4P1d6thf.jpg" group-title="Movies | Filmovi 2025",Moj otac, BTK ubojica (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/238.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/bRoDBpwGU5UW03hQMExN2l92Q93.jpg" group-title="Movies | Filmovi 2025",Moja mrtva prijateljica Zoe (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/237.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg" group-title="Movies | Filmovi 2025",My Fault: London (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/239.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/47EblKlcEQ4lHdTVnay4P1d6thf.jpg" group-title="Movies | Filmovi 2025",Moj otac, BTK ubojica (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/238.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gYdmNz3HT22vimRdwVCmhKBSLZV.jpg" group-title="Movies | Filmovi 2025",Mystery Island: Winner Takes All (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/241.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1JMpRXvsUNVzodT9c6SkaNsXnSu.jpg" group-title="Movies | Filmovi 2025",Myth of Man (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/242.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg" group-title="Movies | Filmovi 2025",My Fault: London (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/239.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/28OvHIRxK5jve41mLRp7Sx5mITa.jpg" group-title="Movies | Filmovi 2025",Nadaaniyan 2025
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/243.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jMFNghiamEq1JbUzOJ8BTvrWsQJ.jpg" group-title="Movies | Filmovi 2025",Night of the Dead Sorority Babes (2025)
@@ -3994,10 +3990,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/253.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/252.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pocjoK6o8ObjHMeQKNSPPNCHNVu.jpg" group-title="Movies | Filmovi 2025",Novokain (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/255.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/95V2tRTKEeClVUtxt3OMQ3orRpR.jpg" group-title="Movies | Filmovi 2025",Sin tisuće očeva (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/256.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg" group-title="Movies | Filmovi 2025",Nosferatu (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/254.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/95V2tRTKEeClVUtxt3OMQ3orRpR.jpg" group-title="Movies | Filmovi 2025",Sin tisuće očeva (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/256.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/3ebDnPvX9DfiTDJpUrEXvR1xTDV.jpg" group-title="Movies | Filmovi 2025",iTalac (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/259.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xbdRxyr1u5dbhvMm14w7J1jJWQS.jpg" group-title="Movies | Filmovi 2025",O'Dessa (2025)
@@ -4036,10 +4032,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/273.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/276.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xWVbtqUvuhAOYzkZV6YDQOnN5fQ.jpg" group-title="Movies | Filmovi 2025",Pretty Thing (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/277.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg" group-title="Movies | Filmovi 2025",Ratni zarobljenik (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/279.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/7eKt7FpNgSGCKnwyeOnlC7usf2V.jpg" group-title="Movies | Filmovi 2025",Primitive War (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/278.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg" group-title="Movies | Filmovi 2025",Ratni zarobljenik (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/279.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/uOMEIAisb6Az54UOhybwycuHOEU.jpg" group-title="Movies | Filmovi 2025",Psycho Therapy: The Shallow Tale of a Writer Who Decided to Write About a Serial Killer (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/281.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/kGY9IpPEb8KF38ILoAwCsqrpocW.jpg" group-title="Movies | Filmovi 2025",Puppy Bowl XXI (2025)
@@ -4056,10 +4052,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/287.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/288.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vCjaL0KXxcHYq2tMLncceE8m6S1.jpg" group-title="Movies | Filmovi 2025",Renner (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/289.ts
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU2YWNiMTgtMDdmMi00M2FjLWE1MmQtMDg3NTE3MzA1YWQ3XkEyXkFqcGc@._V1_SX155.jpg" group-title="Movies | Filmovi 2025",Revelations (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/291.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/kOeZY4KhapLxPT9oAAVvZu80DTN.jpg" group-title="Movies | Filmovi 2025",Return to Office (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/290.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU2YWNiMTgtMDdmMi00M2FjLWE1MmQtMDg3NTE3MzA1YWQ3XkEyXkFqcGc@._V1_SX155.jpg" group-title="Movies | Filmovi 2025",Revelations (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/291.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yIM983t4fW4RJIpkRJSjaLNVW2W.jpg" group-title="Movies | Filmovi 2025",Ride the Snake (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/292.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xPSur71bxvFVdQ6RdKv0yaVKT2n.jpg" group-title="Movies | Filmovi 2025",Riff Raff (2025)
@@ -4084,10 +4080,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/301.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/303.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/aE0q4awk7zto3Eql4cAeJuVAns9.jpg" group-title="Movies | Filmovi 2025",Saint Clare (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/302.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/aC9YR7p7nYdOGfFJD7Vo2fIODGu.jpg" group-title="Movies | Filmovi 2025",Šašaviji petak (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/304.ts
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTFmNDU1YjItZThmYi00NjM3LTk5OGEtODgyMDQ3ODFiYjZhXkEyXkFqcGc@._V1_SX155.jpg" group-title="Movies | Filmovi 2025",Saving Bikini Bottom: The Sandy Cheeks Movie (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/305.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/aC9YR7p7nYdOGfFJD7Vo2fIODGu.jpg" group-title="Movies | Filmovi 2025",Šašaviji petak (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/304.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/9HoHvxGP5t39eTGz5gLAqgXFRj9.jpg" group-title="Movies | Filmovi 2025",Put kući Sebastiana Fitzeka (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/306.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1trZagH7r4YyAR37xoRJ1bmlVlZ.jpg" group-title="Movies | Filmovi 2025",Dogs on the Sendero (2025)
@@ -4420,10 +4416,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9028.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9029.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ixbEygtiPiQaXhsZDxvkoV8PcY.jpg" group-title="Movies | Filmovi 2025",Golfbrejker 2 2025
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9030.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg" group-title="Movies | Filmovi 2025",Hunting Grounds 2025
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9033.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cQN9rZj06rXMVkk76UF1DfBAico.jpg" group-title="Movies | Filmovi 2025",Ledena cesta: Osveta 2025
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9034.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg" group-title="Movies | Filmovi 2025",Hunting Grounds 2025
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9033.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/XCxY5JRGTMt7LqweJ00lyxn7nH.jpg" group-title="Movies | Filmovi 2025",Jane Austen mi je uništila život 2025
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9035.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xccJs9vGCEvch1H9SIMSjNqrLKU.jpg" group-title="Movies | Filmovi 2025",Zametnuti metak 3 2025
@@ -4448,24 +4444,28 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9062.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9068.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/sSdpXGBNt3mQzjZZVK6eV5NcPdc.jpg" group-title="Movies | Filmovi 2025",Anniversary (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9069.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4GJTUSjbCGynQo4PpTTNzzxYfBM.jpg" group-title="Movies | Filmovi 2025",Svi su vragovi ovdje 2025
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9070.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8G2uzNozHxFMHhbpR5DIIyM29YZ.jpg" group-title="Movies | Filmovi 2025",Drop (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9071.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4GJTUSjbCGynQo4PpTTNzzxYfBM.jpg" group-title="Movies | Filmovi 2025",Svi su vragovi ovdje 2025
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9070.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/mams5lzVpL14MdjECww62oHCaNi.jpg" group-title="Movies | Filmovi 2025",Čudovište ispod kreveta (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9072.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gb5FyPIx94JJBdiBl15AYlnHJ51.jpg" group-title="Movies | Filmovi 2025",Član obitelji (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9075.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gcFxbtsgyMMripGtUIxPmmFxQXT.jpg" group-title="Movies | Filmovi 2025",Sretan Darožić s Elmom i Markom Roberom (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9073.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hvaIYK3DaaYroiq3uiDilvqGh9a.jpg" group-title="Movies | Filmovi 2025",Jedan običan incident 2025
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9074.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gb5FyPIx94JJBdiBl15AYlnHJ51.jpg" group-title="Movies | Filmovi 2025",Član obitelji (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9075.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/n9GS1mUAVMiC3gBn9rb8jrDoK4D.jpg" group-title="Movies | Filmovi 2025",Povjerenje (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9077.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hE7DYpOOO41X6F0NsgO670JAOcG.jpg" group-title="Movies | Filmovi 2025",Stranac u mom domu 2025
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9076.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/n9GS1mUAVMiC3gBn9rb8jrDoK4D.jpg" group-title="Movies | Filmovi 2025",Povjerenje (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9077.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/zmYrpRLsrni5EvWdiRFJER1grWo.jpg" group-title="Movies | Filmovi 2025",Dobro jutro, komšija 12 (2026)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9084.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/q2cxchZPC6a9hv13inC885iaKLo.jpg" group-title="Movies | Filmovi 2025",Franz (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9088.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8DPIRfVn2Aqjcs9ZXvCD7QIgdXM.jpg" group-title="Movies | Filmovi 2025",Dan mesa (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9089.ts
 
 # --- Movies | Njemacki filmovi (664) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",10 Cloverfield Lane  2016  DE
@@ -4626,18 +4626,18 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6863.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6864.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/iVKxQhV8g1j5O3C8m4T9XSGbFqk.jpg" group-title="Movies | Njemacki filmovi",Assassin's Creed (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6865.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Ast  Rix   Le Secret De La Potion Magique  2018  DE
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6866.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Atomic Blonde  2017 DE
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6867.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Ast  Rix   Le Secret De La Potion Magique  2018  DE
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6866.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/c0235CaBabeOT37x5Cn7CTfWgsV.jpg" group-title="Movies | Njemacki filmovi",Einmal Mond und Zurück (2015)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6868.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wsyxs6HaQvrGM0Ml0P26DqXnn0w.jpg" group-title="Movies | Njemacki filmovi",Aus dem Nichts (2017)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6869.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Avengers  Endgame  2019 DE
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6870.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Axolotl Overkill  2017 DE
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6871.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Avengers  Endgame  2019 DE
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6870.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1txyS546aTnJg6uU8ts9O9iUE3j.jpg" group-title="Movies | Njemacki filmovi",BAC Nord - Bollwerk gegen das Verbrechen (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6872.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/2M1M8nhWZ9jNiYTodEwuqCWOnjc.jpg" group-title="Movies | Njemacki filmovi",Backtrace (2018)
@@ -4722,18 +4722,18 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6914.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6915.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4Vzh8y6tnb0xrxpES7I5F7FJ7nK.jpg" group-title="Movies | Njemacki filmovi",Bullyparade - Der Film (2017)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6916.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Burt Bumblebee, le dernier loyaliste (2023)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6917.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Bunny The Killer Thing  2015 DE
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6918.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Burt Bumblebee, le dernier loyaliste (2023)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6917.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Burg Schreckenstein 2  2017 DE
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6919.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/fwedBkAfFNriZcpqYZdkcNxaAgW.jpg" group-title="Movies | Njemacki filmovi",Arnout Van den Bossche: Burn-Out voor Beginners (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6920.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",B  Rning 3  2020 DE
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6922.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",B  Rning  2014 DE
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6921.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",B  Rning 3  2020 DE
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6922.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/lTwOhXPVsfv6dJsOcmMEiZceXxP.jpg" group-title="Movies | Njemacki filmovi",Zwei Bullen auf Ziegenjagd (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6923.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/bLFFOOaqgbb4AD4o7yb7lpN9nBf.jpg" group-title="Movies | Njemacki filmovi",Open Water - Cage Dive (2017)
@@ -5142,10 +5142,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7125.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7127.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Jimmy Vestvood  Amerikan Hero  2016 DE
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7128.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ywTOfsRfKW7kbEkf94PP9DgqjDI.jpg" group-title="Movies | Njemacki filmovi",Jingle Jangle Journey: Abenteuerliche Weihnachten! (2020)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7129.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Jolt  2021 DE
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7130.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ywTOfsRfKW7kbEkf94PP9DgqjDI.jpg" group-title="Movies | Njemacki filmovi",Jingle Jangle Journey: Abenteuerliche Weihnachten! (2020)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7129.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/qAZcoqjCHBz7GBfjBLRdaWIRcG1.jpg" group-title="Movies | Njemacki filmovi",Jonas Kaufmann - Große Hits der Filmmusik (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7131.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Journeys End   The Saga Of Star Trek  The Next Generation  1994 DE
@@ -5178,10 +5178,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7144.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7145.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/2w9TUeBudQblh1ukTcKFsLMc9rz.jpg" group-title="Movies | Njemacki filmovi",Killing Hasselhoff (2017)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7146.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Kin Dread  2021 DE
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7147.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Kingsman  The Secret Service Revealed  2015 DE
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7148.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Kin Dread  2021 DE
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7147.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/bIeHhOqCQysfed98TKjZhRWRc7x.jpg" group-title="Movies | Njemacki filmovi",Wake Up Dead Man: A Knives Out Mystery (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7149.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vRvTYDZ08mbXOPKx9tdYWNXdu9w.jpg" group-title="Movies | Njemacki filmovi",Krampus - The Christmas Devil Returns (2016)
@@ -5216,10 +5216,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7163.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7164.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/knaOGtfxevh5MzpjPhLJLKcuN25.jpg" group-title="Movies | Njemacki filmovi",Above & Beyond (2001)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7165.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Lebendig Skalpiert  2020 DE
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7167.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/fHBLpVINiyNDPm9r8zKx2ZPy1Ly.jpg" group-title="Movies | Njemacki filmovi",Der junge Karl Marx (2017)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7166.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Lebendig Skalpiert  2020 DE
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7167.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Leprechaun Returns  2018 DE
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7168.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6NR2PoPQlhj36g3LiDanEtuuNRa.jpg" group-title="Movies | Njemacki filmovi",Tage wie diese (2019)
@@ -5290,10 +5290,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7200.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7201.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/bOMsw8tUuRyi5C8de2XOhKtSTrO.jpg" group-title="Movies | Njemacki filmovi",Max - Agent auf vier Pfoten (2017)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7202.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Mechanic  Resurrection  2016 DE
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7204.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gTQ12xGHfDbCVBBobsFNO5HdOMX.jpg" group-title="Movies | Njemacki filmovi",Max Steel: Endangered Species (2004)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7203.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Mechanic  Resurrection  2016 DE
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7204.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Mega Time Squad  2018 DE
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7205.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Megan Leavey  2017 DE
@@ -5332,10 +5332,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7221.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7222.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jdSwaASStswjP0P7r5EaJD2gVTg.jpg" group-title="Movies | Njemacki filmovi",desfrutando do mar fronte a súa casa de moaña a comezos de setembro (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7223.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Money Monster  German   2016 DE
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7225.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yfA8gzUs0rbTsjnwFdLgKuK59Oe.jpg" group-title="Movies | Njemacki filmovi",Early Release (2017)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7224.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Money Monster  German   2016 DE
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7225.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/nQnsD1u1n2aFq8qfu4dQrhLzaUp.jpg" group-title="Movies | Njemacki filmovi",Monster Hunter: Legends of the Guild (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7226.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gdBgPYBhCEww5oMjIaqGgi97vtv.jpg" group-title="Movies | Njemacki filmovi",Death by Moonlight: Bomber Command (1992)
@@ -5408,10 +5408,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7259.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7260.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/AoSQTl29NaafoaC36AYxRTHlEta.jpg" group-title="Movies | Njemacki filmovi",Niemand kommt hier lebend raus (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7261.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hI8XfAy5GoMFWuiovHukZPqu118.jpg" group-title="Movies | Njemacki filmovi",Nocturnal Animals (2016)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7262.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Nommer 37  2018 DE
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7263.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hI8XfAy5GoMFWuiovHukZPqu118.jpg" group-title="Movies | Njemacki filmovi",Nocturnal Animals (2016)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7262.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ohWU8bPbAK5WEAboIabivld9Hyw.jpg" group-title="Movies | Njemacki filmovi",Norm of the North: Family Vacation (2020)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7264.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/9p8iIaVbHXgHufeAlXqd3UnW0oz.jpg" group-title="Movies | Njemacki filmovi",November Criminals (2017)
@@ -5490,10 +5490,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7300.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7301.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Pieces Of A Woman  2020 DE
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7302.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Pitch Perfect 3  2017 DE
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7304.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/qTyT5kSJ7Jw0iJy7lxyA695XBK8.jpg" group-title="Movies | Njemacki filmovi",Pirates of the Caribbean - Salazars Rache (2017)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7303.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Pitch Perfect 3  2017 DE
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7304.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/54hwLfOJONjqOFxGlEixpOHeEnx.jpg" group-title="Movies | Njemacki filmovi",Planet of the Sharks (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7305.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ij5lCR9Fg1HldrjfK4NspsoiUTU.jpg" group-title="Movies | Njemacki filmovi",Das Geheimnis der zwei Schwestern (2016)
@@ -5554,10 +5554,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7332.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7333.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4ZXwYbRM24zyZNW34ZyvMKr5v2N.jpg" group-title="Movies | Njemacki filmovi",Daphne Du Maurier - Auf den Spuren von Rebecca (2017)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7334.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cU4US0AuqHSZhSuaZybzXraXUrN.jpg" group-title="Movies | Njemacki filmovi",Christmas with the Andersons (2016)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7335.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Red Dot  2021 DE
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7336.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cU4US0AuqHSZhSuaZybzXraXUrN.jpg" group-title="Movies | Njemacki filmovi",Christmas with the Andersons (2016)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7335.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/autIbuurw7eq7pGgZPSEusjIZPT.jpg" group-title="Movies | Njemacki filmovi",SAS: Alarm im Eurotunnel (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7337.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4sQVzAPWG2QfJOITaayRnxKjXuw.jpg" group-title="Movies | Njemacki filmovi",Der Bergdoktor (2025)
@@ -5626,10 +5626,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7368.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7369.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Security  2017    German
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7370.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hb6mjTIOfnWrx7G0KfxH5gPuec7.jpg" group-title="Movies | Njemacki filmovi",Security Deposit (2017)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7371.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Hier aujourd'hui à demain ()
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7372.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hb6mjTIOfnWrx7G0KfxH5gPuec7.jpg" group-title="Movies | Njemacki filmovi",Security Deposit (2017)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7371.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Selah And The Spades  2019 DE
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7373.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/g6m5UVvNimtafCkDOM8heiWvnlK.jpg" group-title="Movies | Njemacki filmovi",Nie meine Liga (2022)
@@ -5668,14 +5668,14 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7391.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7392.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/mRJ52dSP4E1BMQhKkoNJG6vg2c.jpg" group-title="Movies | Njemacki filmovi",Skiptrace (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7393.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Skyggen I Mit   Je  2021 DE
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7395.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gVFWxiwMPYu2ZNfg9G1IxJLMwWD.jpg" group-title="Movies | Njemacki filmovi",Mobile Suit Gundam Thunderbolt - December Sky (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7394.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Smaragdgr  N  2016 DE
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7397.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Skyggen I Mit   Je  2021 DE
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7395.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Sleeping With Other People  2015 DE
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7396.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Smaragdgr  N  2016 DE
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7397.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ykyVLIreFq6guzwakn6z5ffWg0a.jpg" group-title="Movies | Njemacki filmovi",Die Schlümpfe: Das verlorene Dorf (2017)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7398.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/7XJRuyNDqoojr7R7aZoMt8xEsB1.jpg" group-title="Movies | Njemacki filmovi",Scream Week (2016)
@@ -5692,10 +5692,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7403.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7404.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/z24YFviGeEGUgOw4TytKuC4izVM.jpg" group-title="Movies | Njemacki filmovi",Sonic der irre Igel (1993)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7405.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6l6uOlFsPtacXnf10I9c9S5ckRm.jpg" group-title="Movies | Njemacki filmovi",Unter der Sonne  Ricciones (2020)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7407.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/n3NWo3xD9EZQiOYwQhESxIEhguW.jpg" group-title="Movies | Njemacki filmovi",Sorry We Missed You (2019)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7406.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6l6uOlFsPtacXnf10I9c9S5ckRm.jpg" group-title="Movies | Njemacki filmovi",Unter der Sonne  Ricciones (2020)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7407.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Special Correspondents  2016 DE
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7408.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Spenser Confidential  2020 DE
@@ -5720,14 +5720,14 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7418.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7419.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg" group-title="Movies | Njemacki filmovi",Starship Troopers: Traitor of Mars (2017)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7420.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/rdl7DiF3ad1oWXQob4S9Iaup3VQ.jpg" group-title="Movies | Njemacki filmovi",Rückkehr der Störche (2007)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7421.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/9I568gI2XygFfCzGpIbuD9wJIko.jpg" group-title="Movies | Njemacki filmovi",Storm und der verbotene Brief (2017)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7422.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/q98uVTQ4kbPCEy7iUbPWvjXAGN4.jpg" group-title="Movies | Njemacki filmovi",De verstekeling (1997)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7423.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/rdl7DiF3ad1oWXQob4S9Iaup3VQ.jpg" group-title="Movies | Njemacki filmovi",Rückkehr der Störche (2007)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7421.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Strange Weather  2016 DE
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7424.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/q98uVTQ4kbPCEy7iUbPWvjXAGN4.jpg" group-title="Movies | Njemacki filmovi",De verstekeling (1997)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7423.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pp301J6FXlnHAoeY5zExdfui42N.jpg" group-title="Movies | Njemacki filmovi",The Stratton Story (1949)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7425.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/s9kIgLMpXdZ4AmYhDb39UzL7o5t.jpg" group-title="Movies | Njemacki filmovi",Submerged - Gefangen in der Tiefe (2016)
@@ -5750,10 +5750,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7433.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7434.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/iZCnt2YCWLqjgyBC39BHGqcc3jW.jpg" group-title="Movies | Njemacki filmovi",Bibi - sündig und süß (1974)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7435.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg" group-title="Movies | Njemacki filmovi",Dallas Cowboys Cheerleaders: Ein amerikanischer Traum (2025)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7436.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",Swinger – Die wunderbare Welt des Partnertauschs ()
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7437.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg" group-title="Movies | Njemacki filmovi",Dallas Cowboys Cheerleaders: Ein amerikanischer Traum (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7436.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/mfJ6GFmbrc6XVC9TaSlMlolhNn9.jpg" group-title="Movies | Njemacki filmovi",TKKG (2019)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7438.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/5HvIN8Ohx2WcHt6LOs2MIeJR3Rv.jpg" group-title="Movies | Njemacki filmovi",Tad Stones und das Geheimnis von König Midas (2017)
@@ -5792,10 +5792,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7454.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7455.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/bwvYdPIUSba0ue0WPyOYOuAcrz0.jpg" group-title="Movies | Njemacki filmovi",Doctor Who: Death is The Only Answer (2011)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7456.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",The Babysitter  Killer Queen  2020 DE
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7458.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4hPo0P4Ep3qfzdDjRRrfgxWQ5u.jpg" group-title="Movies | Njemacki filmovi",Fast Food Family (1991)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7457.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Njemacki filmovi",The Babysitter  Killer Queen  2020 DE
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/7458.ts
 
 # --- Movies | Novi filmovi 2026 (3) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/tsE3nySukwrfUjouz8vzvKTcXNC.jpg" group-title="Movies | Novi filmovi 2026",Oscar Shaw (2026)
@@ -5805,7 +5805,7 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8250.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/fDgetHTgdrxC4jjxB1cUEJPPeZT.jpg" group-title="Movies | Novi filmovi 2026",Život krivotvoritelja (2026)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9078.ts
 
-# --- Movies | Strane serije (286) ---
+# --- Movies | Strane serije (288) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Kakvi frajeri! (1991)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/40.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Vera (2025)
@@ -6378,6 +6378,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/649.mp4
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/650.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Živi mrtvaci: Oni koji žive (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/651.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",The Wheel of Time (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/657.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Bijeli lotos (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/658.mp4
 
 # --- Movies | Strani filmovi (2954) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/uRy6fpVNrxtjt03YgO2YdY4yoje.jpg" group-title="Movies | Strani filmovi",Blizanci (2025
@@ -6612,14 +6616,14 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2437.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2439.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hwTRtDrDBVhrE094GX6I3lre6jN.jpg" group-title="Movies | Strani filmovi",Asterix i Obelix: Srednje kraljevstvo (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2440.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Ast  Rix   Ob  Lix   Au Service De Sa Majest
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2442.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/rAkz95CREc3A1qTnwlSQ0jh8Zw8.jpg" group-title="Movies | Strani filmovi",Asteroid City (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2441.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Ast  Rix   Ob  Lix Mission Cl  Op  Tre
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2443.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Ast  Rix   Ob  Lix   Au Service De Sa Majest
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2442.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Ast  Rix   Ob  Lix Contre C  Sar
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2444.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Ast  Rix   Ob  Lix Mission Cl  Op  Tre
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2443.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Ast  Rix Aux Jeux Olympiques
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2445.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1PqMUjNOkkGLT0h0QkacvBrrf8C.jpg" group-title="Movies | Strani filmovi",At Midnight (2023)
@@ -7074,10 +7078,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2709.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2710.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/x8JinWPxZIZY9HzJvvsC5puYsNu.jpg" group-title="Movies | Strani filmovi",Luda božićna zvona 2 (2014)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2711.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/l8B01BFBpIyycO2DopROessWzQU.jpg" group-title="Movies | Strani filmovi",John Tucker Must Die (2006)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2713.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1T6qnlTVkrGr0mpgZbpSwVU5FWW.jpg" group-title="Movies | Strani filmovi",Johnny English ponovno jaše (2011)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2714.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/l8B01BFBpIyycO2DopROessWzQU.jpg" group-title="Movies | Strani filmovi",John Tucker Must Die (2006)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2713.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/5KmcYXhbJ77Rduh4sdsxrosmpC3.jpg" group-title="Movies | Strani filmovi",Johnny English: Ponovno na zadatku (2018)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2715.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/7GsM4mtM0worCtIVeiQt28HieeN.jpg" group-title="Movies | Strani filmovi",Jojo Rabbit (2019)
@@ -7150,10 +7154,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2748.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2751.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Kursadzije  Prvoaprilski Urnebes
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2750.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Kursadzije  U Redu Je Mladicu
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2752.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Kursadzije  Zavrsni Ispit
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2753.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Kursadzije  U Redu Je Mladicu
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2752.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",La Famille B  Lier
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2755.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",La Casa De Las Flores  La Pel  Cula
@@ -7226,10 +7230,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2791.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2792.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Lo  I Momci  2022   2022
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2793.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ovqZDpefLSIfSXBlMnPVaUDKMCy.jpg" group-title="Movies | Strani filmovi",Lying and Stealing (2019)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2795.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/z9c2vWBUpMUQIBPQTnzSostzpvw.jpg" group-title="Movies | Strani filmovi",Lucky Hearts (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2794.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ovqZDpefLSIfSXBlMnPVaUDKMCy.jpg" group-title="Movies | Strani filmovi",Lying and Stealing (2019)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2795.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/u2BZZ3lcDu3PyZYeutCCbaVfNfd.jpg" group-title="Movies | Strani filmovi",Mafija Mama (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2797.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vqfkVgdAObHgg0GTq4mIiDViqkm.jpg" group-title="Movies | Strani filmovi",My Little Pony: Prijateljstvo je čarolija (2019)
@@ -7322,10 +7326,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2850.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2851.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pnvmMHuMrdWkSC3Y1PtIxOXILNQ.jpg" group-title="Movies | Strani filmovi",Nandor Fodor and the Talking Mongoose (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2853.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4IvM4qnzlo62oLmS54FtyRt54ze.jpg" group-title="Movies | Strani filmovi",National Lampoon's Van Wilder (2002)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2855.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/eyjcLLwxuRXACbglIbwWwaXK9DN.jpg" group-title="Movies | Strani filmovi",Susjedi iz pakla 2 (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2856.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/4IvM4qnzlo62oLmS54FtyRt54ze.jpg" group-title="Movies | Strani filmovi",National Lampoon's Van Wilder (2002)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2855.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/sN1RU08CMi8xkRIibremh3AOdgw.jpg" group-title="Movies | Strani filmovi",Susjedi iz pakla (2014)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2857.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/TroWD1BdcLEL7Ycqv4kkCRw7KJ.jpg" group-title="Movies | Strani filmovi",New Year's Eve (2011)
@@ -7336,10 +7340,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2860.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2861.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/sq8NUYX00fkptCDNqS3qgLYKL95.jpg" group-title="Movies | Strani filmovi",Noć u muzeju (2006)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2862.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/l9yAQn6TyrA3gv5xZZkiMMoZsiw.jpg" group-title="Movies | Strani filmovi",Noć u muzeju 2 (2009)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2863.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/q1azX4LZNBfYRUEW0Vmcp7d1Mep.jpg" group-title="Movies | Strani filmovi",Noć u muzeju: Tajna grobnice (2014)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2864.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/l9yAQn6TyrA3gv5xZZkiMMoZsiw.jpg" group-title="Movies | Strani filmovi",Noć u muzeju 2 (2009)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2863.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pc8FAwCN0QfNE6Gr5qR77kSw3c1.jpg" group-title="Movies | Strani filmovi",Nightlife (2020)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2865.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",No Hard Fillings  2023   2023
@@ -7508,10 +7512,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2965.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2966.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/tUQjwhUIIC8rxRPGPPfeSprVRaa.jpg" group-title="Movies | Strani filmovi",Just My Type (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2967.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/tMKhfXGDCVlHH5NoGZdiBg0UDeS.jpg" group-title="Movies | Strani filmovi",Kaboom (2010)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2968.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/fkqJJDb4u9rEyJu8Jm8H1P2mux4.jpg" group-title="Movies | Strani filmovi",Love k'o pljeve (2020)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2969.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/tMKhfXGDCVlHH5NoGZdiBg0UDeS.jpg" group-title="Movies | Strani filmovi",Kaboom (2010)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2968.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/2JhwA8uxxb5ZKjMH6eDHLuJLVUw.jpg" group-title="Movies | Strani filmovi",Knock (2017)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/2971.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yJkXvp9S9Np7He3KTInrOr7BxnM.jpg" group-title="Movies | Strani filmovi",Kodachrome in Colour (2018)
@@ -7840,10 +7844,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3154.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3155.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wS69OOwBJzimoLIcmYMSVkmhCZM.jpg" group-title="Movies | Strani filmovi",The Little Hours (2017)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3156.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/nGfKFEnKqSVaM0I2xxUnDeLx7t4.jpg" group-title="Movies | Strani filmovi",The Long Dumb Road (2018)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3158.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg" group-title="Movies | Strani filmovi",Jastog (2015)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3157.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/nGfKFEnKqSVaM0I2xxUnDeLx7t4.jpg" group-title="Movies | Strani filmovi",The Long Dumb Road (2018)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3158.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/5jdLnvALCpK1NkeQU1z4YvOe2dZ.jpg" group-title="Movies | Strani filmovi",The Lovebirds (2020)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3160.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/x9dGI7LIOMMlFzyIBUta1svft2Y.jpg" group-title="Movies | Strani filmovi",The Machine (2023)
@@ -7882,10 +7886,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3181.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3184.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/AgX0Yez6cYoFZeGGmaAIKDduhYT.jpg" group-title="Movies | Strani filmovi",The Right One (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3185.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/tY6ypjKOOtujhxiSwTmvA4OZ5IE.jpg" group-title="Movies | Strani filmovi",Tajni život Waltera Mittyja (2013)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3186.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cOzkSvaasGkAk9CFAHfliJTHTX9.jpg" group-title="Movies | Strani filmovi",Špijun koji me napucao (2018)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3187.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/tY6ypjKOOtujhxiSwTmvA4OZ5IE.jpg" group-title="Movies | Strani filmovi",Tajni život Waltera Mittyja (2013)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3186.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gPkaPGNbjZCeRurSYGi0JD63DBa.jpg" group-title="Movies | Strani filmovi",The Starling (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3188.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/oHTNil93kpVQ6TOE4pzypgxPKLb.jpg" group-title="Movies | Strani filmovi",The Starving Games (2013)
@@ -8134,10 +8138,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3327.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3329.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/EQNOK6tdG98H1aZI0fOcXjut5g.jpg" group-title="Movies | Strani filmovi",A Tiny House Christmas (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3330.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/euPgyPsiNFp6gOBB7nUFxvN5ZaY.jpg" group-title="Movies | Strani filmovi",Šetnja među grobovima (2014)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3332.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/9SYGUfH2ANEPofzdPRyd49QfVDz.jpg" group-title="Movies | Strani filmovi",A View To Kill For (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3331.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/euPgyPsiNFp6gOBB7nUFxvN5ZaY.jpg" group-title="Movies | Strani filmovi",Šetnja među grobovima (2014)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3332.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wQI7qX0doSCUQe605UkHuZlDrYh.jpg" group-title="Movies | Strani filmovi",A World Without (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3333.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/mMES5XApmhBmc06RxsT1a0DmUHQ.jpg" group-title="Movies | Strani filmovi",A Wrinkle in Time (2003)
@@ -8170,10 +8174,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3349.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3350.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/xkGkVjeMcvEg7P3VxWy8wYBJ7Dv.jpg" group-title="Movies | Strani filmovi",Nitko nije svetac (2013)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3351.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg" group-title="Movies | Strani filmovi",Aladin (2019)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3352.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Alcatraz Zatvorske Legende
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3353.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg" group-title="Movies | Strani filmovi",Aladin (2019)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3352.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/kbGamUkYfgKIYIrU8kW5oc0NatZ.jpg" group-title="Movies | Strani filmovi",Alisa iza ogledala (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3354.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/7xhnTjx8VyrAnkCuaQF14YGNzX2.jpg" group-title="Movies | Strani filmovi",Alisa u zemlji čudesa (2010)
@@ -8222,10 +8226,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3375.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3376.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Anaconda
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3377.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Ang  Lique
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3379.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/tFZQAuulEOtFTp0gHbVdEXwGrYe.jpg" group-title="Movies | Strani filmovi",Anđeli i demoni (2009)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3378.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Ang  Lique
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3379.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vYczshDGYktciJdcdxWpWManGiD.jpg" group-title="Movies | Strani filmovi",Riba na suhom (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3380.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/mybL2Hd3PvsY7Qyjf7W6BKsoECu.jpg" group-title="Movies | Strani filmovi",Anna Nicole Smith: You Don't Know Me (2023)
@@ -8252,10 +8256,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3390.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3391.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cvBVd5DwAwYOakF0U1qsYdysQ08.jpg" group-title="Movies | Strani filmovi",ariana grande: excuse me, i love you (2020)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3392.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Army Urban Combat
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3394.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ieNGttYsxunAANK9LRZa4LdkEqi.jpg" group-title="Movies | Strani filmovi",Arkansas (2020)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3393.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Army Urban Combat
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3394.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Arn  Riket Vid V  Gens Slut
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3395.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/rCGirSx2C7phjwHoaiqihnGx63p.jpg" group-title="Movies | Strani filmovi",Ash & Dust (2022)
@@ -8280,10 +8284,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3404.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3405.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/va3CVH59k7b79JLl4t2TLJAh0fZ.jpg" group-title="Movies | Strani filmovi",Back Roads (2019)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3406.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/z8fZRpozerkVNhzSJGYIhx0xs8y.jpg" group-title="Movies | Strani filmovi",U divljini (2015)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3410.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Bad Behor
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3411.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/z8fZRpozerkVNhzSJGYIhx0xs8y.jpg" group-title="Movies | Strani filmovi",U divljini (2015)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3410.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/557r9wTsHdf0ae3MJYihepIZWs3.jpg" group-title="Movies | Strani filmovi",Bad Country (2014)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3412.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/i1Vum1dbHkFVF0aqb1cNR0OSkD0.jpg" group-title="Movies | Strani filmovi",Bad Hair Day (2015)
@@ -8298,10 +8302,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3416.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3417.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/muOFjN9q9S2laqA8FL2HDV4dLQM.jpg" group-title="Movies | Strani filmovi",Bajkonur, Terra (2019)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3418.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yph9PAbmjYPvyvbeZvdYIhCZHEu.jpg" group-title="Movies | Strani filmovi",Razbojnik (2022)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3419.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/lyARw7klUsztYZh0r6UEpzfRmK5.jpg" group-title="Movies | Strani filmovi",Banksy and the Rise of Outlaw Art (2020)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3420.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yph9PAbmjYPvyvbeZvdYIhCZHEu.jpg" group-title="Movies | Strani filmovi",Razbojnik (2022)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3419.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6dSolFhaf5JOQjgwKCYnEoeJB8z.jpg" group-title="Movies | Strani filmovi",Barbarians (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3421.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yNRSbx6AhOlW673t2073Wr2iH4U.jpg" group-title="Movies | Strani filmovi",Basic Instinct 2 (2006)
@@ -8422,10 +8426,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3487.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3489.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/bPwccod1wNQrC0aqq6nxr9qC3Sm.jpg" group-title="Movies | Strani filmovi",Carjacked (2011)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3490.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hlekabKLbPQFhGh9ES5QXn4b2U5.jpg" group-title="Movies | Strani filmovi",Carmine Street Guitars (2018)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3492.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/bNNP8IYV1VZKsS5CRavRpRDWV06.jpg" group-title="Movies | Strani filmovi",Cartel Land (2015)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3493.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hlekabKLbPQFhGh9ES5QXn4b2U5.jpg" group-title="Movies | Strani filmovi",Carmine Street Guitars (2018)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3492.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/zbQlrfr2kDOEAw4b8W2DVW1hJna.jpg" group-title="Movies | Strani filmovi",Brodolom života (2000)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3495.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/mmVZsiEYIN4AtRUCSJSIAZ8idjM.jpg" group-title="Movies | Strani filmovi",Božićni catering (2022)
@@ -8458,10 +8462,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3508.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3509.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg" group-title="Movies | Strani filmovi",Chupa (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3510.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jZ6p28kvZXBbGMmPVg9Kria7hIP.jpg" group-title="Movies | Strani filmovi",Cicliste per Caso – Grizzly Tour (2020)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3511.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Citizen Soldiers
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3512.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jZ6p28kvZXBbGMmPVg9Kria7hIP.jpg" group-title="Movies | Strani filmovi",Cicliste per Caso – Grizzly Tour (2020)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3511.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/zqCyj7ZJSc3d0Yh04pJ6jMyhQKG.jpg" group-title="Movies | Strani filmovi",Gods of Cable City (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3513.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg" group-title="Movies | Strani filmovi",Sudar titana (2010)
@@ -8518,14 +8522,14 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3543.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3544.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/59xzODroTZNVTuUo0Do0KcctZbR.jpg" group-title="Movies | Strani filmovi",Dark Spaces (2009)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3546.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/bzvzaHqKBSuGIIWhinTQPHvT0zf.jpg" group-title="Movies | Strani filmovi",Dark Waters (2019)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3547.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Dd Attenborough  A Life On Our Planet
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3548.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Dd Attenboroughs Tasmania
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3550.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/bzvzaHqKBSuGIIWhinTQPHvT0zf.jpg" group-title="Movies | Strani filmovi",Dark Waters (2019)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3547.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Dd Attenborough A Life On Our Planet
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3549.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Dd Attenboroughs Tasmania
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3550.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8xWo2WE36JdBwlCmwvXM4bb5rBg.jpg" group-title="Movies | Strani filmovi",Dead Man Down (2013)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3551.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/tMG1e83PHqtjQLgXZhy2IMn3eX0.jpg" group-title="Movies | Strani filmovi",Dear Eleanor (2016)
@@ -8756,10 +8760,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3679.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3680.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/evZicaR7nXe4LiD9G6QYTorcJGO.jpg" group-title="Movies | Strani filmovi",Zelena soba (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3681.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",H2 Carevi Kraljevi I Faraoni
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3686.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",H2 Bogovi I Izvanzemaljci
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3685.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",H2 Carevi Kraljevi I Faraoni
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3686.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",H2 Drevni Arhitekti
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3687.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",H2 Drevni Izvanzemaljci Vizionari
@@ -8906,10 +8910,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3761.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3762.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/594RhDOkzRXkQM30XKjEG0843Ol.jpg" group-title="Movies | Strani filmovi",Holy Rollers (2010)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3763.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6bZdqzK3le84IVUIJCppYMG7UeA.jpg" group-title="Movies | Strani filmovi",Sam u kući 5 (2012)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3768.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/qRktvMOO2QaCL7gvNyvZDoxPOZj.jpg" group-title="Movies | Strani filmovi",Sam u kući 4 (2002)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3767.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6bZdqzK3le84IVUIJCppYMG7UeA.jpg" group-title="Movies | Strani filmovi",Sam u kući 5 (2012)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3768.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Home Sweet Home Alone  2021
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3769.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6pF8D9bDIAmuHgCqGKEfuNWRQam.jpg" group-title="Movies | Strani filmovi",Homefront (2013)
@@ -9266,10 +9270,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3991.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3992.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/2Al0ncYtEh0frfCm52pALJGR7z8.jpg" group-title="Movies | Strani filmovi",Mythica: The Darkspore (2015)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3993.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vlAda6yYXQXXrzSUQC4Wl9QyFV4.jpg" group-title="Movies | Strani filmovi",Mythica: The Necromancer (2015)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3995.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8y3G8g7E7SXZ74XDt6gaxyfELse.jpg" group-title="Movies | Strani filmovi",Mythica: The Iron Crown (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3994.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vlAda6yYXQXXrzSUQC4Wl9QyFV4.jpg" group-title="Movies | Strani filmovi",Mythica: The Necromancer (2015)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3995.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",NG Anatomija Potresa
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/3996.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",NG Covjek Ljudsko Tijelo
@@ -9286,18 +9290,18 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4001.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4002.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",NG Kako Smo Nastali
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4003.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",NG Konacno Odrediste Svemir
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4004.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",NG Legija Stranaca 01
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4005.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",NG Konacno Odrediste Svemir
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4004.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",NG Legija Stranaca 02
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4006.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",NG Legija Stranaca 03
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4007.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",NG Sva Nasa Oruzja
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4009.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",NG Nostradamus
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4008.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",NG Sva Nasa Oruzja
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4009.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",NG Taboo Iskusenje Vjere
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4010.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Najsmrtonosnije Zivotinje Na Svijetu  Amazona
@@ -9306,10 +9310,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4012.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4011.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Najsmrtonosnije Zivotinje Na Svijetu  Australija
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4013.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Najsmrtonosnije Zivotinje Na Svijetu  Azijski Pacifik
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4014.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Najsmrtonosnije Zivotinje Na Svijetu  Indija
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4015.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Najsmrtonosnije Zivotinje Na Svijetu  Azijski Pacifik
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4014.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Najsmrtonosnije Zivotinje Na Svijetu  Kostarika
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4016.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Najsmrtonosnije Zivotinje Na Svijetu  Sjeverna Amerika
@@ -9482,18 +9486,18 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4111.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4112.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg" group-title="Movies | Strani filmovi",Zatočene (2013)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4113.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wxYey1qZ66sTqhHLXjMKXy9un1d.jpg" group-title="Movies | Strani filmovi",Profil (2018)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4114.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/r8jp2yZyki7QkgadadDU9V1jv6v.jpg" group-title="Movies | Strani filmovi",Project Dorothy (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4115.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wxYey1qZ66sTqhHLXjMKXy9un1d.jpg" group-title="Movies | Strani filmovi",Profil (2018)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4114.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1ckCdsquZeUBvh6bIY5q9pvAF5G.jpg" group-title="Movies | Strani filmovi",Djevojka koja obećava (2020)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4116.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Promising Young Woman
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4117.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Provjereno Specijal Iz Wuhana
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4119.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1HpAwszXLsD8GeypDzK0me7fPFA.jpg" group-title="Movies | Strani filmovi",Prospect (2018)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4118.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Provjereno Specijal Iz Wuhana
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4119.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Psych 2 Lassie Come Home
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4120.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8aGId8pUL7ytfhctnWjmLtQ0Lo7.jpg" group-title="Movies | Strani filmovi",Gangsteri (2009)
@@ -9664,10 +9668,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4217.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4218.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8DDC6z1XyLSiNLzKw1pXcYeAOJ3.jpg" group-title="Movies | Strani filmovi",Veliki snježni izazov (2002)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4219.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jwwVNuGRUBXcudG6wOKP9U60BzU.jpg" group-title="Movies | Strani filmovi",Solomon Kane (2009)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4221.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/h8NWp3mHu3kXVxhXiQCJU6V4iwx.jpg" group-title="Movies | Strani filmovi",Snjeguljica i lovac (2012)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4220.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jwwVNuGRUBXcudG6wOKP9U60BzU.jpg" group-title="Movies | Strani filmovi",Solomon Kane (2009)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4221.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vqQWtYhM5aaZVxQT59kTE9sidvw.jpg" group-title="Movies | Strani filmovi",Songbird (2020)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4222.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/1i5jJwn92GoSY02BPGwAim8opRV.jpg" group-title="Movies | Strani filmovi",Sonic: Super jež (2020)
@@ -10018,10 +10022,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4432.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4433.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/8UPVtbRkgaSA8E6B65q1uQLm0xK.jpg" group-title="Movies | Strani filmovi",The Trade (2017)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4434.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/bYePSWEmMw9PQ9hNwMzgW1rQUtI.jpg" group-title="Movies | Strani filmovi",The Vanished (2020)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4436.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",The Vanishing 1
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4437.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/bYePSWEmMw9PQ9hNwMzgW1rQUtI.jpg" group-title="Movies | Strani filmovi",The Vanished (2020)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4436.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/owYLROHpJWbYWEHjaEvDsnoz4Ux.jpg" group-title="Movies | Strani filmovi",The Vanishing (2019)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4438.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",The Vanishing
@@ -10214,10 +10218,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4542.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4543.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/b50lZK4A0W1tKtZayjRqVV3HT8B.jpg" group-title="Movies | Strani filmovi",Zodijak (2007)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4544.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/sczgdIDuzYZqZOoQ29BRM3O5nU8.jpg" group-title="Movies | Strani filmovi",Zodiac (2014)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4545.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Guila Roja   La Pel  Cula
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4546.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/sczgdIDuzYZqZOoQ29BRM3O5nU8.jpg" group-title="Movies | Strani filmovi",Zodiac (2014)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4545.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/x4tC1s6oFG9nEyxVSM0FiIsLea1.jpg" group-title="Movies | Strani filmovi",13 grijeha (2014)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4548.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",14 Eras 2018
@@ -10630,10 +10634,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4781.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4782.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/kUKnpsOLLBL6yxJjFH6948yq0Cf.jpg" group-title="Movies | Strani filmovi",Velika bijela psina (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4783.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/5z6EinMhVtBUAcFwA3UNnfxeWAn.jpg" group-title="Movies | Strani filmovi",Grimcutty (2022)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4785.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/cILatTixNGrWtqh7odw8Kn8coYn.jpg" group-title="Movies | Strani filmovi",Grizzly Rage (2007)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4786.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/5z6EinMhVtBUAcFwA3UNnfxeWAn.jpg" group-title="Movies | Strani filmovi",Grimcutty (2022)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4785.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/ca799tQJwj4lkkQpBdXohlvEtuQ.jpg" group-title="Movies | Strani filmovi",7 Guardians of the Tomb (2018)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4787.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/3VeWyKSyWjZ3fMh2VX1UX2dviQw.jpg" group-title="Movies | Strani filmovi",Gwen (2018)
@@ -10888,10 +10892,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4922.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4923.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gDr5TaM129kUNwXkUUZ7Cha2CNn.jpg" group-title="Movies | Strani filmovi",Mirrors 2 (2010)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4925.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/bt5a4ThyLpLTsia2e2ZTLzQjXO0.jpg" group-title="Movies | Strani filmovi",Mirrors (2008)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4926.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Mjesto Ti  Ine  2018   2018
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4927.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/bt5a4ThyLpLTsia2e2ZTLzQjXO0.jpg" group-title="Movies | Strani filmovi",Mirrors (2008)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4926.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Mjesto Ti  Ine 2  2021   2021
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/4928.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/3jVzYOnylmvo7ZnGerjfoRj2wFz.jpg" group-title="Movies | Strani filmovi",Moloch (2022)
@@ -11090,10 +11094,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5034.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5035.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6Rz6KucY0l2FRnhvaez0umrEerk.jpg" group-title="Movies | Strani filmovi",Seansa (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5036.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6a0vqkB4SVIkl2JlHlUOcY9qmS.jpg" group-title="Movies | Strani filmovi",Zlo oko nas (2006)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5037.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/vIQcDDnZomLfj4KzX9pDBvYZ2Bm.jpg" group-title="Movies | Strani filmovi",Semum (2008)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5038.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6a0vqkB4SVIkl2JlHlUOcY9qmS.jpg" group-title="Movies | Strani filmovi",Zlo oko nas (2006)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5037.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/jNJ8vKNKT75EW4cvpiWCMvg5TFS.jpg" group-title="Movies | Strani filmovi",Razdvajanje (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5039.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/A3Au37c3KJX29BDvldzGiYtaU5B.jpg" group-title="Movies | Strani filmovi",Session 9 (2001)
@@ -11114,14 +11118,14 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5048.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5049.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/b5ug4LyLQFeR6azAJyIPBQz5ur9.jpg" group-title="Movies | Strani filmovi",Zaključana (2022)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5050.ts
-#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Side Effect (2008)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5051.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Sijjin 1
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5052.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/kUZJoSDQ42ccWUjNU9k69c56aMg.jpg" group-title="Movies | Strani filmovi",Siccîn 3: Cürmü Aşk (2016)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5054.ts
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Side Effect (2008)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5051.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6WTcQ95kWMLBi4HtxopXUW3QIsE.jpg" group-title="Movies | Strani filmovi",Kitab Sijjin & Illiyyin (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5053.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/kUZJoSDQ42ccWUjNU9k69c56aMg.jpg" group-title="Movies | Strani filmovi",Siccîn 3: Cürmü Aşk (2016)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5054.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/fgceFw2fvM0bjFSiCVjER3rPCIG.jpg" group-title="Movies | Strani filmovi",Siccîn 4 (2017)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5055.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/n35ni2r90lNB0KUGVAuPeksmlHS.jpg" group-title="Movies | Strani filmovi",Siccîn 5 (2018)
@@ -11196,10 +11200,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5089.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5090.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/h5iuPmkVg7V0VkPGX5lP0uHuIqC.jpg" group-title="Movies | Strani filmovi",Tasmanian Devils (2013)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5091.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/zuw3blK5tIRpv4lLnApeMLMn4bz.jpg" group-title="Movies | Strani filmovi",Tell Me a Creepy Story (2023)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5094.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/edfgo6pyT1QFjbThLR1HfbNYl3g.jpg" group-title="Movies | Strani filmovi",Tell Me How I Die (2016)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5093.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/zuw3blK5tIRpv4lLnApeMLMn4bz.jpg" group-title="Movies | Strani filmovi",Tell Me a Creepy Story (2023)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5094.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/qEAlwXbYk6IHA4ztoS2XFFaa7Xo.jpg" group-title="Movies | Strani filmovi",Zastrašivač 2 (2022)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5095.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gab9aBrD8fxP2NveitSzOEP4rfV.jpg" group-title="Movies | Strani filmovi",Terror Trap (2010)
@@ -11288,10 +11292,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5137.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5138.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/6bcm9V5HZmyn8aoRkyEGckVoPnn.jpg" group-title="Movies | Strani filmovi",Sotonina zavjera (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5139.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/qMN0HIP34f736kkQcfvTfmL9TP3.jpg" group-title="Movies | Strani filmovi",Egzorcizam Emily Rose (2005)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5142.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yk0XkUc3kz6Mrnk9y7o7weSOpO0.jpg" group-title="Movies | Strani filmovi",The Djinn (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5141.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/qMN0HIP34f736kkQcfvTfmL9TP3.jpg" group-title="Movies | Strani filmovi",Egzorcizam Emily Rose (2005)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5142.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/hangTmbxpSV4gpHG7MgSlCWSSFa.jpg" group-title="Movies | Strani filmovi",The Exorcism of God (2022)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5143.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/fFXkAlMH2iQrNknv4eq7LGTkcti.jpg" group-title="Movies | Strani filmovi",Istjerivač đavola: Vjernik (2023)
@@ -11400,10 +11404,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5200.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5201.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/pTeb4EsTy3hoVFpg9FnLIF3glZ5.jpg" group-title="Movies | Strani filmovi",The Power (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5203.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yyejodyk3lWncVjVhhrEkPctY9o.jpg" group-title="Movies | Strani filmovi",The Prodigy (2019)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5204.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wEnct8jeMHYzOfm5Y6QmxD3V61t.jpg" group-title="Movies | Strani filmovi",The Puppetman (2023)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5205.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yyejodyk3lWncVjVhhrEkPctY9o.jpg" group-title="Movies | Strani filmovi",The Prodigy (2019)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5204.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/gn1sNctXEHzAhTXxfSLYBTeYeuM.jpg" group-title="Movies | Strani filmovi",Pročišćenje (2013)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5206.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/i7P5DqW1wDNpX2Ug0kAFKJSL7bX.jpg" group-title="Movies | Strani filmovi",The Reckoning (2021)
@@ -11468,10 +11472,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5241.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5242.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/mkQ4rQxRJeTJUTHvhN0jxWFFTwB.jpg" group-title="Movies | Strani filmovi",The Wraith Within (2022)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5243.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/v8bSJhypBS39d9z4XZLAfHMquKA.jpg" group-title="Movies | Strani filmovi",Nešto nije u redu s djecom (2023)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5245.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/yCBslw91HrA66w8fsMqhKMvtgff.jpg" group-title="Movies | Strani filmovi",The Wretched (2019)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5244.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/v8bSJhypBS39d9z4XZLAfHMquKA.jpg" group-title="Movies | Strani filmovi",Nešto nije u redu s djecom (2023)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5245.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/GaPJQscaH4MtYQTbJyWjCUIho8.jpg" group-title="Movies | Strani filmovi",There's Someone Inside Your House (2021)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5246.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/qWAbfMXbzGRD6GOoC242lrpXz2T.jpg" group-title="Movies | Strani filmovi",They Live in the Grey (2022)
@@ -11626,10 +11630,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5323.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5324.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/5vtUfzkemSfENuBY4nIWUG6ro6o.jpg" group-title="Movies | Strani filmovi",Thor: Ljubav i grom (2022)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5325.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg" group-title="Movies | Strani filmovi",Thor: Ragnarok (2017)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5326.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg" group-title="Movies | Strani filmovi",Thor: Svijet tame (2013)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5327.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg" group-title="Movies | Strani filmovi",Thor: Ragnarok (2017)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5326.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Ant Man  2015
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/5328.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Ant Man And The Wasp  2018
@@ -11848,10 +11852,10 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6427.ts
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6428.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/dm5F3h7Wtr8yFGJtjdodHMUJfPC.jpg" group-title="Movies | Strani filmovi",God of Thunder (2015)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6429.ts
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/dt3vQcFqcy17Nd98pG98EY9yO6U.jpg" group-title="Movies | Strani filmovi",Halo 4: Forward Unto Dawn (2012)
-http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6432.ts
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strani filmovi",Grty
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6431.ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/dt3vQcFqcy17Nd98pG98EY9yO6U.jpg" group-title="Movies | Strani filmovi",Halo 4: Forward Unto Dawn (2012)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6432.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg" group-title="Movies | Strani filmovi",Hancock (2008)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/6433.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/wpXmc1PSQ8Ye1XWhiuAEpeHCjMj.jpg" group-title="Movies | Strani filmovi",Hatching Pete (2009)
@@ -12289,4 +12293,4 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9049.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/meKYRGK9oDAGHkB0mI7KIcWRMxU.jpg" group-title="Movies | Strani filmovi",The Match (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9056.ts
 
-# Total: 6131
+# Total: 6133

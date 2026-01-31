@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-01-30 18:37:37
+# Generated: 2026-01-31 07:15:17
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -20451,7 +20451,7 @@ http://45.139.122.199:8080/movie/Martin1/martin1/2228748.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXNxee2ix6Ke0bSIqFST0UhbVLR.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",Catfish [PRE] [2010]
 http://45.139.122.199:8080/movie/Martin1/martin1/2241228.mkv
 
-# --- Movies | VOD: Premiere Cinemas [Multi-Sub] (5459) ---
+# --- Movies | VOD: Premiere Cinemas [Multi-Sub] (5463) ---
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/movies//hPXSWiuYdJXHtcDS5wluYWgZldE.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Mickey's Once Upon a Christmas [KIDS] [1999]
 http://45.139.122.199:8080/movie/Martin1/martin1/45093.mkv
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/5cbece1549ed329e896796657dc4fcdf.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog [PRE] [2021]
@@ -20462,6 +20462,8 @@ http://45.139.122.199:8080/movie/Martin1/martin1/146146.mkv
 http://45.139.122.199:8080/movie/Martin1/martin1/384488.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfae1vtjzlE73DPJGlHq88sZKX3.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Slumberland [PRE] [MULTI-AUDIO] [2022]
 http://45.139.122.199:8080/movie/Martin1/martin1/450456.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXFbddDZvUcg2y5LSP24C7KCzW4.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Skyscraper Live [PRE] [2026]
+http://45.139.122.199:8080/movie/Martin1/martin1/2267043.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Predator: Badlands - 2025
 http://45.139.122.199:8080/movie/Martin1/martin1/2207413.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Valiant One [PRE] [2025]
@@ -31370,6 +31372,12 @@ http://45.139.122.199:8080/movie/Martin1/martin1/2262818.mkv
 http://45.139.122.199:8080/movie/Martin1/martin1/2262819.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxwgHtSCcUeo21jwui1i2KYKhr9.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",A Letter to My Youth [PRE] [2026]
 http://45.139.122.199:8080/movie/Martin1/martin1/2264736.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeufCs1cNDV9GPQAuq9nQTe1BX1.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Egghead Republic [PRE] [2025]
+http://45.139.122.199:8080/movie/Martin1/martin1/2267012.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFq4Uf7m9AThqn7ZvmWmX8eKCra.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Miracle: The Boys of '80 [PRE] [2026]
+http://45.139.122.199:8080/movie/Martin1/martin1/2267013.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUs4Sw9AyTg2sA1qWBkNpD2mGSj.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",My Old Ass [PRE] [2024]
+http://45.139.122.199:8080/movie/Martin1/martin1/2267014.mkv
 
 # --- Movies | VOD: Relaxing Music (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD: Relaxing Music",Fall Asleep Fast Eliminates All Negative Energy
@@ -31387,7 +31395,9 @@ http://45.139.122.199:8080/movie/Martin1/martin1/503168.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD: Relaxing Music",10 Hours of Relaxing Music Calm Piano Guitar, Sleep Music, Study Music 0003
 http://45.139.122.199:8080/movie/Martin1/martin1/503169.mp4
 
-# --- Movies | VOD: Svenska (786) ---
+# --- Movies | VOD: Svenska (787) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjXNNxC7h23TTnkylWkWgLN6qJg.jpg" group-title="Movies | VOD: Svenska",Hemmet [SE] [Multi-Sub] [2026]
+http://45.139.122.199:8080/movie/Martin1/martin1/2267059.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajA8ODXtawVdmcrnszwD1mKR8lJ.jpg" group-title="Movies | VOD: Svenska",Olof Inc. [SE] [Multi-Sub] [2021]
 http://45.139.122.199:8080/movie/Martin1/martin1/2261591.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKaPQUJDzDABXOYd0hT9g0McY52.jpg" group-title="Movies | VOD: Svenska",Vi dör i natt [SE] [Multi-Sub] [2025]
@@ -33003,4 +33013,4 @@ http://45.139.122.199:8080/movie/Martin1/martin1/1036211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9sa6ERZCpplbPEO7OMWE763CLD.jpg" group-title="Movies | VOD: [Dolby Vision] 4k Movies [Multi-Sub] [Only On Dolby Vision Devices]",First Blood [1982] [Dolby Vision] [Multi-Sub] [4K]
 http://45.139.122.199:8080/movie/Martin1/martin1/2173473.mkv
 
-# Total: 16482
+# Total: 16487

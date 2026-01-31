@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lunar.pm:8080
-# Generated: 2026-01-30 18:36:40
+# Generated: 2026-01-31 07:13:31
 # Expires: 2026-02-18
 # Family Safe Edition
 # ==============================================
@@ -11213,7 +11213,7 @@ http://lunar.pm:8080/live/Slim/Sexyslim/41615.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/boomerang-uk.png" group-title="USA Kids",Boomerang.
 http://lunar.pm:8080/live/Slim/Sexyslim/110047.m3u8
 
-# --- USA Locals( DO NOT USE FOR NFL ETC USE THE PROPER GROUP) (264) ---
+# --- USA Locals( DO NOT USE FOR NFL ETC USE THE PROPER GROUP) (265) ---
 #EXTINF:-1 tvg-logo="" group-title="USA Locals( DO NOT USE FOR NFL ETC USE THE PROPER GROUP)",ABC (Cincinnati)
 http://lunar.pm:8080/live/Slim/Sexyslim/123141.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Locals( DO NOT USE FOR NFL ETC USE THE PROPER GROUP)",ABC 02(Atlanta)
@@ -11448,6 +11448,8 @@ http://lunar.pm:8080/live/Slim/Sexyslim/64698.m3u8
 http://lunar.pm:8080/live/Slim/Sexyslim/64696.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Locals( DO NOT USE FOR NFL ETC USE THE PROPER GROUP)",FOX 04(Dallas/Ft Worth)
 http://lunar.pm:8080/live/Slim/Sexyslim/64694.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA Locals( DO NOT USE FOR NFL ETC USE THE PROPER GROUP)",FOX 04 (Fort Myers)
+http://lunar.pm:8080/live/Slim/Sexyslim/132417.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Locals( DO NOT USE FOR NFL ETC USE THE PROPER GROUP)",FOX 04(Kansas City)
 http://lunar.pm:8080/live/Slim/Sexyslim/64693.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Locals( DO NOT USE FOR NFL ETC USE THE PROPER GROUP)",FOX 05(Atlanta)
@@ -12247,4 +12249,4 @@ http://lunar.pm:8080/live/Slim/Sexyslim/120490.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/wnba4.png" group-title="WNBA",WNBA 10
 http://lunar.pm:8080/live/Slim/Sexyslim/120491.m3u8
 
-# Total: 6049
+# Total: 6050

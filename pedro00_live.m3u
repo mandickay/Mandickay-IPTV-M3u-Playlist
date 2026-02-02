@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pedro00.net:88
-# Generated: 2026-02-01 18:33:34
+# Generated: 2026-02-02 07:30:10
 # Expires: 2026-02-24
 # Family Safe Edition
 # ==============================================
@@ -2727,7 +2727,7 @@ http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/127383.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/FRANCE/MUSIC/OLYMPIA_TV.png" group-title="FRANCE MUSIQUE",|FR| OLYMPIA SD
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/127385.m3u8
 
-# --- FRANCE SPORTS (145) ---
+# --- FRANCE SPORTS (144) ---
 #EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-fr.png" group-title="FRANCE SPORTS",-----| RMC SPORT FHD |-----
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/126917.m3u8
 #EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/RMC_SPORT_1.png" group-title="FRANCE SPORTS",|FR| RMC SPORT 1 FHD
@@ -2874,8 +2874,6 @@ http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/127030.m3u8
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/127032.m3u8
 #EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/GOLF+.png" group-title="FRANCE SPORTS",|FR| GOLF+ SD
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/127033.m3u8
-#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/INFOSPORT+.png" group-title="FRANCE SPORTS",|FR| INFOSPORT+ SD
-http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/127029.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-fr.png" group-title="FRANCE SPORTS",-----| RMC SPORT HEVC |-----
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/126962.m3u8
 #EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/RMC_SPORT_1.png" group-title="FRANCE SPORTS",|FR| RMC SPORT 1 HEVC
@@ -3249,4 +3247,4 @@ http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/1079562.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 4 SD 50FPS
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/1079563.m3u8
 
-# Total: 1585
+# Total: 1584

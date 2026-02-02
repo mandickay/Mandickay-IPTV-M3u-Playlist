@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-02-01 18:44:07
+# Generated: 2026-02-02 07:32:51
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -13437,7 +13437,9 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837897.mp4
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="Movies | |SPT| SPORT BOXING",SPT Katie Taylor vs. Natasha Jonas
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837889.mp4
 
-# --- Movies | |SPT| SPORT UFC (455) ---
+# --- Movies | |SPT| SPORT UFC (456) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoZDTsM9OOP2GzxAtiXwsRDAkrn.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC 325: Volkanovski vs. Lopes 2 (2026)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2016675.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAeBHIJMoxYeXLzU8hVTo3N6uQD.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC 324: Gaethje vs. Pimblett (2026)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2012295.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruecaJTlopSfXQ6WvXnbbL6eSIK.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC on ESPN 73: Royval vs. Kape (Prelims) (2025)
@@ -18089,4 +18091,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 8997
+# Total: 8998

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-02-01 18:31:37
+# Generated: 2026-02-02 07:21:31
 # Expires: 2026-03-01
 # Family Safe Edition
 # ==============================================
@@ -519,7 +519,7 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11842.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) You And I Are Polar Opposites
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11845.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1394) ---
+# --- Movies | (S|DE) Deutsche Serien (1395) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3308,6 +3308,8 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11844.mp4
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11858.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Auction Hunters
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11863.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Suburgatory
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11873.mp4
 
 # --- Movies | (S|TR) Animasyon - Cizgi Diziler (130) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Ben 10 Omniverse
@@ -32257,4 +32259,4 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/10625.mp4
 
-# Total: 16079
+# Total: 16080

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-02-01 18:36:58
+# Generated: 2026-02-02 07:20:20
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -1086,14 +1086,14 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/7300.mkv
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5531.mp4
 
 # --- Movies | Films (1441) ---
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/87UBh8La2bnWyGhhwRWR0SjQEuU.jpg" group-title="Movies | Films",Captain Hook : La Mer Maudite (2025)
-http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22481.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg" group-title="Movies | Films",Killer Whale (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21982.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cAyouRgS9Dt1epo8LGh8flvuIYR.jpg" group-title="Movies | Films",Bêtes de flic (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/87UBh8La2bnWyGhhwRWR0SjQEuU.jpg" group-title="Movies | Films",Captain Hook : La Mer Maudite (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22481.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hDUlNBjZLG9bo1zsehPYNQ1YBIg.jpg" group-title="Movies | Films",Trahison (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22466.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dmCE5kGG1w9erlU8lXVtANB4FCT.jpg" group-title="Movies | Films",Silent Night, Deadly Night (2025)

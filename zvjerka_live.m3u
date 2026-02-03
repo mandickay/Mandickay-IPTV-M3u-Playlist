@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: zvjerka.com:2052
-# Generated: 2026-02-02 18:42:01
+# Generated: 2026-02-03 07:25:03
 # Expires: 2026-02-09
 # Family Safe Edition
 # ==============================================
@@ -2033,7 +2033,7 @@ http://zvjerka.com:2052/live/dzevad25/46436585/8711.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Planeta_TV_BG_logo.png" group-title="Muzika",Planeta TV
 http://zvjerka.com:2052/live/dzevad25/46436585/8714.m3u8
 
-# --- Njemacka (155) ---
+# --- Njemacka (154) ---
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/kabel1-logo.png" group-title="Njemacka",DE: Kabel 1
 http://zvjerka.com:2052/live/dzevad25/46436585/9097.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Kabel_eins_Doku_Logo.png" group-title="Njemacka",DE: Kabel 1 Doku
@@ -2266,8 +2266,6 @@ http://zvjerka.com:2052/live/dzevad25/46436585/9164.m3u8
 http://zvjerka.com:2052/live/dzevad25/46436585/9244.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Universal-TV-logo.png" group-title="Njemacka",DE: Sky Universal HD
 http://zvjerka.com:2052/live/dzevad25/46436585/9165.m3u8
-#EXTINF:-1 tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/33.%20SKY%20SPORT%20AUSTRIA.jpg" group-title="Njemacka",DE: Sky Sport Austria FHD
-http://zvjerka.com:2052/live/dzevad25/46436585/9166.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sky_sport_1_de.png" group-title="Njemacka",DE: Sky Sport 1 HD
 http://zvjerka.com:2052/live/dzevad25/46436585/9168.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/sky_sport_2_de.png" group-title="Njemacka",DE: Sky Sport 2 HD
@@ -3549,4 +3547,4 @@ http://zvjerka.com:2052/live/dzevad25/46436585/31796.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiostanica.com/_next/image?url=https%3A%2F%2Fwww.radiostanica.com%2Fstatic%2Fimages%2Flogos%2F1830_logo1709506403.png&w=384&q=75" group-title="Unknown",Kontakt Radio
 http://zvjerka.com:2052/live/dzevad25/46436585/31797.m3u8
 
-# Total: 1742
+# Total: 1741

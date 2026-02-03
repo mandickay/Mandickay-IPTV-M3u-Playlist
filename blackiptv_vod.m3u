@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-02-02 18:50:37
+# Generated: 2026-02-03 07:32:14
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -6244,7 +6244,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66358.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66371.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozU1gDKB7wRLb0HDCGS0Mxs4oSu.jpg" group-title="Movies | DE/FILM ~ 2024",The Cut (2025) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66521.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | DE/FILM ~ 2024",Uncle Trouble Daddy ueber Nacht - 2024
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWG8rZDhTGMmeItkxlfBEMCnKCg.jpg" group-title="Movies | DE/FILM ~ 2024",Uncle Trouble - Daddy über Nacht (2024) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66522.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j886YEkIUsiImY53px5VHKD4lRa.jpg" group-title="Movies | DE/FILM ~ 2024",Ultraman: Rising (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/51265.mp4
@@ -9479,7 +9479,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/64369.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8U8q1Vch095adruyXHy6N4KEiPq.jpg" group-title="Movies | DE/FILM ~ WEIHNACHTEN",Wuff Star Weihnachten (2018) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/64370.mp4
 
-# --- Movies | DE/SERIE ~ ALL (202) ---
+# --- Movies | DE/SERIE ~ ALL (203) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",Sanditon (2019)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1306.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",The Veil (2024)
@@ -9848,8 +9848,6 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1723.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1724.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",DE: Robin Hood (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1745.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",DE: The Handmaid's Tale - Der Report der Magd (2017)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1746.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",DE: Banshee (2013)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1747.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",DE: High Potential (2024)
@@ -9884,6 +9882,10 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1870.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1871.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",DE: Patience (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1946.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",DE: The Handmaid's Tale - Der Report der Magd (2017)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1949.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",DE: The Proof is Out There – Unexplained Edition (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1951.mp4
 
 # --- Movies | DE/SERIE ~ AMAZON PRIME (27) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Steal (2026)
@@ -10875,7 +10877,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60351.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxPLe88dEW3i2RTGAQixbKmZATz.jpg" group-title="Movies | ITA/FILM ~ VOD",Frankenstein (2025) ITA
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/62856.mp4
 
-# --- Movies | TR/DIZI ~ ALL (23) ---
+# --- Movies | TR/DIZI ~ ALL (24) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ ALL",Türk Dedektif
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1159.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ ALL",Yaratılan
@@ -10922,6 +10924,8 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/24.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/23.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ ALL",Aska Mahkum (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1618.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ ALL",Hayrettin ile Kaos Show (2024)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1948.mp4
 
 # --- Movies | TR/DIZI ~ AMAZON PRIME (71) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Soygun (2026)
@@ -12798,9 +12802,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60873.mp4
 # --- Movies | TR/DIZI ~ PAZARTESI (3) ---
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/82/322/png-clipart-flag-of-turkey-national-flag-yukselen-bayrak-turk-bayra%C4%9F%C4%B1-100x150-flag-miscellaneous-flag.png" group-title="Movies | TR/DIZI ~ PAZARTESI",*****TURK DIZI*****
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/4968.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Cennetin Cocuklari 19.Bölüm (YENI DIZI)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Cennetin Cocuklari 20.Bölüm (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/39132.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Uzak Sehir 47.Bölüm (YENI SEZON)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Uzak Sehir 48.Bölüm (YENI SEZON)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/376.mp4
 
 # --- Movies | TR/DIZI ~ PERSEMBE (3) ---
@@ -12883,11 +12887,13 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1759.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TOD/BEINCONNECT",Vicdansız (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1887.mp4
 
-# --- Movies | TR/DIZI ~ TRT TABII TURK (49) ---
+# --- Movies | TR/DIZI ~ TRT TABII TURK (50) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TRT TABII TURK",Big Cat Country
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1413.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TRT TABII TURK",Kız Babası
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1525.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TRT TABII TURK",Ayşe (2026)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1950.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TRT TABII TURK",Tozkoparan İskender : Kaos 2026
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1918.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TRT TABII TURK",TRT TABII: Derin Mor
@@ -15961,7 +15967,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60921.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9tHVZrCUnElznpdOGZEYYC95Rks.jpg" group-title="Movies | TR/FILM ~ TRT TABII",Aile Meselesi (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/61895.mkv
 
-# --- Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL) (173) ---
+# --- Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL) (218) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adrno1y0mKpMwjSlMQojZEUk82V.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Jadotville Kuşatması (2016) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48569.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iP6tCkmp6puphF20aQrZ6f1Xl3G.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Adalet (2014) TR
@@ -16308,6 +16314,96 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66347.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66348.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72tgSiXaD8B0wWaPzALconMlMAe.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Woman in Gold (2015) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66349.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2lQw2jAEFTVVvxMHQPbmRAJ2pP.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",2 Fast 2 Furious (2003) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66606.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OopiNRk7lWP0hPsY0eYqq2kQTi.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Brick Mansions (2014) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66607.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jN9CTWJjL1j1F0OokhnyiRGYFu4.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Captain America: The First Avenger (2011) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66608.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDGgIWDNSypqDIwZpt2Vn0BCLK1.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Fantastic Four (2015) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66609.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvxAFADmcbYSMJ6GYqkHqcELczd.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Furious 7 (2015) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66610.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqKzfcD2CsTHNn6gfJRSV7IVFSz.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",La Confrérie des larmes (2013) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66611.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RfCxVHYXnO7p0Oy68m5OH5ymZ0.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Hitman (2007) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66612.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1eGPzRYvoQBLJAXxOVvQkothC0.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Hitman: Agent 47 (2015) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66613.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xn0Kcg4e6p0mLxVS3nAWhNmW2Ni.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Inception (2010) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66614.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtrjsDrY54vw2io3UlqFQ4f6eXk.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Mission: Impossible - Rogue Nation (2015) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66615.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HSzHtfxAAxdzLx7dYmYyKjHd22.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Bay ve Bayan Smith (2005) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66616.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSHBxaOerWcyAIQuW2grBCrnjhu.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Pixels (2015) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66617.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pco9HUxjNtPyeswagocJPpfcMQs.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",San Andreas (2015) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66618.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olxDve0TTy5SuRHJUEXaBjz5qKj.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Sin City: A Dame to Kill For (2014) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66620.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRLVyhQfkW2hn15e8NIqarswLAr.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Son of a Gun (2014) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66621.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqzw8l4eIe2wozD42cIAg6EBTVu.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Southpaw (2015) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66622.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTH2MtMFJipeaKGheG3YWhMsqgo.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Spy (2015) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66623.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28jvHApubITKzQQagvYwkdM8YIK.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Sucker Punch (2011) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66624.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5d16tJ2DLImAwCY2w0LYZjgWZA1.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Taxi (1998) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66625.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yERxkRMZmgMjAZcQkNx51J9ErX.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",The Lone Ranger (2013) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66626.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQvJdpwlL4WVRAolWIpH2ZO9nv1.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",True Romance (1993) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66627.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efG8Po57alqSlhqHU1lXJ3duG6t.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",21 (2008) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66629.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6ECLzDTPjW55wChAP6yosq8C9j.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",A Christmas Carol (2009) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66630.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58Y4CjcRX8AtMNtI0AXu9H7iebP.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Aloha (2015) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66631.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/seB5OVzZ0wmNZ7Jk2AzNeWIT7Bu.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Amores perros (2000) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66632.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DvjkCbmlg8sbBHZKUZvYPgsT5V.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Anna Karenina (2012) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66633.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4IQKTBg30z52sV0OT1sfPykiua.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Another Earth (2011) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66634.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Man (2014) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66635.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdoDBUNHQ6uKTdtkKEKOwR0On65.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Beginners (2011) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66636.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Blade Runner Final Cut - 2008
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66637.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKmOKdcrG8CuF3XAGgjDwYQniYr.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Bruce Almighty (2003) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66638.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbDQA2a3H9CbEHr7bDkaqxAGDO1.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Catch.44 (2011) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66639.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ornlhD3hR49GtocZaYshHT8wRod.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Colt 45 (2014) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66640.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/casj0DbfkcI0er8LcreympkjzG1.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Epic (2013) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66641.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsmZcNzPGnZwRgCKAfIr1JngYu5.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Stop-Loss (2008) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66642.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VXtOoFul6UVp1o3KqbIsAED6Ca.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Home (2015) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66643.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiyHlhIS4Tm6HK8XdwRZX4cc4tS.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Intouchables (2011) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66644.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTBLeWnIMEa5VxAIiBzF6Rhqrj3.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Mr. Nobody (2009) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66645.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uL2IDl3DSbv1DbaHq4aiOnffX6w.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",My Sister's Keeper (2009) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66646.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjhdhLoOFFiJhNmSSbN3WW9wUtw.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Remember Me (2010) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66647.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayqHV0rHuAdMv8PS497W2OByGWk.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Son of God (2014) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66648.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIqx17K4mFpv6WswyH0y3opRuyh.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",The Cobbler (2014) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66649.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJfO2aYS9eqd1i0SsZc8YFBWtMm.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",The Day After Tomorrow (2004) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66650.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XTf8GuCVLWolubANaKkpk62YPq.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",The Fountain (2006) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66651.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHeleQogW4WYPAFuV1h14fqUs01.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Unfriended (2015) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66652.mp4
 
 # --- Movies | TR/FILM ~ YABANCI 2018 (DUAL) (109) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNcm0kmMOmE5lxRiDaA6bmx4unH.jpg" group-title="Movies | TR/FILM ~ YABANCI 2018 (DUAL)",Adalet 2 (2018) TR
@@ -18685,7 +18781,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/65394.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6buo5I8pAEIXIa8r9oPna9viNZ3.jpg" group-title="Movies | TR/FILM ~ YABANCI 2024 (DUAL)",Vermiglio (2024) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66338.mp4
 
-# --- Movies | TR/FILM ~ YABANCI 2025 (DUAL) (135) ---
+# --- Movies | TR/FILM ~ YABANCI 2025 (DUAL) (136) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uP3Gup9tSqeDzc9pyMQb5PfLvxZ.jpg" group-title="Movies | TR/FILM ~ YABANCI 2025 (DUAL)",Tank (2025) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66074.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2HlUfMufLsVArsoLgvphVCWJJK.jpg" group-title="Movies | TR/FILM ~ YABANCI 2025 (DUAL)",Sesimi Takip Et (2025) TR
@@ -18956,6 +19052,8 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66272.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66273.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rABBTy8KZju7SNna7cgGDJZsrRV.jpg" group-title="Movies | TR/FILM ~ YABANCI 2025 (DUAL)",Wicked: For Good (2025) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66334.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/FILM ~ YABANCI 2025 (DUAL)",Trainwreck - 2025
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66628.mp4
 
 # --- Movies | TR/FILM ~ YERLI 2017-2000 (344) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/58VhE6SG6mVX6IrTu75FsKG9RLz.jpg" group-title="Movies | TR/FILM ~ YERLI 2017-2000",Kardeşim Benim 2 (2017)
@@ -21047,4 +21145,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10375
+# Total: 10424

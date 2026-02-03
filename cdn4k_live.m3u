@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cdn4k.us:80
-# Generated: 2026-02-02 18:47:57
+# Generated: 2026-02-03 07:26:24
 # Expires: 2026-02-16
 # Family Safe Edition
 # ==============================================
@@ -1162,7 +1162,7 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/6546.m3u8
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/100517.m3u8
 
 # --- DISNEY+ (30) ---
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019c1a8c-d54d-734c-ab81-ca2bd7ee977c/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="DISNEY+",WTA 500: Abu Dhabi: Primeira Rodada
+#EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 1
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346368.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4k.cloud/logos/disney.png" group-title="DISNEY+",Disney 2
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/346369.m3u8
@@ -1464,51 +1464,51 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/142905.m3u8
 # --- ESTADUAIS (38) ---
 #EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Maricá FC x Volta Redonda - 17:00 RJ FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384380.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Maricá FC x Volta Redonda - 17:00 RJ FHD²
-http://cdn4k.us:80/live/Adrianobrito16/910989645a/384381.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Maricá FC x Volta Redonda - 17:00 RJ HD
+http://cdn4k.us:80/live/Adrianobrito16/910989645a/384381.m3u8
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Carlos Renaux SC x Figueirense - 19:00 SC FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384382.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Maricá FC x Volta Redonda - 17:00 RJ HD²
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Carlos Renaux SC x Figueirense - 19:00 SC HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384383.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Madureira x Vasco da Gama - 20:00 RJ FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384384.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Madureira x Vasco da Gama - 20:00 RJ FHD²
-http://cdn4k.us:80/live/Adrianobrito16/910989645a/384385.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Madureira x Vasco da Gama - 20:00 RJ HD
+http://cdn4k.us:80/live/Adrianobrito16/910989645a/384385.m3u8
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384386.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Madureira x Vasco da Gama - 20:00 RJ HD²
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384387.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Floresta x Ferroviário - 19:00 CE FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384388.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Floresta x Ferroviário - 19:00 CE FHD²
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384389.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Floresta x Ferroviário - 19:00 CE HD
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384390.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Floresta x Ferroviário - 19:00 CE HD²
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384391.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Carlos Renaux SC x Figueirense - 19:00 SC FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384392.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Carlos Renaux SC x Figueirense - 19:00 SC FHD²
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384393.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Carlos Renaux SC x Figueirense - 19:00 SC HD
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384394.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Carlos Renaux SC x Figueirense - 19:00 SC HD²
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384395.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Anapolina x AA Aparecidense - 19:30 GO FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384396.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Anapolina x AA Aparecidense - 19:30 GO FHD²
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384397.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Anapolina x AA Aparecidense - 19:30 GO HD
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384398.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Anapolina x AA Aparecidense - 19:30 GO HD²
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384399.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",ABECAT Ouvidorense x Anápolis - 19:30 GO FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384400.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",ABECAT Ouvidorense x Anápolis - 19:30 GO FHD²
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384401.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",ABECAT Ouvidorense x Anápolis - 19:30 GO HD
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384402.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",ABECAT Ouvidorense x Anápolis - 19:30 GO HD²
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384403.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/default-estaduais.png" group-title="ESTADUAIS",Estaduais
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/384404.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-02-02 18:46:28
+# Generated: 2026-02-03 07:23:37
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -2545,9 +2545,11 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/52993.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht6EfsM5hrsUPSR4ReJQFDVU71F.jpg" group-title="Movies | Filma me titra Shqip",Roald Dahl's The Witches (2020)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/30398.mkv
 
-# --- Movies | Seriale me titra Shqip (200) ---
+# --- Movies | Seriale me titra Shqip (201) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",=====Seriale Me Titra Shqip=====
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/1.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",The Night Manager
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/290.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",The Pitt (2025)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/289.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Fallout
@@ -9017,4 +9019,4 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69012.mkv
 
-# Total: 4496
+# Total: 4497

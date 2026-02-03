@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2026-02-02 18:53:44
+# Generated: 2026-02-03 07:33:44
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -19319,13 +19319,11 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/46163.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/abb4cfb2e854c34820508bc95e63bd8e.jpg" group-title="Movies | NETFLIX AMAZON-Serie-Tv",The Protector 04x07
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/46164.mkv
 
-# --- Movies | NETFLIX-AMAZON-SERIE (648) ---
+# --- Movies | NETFLIX-AMAZON-SERIE (647) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Celebrity Hunted: Caccia all'uomo
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",ZeroZeroZero
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/5.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Freud
-http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/6.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Legacies
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/13.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Altered Carbon
@@ -20893,9 +20891,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1550.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",Batman - Cavaliere della notte
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1608.mp4
 
-# --- Movies | SERIE-TV (507) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
-http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1.mp4
+# --- Movies | SERIE-TV (506) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/20.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Blacklist
@@ -32449,4 +32445,4 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50888.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/96e97ef7e316fab54d133aa6fcdf30a2.jpg" group-title="Movies | SerieTV",Turner and Hooch 01x12 La Resa Dei Conti
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50889.mkv
 
-# Total: 16193
+# Total: 16191

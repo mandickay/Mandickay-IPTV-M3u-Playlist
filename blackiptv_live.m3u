@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-02-02 18:50:37
+# Generated: 2026-02-03 07:32:14
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -463,7 +463,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35623.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY MUSIC",*****ALL SERIES*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25126.m3u8
 
-# --- ALL COUNTRY SPORTS (242) ---
+# --- ALL COUNTRY SPORTS (234) ---
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",MAR: Arryadia SPORT
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1037.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",BRA: RS News Sports 1 Live
@@ -760,16 +760,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/26526.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25018.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",RUS: EIS HOCKEY EVENT 8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25029.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",RUS: EIS HOCKEY EVENT 9
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59887.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",RUS: EIS HOCKEY EVENT 10
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59888.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",RUS: EIS HOCKEY EVENT 11
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59889.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",RUS: EIS HOCKEY EVENT 12
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59890.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",RUS: EIS HOCKEY EVENT 13
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59891.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",AF: SUPERSPORT 1
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28596.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",AF: SUPERSPORT 2
@@ -928,12 +918,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/534.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/538.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",IND: SONY SPORTS 1HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28719.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",IND: SONY SPORTS 2HD
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59881.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",IND: SONY SPORTS 3HD
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59882.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",IND: SONY SPORTS 5HD
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59883.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",INDI: STAR SPORTS 1
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",INDI: STAR SPORTS 1 HD
@@ -1254,19 +1238,19 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1895.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1898.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BULGARIA",BG: CITY TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1899.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BULGARIA",BG: CINEMA PLUS
+#EXTINF:-1 tvg-logo="http://paris.tvlogos.xyz:8080/logos/logozip/picons/logos/cinemaplus.png" group-title="BULGARIA",BG: CINEMA PLUS
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1891.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BULGARIA",BG: Fox Crime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/97/Foxcrimehd.png" group-title="BULGARIA",BG: Fox Crime
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/4979.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BULGARIA",BG: Planeta HD
+#EXTINF:-1 tvg-logo="http://go.wrldonx.fyi:8000/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHWHt8iDndV7B2G72UP0yy09tfPkjwWWWd5WzjFpINjFA.png" group-title="BULGARIA",BG: Planeta HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5151.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BULGARIA",BG: DIEMA FAMILY
+#EXTINF:-1 tvg-logo="http://go.wrldonx.fyi:8000/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfG64PvA7EZAiAfqRDCvJOTSzVy8r9LvbN0idD9fKzFP4w.png" group-title="BULGARIA",BG: DIEMA FAMILY
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/26548.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BULGARIA",BG: Viasat Explorer
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/4976.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BULGARIA",BG: History Channel
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/4978.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BULGARIA",BG: NAT GEO WILD
+#EXTINF:-1 tvg-logo="http://go.wrldonx.fyi:8000/images/gE0WG3vS821BOprvjNMm6Qmb-GVhBApp8TGQDCAj7fXOuREwYRR97Uc_f9mlbSJl-9giNJSvIIBtVfLs4x0gwfScN835iqlHx1hWuq3WVjbC6NcJ0YEbOI1iItEmIRak.png" group-title="BULGARIA",BG: NAT GEO WILD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28997.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BULGARIA",BG: NAT GEO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28998.m3u8
@@ -2222,7 +2206,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/33424.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39156.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-tennis-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY SPORT TENNIS
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/33463.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY SPORTS GOLF HD
+#EXTINF:-1 tvg-logo="http://go.wrldonx.fyi:8000/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfEh452IcLfNQ-AhWWjGqiSdu0dCmNcxlPJfno9pdiQ8rQ.png" group-title="GERMANY SPORTS (DEU/AT/CH)",GOLF
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58298.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-top-event-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY SPORT TOP EVENT HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35887.m3u8
@@ -3166,11 +3150,11 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/4944.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/491.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: TVR 2 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/476.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: TVR 3 HD
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/tvr-International-transparent3.png" group-title="ROMANIA",RO: TVR 3
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/492.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: TVR Cluj
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPLcNZLVI0cMBu913hFkFDuKj97xIiCCPnqMn-h=s900-c-k-c0x00ffffff-no-rj" group-title="ROMANIA",RO: TVR Cluj
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/493.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: TVR MOLDOVA
+#EXTINF:-1 tvg-logo="http://forex.ddnsguru.com:80/images/84465b7583f393f1bae75bd75ed38ad3.jpg" group-title="ROMANIA",RO: MOLDOVA TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/497.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/Romania/protv.png" group-title="ROMANIA",RO: PRO TV SD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/483.m3u8
@@ -3192,17 +3176,17 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28887.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/450.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: ANTENA 3 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/452.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: ANTENA STARS
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/antena-stars-ro-transparent.png" group-title="ROMANIA",RO: ANTENA STARS
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/485.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: ANTENA STARS HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/451.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: ANTENA MONDEN
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/antena1_ro.png" group-title="ROMANIA",RO: ANTENA COOK
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/484.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: ANTENA COMEDY HD
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/antena1_ro.png" group-title="ROMANIA",RO: ANTENA COMEDY HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/463.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: CINEMAX 1 HD
+#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: CINEMAX 1
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28718.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: CINEMAX 2 HD
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/CINEMAX_2.png" group-title="ROMANIA",RO: CINEMAX 2
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/496.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: CINEMARATON
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/469.m3u8
@@ -3212,7 +3196,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/445.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/454.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: Alfa Omega TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/448.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: KISS TV SD
+#EXTINF:-1 tvg-logo="http://forex.ddnsguru.com:80/images/2f4cf4553fa6e89328ded6feb0e2496f.png" group-title="ROMANIA",RO: KISS TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/456.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: Bucovina TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/457.m3u8
@@ -3220,7 +3204,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/457.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/459.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: Columna TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/460.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: FILM BOX Romanien
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/filmbox_extra_pl_hd.png" group-title="ROMANIA",RO: FILM BOX EXTRA
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/464.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: IMPACT TV MANELE
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/465.m3u8
@@ -3240,15 +3224,15 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/481.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/482.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: TRAVEL HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/489.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: Nasil
+#EXTINF:-1 tvg-logo="http://forex.ddnsguru.com:80/images/38348ebbfad81f376d68a6bb7c9229fa.jpg" group-title="ROMANIA",RO: NASUL TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/494.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: FAVORIT TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/495.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: AGRO TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/498.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="ROMANIA",RO: CARTOON NETWORK
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: NICKELODEON HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="ROMANIA",RO: NICKELODEON
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28724.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: DISNEY JUNIOR
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/490.m3u8
@@ -3256,11 +3240,11 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/490.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25017.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: Animal Planet
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/449.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: TLC HD
+#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: TLC
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28722.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: NAT GEO HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25012.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: NAT GEO WILD HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/it/NatGeoWild.it.png" group-title="ROMANIA",RO: NAT GEO WILD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25013.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: NATIONAL 24 PLUS HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25014.m3u8
@@ -5226,7 +5210,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54979.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nba-tv-rs.png" group-title="TURK SPOR",TR: NBA TV HD (TR/ENG)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/41.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/fightbox-pl.png" group-title="TURK SPOR",TR: FIGHTBOX (TR/ENG)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/fightbox-pl.png" group-title="TURK SPOR",TR: FIGHTBOX
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/40.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tay-tv-tr.png" group-title="TURK SPOR",TR: TAY TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/44.m3u8
@@ -5612,11 +5596,11 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58290.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58299.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: REVOLT TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58300.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",USA: HBO HD
+#EXTINF:-1 tvg-logo="" group-title="USA",HBO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58301.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: HALLMARK TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58304.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",USA: TCM HD
+#EXTINF:-1 tvg-logo="" group-title="USA",USA: TCM
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58305.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: FILM NOIR TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58306.m3u8
@@ -5969,4 +5953,4 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR RADYO: ANKARA RADYO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43245.m3u8
 
-# Total: 2924
+# Total: 2916

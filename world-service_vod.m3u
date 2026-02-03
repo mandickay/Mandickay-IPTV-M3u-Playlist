@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-02-02 18:42:54
+# Generated: 2026-02-03 07:27:58
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -19687,13 +19687,11 @@ http://world-service.us:8080/movie/giovanmer/merante/46163.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/abb4cfb2e854c34820508bc95e63bd8e.jpg" group-title="Movies | NETFLIX AMAZON-Serie-Tv",The Protector 04x07
 http://world-service.us:8080/movie/giovanmer/merante/46164.mkv
 
-# --- Movies | NETFLIX-AMAZON-SERIE (650) ---
+# --- Movies | NETFLIX-AMAZON-SERIE (649) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Celebrity Hunted: Caccia all'uomo
 http://world-service.us:8080/movie/giovanmer/merante/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",ZeroZeroZero
 http://world-service.us:8080/movie/giovanmer/merante/5.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Freud
-http://world-service.us:8080/movie/giovanmer/merante/6.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Legacies
 http://world-service.us:8080/movie/giovanmer/merante/13.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Altered Carbon
@@ -21275,9 +21273,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1550.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",Batman - Cavaliere della notte
 http://world-service.us:8080/movie/giovanmer/merante/1608.mp4
 
-# --- Movies | SERIE-TV (509) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
-http://world-service.us:8080/movie/giovanmer/merante/1.mp4
+# --- Movies | SERIE-TV (508) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
 http://world-service.us:8080/movie/giovanmer/merante/20.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Blacklist
@@ -32799,4 +32795,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16368
+# Total: 16366

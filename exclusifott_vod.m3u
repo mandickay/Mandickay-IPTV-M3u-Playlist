@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-02-02 18:39:46
+# Generated: 2026-02-03 07:33:10
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -14755,7 +14755,13 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1492099.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | |EN| 4K SERIES",NF - 1899 4K (2022)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/38387
 
-# --- Series | |EN| TOP SERIES (2) ---
+# --- Series | |EN| TOP SERIES (5) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | |EN| TOP SERIES",EN - Friends - UNCUT (1994)
+http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/14178
+#EXTINF:-1 tvg-logo="" group-title="Series | |EN| TOP SERIES",EN - Grey's Anatomy (2005)
+http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/8538
+#EXTINF:-1 tvg-logo="" group-title="Series | |EN| TOP SERIES",EN - Two And A Half Men (2003)
+http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/26481
 #EXTINF:-1 tvg-logo="" group-title="Series | |EN| TOP SERIES",EN - Mr.Bean The Animated Series (2002)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/11444
 #EXTINF:-1 tvg-logo="" group-title="Series | |EN| TOP SERIES",EN - Dracula (2013)
@@ -18091,4 +18097,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 8998
+# Total: 9001

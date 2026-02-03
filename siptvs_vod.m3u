@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-02-02 18:42:02
+# Generated: 2026-02-03 07:33:51
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -11277,7 +11277,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/189305.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ri4XxXNCUKwlZWXgoVNftF7GIY.jpg" group-title="Movies | |DE| SCI-FI / FANTASY",Divinity (2023)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/191685.mkv
 
-# --- Movies | |DE| SERIEN (752) ---
+# --- Movies | |DE| SERIEN (753) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",Dragonball
 http://siptvs.com:8080/movie/Biljana12/Biljana12/11.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",Dragonball Z Kai
@@ -12782,6 +12782,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2381.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2382.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Star Trek: Starfleet Academy (2026)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2383.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Bleach Thousand Year Blood War  (2022)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2389.mp4
 
 # --- Movies | |DE| THRILLER (20) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYNuJd1vHOtHyeKoO87ehsGpBva.jpg" group-title="Movies | |DE| THRILLER",Nomis - Die Nacht des Jägers (2019)
@@ -19393,7 +19395,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/198497.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lZbgwbGutOF9goEyxeHmyLBDZII.jpg" group-title="Movies | |EXYU| FAMILY",White Fang 2: Myth of the White Wolf (1994)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/198498.mkv
 
-# --- Movies | |EXYU| FANTASY (191) ---
+# --- Movies | |EXYU| FANTASY (192) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8hfZCD2fSsz6LE6FA5uk5mMv11.jpg" group-title="Movies | |EXYU| FANTASY",5th Passenger (2018)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/14069.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPci3811kFmPPEevGrnjeKWokD4.jpg" group-title="Movies | |EXYU| FANTASY",2036: Nexus Dawn (2017)
@@ -19776,6 +19778,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/196323.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/197773.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lxB6QUCLcmAgdYbSVhpdKYbTPQA.jpg" group-title="Movies | |EXYU| FANTASY",Virtual Revolution (2016)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/199647.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg" group-title="Movies | |EXYU| FANTASY",Eternal Sunshine of the Spotless Mind (2004)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/199761.mkv
 
 # --- Movies | |EXYU| HISTORICNI (49) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd940KzuIZwbdOvOUF7XDTzn8te.jpg" group-title="Movies | |EXYU| HISTORICNI",22. srpnja (2018)
@@ -33567,4 +33571,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 16717
+# Total: 16719

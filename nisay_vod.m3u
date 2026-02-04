@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-02-03 18:49:59
+# Generated: 2026-02-04 07:31:21
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -6135,7 +6135,15 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1104.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BELGESEL",Gerçek Bir Böceğin Yaşamı
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1401.mp4
 
-# --- Movies | BELGESELLER-VOD (43) ---
+# --- Movies | BELGESELLER-VOD (47) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kVAkwPrNNw3kxe2yJVatj86QKo.jpg" group-title="Movies | BELGESELLER-VOD",Örtbas: Savaşın Çirkin Gerçekleri (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160482.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hW93OYJnnHwGaGa4S2mNxlEhgsF.jpg" group-title="Movies | BELGESELLER-VOD",Monako'da Cinayet (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160483.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMVhZxgbFLXZcDUIZ10NGb6s8w4.jpg" group-title="Movies | BELGESELLER-VOD",Kaçırıldı: Elizabeth Smart (2026)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160484.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXFbddDZvUcg2y5LSP24C7KCzW4.jpg" group-title="Movies | BELGESELLER-VOD",Gökdelen Tırmanışı: Canlı Etkinlik (2026)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160485.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLn3DpqfXYQwjJAk2naLfuHFL99.jpg" group-title="Movies | BELGESELLER-VOD",Arda Turan: Yüzleşme (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/142172.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4ISMn54UfxLn4D7ykHS5BQDeZL.jpg" group-title="Movies | BELGESELLER-VOD",Dört Kız Kardeş (2023)
@@ -17451,7 +17459,23 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (354) ---
+# --- Movies | SON EKLENEN 300 FILM (362) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhiYUSOnJ4d8kwAloJqqADChlNJ.jpg" group-title="Movies | SON EKLENEN 300 FILM",Kayıkçı (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160474.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ag0w5xWeQJZh3xEQmCds8fBmE5.jpg" group-title="Movies | SON EKLENEN 300 FILM",Program (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160475.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddpE8hennlkWxLAopx0SbHn0RHX.jpg" group-title="Movies | SON EKLENEN 300 FILM",Red Stone (2021)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160476.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVgXMNJeoILxW64SY8Qx4NoWXuJ.jpg" group-title="Movies | SON EKLENEN 300 FILM",Kara Örümcek (2019)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160477.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyQcI7R0IpoUk0iMbbrGllXpLa3.jpg" group-title="Movies | SON EKLENEN 300 FILM",My Mother's Wedding (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160478.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMdB58yXQjQOd4eWXiLUbunYfB4.jpg" group-title="Movies | SON EKLENEN 300 FILM",Serra das Almas (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160479.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xgDjVEOtu5LlbPEngxfbCqWEFg.jpg" group-title="Movies | SON EKLENEN 300 FILM",Savaş Canavarı (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160480.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRvBvxOmqaCMeZNJGducuh2WsgE.jpg" group-title="Movies | SON EKLENEN 300 FILM",Chris Hemsworth: Unutulmaz Bir Yolculuk (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160481.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIFMjt5MllFA6TJFkNufJ7uxHvT.jpg" group-title="Movies | SON EKLENEN 300 FILM",Anakonda (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160396.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KFL8A9cnjn3JYvsowflI0vTcA4.jpg" group-title="Movies | SON EKLENEN 300 FILM",Alpha Rift (2021)
@@ -20265,4 +20289,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 10065
+# Total: 10077

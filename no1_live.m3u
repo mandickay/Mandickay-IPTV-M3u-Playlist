@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-02-03 18:42:45
+# Generated: 2026-02-04 07:30:04
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1171,25 +1171,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (14) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bbukqv7szgxfm5djr6qhdifem_image-header_pDach_1766304422000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Al-Riyadh - Al-Nassr (2026-02-02 15:15:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176464.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ebis7vsv863gom8qjlke2b4rg_image-header_pDach_1767771039000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",VfL Wolfsburg - 1. FC Köln (2026-02-02 17:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176465.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2cu8keujo3eq407ht081ahtbk_image-header_pDach_1766304411000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Al-Hilal - Al-Ahli (2026-02-02 17:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176466.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7054mxirodwjq1lo1io0xhqoh_image-header_pDach_1752957838000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",DAZN Transfer | 2. Februar (2026-02-02 19:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176467.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/36gupmmgvv7apasgxauw38qdd_image-header_pDach_1768812994000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Udinese - AS Rom (italienischer Kommentar) (2026-02-02 19:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176468.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/j4nmp1gble6q1i31yovtcfzf2_image-header_pDach_1765451865000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Inside The Ring - Feb 2 (2026-02-02 19:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176469.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8qbq39lddhjvooe22y5htynwc_image-header_pDach_1768831563000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Mirandes - Malaga (2026-02-02 19:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176470.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5n69d8dlcy4f0an8dj35rj8ao_image-header_pDach_1768812994000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Udinese - AS Rom (2026-02-02 19:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176471.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/142qcsu6ts5ocuygi7z1fcx8_image-header_pDach_1764531186000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Mallorca - FC Sevilla (2026-02-02 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176472.m3u8
+# --- DE-DAZN EVENT (5) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8f0eoaf9nyoffhnr6etknc6bv_image-header_pDach_1768813982000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Bologna - Milan (italienischer Kommentar) (2026-02-03 19:00:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/176473.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3tfk9rakhvem8t9f7fm7wrzob_image-header_pDach_1768813982000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Bologna - Milan (2026-02-03 19:45:00)
@@ -6599,4 +6581,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165884.m3u8
 
-# Total: 3239
+# Total: 3230

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-02-03 18:45:10
+# Generated: 2026-02-04 07:19:37
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -1918,7 +1918,7 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1083.mp4
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/780.mp4
 
 # --- Movies | Esref Ruya – Visul lui Esref (1) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | Esref Ruya – Visul lui Esref",Eşref Rüya (2025)
+#EXTINF:-1 tvg-logo="" group-title="Movies | Esref Ruya – Visul lui Esref",Esref Rüya (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1015.mp4
 
 # --- Movies | Euphoria (1) ---
@@ -15185,7 +15185,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/31665.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dhHpbBemuyEBgcYGrmm7bHpjgdO.jpg" group-title="Movies | Filme SCI-FI (NOU)",Battle Drone  (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9682.mp4
 
-# --- Movies | Filme Thriller (206) ---
+# --- Movies | Filme Thriller (207) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MyH4MJAJZJbb6wDVeOc2bTECtK.jpg" group-title="Movies | Filme Thriller",King of New York - 1990
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67683.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEWKXuCMv7mFMxXVSTI3v8UOQuq.jpg" group-title="Movies | Filme Thriller",2010 - 1984
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66999.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY5j2xQzMGWmxBuhQo0HfA4Lxqb.jpg" group-title="Movies | Filme Thriller",The Place Beyond the Pines - 2013
@@ -17591,6 +17593,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/548.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Medusa",Medusa
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/848.mp4
 
+# --- Movies | Memory of a Killer (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Memory of a Killer",Memory of a Killer (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1180.mp4
+
 # --- Movies | Merlin (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Merlin",Merlin
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/376.mp4
@@ -19279,6 +19285,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/434.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Simpsons",The Simpsons (1989)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1045.mp4
 
+# --- Movies | The Sinner (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Sinner",The Sinner (2017)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1178.mp4
+
 # --- Movies | The Sopranos (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Sopranos",The Sopranos
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/275.mp4
@@ -19767,6 +19777,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/876.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Woman of the Dead",Woman of the Dead (2022)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/996.mp4
 
+# --- Movies | Wonder Man (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Wonder Man",Wonder Man (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1179.mp4
+
 # --- Movies | Workin' Moms (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Workin' Moms",Workin' Moms (2017)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/706.mp4
@@ -19903,4 +19917,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8739
+# Total: 8743

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-02-02 07:24:14
+# Generated: 2026-02-04 07:29:53
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -12343,7 +12343,23 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/255929.mkv
 
-# --- Movies | (V|DE) Filme (1192) ---
+# --- Movies | (V|DE) Filme (1200) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8xO02ZE28Mhqk0U1WeQnp2Ctfpr_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Jeepers Creepers 3 - 2017
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/663941.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/lNZzEgRRyb91JT4QUasdtW4Ztqm_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Jeepers Creepers - 2002
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/663940.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u2ghDfjcs3y5c8ata3COc4pWiAN_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Jeepers Creepers 2 - 2003
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/663939.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dnToMDB0xMmDV3ROHLvLzZExr0T_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Die Hand An Der Wiege - 1992
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/663938.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/6mcNfRoMJJWAYgbI4C8YoIcxrsN_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Baywatch - 2017
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/663937.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/cq3xIWsp8vVOqj1GA1RjdflHUib_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Alex Cross - 2012
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/663936.avi
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/jI28MbNtjz9WV1NY9W7qARPNSfd_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Das Fliegende Klassenzimmer - 2003
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/663925.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/nTBWHgO4GPpxxDv9vgz9C1Ib2ym_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Ich War Paul Walker - 2018
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/663907.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7JcuWbkqCfKuG3D7Ja6u5snEyqe_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Werner: Volles Rooäää!!! - 1999
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/663838.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vptblYAQRE8qrYJmYVnl6pSU7YA_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Werner: Beinhart! - 1990
@@ -23967,4 +23983,4 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248353.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/10625.mp4
 
-# Total: 11958
+# Total: 11966

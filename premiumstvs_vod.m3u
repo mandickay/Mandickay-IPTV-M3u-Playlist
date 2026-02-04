@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: premiumstvs.net:8080
-# Generated: 2026-02-03 18:40:42
+# Generated: 2026-02-04 07:23:15
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -2981,7 +2981,9 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/83917.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6oH378KUfCEitzJkm07r97L0RsZ.jpg" group-title="Movies | Filma Te Dubluar Në Shqip Për Femijë",Elementet - Dubluar në Shqip 2023
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/83914.mp4
 
-# --- Movies | Filma Te Fundit Me Titra Shqip (1198) ---
+# --- Movies | Filma Te Fundit Me Titra Shqip (1199) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y6HUdcc1cRLU0EuIhexsqZeZUOw.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Shelter (2026) - ! Kamer !
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115456.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",The Wrecking Crew (2026)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115433.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dKYp9uUlDufvL0gWHve8nuzePdk.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Speed Faster (2026)
@@ -7543,7 +7545,9 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/89822.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xidZacCXALZTTxg3kAeIyqxRmkI.jpg" group-title="Movies | Riyadh Season 2024 - Kingdom Arena Boxing",Artur Beterbiev vs. Dmitry Bivol (2024)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/89781.mkv
 
-# --- Movies | Seriale Turke Me Titra Shqip (17) ---
+# --- Movies | Seriale Turke Me Titra Shqip (18) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Turke Me Titra Shqip",Ask Yeniden (2015)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/556.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Turke Me Titra Shqip",Yeralti (Nentoka)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/554.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Turke Me Titra Shqip",Bahar (Loja e Fatit)
@@ -11773,7 +11777,7 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/98526.mp4
 
 # --- Series | AL Series (159) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | AL Series",Game of Thrones (2011)
-http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/553
+http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/555
 #EXTINF:-1 tvg-logo="" group-title="Series | AL Series",The Pendragon Cycle: Rise of the Merlin (2026)
 http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/552
 #EXTINF:-1 tvg-logo="" group-title="Series | AL Series",Robin Hood (2025)
@@ -12269,4 +12273,4 @@ http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 6101
+# Total: 6103

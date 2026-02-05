@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-02-04 18:43:15
+# Generated: 2026-02-05 07:24:50
 # Expires: 2026-03-22
 # Family Safe Edition
 # ==============================================
@@ -14130,8 +14130,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404957
 http://alienstreams.fi:8080/series/hellhell/hellhell/404974
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Shifting Gears
 http://alienstreams.fi:8080/series/hellhell/hellhell/404980
-#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Étoile
-http://alienstreams.fi:8080/series/hellhell/hellhell/404983
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",The Four Seasons
 http://alienstreams.fi:8080/series/hellhell/hellhell/405017
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Her Majesty
@@ -14184,6 +14182,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405255
 http://alienstreams.fi:8080/series/hellhell/hellhell/405262
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Reframed: Next Gen Narratives
 http://alienstreams.fi:8080/series/hellhell/hellhell/405281
+#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Étoile
+http://alienstreams.fi:8080/series/hellhell/hellhell/404983
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Second Thoughts
 http://alienstreams.fi:8080/series/hellhell/hellhell/403239
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",The Best Laid Plans
@@ -15407,7 +15407,7 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404125
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",The Least Expected Day: Inside the Movistar Team 2019
 http://alienstreams.fi:8080/series/hellhell/hellhell/404136
 
-# --- Series | Drama [Series] (609) ---
+# --- Series | Drama [Series] (608) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Chicago Med
 http://alienstreams.fi:8080/series/hellhell/hellhell/482198
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Hijack
@@ -15912,8 +15912,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404542
 http://alienstreams.fi:8080/series/hellhell/hellhell/404545
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Call the Midwife
 http://alienstreams.fi:8080/series/hellhell/hellhell/404546
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Slutet på sommaren
-http://alienstreams.fi:8080/series/hellhell/hellhell/404549
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Beyond Paradise
 http://alienstreams.fi:8080/series/hellhell/hellhell/404550
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Rain Dogs
@@ -16092,6 +16090,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404952
 http://alienstreams.fi:8080/series/hellhell/hellhell/404954
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Sea Beyond
 http://alienstreams.fi:8080/series/hellhell/hellhell/404972
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",When Calls the Heart
+http://alienstreams.fi:8080/series/hellhell/hellhell/404982
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",You
 http://alienstreams.fi:8080/series/hellhell/hellhell/404986
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Poldark
@@ -16198,8 +16198,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405270
 http://alienstreams.fi:8080/series/hellhell/hellhell/405271
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Time
 http://alienstreams.fi:8080/series/hellhell/hellhell/405276
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",When Calls the Heart
-http://alienstreams.fi:8080/series/hellhell/hellhell/404982
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",30 Coins
 http://alienstreams.fi:8080/series/hellhell/hellhell/403227
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",4 Blocks
@@ -18199,7 +18197,9 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405122
 #EXTINF:-1 tvg-logo="" group-title="Series | Sports[Series]",Startelvan
 http://alienstreams.fi:8080/series/hellhell/hellhell/403526
 
-# --- Series | Svenska Serier [Series] (279) ---
+# --- Series | Svenska Serier [Series] (280) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Slutet på sommaren
+http://alienstreams.fi:8080/series/hellhell/hellhell/494078
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bonde söker fru - andra sommaren
 http://alienstreams.fi:8080/series/hellhell/hellhell/492062
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska bönder

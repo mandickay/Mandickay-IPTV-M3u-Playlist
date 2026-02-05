@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-02-04 18:48:12
+# Generated: 2026-02-05 07:30:00
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -2903,7 +2903,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/38244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SLOVENIJA",Nova 24
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/38246.m3u8
 
-# --- SPORT (116) ---
+# --- SPORT (118) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/ARENA_1_PREMIUM_HD_(SR).png" group-title="SPORT",Arena Sport Premium 1 SR
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/39240.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/ARENA_1_PREMIUM_HD._(SR).png" group-title="SPORT",Arena Sport Premium 1 HD
@@ -3014,6 +3014,10 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/16879.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/43197.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/MAXSPORT_2_HD_(HR).png" group-title="SPORT",Max Sport 2 HR
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/43198.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Max Sport 3 HR
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/62570.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Max Sport 4 HR
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/62571.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Adriatic Sport 1
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/116.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Adriatic Sport 2
@@ -3981,4 +3985,4 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Outside TV HD US
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53505.m3u8
 
-# Total: 1963
+# Total: 1965

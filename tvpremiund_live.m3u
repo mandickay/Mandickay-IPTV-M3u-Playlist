@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-02-06 07:33:19
+# Generated: 2026-02-06 18:39:48
 # Expires: 2026-02-14
 # Family Safe Edition
 # ==============================================
@@ -3203,7 +3203,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70174.m3u8
 #EXTINF:-1 tvg-logo="https://players.grupodial.cl/player/radio/img/45b312bfd616a3430ab90167854fe44b08121256.png" group-title="MUSICA",Radio Duna TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/30.m3u8
 
-# --- OTROS (6357) ---
+# --- OTROS (6343) ---
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/dark.jpg" group-title="OTROS",Dark
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/67762.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png" group-title="OTROS",Nubeh TV ✪ | VE
@@ -4156,38 +4156,12 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66127.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66128.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="OTROS",A2itv (1080p)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66129.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Spu4s89.png" group-title="OTROS",AABC TV (480p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66139.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="OTROS",Aaj Tak (404p)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66143.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SUmpDHr.png" group-title="OTROS",AAVISIE (720p)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66145.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Jo7UAf.png" group-title="OTROS",Abaza TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66149.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4iEFQjd.png" group-title="OTROS",ABC 4 Pittsburg PA (WTAE) (720p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66152.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yxEbZqn.jpg" group-title="OTROS",ABC 5 Oklahoma City OK (KOCO) (576p) [Not 24/7]
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66154.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MWvoICD.png" group-title="OTROS",ABC 7 Denver CO (KMGH) (720p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66155.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NfqhdBC.png" group-title="OTROS",ABC 7 Washington DC (WJLA) (720p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66158.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DCBHkiP.jpg" group-title="OTROS",ABC 9 Kansas City MO (KMBC-TV) (720p) [Not 24/7]
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66160.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6oNx5F0.png" group-title="OTROS",ABC 9 Manchester NH (WMUR-TV) (720p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66161.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QbkW7zY.png" group-title="OTROS",ABC 13 Las Vegas NV (KTNV) (720p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66163.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/43s7KXt.png" group-title="OTROS",ABC 15 Phoenix AZ (KNXV-TV) (720p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66164.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="OTROS",ABC 25 News Central Texas (KXXV-DT1)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66166.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="OTROS",ABC News (720p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66170.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OTROS",ABC News (720p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66171.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="OTROS",ABC News New York NY (WABC-TV) (720p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66183.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CxLugLs.png" group-title="OTROS",ABN Aramaic Broadcasting Network (540p)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66189.m3u8
 #EXTINF:-1 tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="OTROS",ABN TV (720p)
@@ -14094,8 +14068,6 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/72410.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/72411.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JcuV9ZE.png" group-title="OTROS",Tele 7
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/72412.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CheqyWH.png" group-title="OTROS",Tele7ABC HD (720p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/72413.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="OTROS",Tele7music (720p)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/72414.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mg7ZB9K.png" group-title="OTROS",Tele 8 Mercedes (410p)
@@ -16657,4 +16629,4 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2429.m3u8
 
-# Total: 8293
+# Total: 8279

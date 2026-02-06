@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-02-06 07:33:19
+# Generated: 2026-02-06 18:39:48
 # Expires: 2026-02-14
 # Family Safe Edition
 # ==============================================
@@ -14718,8 +14718,6 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/1858.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/1863.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",El Rey David
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/1864.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Génesis
-http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/1865.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",José de Egipto
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/1868.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Josué y la tierra prometida
@@ -15186,6 +15184,8 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2530.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2532.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Bailando sobre hielo
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2538.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Génesis
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2539.mp4
 
 # --- Movies | INFANTILES (838) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp7d1OGYpBGyG5E6fr1fMi01bvK.jpg" group-title="Movies | INFANTILES",Abominable (2019)

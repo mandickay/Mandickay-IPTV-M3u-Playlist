@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-02-06 07:25:45
+# Generated: 2026-02-06 18:45:03
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -13271,7 +13271,9 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (275) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (276) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XpYp1yrNI49OY8lz4qZuI7baeQ.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",96 Minutos (2025)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/279906.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LrMBxFwnsMgXTnaWqHYinn3vDN.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Zootopia 2 (2025)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/279647.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewimMrX2WfRfkKE0B3ZihKJey57.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Código Venganza (2025)
@@ -19275,7 +19277,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2487
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",Phineas y Ferb
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2531
 
-# --- Series | → SERIES MARVEL ← (30) ---
+# --- Series | → SERIES MARVEL ← (31) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MARVEL ←",Invasion secreta
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/324
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MARVEL ←",Falcon y el Soldado de Invierno
@@ -19336,6 +19338,8 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2408
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2443
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MARVEL ←",Marvel Zombis
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2469
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MARVEL ←",Wonder Man
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2532
 
 # --- Series | → SERIES MISTERIO ← (59) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",Instinto
@@ -19691,4 +19695,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9769
+# Total: 9771

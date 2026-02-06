@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-02-06 07:31:31
+# Generated: 2026-02-06 18:43:51
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -13271,7 +13271,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (275) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (276) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XpYp1yrNI49OY8lz4qZuI7baeQ.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",96 Minutos (2025)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/279906.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LrMBxFwnsMgXTnaWqHYinn3vDN.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Zootopia 2 (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/279647.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewimMrX2WfRfkKE0B3ZihKJey57.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Código Venganza (2025)
@@ -19275,7 +19277,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2487
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",Phineas y Ferb
 http://fastream.xyz:8080/series/940246862tv/12ws79/2531
 
-# --- Series | → SERIES MARVEL ← (30) ---
+# --- Series | → SERIES MARVEL ← (31) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MARVEL ←",Invasion secreta
 http://fastream.xyz:8080/series/940246862tv/12ws79/324
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MARVEL ←",Falcon y el Soldado de Invierno
@@ -19336,6 +19338,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2408
 http://fastream.xyz:8080/series/940246862tv/12ws79/2443
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MARVEL ←",Marvel Zombis
 http://fastream.xyz:8080/series/940246862tv/12ws79/2469
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MARVEL ←",Wonder Man
+http://fastream.xyz:8080/series/940246862tv/12ws79/2532
 
 # --- Series | → SERIES MISTERIO ← (59) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",Instinto
@@ -19691,4 +19695,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9769
+# Total: 9771

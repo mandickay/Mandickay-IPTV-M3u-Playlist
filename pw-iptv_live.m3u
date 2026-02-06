@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-02-06 07:31:37
+# Generated: 2026-02-06 18:42:51
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
 
 
-# --- AFR| AFRICA VIP HD/4K (151) ---
+# --- AFR| AFRICA VIP HD/4K (150) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Animated-Flag-South-Africa.gif" group-title="AFR| AFRICA VIP HD/4K",##### AFRICA VIP HD #####
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/265852.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR:  MAGIC URBAN
@@ -34,8 +34,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/216694.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/237317.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: MABOKE TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/415124.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: RTD Djibouti
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/157584.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: Somaliland TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/241028.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12837.jpg?7846" group-title="AFR| AFRICA VIP HD/4K",AFR: STV
@@ -1247,7 +1245,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/678354.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/5015.jpg?32147" group-title="AR| AL-MAJD TV 4K ▶ المجد",AR: AL MAJD BASMAH
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/214815.m3u8
 
-# --- AR| ALGERIA 4K ▶ الجزائر (33) ---
+# --- AR| ALGERIA 4K ▶ الجزائر (32) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Animated-Flag-Algeria.gif" group-title="AR| ALGERIA 4K ▶ الجزائر",###### ALGERIA TV ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/251802.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/108.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Echourouk TV 4K
@@ -1296,8 +1294,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3177.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/218690.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12814.png" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: El Heddaf TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3180.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/103.jpg?87895" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Dzair Jannah
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/149769.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/104.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: El Bilad
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3178.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12956.png?ver=52338" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: El Djazair N1
@@ -3329,7 +3325,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/319240.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/263.jpg" group-title="AR| EGYPT +6H USA ⎋",AR: CBC SOFRA +6H
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/319241.m3u8
 
-# --- AR| EGYPT 4K ▶ مصر (84) ---
+# --- AR| EGYPT 4K ▶ مصر (83) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Animated-Flag-Egypt.gif" group-title="AR| EGYPT 4K ▶ مصر",###### EGYPT TV ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/251815.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/53.jpg?1665" group-title="AR| EGYPT 4K ▶ مصر",AR: Al Oula Masria QAF HD
@@ -3398,8 +3394,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3293.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/4218.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/284.png" group-title="AR| EGYPT 4K ▶ مصر",AR: Al Nahar One
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/4217.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/3181.jpg?56438" group-title="AR| EGYPT 4K ▶ مصر",AR: Al Nahar Algadid 4K
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/628370.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/245.jpg" group-title="AR| EGYPT 4K ▶ مصر",AR: Alnas
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3295.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/261.png" group-title="AR| EGYPT 4K ▶ مصر",AR: CBC
@@ -3525,7 +3519,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/319353.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/74.jpg" group-title="AR| EMIRATES +6H USA ⎋",AR: DAFRAH 4K +6H
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/319356.m3u8
 
-# --- AR| EMIRATES 4K ▶ الامارات (29) ---
+# --- AR| EMIRATES 4K ▶ الامارات (26) ---
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/animation/2022/09/16/16/43/16-43-28-59_512.gif" group-title="AR| EMIRATES 4K ▶ الامارات",###### EMIRATES TV ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/251809.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/51.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Dubai TV 4K ◉
@@ -3542,10 +3536,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3086.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/293970.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/69.png" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Dubai One 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3079.m3u8
-#EXTINF:-1 tvg-logo="https://icon-tmdb.com/stalker_portal/misc/logos/320/70.jpg?ver=4024" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Dubai Zaman ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1558895.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/68.jpg?83356" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Noor Dubai 4K
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/645502.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/71.png" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Fujairah TV 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3093.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/71.png" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Fujairah TV HD
@@ -3572,8 +3562,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/983063.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2323.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/5015.jpg?32147" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Almajd Rawda
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/214816.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/5015.jpg?ver=60928" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Almajd Ekhbarie
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/214811.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/5015.jpg?32147" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Almajd General
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/214818.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/5015.jpg" group-title="AR| EMIRATES 4K ▶ الامارات",AR: Almajd Space TV
@@ -3805,7 +3793,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/177676.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/149.jpg" group-title="AR| IRAQ +6H USA ⎋",AR: AL GHAD AL ARABY 4K +6H
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/177646.m3u8
 
-# --- AR| IRAQ 4K ▶ العراق (53) ---
+# --- AR| IRAQ 4K ▶ العراق (51) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Animated-Flag-Iraq_%282008-present%29.gif" group-title="AR| IRAQ 4K ▶ العراق",###### IRAQ TV ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/251810.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/130.png?ver=47604" group-title="AR| IRAQ 4K ▶ العراق",AR: Iraq TV News 4K
@@ -3908,10 +3896,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/636075.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/498894.m3u8
 #EXTINF:-1 tvg-logo="https://icon-tmdb.com/stalker_portal/misc/logos/320/14628.png?57658" group-title="AR| IRAQ 4K ▶ العراق",AR: ALGHARBIA NOW 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1615655.m3u8
-#EXTINF:-1 tvg-logo="https://icon-tmdb.com/stalker_portal/misc/logos/320/14629.png?78388" group-title="AR| IRAQ 4K ▶ العراق",AR: IRAQI TV HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1615654.m3u8
-#EXTINF:-1 tvg-logo="https://icon-tmdb.com/stalker_portal/misc/logos/320/14630.png?6582" group-title="AR| IRAQ 4K ▶ العراق",AR: SM TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1615653.m3u8
 
 # --- AR| IRAQ ISLAMIC 4K ▶ العراق اسلامي (37) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/359.jpg" group-title="AR| IRAQ ISLAMIC 4K ▶ العراق اسلامي",AR: Al Naeem HD
@@ -4075,7 +4059,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/248489.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/429.jpg" group-title="AR| ISLAMIC 4K ☾ اسلامية",AR: Peace TV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/4405.m3u8
 
-# --- AR| JORDAN 4K ▶ الاردن (9) ---
+# --- AR| JORDAN 4K ▶ الاردن (8) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Animated-Flag-Jordan.gif" group-title="AR| JORDAN 4K ▶ الاردن",###### JORDAN TV ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/251799.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/207.jpg" group-title="AR| JORDAN 4K ▶ الاردن",AR: Amman TV 4K
@@ -4084,8 +4068,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3236.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/499147.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/457.jpg?57470" group-title="AR| JORDAN 4K ▶ الاردن",AR: Jordan Aman TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/461175.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13125.jpg?95192" group-title="AR| JORDAN 4K ▶ الاردن",AR: Sama Jordan
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/234791.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13464.png?51787" group-title="AR| JORDAN 4K ▶ الاردن",AR: Yarmouk
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/326934.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/457.jpg" group-title="AR| JORDAN 4K ▶ الاردن",AR: Jordan TV 4K
@@ -6031,7 +6013,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/622833.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/154.jpg?36244" group-title="AR| ROYA GROUP 4K ▶ رؤيا",AR: ROYA AYMEN ZIDANE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/480582.m3u8
 
-# --- AR| SAUDI 4K ▶ السعودية (18) ---
+# --- AR| SAUDI 4K ▶ السعودية (17) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Animated-Flag-Saudi-Arabia.gif" group-title="AR| SAUDI 4K ▶ السعودية",###### SAUDI TV ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/251804.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/521.jpg?ver=18414" group-title="AR| SAUDI 4K ▶ السعودية",AR: SAUDIA SPORT 24 4K
@@ -6066,8 +6048,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/214809.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/214810.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/437.png" group-title="AR| SAUDI 4K ▶ السعودية",AR: Naba Saudi
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/4413.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13128.jpg?20565" group-title="AR| SAUDI 4K ▶ السعودية",AR: Oyoon Alwatan
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/235955.m3u8
 
 # --- AR| SHAHID VIP 4K ▶ شاهد الاصلية (173) ---
 #EXTINF:-1 tvg-logo="" group-title="AR| SHAHID VIP 4K ▶ شاهد الاصلية",###### SHAHID. VIP ######
@@ -7021,15 +7001,13 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/534009.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: GOLF TV 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/534011.m3u8
 
-# --- AR| SUDAN 4K ▶ سودان (18) ---
+# --- AR| SUDAN 4K ▶ سودان (17) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Sudan.gif" group-title="AR| SUDAN 4K ▶ سودان",###### SUDAN TV ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/251797.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/464.jpg" group-title="AR| SUDAN 4K ▶ سودان",AR: Sudan TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/4438.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/464.jpg" group-title="AR| SUDAN 4K ▶ سودان",AR: Sudan Al Barlemania
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/169850.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/351.png?82402" group-title="AR| SUDAN 4K ▶ سودان",AR: Sudan Basic Edu
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/362559.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/344.jpg" group-title="AR| SUDAN 4K ▶ سودان",AR: Elmourabiton TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/4306.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/1136.jpg" group-title="AR| SUDAN 4K ▶ سودان",AR: Khartoum TV
@@ -7158,13 +7136,13 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036841.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036840.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",CHARLTON ATHLETIC VS QUEENS PARK RANGERS  | Fri 06 Feb 20:41 | 8K EXCLUSIVE | AR: TOD PPV 9
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036839.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",ADRIAN MANNARINO VS ARTHUR GEA | Fri 06 Feb 14:10 | 8K EXCLUSIVE | AR: TOD PPV 10
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036838.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 11
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",MARTIN DAMM VS LUCA NARDI | Fri 06 Feb 15:40 | 8K EXCLUSIVE | AR: TOD PPV 11
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036837.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 12
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",FELIX AUGER-ALIASSIME VS ARTHUR FILS | Fri 06 Feb 18:10 | 8K EXCLUSIVE | AR: TOD PPV 12
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036836.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 13
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",TALLON GRIEKSPOOR VS TITOUAN DROGUET | Fri 06 Feb 19:40 | 8K EXCLUSIVE | AR: TOD PPV 13
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036835.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 14
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036833.m3u8
@@ -14275,7 +14253,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/8726.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/3905.jpg?51449" group-title="KU| KURDISH KIDS HD/4K",KU: ZAROK SORANI
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/202087.m3u8
 
-# --- KU| KURDISH NEWS HD/4K (24) ---
+# --- KU| KURDISH NEWS HD/4K (23) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Kurdish.gif" group-title="KU| KURDISH NEWS HD/4K",#### KURDISH NEWS HD/4K ####
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/509117.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/966.jpg?30760" group-title="KU| KURDISH NEWS HD/4K",KU: K24 HD
@@ -14320,8 +14298,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/7157.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1235532.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/1350.jpg?48845" group-title="KU| KURDISH NEWS HD/4K",KU: SPEDA TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/416887.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/1350.jpg?9954" group-title="KU| KURDISH NEWS HD/4K",KU: ZOOM TV 4K
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/201905.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/973.jpg?54957" group-title="KU| KURDISH NEWS HD/4K",KU: STERK KURD 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3483.m3u8
 
@@ -16787,7 +16763,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/373899.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13302.png?ver=13030" group-title="TR| FIMLER 4K",TR: beIN OD 30 FİLMLER 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/373898.m3u8
 
-# --- TR| HABER 4K (22) ---
+# --- TR| HABER 4K (21) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="TR| HABER 4K",###### HABER 4K ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/373932.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12043.png?61440" group-title="TR| HABER 4K",TR: TRT Haber 4K
@@ -16806,8 +16782,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3443.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/990001.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/751.png?13852" group-title="TR| HABER 4K",TR: CNN Turk 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/8699.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/902.jpg?85398" group-title="TR| HABER 4K",TR: Tele 1
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/19980.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/2371.png?40538" group-title="TR| HABER 4K",TR: SZC TV 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/475740.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/891.jpg?43148" group-title="TR| HABER 4K",TR: A Haber 4K
@@ -16979,7 +16953,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/557141.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/9795.jpg?79565" group-title="TR| TURKISH +6H NA",TR: HABER GLOBAL 4K +6H
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/557140.m3u8
 
-# --- TR| TÜRKIYE 4K TV (62) ---
+# --- TR| TÜRKIYE 4K TV (61) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="TR| TÜRKIYE 4K TV",###### TÜRKIYE TV 4K ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/373935.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/1985.jpg?9938" group-title="TR| TÜRKIYE 4K TV",TR: ATV HD
@@ -17036,8 +17010,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3426.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/8687.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/876.jpg?74027" group-title="TR| TÜRKIYE 4K TV",TR: RumeliTV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/8733.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/902.jpg?66876" group-title="TR| TÜRKIYE 4K TV",TR: TELE 1
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3375.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/978.jpg?ver=37556" group-title="TR| TÜRKIYE 4K TV",TR: Al Turkmenia TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/764644.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/1348.jpg?ver=75779" group-title="TR| TÜRKIYE 4K TV",TR: TURKMENELI TV 4K
@@ -19383,4 +19355,4 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443446.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/logos/tv5monde.png" group-title="VI| VIETNAM",VN: TV5 MONDE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443444.m3u8
 
-# Total: 9436
+# Total: 9422

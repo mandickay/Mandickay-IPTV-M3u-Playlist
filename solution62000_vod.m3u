@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-02-03 18:39:26
+# Generated: 2026-02-06 18:40:14
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -1085,13 +1085,21 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5531.mp4
 
-# --- Movies | Films (1441) ---
+# --- Movies | Films (1445) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg" group-title="Movies | Films",Killer Whale (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21982.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cAyouRgS9Dt1epo8LGh8flvuIYR.jpg" group-title="Movies | Films",Bêtes de flic (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lnVyFnd0jBlD2PTGTgjZS29OxSI.jpg" group-title="Movies | Films",Joe Baby (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22612.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hJ9qCQ3Dx9vwet09Lbqs8eZTd8e.jpg" group-title="Movies | Films",Exit 8 (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22599.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/udycZomf9HLCCJNFpqJOsI30jOJ.jpg" group-title="Movies | Films",Muganga : Celui qui soigne (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22598.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/szdrVdnS8XAzqFyzPDhYXaJk7EK.jpg" group-title="Movies | Films",La Femme de ménage (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22597.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/87UBh8La2bnWyGhhwRWR0SjQEuU.jpg" group-title="Movies | Films",Captain Hook : La Mer Maudite (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22481.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hDUlNBjZLG9bo1zsehPYNQ1YBIg.jpg" group-title="Movies | Films",Trahison (2025)
@@ -4887,7 +4895,7 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/773.mp4
 
-# --- Movies | NETFLIX (436) ---
+# --- Movies | NETFLIX (438) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3OBRXbnlhZxMPpfLMLzQwF29IMC.jpg" group-title="Movies | NETFLIX",L'Alarme : Sous les décombres - FR - AR  (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22044.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zyxNEkJQjGAUUka0CbTx6bBjtXe.jpg" group-title="Movies | NETFLIX",L'Art du faux (2026)
@@ -5760,6 +5768,10 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/963.mp4
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/972.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Free Bert
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/976.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Unfamiliar
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/988.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Les Lionnes
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/989.mp4
 
 # --- Movies | RAMADAN 2025 (32) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN 2025",المداح
@@ -5999,7 +6011,9 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HWjDWStk86YJr8ooYFQe4nVhF8.jpg" group-title="Movies | SPECTACLE",Yacine Belhousse : 2021 (2022)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1439.mkv
 
-# --- Movies | prime video (170) ---
+# --- Movies | prime video (171) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bc19urHVVn8qW8MRpL5MA3H79B4.jpg" group-title="Movies | prime video",Relationship Goals (2026)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22611.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ec0bwYUEYBhcHutx4nIShLzX7Dl.jpg" group-title="Movies | prime video",Team Démolition (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22467.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s8rCTOHsyM9vylRtpuQocVNQ5wO.jpg" group-title="Movies | prime video",The Tank (2025)
@@ -7337,4 +7351,4 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/986
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Vaka - Les Éveillés
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/987
 
-# Total: 3636
+# Total: 3643

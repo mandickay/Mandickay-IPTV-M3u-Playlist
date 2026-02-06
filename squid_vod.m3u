@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-02-05 18:56:01
+# Generated: 2026-02-06 07:28:26
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -5931,7 +5931,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (633) ---
+# --- Movies | Filme 2025 (634) ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PjX5y3L/MV5BNm-Fi-Yj-Uy-YWYt-YWY1Yy00MTMw-LWE3YTkt-Mm-Zl-Yz-Qx-MTYz-ZTcw-Xk-Ey-Xk-Fqc-Gc-V1.jpg" group-title="Movies | Filme 2025",Prin Ochii Lor (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67692.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWsBscZzwu5brg9YjNkGewRUvJX.jpg" group-title="Movies | Filme 2025",The Housemaid - 2025
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67685.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bzMCW1E1sOWEbjVuQ8iRGrdpcw.jpg" group-title="Movies | Filme 2025",Afterlight - 2025
@@ -19919,4 +19921,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8744
+# Total: 8745

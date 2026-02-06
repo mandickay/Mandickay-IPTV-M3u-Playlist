@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2026-02-05 18:49:29
+# Generated: 2026-02-06 07:31:58
 # Expires: 2026-10-18
 # Family Safe Edition
 # ==============================================
@@ -495,7 +495,9 @@ http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/249360.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlJKvYdKJJeWoKeNNs1Fom1chIz.jpg" group-title="Movies | → VOD 4K ←",¡Nop! (2022) 4K
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/249361.mkv
 
-# --- Movies | → VOD ACCIÓN ← (412) ---
+# --- Movies | → VOD ACCIÓN ← (413) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7APW2AfqUxIkEXZWllaWQRYixD.jpg" group-title="Movies | → VOD ACCIÓN ←",El Panadero
+http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/279905.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXw8hYk0z7VgryoaUN3ApjcOoze.jpg" group-title="Movies | → VOD ACCIÓN ←",Zona Prohibida
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/279291.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2rT32cqn6WQFaSCRPYRdAUAtcl.jpg" group-title="Movies | → VOD ACCIÓN ←",Hard Target 2
@@ -16021,7 +16023,9 @@ http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/3432.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg" group-title="Movies | → VOD STAR WARS ←",Rogue One: Una historia de Star Wars (2016)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/3546.mp4
 
-# --- Movies | → VOD SUSPENSO ← (218) ---
+# --- Movies | → VOD SUSPENSO ← (219) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Yz5zYXZrlx9UWbjlaEaJuyAsNY.jpg" group-title="Movies | → VOD SUSPENSO ←",Intenciones Crueles
+http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/279904.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1Pg71Z60BweXmJui2H8o49MohO.jpg" group-title="Movies | → VOD SUSPENSO ←",El Buen Vecino
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/278822.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/23/bd/11/23bd11d075f63fcb8bd5e71d5c32332e.jpg" group-title="Movies | → VOD SUSPENSO ←",Detras de las Paredes
@@ -19687,4 +19691,4 @@ http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2492
 
-# Total: 9767
+# Total: 9769

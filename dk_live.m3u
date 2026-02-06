@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: dk.2665.ninja:8080
-# Generated: 2026-02-05 07:32:45
+# Generated: 2026-02-06 07:16:27
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -38,7 +38,7 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/308016.m3u8
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/286875.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/adventure.png" group-title="AR MOVIES",AR: SHAHID ADVENTURE 1
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/392467.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SAUDIARABIA/shahidFamily%201.png" group-title="AR MOVIES",AR: SHAHID FAMILY 1
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/06e1a853-795b-4b01-b1fd-baed5df7969c?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="AR MOVIES",AR: SHAHID AFLAM
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/392461.m3u8
 
 # --- AR OSN PREMIUM (45) ---

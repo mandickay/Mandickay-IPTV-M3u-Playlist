@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-02-05 18:52:47
+# Generated: 2026-02-06 07:22:47
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -2599,7 +2599,7 @@ http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/997092.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/841094.png" group-title="IT| SPORT",IT| TOP CALCIO
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/841094.m3u8
 
-# --- RO| FOCUS SAT VIP (86) ---
+# --- RO| FOCUS SAT VIP (85) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ROMANIA/ROMANIA.png" group-title="RO| FOCUS SAT VIP",####### FOCUS SAT VIP #######
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2016091.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ROMANIA/WARNER.png" group-title="RO| FOCUS SAT VIP",RO| WARNER TV ᴿᴬᵂ
@@ -2628,8 +2628,6 @@ http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2016168.m3u8
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2016167.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ROMANIA/TRINITAS.png" group-title="RO| FOCUS SAT VIP",RO| TRINITAS ᴿᴬᵂ
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2016166.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ROMANIA/STORY4.png" group-title="RO| FOCUS SAT VIP",RO| STORY4 ᴿᴬᵂ
-http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2016165.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ROMANIA/REALITATEA.png" group-title="RO| FOCUS SAT VIP",RO| REALITATEA TV ᴿᴬᵂ
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2016164.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ROMANIA/PRO.png" group-title="RO| FOCUS SAT VIP",RO| PRO TV ᴿᴬᵂ
@@ -2773,4 +2771,4 @@ http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2016093.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ROMANIA/360TUNEBOX.png" group-title="RO| FOCUS SAT VIP",RO| 360TUNEBOX ᴿᴬᵂ
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2016092.m3u8
 
-# Total: 1365
+# Total: 1364

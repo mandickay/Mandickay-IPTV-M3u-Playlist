@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-02-05 18:57:26
+# Generated: 2026-02-06 07:25:47
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -726,7 +726,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25022.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25023.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",BG: MAX sport 3
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25024.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",BG: MAX Sport 4
+#EXTINF:-1 tvg-logo="http://logo.sltv.site/logo/L-sat05.01.21/Europe/Bulgaria/max-sport-4-bg.png" group-title="ALL COUNTRY SPORTS",BG: MAX Sport 4
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47407.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",RU: MATCH FUTBOL 1
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3371.m3u8
@@ -1825,7 +1825,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/250.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/flags/germany-flag.png" group-title="GERMANY",*****SKY GERMANY*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/219.m3u8
 
-# --- GERMANY CINEMA (79) ---
+# --- GERMANY CINEMA (78) ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-yuva-in.png" group-title="GERMANY CINEMA",DE: ZEE ONE
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3238.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sixx-de.png" group-title="GERMANY CINEMA",DE: SIXX HD
@@ -1886,13 +1886,13 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/274.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/259.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-special-alt-de.png" group-title="GERMANY CINEMA",DE: SKY CINEMA SPECIAL HD+
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/271.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-alt-de.png" group-title="GERMANY CINEMA",DE: SKY CINEMA  +1 HD
+#EXTINF:-1 tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/FHD/SKY.ATLANTIC.png" group-title="GERMANY CINEMA",DE: SKY CINEMA  THRILLER HD++
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/260.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-classics-alt-de.png" group-title="GERMANY CINEMA",DE: SKY CINEMA CLASSICS HD+
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/272.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-plus24-alt-de.png" group-title="GERMANY CINEMA",DE: SKY CINEMA +24 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-bestof-alt-de.png" group-title="GERMANY CINEMA",DE: SKY CINEMA BEST OF HD+
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/261.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-plus24-alt-de.png" group-title="GERMANY CINEMA",DE: SKY CINEMA +24 HD+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-plus24-alt-de.png" group-title="GERMANY CINEMA",DE: SKY CINEMA HD++
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/273.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-comedy-alt-de.png" group-title="GERMANY CINEMA",DE: SKY CINEMA COMEDY HD+
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/276.m3u8
@@ -1910,13 +1910,13 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29019.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/266.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-special-alt-de.png" group-title="GERMANY CINEMA",DE: SKY CINEMA SPECIAL HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/26567.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Sky_Cinema_Nostalgie_DE_Logo_2016.png" group-title="GERMANY CINEMA",DE: SKY CINEMA NOSTALGIE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Sky_Cinema_Nostalgie_DE_Logo_2016.png" group-title="GERMANY CINEMA",DE: SKY CINEMA THRILLER HD+
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/267.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-best-of-alt-de.png" group-title="GERMANY CINEMA",DE: SKY CINEMA BEST OF
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29020.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-classics-alt-de.png" group-title="GERMANY CINEMA",DE: SKY CINEMA CLASSIC
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29021.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-fun-alt-de.png" group-title="GERMANY CINEMA",DE: SKY CINEMA FUN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-fun-alt-de.png" group-title="GERMANY CINEMA",DE: SKY CINEMA HITS HD+
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29022.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-thriller-alt-de.png" group-title="GERMANY CINEMA",DE: SKY CINEMA THRILLER
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29023.m3u8
@@ -1980,17 +1980,15 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/16247.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/16248.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-box-office-nz.png" group-title="GERMANY CINEMA",DE: SKY BOX PREMIER 5 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/16249.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/kultfilme-vod.png" group-title="GERMANY CINEMA",DE: PLURO TV KULTFILME
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39157.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/movies/movies1.png" group-title="GERMANY CINEMA",DE/TR: MERHABA TURKISCHE SERIE
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/399.m3u8
 
 # --- GERMANY DOKU/NACHRICHTEN (24) ---
 #EXTINF:-1 tvg-logo="" group-title="GERMANY DOKU/NACHRICHTEN",*****GERMANY DOKU/NACHRICHTEN*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/32985.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/n24-doku-de.png" group-title="GERMANY DOKU/NACHRICHTEN",DE: N24 DOKU (Pluto TV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/n24-doku-de.png" group-title="GERMANY DOKU/NACHRICHTEN",DE: N24 DOKU
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/16590.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/ntv-de.png" group-title="GERMANY DOKU/NACHRICHTEN",DE: NTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/ntv-de.png" group-title="GERMANY DOKU/NACHRICHTEN",DE: NTV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/217.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/euronews-deutsch-de.png" group-title="GERMANY DOKU/NACHRICHTEN",DE: EURONEWS
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/215.m3u8
@@ -2030,7 +2028,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/277.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28987.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/bon-gusto-de.png" group-title="GERMANY DOKU/NACHRICHTEN",DE: BONGUSTA
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28991.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/auto-motor-und-sport-de.png" group-title="GERMANY DOKU/NACHRICHTEN",DE: AUTO MOTOR und SPORT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/auto-motor-und-sport-de.png" group-title="GERMANY DOKU/NACHRICHTEN",DE: AUTO MOTOR
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/53748.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/crime-and-investigation-de.png" group-title="GERMANY DOKU/NACHRICHTEN",DE: CRIME INVESTIGATION
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55406.m3u8
@@ -2298,15 +2296,15 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55417.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55418.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/sport-myteamtv-18-at.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: Magenta Sport 18 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55419.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: AMAZON PRIME VIDEO SPORTSBAR SD (Match Time)
+#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/primevideo.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: AMAZON PRIME VIDEO SPORTSBAR SD (Match Time)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28989.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: AMAZON PRIME VIDEO SPORTSBAR HD (Match Time)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47547.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: BAYERN TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28889.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-tennis-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY SPORTS TENNIS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-tennis-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY SPORT TENNIS
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35810.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: MOTORVISION TV
+#EXTINF:-1 tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/SKY.DAZN/FHD/MOTORVISION.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: MOTORVISION TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/294.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",AT: ORF SPORT+ HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/344.m3u8
@@ -3536,15 +3534,15 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/349.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56393.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SCHWEIZ",CH: W9 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56399.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SCHWEIZ",CH: RTA Un HD
+#EXTINF:-1 tvg-logo="http://go.wrldonx.fyi:8000/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4opthCGdZad4HxoAEWuGmZGDwyLXN6Ey11iliLH0L45SoCprDp0-3S8gR3MvGyqHb2PdA.png" group-title="SCHWEIZ",CH: RTA UN
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56394.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SCHWEIZ",CH: 3+ HD
+#EXTINF:-1 tvg-logo="http://plugin.mine.nu/LOGOS/SUISSE_HELDER/3plus_HD.png" group-title="SCHWEIZ",CH: 3+ HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56395.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SCHWEIZ",CH: 4+ HD
+#EXTINF:-1 tvg-logo="http://plugin.mine.nu/LOGOS/SUISSE_HELDER/4plus_HD.png" group-title="SCHWEIZ",CH: 4+ HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56396.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SCHWEIZ",CH: 5+ HD
+#EXTINF:-1 tvg-logo="http://plugin.mine.nu/LOGOS/SUISSE_HELDER/5plus_hd.png" group-title="SCHWEIZ",CH: 5+ HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56397.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SCHWEIZ",CH: 6+ HD
+#EXTINF:-1 tvg-logo="" group-title="SCHWEIZ",CH: 6 +
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56398.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SCHWEIZ",CH: CARAC TV 3
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/4601.m3u8
@@ -5953,4 +5951,4 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR RADYO: ANKARA RADYO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43245.m3u8
 
-# Total: 2916
+# Total: 2915

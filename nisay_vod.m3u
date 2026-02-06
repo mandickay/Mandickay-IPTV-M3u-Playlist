@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-02-05 18:55:15
+# Generated: 2026-02-06 07:30:32
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -13781,7 +13781,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1808.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: HBO MAX",DE: A Knight of the Seven Kingdoms
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1868.mp4
 
-# --- Movies | DE: NETFLIX (130) ---
+# --- Movies | DE: NETFLIX (132) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Squid Game
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/328.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Vikings: Valhalla
@@ -14042,6 +14042,10 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1850.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1857.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: PONIES
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1869.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Die Löwinnen
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1881.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE: NETFLIX",DE: Unfamiliar
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1882.mp4
 
 # --- Movies | DE: PARAMOUNT+ (16) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: PARAMOUNT+",DE: Star Trek: Strange New Worlds
@@ -20289,4 +20293,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 10077
+# Total: 10079

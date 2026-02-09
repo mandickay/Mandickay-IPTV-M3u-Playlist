@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2026-02-08 18:43:30
+# Generated: 2026-02-09 07:26:19
 # Expires: 2026-12-23
 # Family Safe Edition
 # ==============================================
@@ -175,29 +175,97 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/437338.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria7.png" group-title="AT ✨ SPORT",SKY SPORT AUSTRIA 7 HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/437337.m3u8
 
-# --- CH ✨ SPORT (11) ---
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/edge-sport-vod.png?raw=true" group-title="CH ✨ SPORT",MY SPORTS EDGE
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/824449.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-eins-ch.png?raw=true" group-title="CH ✨ SPORT",MY SPORTS 1
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/824448.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-2-ch.png?raw=true" group-title="CH ✨ SPORT",MY SPORTS 2
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/824447.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-3-ch.png?raw=true" group-title="CH ✨ SPORT",MY SPORTS 3
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/824446.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-4-ch.png?raw=true" group-title="CH ✨ SPORT",MY SPORTS 4
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/824445.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-5-ch.png?raw=true" group-title="CH ✨ SPORT",MY SPORTS 5
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/824444.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-6-ch.png?raw=true" group-title="CH ✨ SPORT",MY SPORTS 6
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/824443.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-7-ch.png?raw=true" group-title="CH ✨ SPORT",MY SPORTS 7
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/824442.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-8-ch.png?raw=true" group-title="CH ✨ SPORT",MY SPORTS 8
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/824441.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-9-ch.png?raw=true" group-title="CH ✨ SPORT",MY SPORTS 9
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/824440.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/my-sports-10-ch.png?raw=true" group-title="CH ✨ SPORT",MY SPORTS 10
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/824439.m3u8
+# --- CH ✨ DAZN EVENT (20) ---
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 1
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875408.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 2
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875407.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 3
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875406.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 4
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875405.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 5
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875404.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 6
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875403.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 7
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875402.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 8
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875401.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 9
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875400.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 10
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875399.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 11
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875398.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 12
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875397.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 13
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875396.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 14
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875395.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 15
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875394.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 16
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875393.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 17
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875392.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 18
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875391.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 19
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875390.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/daznch.png" group-title="CH ✨ DAZN EVENT",DAZN EVENT 20
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875389.m3u8
+
+# --- CH ✨ MYSPORT EVENT (24) ---
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/eurosport/eurosport1.png" group-title="CH ✨ MYSPORT EVENT",EUROSPORT 1
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875380.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/eurosport/eurosport2.png" group-title="CH ✨ MYSPORT EVENT",EUROSPORT 2
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875379.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/swisssport.png" group-title="CH ✨ MYSPORT EVENT",SWISS SPORT TV
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875378.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysportedge.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS EDGE
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875377.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport1.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS 1
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875376.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport2.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS 2
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875375.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport3.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS 3
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875374.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport4.png" group-title="CH ✨ MYSPORT EVENT",My SPORTS 4
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875373.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport5.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS 5
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875372.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport6.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS 6
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875371.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport7.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS 7
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875370.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport8.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS 8
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875369.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport9.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS 9
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875368.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport10.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS 10
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875367.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport1.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS FR 1
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875366.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport2.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS FR 2
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875365.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport3.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS FR 3
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875364.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport4.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS FR 4
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875363.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport5.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS FR 5
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875362.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport6.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS FR 6
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875361.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport7.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS FR 7
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875360.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport8.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS FR 8
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875359.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport9.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS FR 9
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875358.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Swiss/mysport10.png" group-title="CH ✨ MYSPORT EVENT",MY SPORTS FR 10
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875357.m3u8
 
 # --- CH ✨ SWISS (40) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wLr2dh0/image.png" group-title="CH ✨ SWISS",SRF 1 HD
@@ -1560,46 +1628,46 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/745451.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/745449.m3u8
 
 # --- DE ✨ DEL.2 EVENT (20) ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 1
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813931.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 2
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813930.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 3
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813929.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 4
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813928.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 5
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813927.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 6
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813926.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 7
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813925.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 8
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813924.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 9
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813923.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 10
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813922.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 11
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813921.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 12
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813920.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 13
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813919.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 14
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813918.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 15
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813917.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 16
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813916.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 17
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813915.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 18
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813914.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 19
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813913.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rz1rd2Z/image.png" group-title="DE ✨ DEL.2 EVENT",DEL.2.EVENT 20
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/813912.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 20
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875066.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 19
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875065.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 18
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875064.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 17
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875063.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 16
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875062.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 15
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875061.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 14
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875060.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 13
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875059.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 12
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875058.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 11
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875057.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 10
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875056.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 9
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875055.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 8
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875054.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 7
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875053.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 6
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875052.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 5
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875051.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 4
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875050.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 3
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875049.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 2
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875048.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/DEL2.png" group-title="DE ✨ DEL.2 EVENT",DEL.2 EVENT 1
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875047.m3u8
 
 # --- DE ✨ DEUTSCHLAND (65) ---
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE ✨ DEUTSCHLAND",↺DAS ERSTE FHD
@@ -2415,6 +2483,78 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/824254.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="DE ✨ KINO ⁕ VIP",STERN FILME 10
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/824253.m3u8
 
+# --- DE ✨ LEAGUES REGIONALLIGA (35) ---
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: 1. FC Bocholt
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875129.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: 1. FC Köln U23
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875128.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: Bonner SC
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875127.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: Borussia Dortmund II
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875126.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: Borussia Mönchengladbach U23
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875125.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: FC Gütersloh
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875124.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: FC Schalke 04 U23
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875123.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: Fortuna Düsseldorf U23
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875122.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: SC Fortuna Köln
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875121.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: SC Paderborn 07 U23
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875120.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: SC Rot-Weiß Oberhausen
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875119.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: SC Wiedenbrück
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875118.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: SSVg Velbert 02
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875117.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: SV Rödinghausen
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875116.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: Sportfreunde Lotte
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875115.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: Sportfreunde Siegen
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875114.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: VFL Bochum II
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875113.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",West: Wuppertaler SV
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875112.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",SüdWest: 1. FSV Mainz 05 II
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875111.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",SüdWest: Bahlinger SC
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875110.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",SüdWest: Bayern Alzenau Channel
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875109.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",SüdWest: FC 08 Homburg
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875108.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",SüdWest: FC-Astoria Walldorf
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875107.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",SüdWest: FSV Frankfurt
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875106.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",SüdWest: KSV Hessen Kassel
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875105.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",SüdWest: Kickers Offenbach
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875104.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",SüdWest: SC Freiburg II
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875103.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",SüdWest: SG Barockstadt Fulda-Lehnerz
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875102.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",SüdWest: SG Sonnenhof Großaspach
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875101.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",SüdWest: SGV Freiberg Fußball
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875100.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",SüdWest: SV Eintracht Trier
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875099.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",SüdWest: SV Sandhausen
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875098.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",SüdWest: SV Stuttgarter Kickers
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875097.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",SüdWest: TSG Balingen
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875096.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/regionalsport.png" group-title="DE ✨ LEAGUES REGIONALLIGA",SüdWest: TSV Steinbach-Haiger
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875094.m3u8
+
 # --- DE ✨ MUSIK ⁕ 24/7 (63) ---
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Magenta.music.png" group-title="DE ✨ MUSIK ⁕ 24/7",MAGENTA MUSIC 1
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/837049.m3u8
@@ -2988,82 +3128,6 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/850.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/851.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJlUSbf.png" group-title="DE ✨ REGIONAL",OK54 DIY CHANNEL
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/853.m3u8
-
-# --- DE ✨ REGIONAL SPORT (37) ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - Eventchannel 1
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849746.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - Eventchannel 2
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849745.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - 1. FC Bocholt
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849744.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - 1. FC Köln II
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849743.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - Bonner SC
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849742.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - Borussia Dortmund II
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849741.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - Borussia Mönchengladbach II
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849740.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - FC Gütersloh
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849739.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - FC Schalke 04 II
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849738.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - Fortuna Düsseldorf II
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849737.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - SC Fortuna Köln
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849736.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - SC Paderborn
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849735.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - SC Rot-Weiß Oberhausen
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849734.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - SC Wiedenbrück
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849733.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - Sportfreunde Lotte
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849732.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - Sportfreunde Siegen
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849731.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - SSVg Velbert
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849730.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - SV Rödinghausen
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849729.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - VfL Bochum II
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849728.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - Wuppertaler SV
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849727.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - Bayern Alzenau
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849726.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - Eintracht Trier
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849725.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - FC Astoria Walldorf
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849724.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - FSV Frankfurt
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849723.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - Hessen Kassel
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849722.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - Kickers Offenbach
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849721.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - SC Freiburg II
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849720.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - SG Sonnenhof Großaspach
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849719.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - Stuttgarter Kickers
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849718.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - SV Sandhausen
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849717.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - TSG Balingen
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849716.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - SG Barockstadt Fulda-Lehnerz
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849714.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - SGV Freiberg Fußball
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849713.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - TSV Steinbach Haiger
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849712.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - 1. FSV Mainz 05 II [COMMING SOON]
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849711.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - Bahlinger SC
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849710.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="DE ✨ REGIONAL SPORT",LEAGUES - FC 08 Homburg
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849709.m3u8
 
 # --- DE ✨ RTL+ EVENTS (21) ---
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ SPORT EVENT 0
@@ -3848,46 +3912,46 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809957.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809956.m3u8
 
 # --- DE ✨ SPORTEUROPE TV (20) ---
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 1 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684399.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 2 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684398.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 3 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684397.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 4 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684396.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 5 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684395.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 6 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684394.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 7 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684393.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 8 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684392.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 9 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684391.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 10 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684390.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 11 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684389.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 12 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684388.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 13 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684387.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 14 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684386.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 15 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684385.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 16 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684384.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 17 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684383.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 18 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684382.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 19 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684381.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/5uF0g.jpg" group-title="DE ✨ SPORTEUROPE TV",SPORT DEUTSCHLAND 20 FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/684380.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 1
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875086.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 2
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875085.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 3
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875084.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 4
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875083.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 5
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875082.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 6
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875081.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 7
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875080.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 8
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875079.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 9
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875078.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 10
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875077.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 11
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875076.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 12
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875075.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 13
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875074.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 14
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875073.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 15
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875072.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 16
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875071.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 17
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875070.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 18
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875069.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 19
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875068.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/sporteuropetv.png" group-title="DE ✨ SPORTEUROPE TV",SPORTEUROPE TV EVENT 20
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/875067.m3u8
 
 # --- DE ✨ UHD (16) ---
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/ard-1de.png" group-title="DE ✨ UHD",ARD 4K
@@ -4901,4 +4965,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 2399
+# Total: 2430

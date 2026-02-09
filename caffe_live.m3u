@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: caffe.link:25461
-# Generated: 2026-02-08 18:44:10
+# Generated: 2026-02-09 07:24:52
 # Expires: 2026-05-01
 # Family Safe Edition
 # ==============================================
@@ -85,7 +85,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1650.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albanian",Junior
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1667.m3u8
 
-# --- Austrija (9) ---
+# --- Austrija (10) ---
 #EXTINF:-1 tvg-logo="" group-title="Austrija",ORF 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1562.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/orf2-logo.png" group-title="Austrija",ORF 2
@@ -102,10 +102,12 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6907.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6909.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/servustv-logo.png" group-title="Austrija",Servus TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4843.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x64/4/img/kanali-logo/krone.tv_AT_logo.png" group-title="Austrija",Krone TV
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/114786.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/sixx-logo.png" group-title="Austrija",Sixx at
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6910.m3u8
 
-# --- BiH (46) ---
+# --- BiH (51) ---
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/BHT1_logo.png" group-title="BiH",BHT 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1339.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/BHT1_logo.png" group-title="BiH",BHT 1 (backup)
@@ -146,10 +148,14 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1334.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4588.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/hayat-hd_logo.png" group-title="BiH",Hayat TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1332.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Hayat_2_BA_logo_v2.png" group-title="BiH",Hayat 2
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118718.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/hayat-hd_logo.png" group-title="BiH",Hayat (backup)
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4589.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/hayatplus_logo.png" group-title="BiH",Hayat Plus
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1331.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Hayat_Stil_i_zivot_BA_logo.png" group-title="BiH",Hayat stil i zivot
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118719.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/tvsa-logo.png" group-title="BiH",TV Sarajevo
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1337.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/alfatvlogo.png" group-title="BiH",Alfa TV Sarajevo
@@ -164,8 +170,6 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1333.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1328.m3u8
 #EXTINF:-1 tvg-logo="http://epg.netsolutionpro.com/logo-tv/121.ba.png" group-title="BiH",MTV Igman
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1327.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/elta1-hd-logo.png" group-title="BiH",Elta TV
-http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34152.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTV_ZE_BA_logo.png" group-title="BiH",RTV Zenica
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1325.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/PosavinaTV_BA_logo.png" group-title="BiH",Posavina Tv
@@ -178,6 +182,10 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1320.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/13691.m3u8
 #EXTINF:-1 tvg-logo="https://rtvglasdrine.com/wp-content/uploads/2021/03/rgdlogo.png" group-title="BiH",Glas Drine
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1316.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/ProTV_BH_BA_logo_v2.png" group-title="BiH",Pro TV
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118720.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x80/4/img/kanali-logo/UNA_TV_HR_logo.png" group-title="BiH",UNA TV BiH
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/116976.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Tata_Brada_RS_logo.png" group-title="BiH",Tatabrada TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/50712.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Neon_TV_BA_logo.png" group-title="BiH",Neon Tv
@@ -192,6 +200,10 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6878.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118712.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Moja_TV_logo.png" group-title="BiH",Moja TV Premier liga
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/15027.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BiH",Zivinice TV
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118752.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x100/4/img/kanali-logo/NTV_IC_BA_logo.png" group-title="BiH",NTV IC KAKANJ
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118817.m3u8
 #EXTINF:-1 tvg-logo="https://rtvbugojno.ba/wp-content/uploads/2021/04/logo-rtv-bugojno.png" group-title="BiH",RTV Bugojno
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34306.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w4DAYit.png" group-title="BiH",RTV Podrinje
@@ -265,7 +277,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5547.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-D21pGDqa5S4/WNg3fj86dGI/AAAAAAAADfY/Xc1II26YPyMkG-udRbY4pexYv2LUB3CWACLcB/s1600/Viasat_Film_premiere_2.jpg" group-title="Danska",DK: Viasat Film Premiere
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5545.m3u8
 
-# --- Deutsch (85) ---
+# --- Deutsch (93) ---
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/RTL_DE_logo.png" group-title="Deutsch",RTL DE
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1576.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/RTL_DE_logo.png" group-title="Deutsch",RTL DE (backup)
@@ -352,12 +364,22 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1553.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1552.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/sky_cinema_hits_de.png" group-title="Deutsch",Skx Cinema best OF HEVC
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/53549.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/sky_cinema_family_de.png" group-title="Deutsch",Skx Cinema Family
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/114692.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/sky_cinema_de.png" group-title="Deutsch",Skx Cinema Premieren
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/114690.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deutsch",Skx Cinema Premieren+24
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/114691.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/sky_cinema_thriller_logo.png" group-title="Deutsch",Skx Cinema Special
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7682.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Sky_Crime_GB_logo.png" group-title="Deutsch",Skx Crime
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/114693.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutsch",Skx Crime DE
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1551.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/sky_1_de.png" group-title="Deutsch",SKx One HEVC
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4836.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Sky_Replay_GB_logo.png" group-title="Deutsch",Skx Replay
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/114695.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/sony-channel-de-logo.png" group-title="Deutsch",Skx Sony DE
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34168.m3u8
 #EXTINF:-1 tvg-logo="https://www.sky.de/static/img/senderlogos_dark/890_sky_logo_cinema_special_hd_tvguide.png" group-title="Deutsch",Sky Cinema special
@@ -382,6 +404,12 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/10183.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1546.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Warner_TV_Film_DE_logo.png" group-title="Deutsch",TNT Film DE (backup)
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/10182.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x80/4/img/kanali-logo/Warner_TV_Film_DE_logo_v2.png" group-title="Deutsch",Warner TV Film
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118745.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Warner_TV_Serie_DE_logo_v2.png" group-title="Deutsch",Warner TV Serie
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118746.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Warner_TV_Comedy_DE_logo_v2.png" group-title="Deutsch",Warner TV Comedy
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118747.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutsch",Animal Planet DE
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/13668.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Discovery_Channel_logo.png" group-title="Deutsch",Discovery Channel DE
@@ -437,7 +465,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1531.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky-Cinema-Select-logo.png" group-title="Deutsch",Selekt 8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1530.m3u8
 
-# --- Doku & Style (32) ---
+# --- Doku & Style (35) ---
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/national_geographic_logo.png" group-title="Doku & Style",National Geographic
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1404.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/national_geographic_logo.png" group-title="Doku & Style",National Geographic (backup)
@@ -448,6 +476,8 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1395.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118792.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Discovery_Channel_logo.png" group-title="Doku & Style",Discovery Channel
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1403.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Discovery_Channel_logo.png" group-title="Doku & Style",Discovery (backup)
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/73560.m3u8
 #EXTINF:-1 tvg-logo="http://epg.netsolutionpro.com/logo-tv/170.hr.png" group-title="Doku & Style",DTX
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34142.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/history-logo.png" group-title="Doku & Style",History Channel
@@ -486,6 +516,10 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6915.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4540.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Dokumentarni/DokuTVHD.png" group-title="Doku & Style",Doku TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5599.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/DOX_TV_RS_logo.png" group-title="Doku & Style",Dox TV
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118739.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLyE6zeMPdA3vLdZuoruFmJDGI-EzGMaIiQ&s" group-title="Doku & Style",Bee TV
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118736.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Dokumentarni/ComedyCentralExtra.png" group-title="Doku & Style",Comedy Central Extra
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1388.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Dokumentarni/E!.png" group-title="Doku & Style",E!
@@ -585,7 +619,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1000034.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EXYU",RTV ZENIT
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1000035.m3u8
 
-# --- Film & serije (44) ---
+# --- Film & serije (45) ---
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/hbo-logo.png" group-title="Film & serije",HBO
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1385.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/hbo-logo.png" group-title="Film & serije",HBO (backup)
@@ -602,6 +636,8 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118786.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5387.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Filmski/CineStar.png" group-title="Film & serije",CineStar TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1382.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Cinestar_tv2_logo.png" group-title="Film & serije",Cinestar TV 2
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/114440.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Filmski/CineStarPremiere1.png" group-title="Film & serije",CineStar Premiere
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1381.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Filmski/CineStarPremiere2.png" group-title="Film & serije",CineStar Premiere 2
@@ -715,7 +751,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/3705.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/gulli_logo.png" group-title="France",Gulli HD(FR)
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/13938.m3u8
 
-# --- Hrvatska (37) ---
+# --- Hrvatska (42) ---
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Hrvatska/HRT1.png" group-title="Hrvatska",HRT 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1261.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Hrvatska/HRT1.png" group-title="Hrvatska",HRT 1 (backup)
@@ -738,8 +774,14 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1257.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1256.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="Hrvatska",Nova Tv (backup)
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4580.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Nova_Cinema_logo.png" group-title="Hrvatska",Nova Cinema
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34191.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Nova_Family_logo.png" group-title="Hrvatska",Nova Family ᴴᴰ
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/33006.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Nova_World_HR_logo.png?1672159522" group-title="Hrvatska",Nova World
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118740.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbUtmTxeFBSPvXcR4ru0bVzQxQjNYmo608Wg&s" group-title="Hrvatska",Nova Plus
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118742.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/doma.png" group-title="Hrvatska",Doma Tv
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1255.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/doma.png" group-title="Hrvatska",Doma Tv (backup)
@@ -764,6 +806,8 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1250.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1249.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/n1-logo.png" group-title="Hrvatska",N1 Hr
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4538.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/4/img/kanali-logo/UNA_TV_HR_logo.png" group-title="Hrvatska",UNA TV Hr
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/116978.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/z1-logo.png" group-title="Hrvatska",Z1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1245.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/LaudatoTV_logo.png" group-title="Hrvatska",Laudato TV
@@ -776,6 +820,8 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1247.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1246.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hrvatska",DALMACIJA (HR)
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118816.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x80/4/img/kanali-logo/Klape_i_Tambure_HR_logo.png" group-title="Hrvatska",Klape & Tambure TV
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118744.m3u8
 #EXTINF:-1 tvg-logo="http://epg.netsolutionpro.com/logo-tv/124.hr.png" group-title="Hrvatska",Poljoprivredna TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6870.m3u8
 #EXTINF:-1 tvg-logo="https://www.jabuka.tv/wp-content/uploads/2015/01/logo_jabuka_web1.png" group-title="Hrvatska",Jabuka TV
@@ -827,7 +873,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1477.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italian",Premium Crime IT
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1615.m3u8
 
-# --- Kids (23) ---
+# --- Kids (25) ---
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/rtl-kockica-logo.png" group-title="Kids",RTL Kockica
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1445.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/nickelodeon-logo.png" group-title="Kids",Nickelodeon
@@ -838,6 +884,10 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1443.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/15038.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/minimax-logo.png" group-title="Kids",Minimax
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1441.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Kazbuka_RS_logo.png" group-title="Kids",Kazbuka
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118735.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x80/4/img/kanali-logo/Tropik_TV_BA_logo.png?1736418264" group-title="Kids",Tropik TV
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118717.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Mini Tv
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1442.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/hayatovci-logo.png" group-title="Kids",Hayatovci
@@ -875,13 +925,17 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6927.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Baby TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1429.m3u8
 
-# --- Makedonija (12) ---
+# --- Makedonija (14) ---
 #EXTINF:-1 tvg-logo="" group-title="Makedonija",MRT 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1286.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Makedonija",MRT 2
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1285.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Makedonija",MRT 3
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1284.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MRT_4_MK_logo.png" group-title="Makedonija",MRT 4
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/53552.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MRT_5_MK_logo.png" group-title="Makedonija",MRT 5
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/53553.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Makedonija",Sitel
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1282.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/HBO2_b_p.png" group-title="Makedonija",HBO (MK)
@@ -901,7 +955,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1276.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagledam.com/logo/logoskyfolk.jpg" group-title="Makedonija",SKY folk
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/53665.m3u8
 
-# --- Music (26) ---
+# --- Music (27) ---
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV Adria
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1428.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/mtv-base-logo.png" group-title="Music",MTV Base
@@ -952,6 +1006,8 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/53666.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1406.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Jugoton TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1419.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Kafansko veče
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/116880.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagledam.com/logo/logosehara.jpg" group-title="Music",TV Sehara
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5434.m3u8
 
@@ -1059,7 +1115,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/3719.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/hbo-logo.png" group-title="Slovenija",Slovenija | HBO 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/14517.m3u8
 
-# --- Sport (172) ---
+# --- Sport (201) ---
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/SK_HD_RS_logo.png" group-title="Sport",SK HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4731.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK1_HR_logo.png" group-title="Sport",SK 1
@@ -1104,14 +1160,22 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34155.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/54037.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Tenis_RS_logo.png" group-title="Sport",Arena Tenis
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118768.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/MAXSport_3_HR_logo_v2.png" group-title="Sport",Max Sport 3
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118748.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Adrenalin_RS_logo.png" group-title="Sport",Arena Adrenalin
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118769.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="Sport",Arena Sport 1 HR
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1520.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="Sport",Arena Sport 1 HR (backup)
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118797.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="Sport",Arena Sport 2 HR
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1519.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="Sport",Arena Sport 2 HR (backup)
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118798.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="Sport",Arena Sport 3 HR
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1518.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="Sport",Arena Sport 3 HR (backup)
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118800.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo.png" group-title="Sport",Arena Sport 4 HR
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1517.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="Sport",Arena Sport 5 HR
@@ -1138,26 +1202,38 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7688.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/114431.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_Sport_3_BiH_BA_logo.png" group-title="Sport",Arena Sport 3 BiH
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/114432.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_4_BiH_BA_logo.png" group-title="Sport",Arena Sport 4 BiH
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118770.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_5_BiH_BA_logo.png" group-title="Sport",Arena Sport 5 BiH
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118771.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="Sport",Arena Sport Premium 1 SR
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34303.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="Sport",Arena Sport Premium 1 SR (backup)
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/116922.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="Sport",Arena Sport Premium 2 SR
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34304.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="Sport",Arena Sport Premium 2 SR (backup)
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118795.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="Sport",Arena Sport Premium 3 SR
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34305.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="Sport",Arena Sport Premium 3 SR (backup)
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118796.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_4_Premium_RS_logo.png" group-title="Sport",Arena Sport Premium 4 SR
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118766.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_5_Premium_RS_logo.png" group-title="Sport",Arena Sport Premium 5 SR
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118767.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png" group-title="Sport",Arena Sport 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1515.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png" group-title="Sport",Arena Sport 1 (backup)
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118801.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_RS_logo.png" group-title="Sport",Arena Sport 2
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1514.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_RS_logo.png" group-title="Sport",Arena Sport 2 (backup)
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118802.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="Sport",Arena Sport 3
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1513.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="Sport",Arena Sport 3 (backup)
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118803.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_RS_logo.png" group-title="Sport",Arena Sport 4
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1512.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_RS_logo.png" group-title="Sport",Arena Sport 5
@@ -1210,6 +1286,8 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5211.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/10177.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/DAZN_2_DE_logo.png" group-title="Sport",DAZN Bar 2 HD DE
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5817.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Sportdigital_Fussball_logo.png?1717681509" group-title="Sport",DAZN SportDigital Fussball
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118764.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/BT_Sport_1_logo.png" group-title="Sport",BSport 1 HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1491.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/BT_Sport_Europe-logo.png" group-title="Sport",BSport 2 HD
@@ -1268,6 +1346,20 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/53768.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/53769.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sport-austria-4.png" group-title="Sport",Skx Sport Austria 4
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/53770.m3u8
+#EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw200_dh60_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/magentasport-sender-logo-275977.png" group-title="Sport",Magenta Sport 1
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118773.m3u8
+#EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw200_dh60_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/magentasport-sender-logo-275977.png" group-title="Sport",Magenta Sport 2
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118774.m3u8
+#EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw200_dh60_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/magentasport-sender-logo-275977.png" group-title="Sport",Magenta Sport 3
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118775.m3u8
+#EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw200_dh60_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/magentasport-sender-logo-275977.png" group-title="Sport",Magenta Sport 4
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118776.m3u8
+#EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw200_dh60_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/magentasport-sender-logo-275977.png" group-title="Sport",Magenta Sport 5
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118777.m3u8
+#EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw200_dh60_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/magentasport-sender-logo-275977.png" group-title="Sport",Magenta Sport 6
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118778.m3u8
+#EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw200_dh60_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/magentasport-sender-logo-275977.png" group-title="Sport",Magenta Sport 7
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118779.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sport-1-plus-germany.png" group-title="Sport",Sport1+ HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4849.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",Sport 1 HD DE
@@ -1288,6 +1380,12 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4622.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1495.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/1322-Mobile-Logo.png" group-title="Sport",Skx sports Golff HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1494.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/TNT_Sports_1_logo.png" group-title="Sport",TNT Sport 1
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118749.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/TNT_Sports_2_logo.png" group-title="Sport",TNT Sport 2
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118750.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/TNT_Sports_3_logo.png" group-title="Sport",TNT Sport 3
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118751.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",Bein Sports 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1475.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",Bein Sports 2
@@ -1358,22 +1456,38 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1454.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1453.m3u8
 #EXTINF:-1 tvg-logo="https://www.tsn.ca/content/dam/sports/images/main-navigation/group_1/tsn_100x24.png" group-title="Sport",TSN 5
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1452.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107344738125037568/mFUKvAsj_400x400.jpg" group-title="Sport",Adriatic Sport 1
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118737.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107344738125037568/mFUKvAsj_400x400.jpg" group-title="Sport",Adriatic Sport 2
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118738.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sportdigital_Fussball_DE_logo.png" group-title="Sport",SportDigital
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34188.m3u8
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/AUTO_MOTOR_SPORT.png" group-title="Sport",Auto Motor Sport
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1449.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/barca-tv-plus.png" group-title="Sport",Barca TV (Spa)
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1446.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",FC Bayern TV
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118765.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",NFL Network
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4814.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="Sport",NBA TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1451.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",Cricket HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1496.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",ESPN 2
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/72471.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Fight_Channel_World_logo.png" group-title="Sport",Fight Channel
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1448.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/GP1-logo.png" group-title="Sport",GP1
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/56665.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",ESPN
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/72470.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/motorvision_logo.png" group-title="Sport",Motorvision
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34173.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/ESPN_logo.png" group-title="Sport",NL: ESPN
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/72472.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",NL: ESPN 2
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/72473.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/orf-sport-plus-logo.jpg" group-title="Sport",ORF Sport +
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6943.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/realmadrid-tv-logo.png" group-title="Sport",Real Madrid TV (Spa)
@@ -1405,7 +1519,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6413.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",Viasat Sport Premium
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5549.m3u8
 
-# --- Srbija (54) ---
+# --- Srbija (73) ---
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTS1_logo.png" group-title="Srbija",RTS 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1310.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/RTS1_logo.png" group-title="Srbija",RTS 1 (backup)
@@ -1430,10 +1544,14 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5813.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5814.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTS_Zivot_logo.png" group-title="Srbija",RTS Zivot
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5815.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x82/4/img/kanali-logo/rts-nauka-logo.png" group-title="Srbija",RTS Nauka
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118723.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/Nova_S_RS_logo.png" group-title="Srbija",Nova S
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1312.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Nova_S_RS_logo.png" group-title="Srbija",Nova S (backup)
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/15017.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Nova_Series_RS_logo.png" group-title="Srbija",Nova Series
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118741.m3u8
 #EXTINF:-1 tvg-logo="https://superstartv.rs/wp-content/uploads/2024/05/ss1-1.png" group-title="Srbija",SuperStar
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6410.m3u8
 #EXTINF:-1 tvg-logo="https://superstartv.rs/wp-content/uploads/2024/05/ss1-1.png" group-title="Srbija",Superstar (backup)
@@ -1466,20 +1584,46 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1300.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1302.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/prva_world_logo.png" group-title="Srbija",Prva World
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1301.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Hype-tv-logo.png?1690271443" group-title="Srbija",Hype TV
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118715.m3u8
+#EXTINF:-1 tvg-logo="https://www.supernovabih.ba/wp-content/uploads/2023/06/TV_hype-tv-2.png" group-title="Srbija",Hype TV 2
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118721.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/Happy_new_logo.png" group-title="Srbija",Happy TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1299.m3u8
 #EXTINF:-1 tvg-logo="http://epg.netsolutionpro.com/logo-tv/119.sr.png" group-title="Srbija",Happy TV (backup)
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4594.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Moj_Happy_Zivot_RS_logo.png" group-title="Srbija",Happy Zivot
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118730.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Moja_Happy_Zemlja_RS_logo.png" group-title="Srbija",Happy Zemlja
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118731.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Moja_Happy_Muzika_RS_logo.png" group-title="Srbija",Happy Muzika
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118732.m3u8
 #EXTINF:-1 tvg-logo="http://epg.netsolutionpro.com/logo-tv/147.sr.png" group-title="Srbija",Happy Parovi uzivo 24h
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1298.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/BlicTV_RS_logo.png" group-title="Srbija",Blic TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/56673.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/InformerTV_RS_logo.png" group-title="Srbija",Informer TV
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118722.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/KurirTV_logo.png" group-title="Srbija",Kurir TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/33008.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/n1-logo.png" group-title="Srbija",N1 Sr
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4539.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/n1-logo.png" group-title="Srbija",N1 Sr (backup)
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/15018.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Russia_Today_logo.png?1714741128" group-title="Srbija",Russia Today Balkan
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118728.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/EuroNews_Serbia_RS_logo.jpg" group-title="Srbija",EuroNews Srbija
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118733.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Bloomberg_Adria_logo.png?1736502630" group-title="Srbija",Bloomberg Adria
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118734.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x80/4/img/covers/img2943436-tv18075366.jpg" group-title="Srbija",Elita Live 1
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118724.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x80/4/img/covers/img2943436-tv18075366.jpg" group-title="Srbija",Elita Live 2
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118725.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x80/4/img/covers/img2943436-tv18075366.jpg" group-title="Srbija",Elita Live 3
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118726.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x80/4/img/covers/img2943436-tv18075366.jpg" group-title="Srbija",Elita Live 4
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118727.m3u8
 #EXTINF:-1 tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/11/zadruga-1-384x216-1.png" group-title="Srbija",Zadruga Live
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5812.m3u8
 #EXTINF:-1 tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/11/zadruga-1-384x216-1.png" group-title="Srbija",Zadruga Live 1
@@ -1490,6 +1634,8 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6171.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6172.m3u8
 #EXTINF:-1 tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/11/zadruga-4-384x216-1.png" group-title="Srbija",Zadruga Live 4
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6173.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/K1_TV_RS_logo.png?1737531223" group-title="Srbija",K1
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118716.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/kcn1-logo.png" group-title="Srbija",KCN 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1292.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/k_cn2_rs.png" group-title="Srbija",KCN 2
@@ -1500,6 +1646,12 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1290.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/78098.m3u8
 #EXTINF:-1 tvg-logo="https://tvistok.com/wp-content/uploads/2020/02/tvilogo200.png" group-title="Srbija",TV ISTOK 2
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/78099.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/UNA_TV_HR_logo.png" group-title="Srbija",UNA TV Sr
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/116977.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Insta_TV_RS_logo.png" group-title="Srbija",Insta TV
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/114446.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x64/4/img/kanali-logo/InsajderRV_Srb_logo.png" group-title="Srbija",Insajder TV
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/114445.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Srbija/PalmaPlus.png" group-title="Srbija",Palma Plus
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/13825.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/TV_Hram_logo.png" group-title="Srbija",TV Hram
@@ -1597,12 +1749,14 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/14115.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/hgtv_uk_logo.png" group-title="UK & USA",USA: HGTV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/14127.m3u8
 
-# --- Švicarska (3) ---
+# --- Švicarska (4) ---
 #EXTINF:-1 tvg-logo="" group-title="Švicarska",CH: SRF 1 HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7373.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Švicarska",CH: SRF 2 HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7374.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Švicarska",4+
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/79256.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Švicarska",CH: TELE 1 HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7382.m3u8
 
-# Total: 775
+# Total: 852

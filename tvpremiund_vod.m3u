@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-02-11 07:32:22
+# Generated: 2026-02-11 18:50:39
 # Expires: 2026-02-14
 # Family Safe Edition
 # ==============================================
@@ -7747,7 +7747,7 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/80844.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOboKSPT9PPZFKhOya3YHrY4rHn.jpg" group-title="Movies | CINE PERUANO",¿Mi Novia es Él? (2019)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/80845.mp4
 
-# --- Movies | COMEDIA (1219) ---
+# --- Movies | COMEDIA (1221) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxtvnvWdeibiDc6mU5ftAUPGofe.jpg" group-title="Movies | COMEDIA",4 Latas (2019)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/5863.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nITLSFHonQJGVrnfDzfNqvtbOjO.jpg" group-title="Movies | COMEDIA",Ace Ventura 1: Detective de Mascotas (1994)
@@ -10186,6 +10186,10 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2540.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2542.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Free Bert
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2543.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Academia de Baile
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2546.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Con C mayúscula
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2547.mp4
 
 # --- Movies | CONCIERTOS & SHOWS (355) ---
 #EXTINF:-1 tvg-logo="https://s33.postimg.cc/evlncu9vj/Americo_-_Vi_a_del_Mar_2011.jpg" group-title="Movies | CONCIERTOS & SHOWS",Américo - Viña del Mar (2011)
@@ -21847,4 +21851,4 @@ http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2529
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",La Hija Del Mariachi 2025
 http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2534
 
-# Total: 10889
+# Total: 10891

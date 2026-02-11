@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-02-11 07:39:05
+# Generated: 2026-02-11 19:02:20
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -495,7 +495,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/249360.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlJKvYdKJJeWoKeNNs1Fom1chIz.jpg" group-title="Movies | → VOD 4K ←",¡Nop! (2022) 4K
 http://fastream.xyz:8080/movie/940246862tv/12ws79/249361.mkv
 
-# --- Movies | → VOD ACCIÓN ← (414) ---
+# --- Movies | → VOD ACCIÓN ← (415) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4x56c9uf4nAGkcop1jSHf7ytJ2B.jpg" group-title="Movies | → VOD ACCIÓN ←",La Gran Batalla
+http://fastream.xyz:8080/movie/940246862tv/12ws79/279950.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg" group-title="Movies | → VOD ACCIÓN ←",Proyecto Extraccion
 http://fastream.xyz:8080/movie/940246862tv/12ws79/279939.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7APW2AfqUxIkEXZWllaWQRYixD.jpg" group-title="Movies | → VOD ACCIÓN ←",El Panadero
@@ -19707,4 +19709,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9777
+# Total: 9778

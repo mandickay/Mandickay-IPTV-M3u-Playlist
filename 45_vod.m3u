@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-02-11 07:29:18
+# Generated: 2026-02-11 18:48:36
 # Expires: 2026-07-13
 # Family Safe Edition
 # ==============================================
@@ -1405,7 +1405,9 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2160326.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjWiVF2vFwd3mhs1dNoS0SOHxqt.jpg" group-title="Movies | VOD: Kids Movies",Ternet Ninja 2 [DK] [2021]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/135645.mkv
 
-# --- Movies | VOD: Old Popular Movies [Multi-Sub] (7565) ---
+# --- Movies | VOD: Old Popular Movies [Multi-Sub] (7566) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQtd0q7hJnlol2DYdSEJyZAyMCv.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",My Stepmother Is an Alien [1988]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2286997.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tamhOw4dSgn4lonjZyhEhIt9Wm.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",Strange Wilderness [2008]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2282952.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gGxDS8WmrebPlMHexVS8EVehiP.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",A Serious Man [2009]
@@ -27585,4 +27587,4 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/503111.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FrRyIOrnCin795JjaxJgu7VeHR.jpg" group-title="Movies | VOD: Svenska",När mörkret faller [SE] [2006]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/798230.mkv
 
-# Total: 13778
+# Total: 13779

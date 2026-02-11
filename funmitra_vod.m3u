@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-02-11 07:29:11
+# Generated: 2026-02-11 18:55:48
 # Expires: 2026-03-01
 # Family Safe Edition
 # ==============================================
@@ -4043,7 +4043,7 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11231.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Bereketli Topraklar
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11284.mp4
 
-# --- Movies | (S|TR) Yabanci Diziler (1018) ---
+# --- Movies | (S|TR) Yabanci Diziler (1019) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mars
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/313.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 1983
@@ -6080,6 +6080,8 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11887.mp4
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11888.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Salvador
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11918.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Luther
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/11937.mp4
 
 # --- Movies | (S|TR) Yerli Diziler (409) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
@@ -22433,7 +22435,13 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (211) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (214) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 69)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/666235.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 22)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/666234.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) A.B.İ. (Bolum 5)
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/666231.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 49)
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/665922.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 21)
@@ -29325,7 +29333,13 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/508684.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zDjpCBr7fleewKN7HpF2EPQT1jN_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2024",(TR-) Parthenope - 2024
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635435.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2025 (211) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2025 (214) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/6rrn8cQrPDWBKdqjOi2lB27AWuq_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Young Mothers - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/666237.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/RFQtinuiHhOnbmJaCn3uzegCYF_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Highest 2 Lowest - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/666233.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sSdpXGBNt3mQzjZZVK6eV5NcPdc_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Anniversary - 2025
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/666232.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zpygCOYY1DPBkeUsrrznLRN5js5_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) The Lost Bus - 2025
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/665137.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bMA6E5cu1QUMehjBZOjWjqQjhey_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Even If This Love Disappears Tonight - 2025
@@ -29749,7 +29763,9 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635434.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u64csVCG9nLpYqFWFFitrdvz7hG_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Daniela Forever - 2025
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/635432.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2026 (7) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2026 (8) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vElU6SotbFhUjDkkE9d8rb1XmkY_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) Primate - 2026
+http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/666236.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/aDMDiDdpL8ntmo1biqdbVfrFih7_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) Yoh! Bestie - 2026
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/665138.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/o7dVxvZIKnAB7k1eeeWp2k14Es7_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) Relationship Goals - 2026
@@ -32449,4 +32465,4 @@ http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/gamzemesut/wWuV3yAmXt/10625.mp4
 
-# Total: 16175
+# Total: 16183

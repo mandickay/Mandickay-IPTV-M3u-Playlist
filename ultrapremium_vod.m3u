@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2026-02-11 07:32:20
+# Generated: 2026-02-11 18:48:23
 # Expires: 2026-10-18
 # Family Safe Edition
 # ==============================================
@@ -495,7 +495,9 @@ http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/249360.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlJKvYdKJJeWoKeNNs1Fom1chIz.jpg" group-title="Movies | → VOD 4K ←",¡Nop! (2022) 4K
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/249361.mkv
 
-# --- Movies | → VOD ACCIÓN ← (414) ---
+# --- Movies | → VOD ACCIÓN ← (415) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4x56c9uf4nAGkcop1jSHf7ytJ2B.jpg" group-title="Movies | → VOD ACCIÓN ←",La Gran Batalla
+http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/279950.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg" group-title="Movies | → VOD ACCIÓN ←",Proyecto Extraccion
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/279939.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7APW2AfqUxIkEXZWllaWQRYixD.jpg" group-title="Movies | → VOD ACCIÓN ←",El Panadero
@@ -5341,7 +5343,9 @@ http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/3359.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SgSuCHLsdAhtJtYpzNjYO7dfLl.jpg" group-title="Movies | → VOD CLÁSICAS ←",Un plan brillante (2007)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/3360.mp4
 
-# --- Movies | → VOD COMEDIA ← (370) ---
+# --- Movies | → VOD COMEDIA ← (371) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKuYDKLMR2sk5X9ssDbJu2DvycY.jpg" group-title="Movies | → VOD COMEDIA ←",Negocios fuera de Control
+http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/279949.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ed5W7iDp8BINUPw0bXPStxGxJOh.jpg" group-title="Movies | → VOD COMEDIA ←",Aceptados
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/279357.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6gXo6Ph0ZmauWucuWiPY3PgUk9.jpg" group-title="Movies | → VOD COMEDIA ←",Una Noche en el Roxbury
@@ -19705,4 +19709,4 @@ http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2492
 
-# Total: 9776
+# Total: 9778

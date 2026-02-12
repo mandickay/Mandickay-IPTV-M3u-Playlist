@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: dk.2665.ninja:8080
-# Generated: 2026-02-12 07:24:20
+# Generated: 2026-02-12 18:58:12
 # Expires: 2026-04-16
 # Family Safe Edition
 # ==============================================
@@ -735,7 +735,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/11231.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Bereketli Topraklar
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/11284.mp4
 
-# --- Movies | (S|TR) Yabanci Diziler (1019) ---
+# --- Movies | (S|TR) Yabanci Diziler (1020) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mars
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/313.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 1983
@@ -2774,6 +2774,8 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/11888.mp4
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/11918.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Luther
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/11937.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Lead Children
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/11940.mp4
 
 # --- Movies | (S|TR) Yerli Diziler (409) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
@@ -6823,7 +6825,15 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (214) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (218) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bu8ks983hBPEzyAH8gSATW5aPJ7_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Yeraltı (Bolum 3)
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/666495.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahipsizler (Bolum 48)
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/666493.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1kEgzEvhJmw5eSxuGwn0o1cgHlK_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kurulus: Orhan (Bolum 14)
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/666492.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pYr58J7eePyXbUpUA9jhxPsabum_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Esref Rüya (Bolum 32)
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/666491.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 69)
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/666235.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 22)
@@ -10090,19 +10100,19 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/309609.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/306682.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qWWQb1Wwitgtx2fwMCnjmchyyON.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) 47 Meters Down: Uncaged - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/305801.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) An Officer And A Spy - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/hVqJyCcfoLPOVnltYJYksxrR9ge_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) An Officer And A Spy - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/302730.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Clemency - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/uQgi5hq29saWiG4DbmQfz2EEnKI_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Clemency - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/301854.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Semper Fi - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/7OEnUJemQZuKFyxXYlmRznoUemX_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Semper Fi - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/301503.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Captive State - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/5SB2FDbB2ODk4Er6owYtayKqwhd_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Captive State - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/300854.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/eN56wiM2M84GBOQnp4TAQXcZucg.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Greener Grass - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/300155.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/svEKCyQmJs3ZRu4YC6rQl248AAs.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) How To Build A Girl - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/299786.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Spread Your Wings - 2019
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v6fI8udiYOPH1A31fzVgH27UYSC.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Spread Your Wings - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/299082.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kDXMzBpiUJld5zLnSqDmGln3XuM.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Holiday In The Wild - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/299081.mkv
@@ -10116,15 +10126,15 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/298836.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/298835.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/eDjwbrkqZ6uqs9jiB91SHGv9u2M.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) La Belle Époque - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/297274.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Sweetness In The Belly - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/8jtHRcsEq6MOK9DDb6K7dVOQhl6_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Sweetness In The Belly - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/297068.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/42sMDFQxsHra3OZT55J78jjOWuw_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Gipsy Queen - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/297038.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Deerskin - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/7Z4pKBSgJEhI0GGFBL5Lu5gOEVc_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Deerskin - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/296540.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/A78QlXOzfyUWryvrcH3uZSzw1fy.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Bravest - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/296430.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Wild Goose Lake - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/iPN450whH0UUkiDUyCBfmwsdKg4_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Wild Goose Lake - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/295515.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/eslNoyrFacHVuaOgiaczA04Y3FG.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) House Of Hummingbird - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/295403.mkv
@@ -10152,11 +10162,11 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/288934.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/288288.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dB0Dl2nDRmvplaJLeHSfkppJXHs.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) We Die Young - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/286971.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Proxima - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/41YWD0M32uo6ekBEvVrQgidyemB_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Proxima - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/286967.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Don't Let Go - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/uNHueGo5TYCTLzoGULse65GC32Q_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Don't Let Go - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/286965.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Crown Vic - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/aUFuuUMd4nMbt3pdzulnFRxbY6e_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Crown Vic - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/286963.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5SMrr3TgbBtWxz4LUwx7RIEiia6.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) This Is Personal - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/286754.mkv
@@ -10172,17 +10182,17 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/281376.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/277605.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/25pnry1bu7lFQ3QljhdvuoOx0bI.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Dark Waters - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/274112.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Jarhead: Law Of Return - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/6LlqyjAik3Kh68QQ9AchSJEF0Z5_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Jarhead: Law Of Return - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/273332.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1IDxuieS1OBu6UykESSoHcKXPPJ.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Step Up: Year Of The Dance - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/273238.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mEWtbY0TzIeOQmmayyJcAAK2SQR.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Villains - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/272483.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Trauma Center - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/8K73wvCTBA3XKgZTtOZWgENUnis_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Trauma Center - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/271737.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Hustlers - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/zBhv8rsLOfpFW2M5b6wW78Uoojs_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Hustlers - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/271735.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Inside Man: Most Wanted - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/zcDZisqVQK9akfKgyrB9HYzYuVh_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Inside Man: Most Wanted - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/271635.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Aladdin - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/208932.mkv
@@ -10218,7 +10228,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/224599.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/230258.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5VI3ItNvQkw2BvQplgErw8xodVM.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) A Tale Of Love: The Untold Truth That Everybody Knows - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/225750.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Extremely Wicked Shockingly Evil and Vile - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/a7dVwEBU3vupg3hZQMeyL6ksz0F_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Extremely Wicked Shockingly Evil and Vile - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/196853.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rGpilX279VCVir8TBCPwc3CW0bT.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Fighting with My Family - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/203382.mkv
@@ -10228,7 +10238,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/223036.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/227044.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7a0sai9k5jr7YJRP5S3YIDErMVY.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Ghost Stories - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/225510.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Girls With Balls - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/cxusiFpBgcbDCc9Y84PeKO0dM8l_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Girls With Balls - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/202777.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5nVRMEnjQ4yDOdDdRZehqqBac9p.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Glass - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/196946.mkv
@@ -10284,7 +10294,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/197865.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/187682.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nCronCtRmOPjsOQSEymBYCNZLu.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Secret Obsession - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/202152.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Someone Great - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/h0nz5lIBXeUZChBNfwL08bLWQaU_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Someone Great - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/196866.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/10DiJRI2M1O9NO8bCYsXFOvbj5Z.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Sometimes - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/198252.mkv
@@ -10298,7 +10308,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/230513.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/213000.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yOr7RxHw15MMXNxGMXSmngDqHyI.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Boy Who Harnessed The Wind - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/187756.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Chaos Class Again - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/5tIGirUEU44fqSZu9x6C5MizIc1_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Chaos Class Again - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/202892.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jE6QFRd48IzAxAubOE9HKB8sTjP.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Courier - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/223004.mkv
@@ -10316,15 +10326,15 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/221747.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/212993.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/woR2d4zkWgCPlvwQ9kMHcrdiGPJ.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Last Laugh - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/177144.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Last Summer - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/nAn3MRAUwbjVApN3qYkvsTEOAvx_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Last Summer - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/196867.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1bnGAjdl9Qxi2GE7GvpxUqNEF7m.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Operative - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/224530.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Perfect Date - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/rrAYdezO3h1mjdYTaQyTXoj8IZ4_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Perfect Date - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/196868.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/64tHagRMJEFh9jtg81mz7Sn6XYV.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Professor And The Madman - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/197874.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Red Sea Diving Resort - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/bTgd1QQFTKdxESevtffAvIvCnz2_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Red Sea Diving Resort - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/202856.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6G7HtcxE2GHzBnwzdnYkAaPjHpU.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Silence 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/194488.mkv
@@ -10346,7 +10356,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/188560.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/188335.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8hZE44NL6Tz9ZSxWivEtP429UKU.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Who Would You Take to a Deserted Island? - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/197876.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Wine Country - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/kIcPwatJvCX4gLeJcwEPEHDGclJ_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Wine Country - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/196819.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qOBEpKVLl8Q9CZScbOcRRVISezV.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Polar - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/179375.mkv
@@ -10454,7 +10464,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/247192.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/250734.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hVQ0m50v4RZ4nQsvrmyNRiCi7CI.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Scary Stories To Tell in the Dark - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/250735.mp4
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Critters Attack! - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/iQJQNElDQqQ3iXf46pyMmhReoyp_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Critters Attack! - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/252155.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/r9t2himGKFSKWjjUdpRLFQkafj7.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Legacy Of The Bones - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/253743.mkv
@@ -10486,7 +10496,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/258059.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/258127.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9tgT6C8yUTelHxyIuJbizrB9wl2.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Phil - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/258134.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) William - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/A3yd6ivEhtWRrCM28OHRXdwUoMC_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) William - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/258136.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zzuhEC747rUh1LoXhDQfjFMPRRI.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) System Crasher - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/258248.mkv
@@ -10494,7 +10504,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/258248.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/259864.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gU9GawQzTqyaIh3su0SppAaLIM8.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Pure As Snow - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/260059.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Charlotte: The Return - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/5phrpY22CAtIF8VmmNXRg5aifIw_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Charlotte: The Return - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/260060.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ja9eozg4rWOycs4q28M0dCwOaI.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Portrait Of A Lady On Fire - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/260509.mkv
@@ -10504,7 +10514,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/262290.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/262715.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/n4sQ9qmxzBJzALj7ibLH8JtOsTt.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Little Joe - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/262717.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Waves - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/aRq6VRBNr9EhM7YRsU8sVtdWl07_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Waves - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/262785.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lLbcqa8YnO2Qz4ggflhwglwXI8R.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Hollow Point - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/263843.mkv
@@ -10512,7 +10522,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/263843.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/264117.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bFM7pJb6Y4Gm2ScH0JM1gj5haAL.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) A Rainy Day In New York - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/264129.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) A Hidden Life - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/wOF31jrZrw90rSACGWv7osHbAr2_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) A Hidden Life - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/265141.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4hUSc9oKcudbYOyt8EVP65LnaQV.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Midsommar - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/265642.mkv
@@ -10546,7 +10556,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/268564.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/269039.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/fqSIPu3hwgaa5TNcADzG9t9XZQb.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Warden - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/269060.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Just 6.5 - 2019
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/1W5vrWMOH7iyJK9bIIWZtpB01c8_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) Just 6.5 - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/270024.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/p1u8aksCeg6KTIyRuWhzDYxNeKB.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2019",(TR-) The Farewell - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/270046.mkv
@@ -10568,7 +10578,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/276079.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/276578.mkv
 
 # --- Movies | (V|TR) Turkce Dublaj - 2020 (225) ---
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ3ZjA1N2EtMWVhZS00NTA0LThkZDgtOTZmNGFiZTYyMzc3XkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Vanguard - 2020
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/r6RrFJLwHJF0Fiin44DNv5rvQhf.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Vanguard - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/417814.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/djLYTimZpr1t8Z5MDb79GE1nbXr.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Concrete Plans - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/415336.mp4
@@ -10818,21 +10828,21 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/305802.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/302763.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4xga1DMRKfdkS6uzLwzCGvbRiyL.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Asphalt Burning - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/302640.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) My Dad's Christmas Date - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/mAfeEGYIwEG4YmVk77pv8fk0Dpr_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) My Dad's Christmas Date - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/302048.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9702nIZf5EVxS3FrzycamQUlSjw.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Cut Throat City - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/302047.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1S21HpcKY6uQ9UAw68aICmrJaq6_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) We Can Be Heroes - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/301460.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Alone - 2020
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/tG8WjMbrSYE56kCGlDnULtCEwCf.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Alone - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/301452.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) After We Collided - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/uGAs3p8xLU5ztESiyNDYYZQJZq_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) After We Collided - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/301450.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) AK Vs. AK - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/4ULEEvH0hDYnbWN3nClrb88sYCF_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) AK Vs. AK - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/301449.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The Midnight Sky - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/qC7y4OUiKTv2HsqJSpfdWGNqf7K_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The Midnight Sky - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/301279.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) JL Family Ranch: The Wedding Gift - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/CMUAwaNAnLEyployKEH16GBLU4_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) JL Family Ranch: The Wedding Gift - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/300858.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pvtyxijaBrCSbByXLcUIDDSvc40.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Ma Rainey's Black Bottom - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/300780.mkv
@@ -10848,7 +10858,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/300160.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/300159.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2FoKHzkiJ0M5EQ7fPlyiqGk7UF2.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Resistance - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/299788.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) A California Christmas - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/sA2QI69Gxj0k4vMyqE9UYNKgfAt_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) A California Christmas - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/299779.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9oHvqd1QL5kaqt6zmCuDmM8esjV.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The Prom - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/299501.mkv
@@ -10856,17 +10866,17 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/299501.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/299477.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/d4DExMLilGswe2XHEeUNSn57TgI.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) High Ground - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/299473.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The Godfather Coda: The Death Of Michael Corleone - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/gy6fk1Af2pgdzxt8NcfPwpPVoQj_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The Godfather Coda: The Death Of Michael Corleone - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/299374.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The Crimes That Bind - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/xpFc6yyIUQnpqONMkAIaNT1a6yz_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The Crimes That Bind - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/299083.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5MSDwUcqnGodFTvtlLiLKK0XKS.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The Secret Garden - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/299067.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Ava - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/1XjA7ThpwP3KpuDXpnwBzhaqbte_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Ava - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/299059.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3eg0kGC2Xh0vhydJHO37Sp4cmMt.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The Tax Collector - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/298958.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Christmas Crossfire - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/z8rmPRdNDrvxFPNZSCwTRPMmsrS_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Christmas Crossfire - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/298954.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4yzTcAtvzyZLLto4z04xobUK9el_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Mank - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/298953.mkv
@@ -10874,21 +10884,21 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/298953.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/298518.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9a2E3HusZ12ZlozZeCpfjTwYaeg.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Dont Listen - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/298457.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Toys Of Terror - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/gd5zv9V6MOaLOOVSN5RoZmF8a5Q_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Toys Of Terror - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/296429.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Measure For Measure - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/A2k9aQeoHNcKVVad5VfxF4j330q_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Measure For Measure - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/295539.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/x9oaK0mvfRi7a3De2hWqSwFKcVO.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Guest Of Honour - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/295467.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qs6gz6atyQcAvqC6qZaslOjliUG.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Dragonheart: Vengeance - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/295465.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Breaking Surface - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/rvhmihgoHZIa6p7DjAaWJTz9zKe_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Breaking Surface - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/295242.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/atkOBbAFSjtEfQIMAEylHaWIOx7.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Within These Walls - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/294709.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cciVsEOOxVDcqwbXSwWgRcaIPxz.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Misbehaviour - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/293831.avi
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Endings Beginnings - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/5yfJDjTp6n8QXN0M9aGCYpqahXZ_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Endings Beginnings - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/293459.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8LuzV5n005DbeL4J2cnCVWHgtfp.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Downhill - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/293345.mkv
@@ -10896,19 +10906,19 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/293345.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/293036.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9KDi9LVxQbNf4YcrzmqTrPsxjWu.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Never Rarely Sometimes Always - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/292774.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Big Time Adolescence - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/iaoIzpakgSm0IQEz3edfAttr4YC_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Big Time Adolescence - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/292529.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Bulletproof 2 - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/uGILkFnRrpdiNtDaHeekGZSn5o5_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Bulletproof 2 - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/291035.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oBmPyhFiECVuA81q3nn2GTcW4yo.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The King Of Staten Island - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/290712.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Rooting For Roona - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/gx6DUx7EugLPM3NuY8PSJMuHR7J_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Rooting For Roona - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/290033.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) A Babysitter's Guide To Monster Hunting - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/bkld8Me0WiLWipLORRNfF1yIPHu_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) A Babysitter's Guide To Monster Hunting - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/290032.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The Forty Year Old Version - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/ilMExVn5xyfIWAnqngqAB0OFsE5_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The Forty Year Old Version - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/288902.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Hubie Halloween - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/bjiH9Lzmxh296QVtJRhpLxEoDB4_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Hubie Halloween - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/288296.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/22WaH9bKp0IVUFPHix9ZjclJNdy.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The High Note - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/287064.avi
@@ -10934,17 +10944,17 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/273337.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/273335.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/y7fGEbCRfu6LpdtWAj7ACnzTk27.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Brahms: The Boy 2 - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/272486.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Fatal Affair - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/f4EAJ6PXNbxBb2xrdTrT2SlJlCH_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Fatal Affair - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/272378.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Emma - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/d6ksCUWYOaweyvGLi1JILYvIybN_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Emma - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/272044.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yTgWHcNUMc6TpmHYfjEUGBuf6Zn.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The Old Guard - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/272007.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) About Endlessness - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/90F7aq8i99wHCWrckTxVyGluVoG_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) About Endlessness - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/271989.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/p0aJ42yUp5pS4MdPKP69VRZ2Gkp.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Desperados - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/271824.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) True History Of The Kelly Gang - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/bTX1IKFNNsOsdzC8JwRIAhYeRJu_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) True History Of The Kelly Gang - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/271738.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/h47JJZ015VF4neia33AFwTU37Yb.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) A Fall From Grace - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/228983.mkv
@@ -10972,7 +10982,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/258083.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/258084.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8xiV8j18GhWnnrfMGaDR0E5oOif.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) All Day And A Night - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/258125.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The Half Of It - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/jC1PNXGET1ZZQyrJvdFhPfXdPP1_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The Half Of It - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/258135.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zJ5y3Uv7H3IHQvnU77O4RI4u0ME.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Bad Boys 3: For Life - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/258546.mkv
@@ -10982,7 +10992,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/260058.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/262474.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2UYkO87WHtUIKl6zjbkNQFMs5zU.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Dolittle - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/262683.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The Lovebirds - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/5jdLnvALCpK1NkeQU1z4YvOe2dZ_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The Lovebirds - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/265550.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/uCHCEl8bgU1GTjJ8qpY6fp0YUtq.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Like A Boss - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/265634.mkv
@@ -11004,7 +11014,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/270047.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/270049.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sF0SmtAFZCcTBkndFz4vOTV5QvB.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) The Grudge - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/270050.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Inherit The Viper - 2020
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/aaLEThX7CxKJuAQDnrZcecpzu0I_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Inherit The Viper - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/270190.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jFK8TqZssXz5EPx2xgAX00LlO8R.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2020",(TR-) Escape From Pretoria - 2020
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/270220.mkv
@@ -11214,9 +11224,9 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/413639.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/413632.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8RqdjlPjyN59FnMkw5nnpaRXJde.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2021",(TR-) Dangerous - 2021
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/413631.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xtKnCL8SjGQeMDNJEE4BPMR89wD.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2021",(TR-) South Of Heaven - 2021
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/eYZEpqQVIhBG0caDu8dhOb6sEYQ_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2021",(TR-) South Of Heaven - 2021
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/413600.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jJzmSlNorOu6yvHSjXoF0bBcx17.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2021",(TR-) No Man Of God - 2021
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/cr8wtSX1IGV7vLocSMzPnqGvsjq_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2021",(TR-) No Man Of God - 2021
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/413599.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/emptYTgsZk6KuekljImkQSKhh6B.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2021",(TR-) Hitman's Wife's Bodyguard - 2021
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/413488.mkv
@@ -11312,7 +11322,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/404425.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/403324.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/roeYIqWHyVHcjWDk6SOaepNEk0y.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2021",(TR-) Dune - 2021
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/403319.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk4ZGIzYzgtODBlOS00Y2E5LTkwMWQtZjI3ODA0OTk4YmEyXkEyXkFqcGdeQXVyMjI3NDAyNg@@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2021",(TR-) Hive - 2021
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/8Hsc1d1gX7vLHQtyU3DmzLUFd3J.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2021",(TR-) Hive - 2021
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/403260.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/AoWY1gkcNzabh229Icboa1Ff0BM.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2021",(TR-) Vanquish - 2021
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/403061.mkv
@@ -13721,7 +13731,9 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/508684.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zDjpCBr7fleewKN7HpF2EPQT1jN_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2024",(TR-) Parthenope - 2024
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/635435.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2025 (214) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2025 (215) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uMAkmQlKthQpTMiyPAKOYK3JnMs_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) A Big Bold Beautiful Journey - 2025
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/666490.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/6rrn8cQrPDWBKdqjOi2lB27AWuq_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Young Mothers - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/666237.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/RFQtinuiHhOnbmJaCn3uzegCYF_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Highest 2 Lowest - 2025
@@ -13940,7 +13952,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/625584.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/625583.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pBvNtNhpiIBi2QTHCxn13SYoDq1_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Love Untangled - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/624880.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/tzrJulItjttxzoX0t3B2My46TS7_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) The Thursday Murder Club - 2025
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/jbnazCHr8S2l2glyvjPTpa4NbEw_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) The Thursday Murder Club - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/624736.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/l7V0EI8Pq3izRCoFmMlbg2YxHM0_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Planet Single: Greek Adventure - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/624712.mkv
@@ -14151,7 +14163,9 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/635434.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u64csVCG9nLpYqFWFFitrdvz7hG_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Daniela Forever - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/635432.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2026 (8) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2026 (9) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rBUQeEBFOZQskflRcEPCu9KkGeG_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) State Of Fear - 2026
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/666494.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vElU6SotbFhUjDkkE9d8rb1XmkY_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) Primate - 2026
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/666236.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/aDMDiDdpL8ntmo1biqdbVfrFih7_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) Yoh! Bestie - 2026
@@ -14504,25 +14518,25 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/429792.mp4
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/416254.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dAR3OurhmqfBiXdiRxw5opW6frw.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Çift'lik Bank: Tosun Firarda - 2018
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/410897.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ0ZDE4M2ItZTkwYS00NDliLWIzZTYtNDBjYjExNzU1NjU5XkEyXkFqcGdeQXVyNTM5NjkxMzM@._V1_.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Şehrin Günahları - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/16Wtyn9E4Hy7zdJ17HBCBlXSA3S.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Şehrin Günahları - 2017
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/399368.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ0ZDE4M2ItZTkwYS00NDliLWIzZTYtNDBjYjExNzU1NjU5XkEyXkFqcGdeQXVyNTM5NjkxMzM@._V1_.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Oyunu Bozuyorum - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5QHRALT9aLpYT6O6drkfO9ZQAF5.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Oyunu Bozuyorum - 2017
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/399367.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ0ZDE4M2ItZTkwYS00NDliLWIzZTYtNDBjYjExNzU1NjU5XkEyXkFqcGdeQXVyNTM5NjkxMzM@._V1_.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Kurtar Beni - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jxzJUFtOZZl3vICuHc6DfcCgyN9.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Kurtar Beni - 2017
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/399366.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ0ZDE4M2ItZTkwYS00NDliLWIzZTYtNDBjYjExNzU1NjU5XkEyXkFqcGdeQXVyNTM5NjkxMzM@._V1_.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Kızımı Bulun - 2017
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w320_and_h180_face/bdjYRJT8Bvt4zvq2IQOYsEvRbXS.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Kızımı Bulun - 2017
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/399365.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ0ZDE4M2ItZTkwYS00NDliLWIzZTYtNDBjYjExNzU1NjU5XkEyXkFqcGdeQXVyNTM5NjkxMzM@._V1_.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Hayalet Gemi - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dsSS2vveD9127StovjMV20lrsZB.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Hayalet Gemi - 2017
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/399363.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ0ZDE4M2ItZTkwYS00NDliLWIzZTYtNDBjYjExNzU1NjU5XkEyXkFqcGdeQXVyNTM5NjkxMzM@._V1_.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Evimdeki Yabancılar - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AoMV86JX9cDgtpoie2n8v3LzRO8.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Evimdeki Yabancılar - 2017
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/399361.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ0ZDE4M2ItZTkwYS00NDliLWIzZTYtNDBjYjExNzU1NjU5XkEyXkFqcGdeQXVyNTM5NjkxMzM@._V1_.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Araf - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sw9XQuVGVo7aCy5hVBibxyObP91.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Araf - 2017
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/399360.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ0ZDE4M2ItZTkwYS00NDliLWIzZTYtNDBjYjExNzU1NjU5XkEyXkFqcGdeQXVyNTM5NjkxMzM@._V1_.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Aleyna'nın Son Günü - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qj69PmCeNOvDTWe0Qw2adQ0fT0I.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Aleyna'nın Son Günü - 2017
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/399359.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ0ZDE4M2ItZTkwYS00NDliLWIzZTYtNDBjYjExNzU1NjU5XkEyXkFqcGdeQXVyNTM5NjkxMzM@._V1_.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Acı İntikam - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1j3JyuLXAMtiyyHKG3kZOsAf4q.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: Acı İntikam - 2017
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/399358.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ0ZDE4M2ItZTkwYS00NDliLWIzZTYtNDBjYjExNzU1NjU5XkEyXkFqcGdeQXVyNTM5NjkxMzM@._V1_.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: 13. Adım - 2017
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWEyODlmMzYtYjhlOS00YzE3LWExN2ItOTBjOGY4ODQ1NGIyXkEyXkFqcGc@._V1_.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Cember: 13. Adım - 2017
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/399357.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/uENL1UPNJTA80keeQRehWhAXmff.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Hükümet Kadın 2 - 2013
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/393297.mkv
@@ -14620,7 +14634,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/356368.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/356367.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dCSY9ZABmduyHqCbiuPHnbI44x1.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Saruhan - 2015
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/356366.mkv
-#EXTINF:-1 tvg-logo="https://img04.imgsinemalar.com/images/afis_dev/p/pinhan-1519213555.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Pinhan - 2016
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYwYjVmZTEtM2E1My00NjRjLThiYmMtOTVhZGU5M2QzM2JkXkEyXkFqcGc@._V1_.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Pinhan - 2016
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/356365.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7rKnC4dru02N09fnr3kULZu1kZR.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Osmanlı Subayı - 2017
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/356364.mkv
@@ -15058,7 +15072,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/222753.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/161433.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/guxVSOrqCkETy5fsLZGnedWSOr2.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Kaçış - 2016
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/196541.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | (V|TR) Yerli Film",(TR-) Kelebekler - 2018
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/2LKS2IL3ht2cpHuhbX5GKzjVnpA_big.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Kelebekler - 2018
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/202979.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lyjkZ8aNJXyj7l7cEwwALpHGsE7.jpg" group-title="Movies | (V|TR) Yerli Film",(TR-) Keloglan Yeni Masal - 2017
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/204841.mkv
@@ -16140,7 +16154,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/412572.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/408835.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cgOSxbpsixBDDIRhu74BbLlORJ9.jpg" group-title="Movies | (V|TR) Yerli Film - 2021",(TR-) İki Şafak Arasında - 2021
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/403772.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2021",(TR-) Naz Evi - 2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTUzZDllMmMtNzQwNS00OWU3LTg0YmYtYmViYzUxNzZmNzlkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies | (V|TR) Yerli Film - 2021",(TR-) Naz Evi - 2021
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/401308.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cuzlSwZFD82UgFfZPUevXt5nWPO.jpg" group-title="Movies | (V|TR) Yerli Film - 2021",(TR-) Mutlu Aile Tablosu - 2021
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/401197.mkv
@@ -16186,7 +16200,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/368234.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/367805.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4xdcsZvBjwEA1bnR7NJgWBeZdMj.jpg" group-title="Movies | (V|TR) Yerli Film - 2021",(TR-) Iki Gönül Bir Oluversin Gari - 2021
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/367558.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGYzNDVmZWYtYjcyMy00ODFiLThiZjgtOWI2MDc3YTcyOGI3XkEyXkFqcGdeQXVyMTI1MjY2MDY3._V1_QL75_UY281_CR47,0,190,281_.jpg" group-title="Movies | (V|TR) Yerli Film - 2021",(TR-) Nuhun Gemisi Cudide - 2021
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/bttc6dV05MLZCjt6N5U11N6i4Lz_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2021",(TR-) Nuhun Gemisi Cudide - 2021
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/367470.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5047WP2OVPmKUQXQ1GifNPcU4md.jpg" group-title="Movies | (V|TR) Yerli Film - 2021",(TR-) Artik Oluversin Gari - 2021
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/367362.mkv
@@ -16252,7 +16266,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/495955.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/488557.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mN8l5oWs1tGyvHLxSuFtpcGouyo.jpg" group-title="Movies | (V|TR) Yerli Film - 2022",(TR-) Annemin Zamanı - 2022
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/487593.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rk2FetwV6gMMtdf5VE5dzqW4Jxg.jpg" group-title="Movies | (V|TR) Yerli Film - 2022",(TR-) Çakallarla Dans 6 - 2022
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/rk2FetwV6gMMtdf5VE5dzqW4Jxg_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2022",(TR-) Çakallarla Dans 6 - 2022
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/486019.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6xW1X686cpWR9Joa1Hhq61FnJOd.jpg" group-title="Movies | (V|TR) Yerli Film - 2022",(TR-) Ümitli Karanlık Yolculuk - 2022
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/485866.mkv
@@ -16410,7 +16424,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/421741.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/421556.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4b0H9PeToxrReNyf0do7kEEJFIx.jpg" group-title="Movies | (V|TR) Yerli Film - 2022",(TR-) Yolun Açik Olsun - 2022
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/419474.mkv
-#EXTINF:-1 tvg-logo="https://i.kanald.com.tr/i/kanald/70/1200x630/6274e8f4ebc830230c6bc796.jpg" group-title="Movies | (V|TR) Yerli Film - 2022",(TR-) Çember: Ölüm Bizi Ayırana Kadar - 2022
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kTEyLLA8chRtxvbneN7zAUWZbKb.jpg" group-title="Movies | (V|TR) Yerli Film - 2022",(TR-) Çember: Ölüm Bizi Ayırana Kadar - 2022
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/417634.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nEy6bCvXkgVJ3JxAvofApoaCaZW.jpg" group-title="Movies | (V|TR) Yerli Film - 2022",(TR-) Bayram Havası - 2022
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/416811.mkv
@@ -16772,7 +16786,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/514793.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/663717.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1yhTZRtl7ZSMoPGpmMhL1iq0fxD_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Aşkın Yüzü - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/663124.mkv
-#EXTINF:-1 tvg-logo="http://mtai1c85j.39us1835.com:8080/images/cFeS5xWvhliBSuz9aRRD911i9ax_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Kayikci - 2025
+#EXTINF:-1 tvg-logo="http://5zv4h2roi.39us1835.com:8080/images/cFeS5xWvhliBSuz9aRRD911i9ax_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Kayikci - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/662836.mkv
 #EXTINF:-1 tvg-logo="https://i.slow.pics/zucu9G4l.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Her Sey Yolunda - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/661676.mkv
@@ -16849,4 +16863,4 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/584223.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u1UPlw3M8qOsqsiqkFeLtg6eEVt_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Umami - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/583470.mkv
 
-# Total: 8390
+# Total: 8397

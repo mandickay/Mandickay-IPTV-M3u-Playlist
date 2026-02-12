@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-02-12 07:31:26
+# Generated: 2026-02-12 18:48:27
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -18081,7 +18081,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2478
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Sin Frenos
 http://fastream.xyz:8080/series/940246862tv/12ws79/2481
 
-# --- Series | → SERIES CRIMEN ← (154) ---
+# --- Series | → SERIES CRIMEN ← (155) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",¿Sabes quién es?
 http://fastream.xyz:8080/series/940246862tv/12ws79/5
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Chicago P.D.
@@ -18390,6 +18390,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2523
 http://fastream.xyz:8080/series/940246862tv/12ws79/2526
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Toda la Verdad
 http://fastream.xyz:8080/series/940246862tv/12ws79/2527
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Detective Alex Cross
+http://fastream.xyz:8080/series/940246862tv/12ws79/2536
 
 # --- Series | → SERIES DC ← (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DC ←",Arrow
@@ -19709,4 +19711,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9778
+# Total: 9779

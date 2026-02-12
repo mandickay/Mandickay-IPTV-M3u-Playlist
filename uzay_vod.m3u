@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-02-11 18:59:19
+# Generated: 2026-02-12 07:28:06
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -753,7 +753,7 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11842.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) You And I Are Polar Opposites
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11845.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1397) ---
+# --- Movies | (S|DE) Deutsche Serien (1399) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3548,6 +3548,10 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11873.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11876.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Tidelands
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11889.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Wonder Man
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11938.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Pretty Little Liars
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11939.mp4
 
 # --- Movies | (V|AL) Filma (3292) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/A5mQcSgBeML2OBQLCH6RXn7gNNy_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Unseen Enemy
@@ -12347,7 +12351,29 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/255929.mkv
 
-# --- Movies | (V|DE) Filme (1221) ---
+# --- Movies | (V|DE) Filme (1232) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1ANLC6EERSQyOXghtz4wkrXMa9Q_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Paranormal Activity 3 - 2011
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/666466.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8vnsB3Rg9Gb91UOaecXRb7dYB37_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Grave Encounters - 2011
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/666465.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zzq1JCjsk7buXVOA0mwRH7zbHOP_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Grave Encounters 2 - 2012
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/666464.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ytlQCdYDpi2f974YmXdNsYd0RiB_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Paranormal Activity 4 - 2012
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/666424.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/f5dfjG3yvXH74IUFgRDbDvBi7AR_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Paranormal Activity: Ghost Dimension - 2015
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/666423.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gfCeejHkbCR8E4NBStEEsl41ZbL_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Paranormal Activity - Die Gezeichneten - 2014
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/666422.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/yCqt1yBLoAFpyxEbRQjsriIC6Yj_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Insidious: The Last Key - 2018
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/666421.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/v75n5e7pT2HaXdWKHchXa3m8vRz_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Insidious: Chapter 2 - 2013
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/666420.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8su4HXNbbOHBDT3dIc9aWlL5aZ6_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Insidious - 2010
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/666419.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/yfBk9w8PBNZj8sUK8jqjUHlKZkS_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Insidious Chapter 3: Jede Geschichte Hat Einen Anfang - 2015
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/666418.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/fFHIQnsfINeUWuJFLDPZQFs5J4Z_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Amistad - Das Sklavenschiff - 1997
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/666416.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gQJjsuNbhsgSMPgxPPS7APKLr3K_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Ocean's Twelve - 2004
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/666003.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vtNXxWKcvp9m9EyLyOavDpRVx4g_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Ocean's Eleven - 2001
@@ -24073,4 +24099,4 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248353.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/10625.mp4
 
-# Total: 12011
+# Total: 12024

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-02-11 18:58:04
+# Generated: 2026-02-12 07:33:56
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -10557,7 +10557,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/128736.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1m0SgH91AtSVcAY9p7dtqh0Pgr.jpg" group-title="Movies | KERSTFILMS",De Familie Claus 2 (2021)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/129312.mkv
 
-# --- Movies | Laatst toegevoegd (73) ---
+# --- Movies | Laatst toegevoegd (72) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Laatst toegevoegd",Martijn Koning Oudejaarsconference
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/117600.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Laatst toegevoegd",Martijn Koning: Koning van de Dieren (2017)
@@ -10702,8 +10702,6 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/197465.mkv
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/197476.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7QnJDGJe6j6czv3lpVRpnDGimg.jpg" group-title="Movies | Laatst toegevoegd",GLORY 105
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/197477.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhNThwc72GqihJhXaP29Af5hJ2A.jpg" group-title="Movies | Laatst toegevoegd",The Investigation of Lucy Letby (2026)
-http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/197608.mkv
 
 # --- Movies | MUZIEKCONCERTEN (42) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHt8XZqLHqzv8ks4IEKOKzFZ6zk.jpg" group-title="Movies | MUZIEKCONCERTEN",Guus Meeuwis – Groots Met Een Zachte G 2019 - 2019
@@ -20377,7 +20375,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/78533.mkv
 #EXTINF:-1 tvg-logo="https://marvel-b1-cdn.bc0a.com/f00000000104050/www.monsterenergy.com/media/uploads_image/2022/05/04/1600/800/03e4f544c96052fd615fd95a6d9df324.png?mod=v1_31fc2dfe1c799e47a790613a344d9a60" group-title="Movies | UFC: Ultimate Fighting Championship",UFC Fight Night: Błachowicz vs Rakić
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/111468.mkv
 
-# --- Movies | VTM GO / Streamz (96) ---
+# --- Movies | VTM GO / Streamz (97) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | VTM GO / Streamz",Bevergem
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/24.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | VTM GO / Streamz",Dertigers (BE)
@@ -20570,6 +20568,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3633.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3636.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | VTM GO / Streamz",Maison Verhulst
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3640.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | VTM GO / Streamz",De Kasteelmoord
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3644.mp4
 
 # --- Movies | Viaplay (38) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Viaplay",Wisting - 2019

@@ -1,17 +1,15 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ginafelea.ddns.net:8008
-# Generated: 2026-02-11 18:59:58
+# Generated: 2026-02-12 07:27:43
 # Expires: 2026-07-15
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | ⚜️FILME - 2026⚜️ (82) ---
+# --- Movies | ⚜️FILME - 2026⚜️ (80) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/708pjNQNi3vzacfVqSEXy9dtO4z.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",267 - 2026
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617294.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqrp25kOrskrFDOKkKQWhFkI69e.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Surat untuk Masa Mudaku - 2026
-http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617295.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/libh8I8DkEu4tDgY6MD7UXVQggp.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Black Goat - 2026
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617296.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFy3I3hJeLKKJt8EGpc1ZbGTwoH.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Blackout - 2026
@@ -24,6 +22,8 @@ http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617299.mp4
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2T4gc5njZ0JJVYLn6Q8VxS9RoM6.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Fabian und die mörderische Hochzeit - 2026
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617301.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zPExowfpfZOTpS1W4J7G27lH4H.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",F Valentine's Day - 2026
+http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617323.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ppOwa6PEtGsIiDPdZHUbEqgIY7.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Grizzly Night - 2026
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617302.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJQD5fxOuWxCwsMBVB5SvDA0iHe.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Her Şey Yolunda - 2025
@@ -40,10 +40,10 @@ http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617307.mp4
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617308.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Relationship Goals - 2026
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617309.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHzF7u07vUL9nLa1VSH7uUVnHl1.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",ശേഷിപ്പ് - 2025
-http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617310.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbURquxQUJXFfeqpjzmHekRmyqb.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Skyscraper Live - 2026
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617311.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqrp25kOrskrFDOKkKQWhFkI69e.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Surat untuk Masa Mudaku - 2026
+http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617295.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bR23eSZSnjYpYpAjbbwecnEROTq.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",The Art of Telling Lies - 2026
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617312.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7CCosgX9LcSpt7bXmqw5OzTFTV.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",The Dutchman - 2026
@@ -58,18 +58,14 @@ http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617316.mkv
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617317.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF6txsM6cgF9vg6Ra5sNbkvUwrw.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Twisted - 2026
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617318.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47uIUf9KCfDzxQXixw8lrvYl8C8.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",வா வாத்தியார் - 2026
-http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617319.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZqo0yPARmyF8TACVNyaOACkYWG.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",We Bury the Dead - 2026
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617320.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Yoh! Bestie - 2026
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617321.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zPExowfpfZOTpS1W4J7G27lH4H.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",F Valentine's Day - 2026
-http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617323.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | ⚜️FILME - 2026⚜️",There is an Database Error
-http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617328.
-#EXTINF:-1 tvg-logo="" group-title="Movies | ⚜️FILME - 2026⚜️",
-http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617329.
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47uIUf9KCfDzxQXixw8lrvYl8C8.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",வா வாத்தியார் - 2026
+http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617319.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHzF7u07vUL9nLa1VSH7uUVnHl1.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",ശേഷിപ്പ് - 2025
+http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/617310.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRI6pASQX30W1Jv8JEWVFh2Rya2.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",12 Hours in October - 2025
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/582207.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdxf02vUous6fty6O4nollyuo4m.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",120  बहादुर - 2025
@@ -173,7 +169,7 @@ http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/582256.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpNA8T0INCCTvRLyovGuAMFPiNC.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Welcome Jija Ji - 2026
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/582257.mkv
 
-# --- Movies | ⚡SERIALE - ACTIUNE & AVENTURA⚡ (222) ---
+# --- Movies | ⚡SERIALE - ACTIUNE & AVENTURA⚡ (223) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - ACTIUNE & AVENTURA⚡",24
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/5989.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - ACTIUNE & AVENTURA⚡",8 Days
@@ -618,6 +614,8 @@ http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/6209.mp4
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/6210.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - ACTIUNE & AVENTURA⚡",Z Nation
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/6211.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - ACTIUNE & AVENTURA⚡",Data Sources
+http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/7085.mp4
 
 # --- Movies | ⚡SERIALE - COMEDIE⚡ (148) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - COMEDIE⚡",#NoFilter
@@ -35019,4 +35017,4 @@ http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/581353.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51LItgyecu2KMAtIchYogEykCIu.jpg" group-title="Movies | ✨FILME - WESTERN✨",Wyatt Earp - 1994
 http://ginafelea.ddns.net:8008/movie/N_Ungureanu/d4q9keAcYk/581354.mkv
 
-# Total: 17463
+# Total: 17462

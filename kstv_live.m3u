@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: kstv.us:8080
-# Generated: 2026-02-11 18:50:40
+# Generated: 2026-02-12 07:26:13
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -1838,9 +1838,9 @@ http://kstv.us:8080/live/GX0PjEapsX/5128860596/48202.m3u8
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48203.m3u8
 
 # --- Main Events / PPV (26) ---
-#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 01: 5:15PM DIRTcar Nationals Volusia
+#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 01: 5:15pm DIRTcar Nationals Volusia
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47695.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 02: 6:30PM World Series of Asphalt
+#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 02: 8pm World Series of Asphalt
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47696.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 03:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47697.m3u8
@@ -1892,33 +1892,33 @@ http://kstv.us:8080/live/GX0PjEapsX/5128860596/47719.m3u8
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48375.m3u8
 
 # --- NBA (20) ---
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 01: LAC Clippers VS HOU Rockets ( NBA TV Feed ) @ 8:00 PM
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 01: NYK Knicks VS PHI 76ers ( ESPN Feed ) @ 7:30 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47477.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 02: SAS Spurs VS LAL Lakers ( NBA TV Feed ) @ 10:30 PM
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 02: SAS Spurs VS GSW Warriors ( ESPN Feed ) @ 10:00 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47478.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 03: Indiana Pacers vs New York Knicks @ 07:30 PM
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 03: Atlanta Hawks vs Charlotte Hornets @ 07:00 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47479.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 04: Dallas Mavericks vs Phoenix Suns @ 09:00 PM
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 04: Washington Wizards vs Cleveland Cavaliers @ 07:00 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47480.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 05:
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 05: Milwaukee Bucks vs Orlando Magic @ 07:00 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47481.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 06:
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 06: Chicago Bulls vs Boston Celtics @ 07:30 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47482.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 07:
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 07: Indiana Pacers vs Brooklyn Nets @ 07:30 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47483.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 08:
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 08: Detroit Pistons vs Toronto Raptors @ 07:30 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47484.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 09:
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 09: LA Clippers vs Houston Rockets @ 08:00 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47485.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 10:
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 10: Portland Trail Blazers vs Minnesota Timberwolves @ 08:00 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47486.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 11:
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 11: Miami Heat vs New Orleans Pelicans @ 08:00 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47487.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 12:
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 12: Oklahoma City Thunder vs Phoenix Suns @ 09:00 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47488.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 13:
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 13: Sacramento Kings vs Utah Jazz @ 09:00 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47489.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 14:
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 14: Memphis Grizzlies vs Denver Nuggets @ 09:00 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47490.m3u8
 #EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 15:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47491.m3u8
@@ -1934,33 +1934,33 @@ http://kstv.us:8080/live/GX0PjEapsX/5128860596/48339.m3u8
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48340.m3u8
 
 # --- NBA.2 (15) ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 01: 7:30PM Pacers @ Knicks - Tue | FDSNIN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 01: 7:00PM Hawks @ Hornets - Wed | FDSNSE
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47583.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 02: 8:00PM Clippers @ Rockets - Tue | FDSNSoCal, SCHN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 02: 7:00PM Wizards @ Cavaliers - Wed | MNMT, FDSNOH
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47584.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 03: 9:00PM Mavericks @ Suns - Tue | KFAA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 03: 7:00PM Bucks @ Magic - Wed | FDSNWI, FDSNFL
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47585.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 04: 10:30PM Spurs @ Lakers - Tue | FDSNSW, Spectrum SportsNet
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 04: 7:30PM Bulls @ Celtics - Wed | CHSN, NBCSB
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47586.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 05:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 05: 7:30PM Pacers @ Nets - Wed | FDSNIN, YES
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47587.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 06:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 06: 7:30PM Knicks @ 76ers - Wed | ESPN
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47588.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 07:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 07: 7:30PM Pistons @ Raptors - Wed | FDSNDET
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47589.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 08:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 08: 8:00PM Clippers @ Rockets - Wed | FDSNSoCal, SCHN
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47590.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 09:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 09: 8:00PM Trail Blazers @ Timberwolves - Wed | KUNP, FDSN - North
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47591.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 10:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 10: 8:00PM Heat @ Pelicans - Wed | FDSN - Sun, GCSEN / WVUE
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47592.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 11:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 11: 9:00PM Thunder @ Suns - Wed | FDSNOK
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47593.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 12:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 12: 9:00PM Kings @ Jazz - Wed | NBCSCA, KJZZ
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47594.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 13:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 13: 9:00PM Grizzlies @ Nuggets - Wed | Altitude
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47595.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 14:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 14: 10:00PM Spurs @ Warriors - Wed | FDSNSW, ESPN
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48356.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 15:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48368.m3u8
@@ -4610,59 +4610,59 @@ http://kstv.us:8080/live/GX0PjEapsX/5128860596/49560.m3u8
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49561.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",.OLYMPICS 09 (TNT Sports 4)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49562.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 01: 3:15am Milan Cortina 2026 Coverage
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 01: 2/10 8pm Milan Cortina 2026 Coverage
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49563.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 02: 4:30am SSKATING Mixed Team Relay & More
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49564.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 03: 5:35am SSKATING M&W Sprint Classic: Finals
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 03: 3:10am SKIJUMP Men's Normal Hill: Ski Jump
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49565.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 04: 6:10am HOCCKEY JPN v SWE (W Group B)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 04: 4:30am SNOWBOARD Women's SB Halfpipe: Qual
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49566.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 05: 6:30am SKIING M Ski Slopestyle: Final
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 05: 5am SKIING W Moguls: Qualifying R2
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49567.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 06: 7:30am BIATHLON Men's 20km Individual
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 06: 5:30am SKIING Men's Super-G
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49568.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 07: 8am Gold Zone: Day 4
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 07: 7:45am NORDIC COMB Men's NH: 10km Race
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49569.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 08: 8am SKIING On USA: W Team Combined Slalom
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 08: 8am Gold Zone: Day 5
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49570.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 09: 8:05am CURLING GBR v ITA (Bronze Medal Final)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 09: 8am SKATING Figure Skating: Training
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49571.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 10: 8:15am SKIING W Moguls: Qualifying R1
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 10: 8:15am SKIING Women's Moguls: Final
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49572.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 11: 9am SKATING Figure Skating: Training
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 11: 8:15am BIATHLON Women's 15km Individual
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49573.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 12: 10:40am HOCKEY ITA v GER (W Group B)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 12: 10:40am HOCKEY SVK v FIN (M Group B)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49574.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 13: 11am LUGE W Singles Luge: Run 3
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 13: 11am Milan Cortina 2026 Coverage
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49575.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 14: 11:05am SKATING Men's Short: Warm-Up
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 14: 11am LUGE Men's & Women's Doubles Luge
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49576.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 15: 11:30am SKIJUMP Mixed Team Normal Hill
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 15: 11am SKATING Free Dance: Warm-Up
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49577.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 16: 12pm [4K] NBC: Freestyle Skiing, Luge & more
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 16: 12pm [4K] NBC: Speed Skating & more
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49578.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 17: 12:05pm CURLING SWE v USA (Gold Medal Final)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 17: 12:30pm SPSKATING Men's 1000m
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49579.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 18: 12:15pm SKATING On USA: Men's Short (Part 1)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 18: 1:05pm CURLING SWE v ITA (M Round-Robin)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49580.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 19: 12:30pm LUGE W Singles Luge: Final Run
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 19: 1:05pm CURLING CAN v GER (M Round-Robin)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49581.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 20: 1:45pm SKATING [4K] NBC: Men's Short (Part 2)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 20: 1:05pm CURLING CHN v GBR (M Round-Robin)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49582.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 21: 2:10pm HOCKEY CAN v USA (W Group A)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 21: 1:05pm CURLING CZE v USA (M Round-Robin)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49583.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 22: 3:10pm HOCKEY FIN vs. SUI (W Group A)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 22: 1:15pm On USA: Free Dance (Part 1)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49584.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 23: 4:30pm Milan Cortina 2026 Coverage
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 23: 1:30pm SNOWBOARD Men's SB Halfpipe: Qual
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49585.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 24: 5pm Best of Curling (Feb. 10)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 24: 2:15pm [4K] NBC: Free Dance (Part 2)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49586.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 25:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 25: 3:10pm HOCKEY SWE v ITA (M Group B)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49587.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 26:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 26: 5pm Best of Curling (Feb. 11)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49588.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 27:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 27: 11pm Milan Cortina 2026 Coverage
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49589.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/olympic24paris.jpg" group-title="Winter Olympics 2026",Winter Olympics 28:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49590.m3u8

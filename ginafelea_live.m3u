@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ginafelea.ddns.net:8008
-# Generated: 2026-02-11 18:59:58
+# Generated: 2026-02-12 07:27:43
 # Expires: 2026-07-15
 # Family Safe Edition
 # ==============================================
 
 
-# --- ⚜️ROMANIA TV⚜️ (509) ---
+# --- ⚜️ROMANIA TV⚜️ (520) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzfDK55q/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV UHD
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/33760.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSn8M9Mw/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV HD
@@ -482,6 +482,28 @@ http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/522171.m3u8
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/522170.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/a7tv.png" group-title="⚜️ROMANIA TV⚜️",A7 TV
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/331258.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - ASIA EXPRESS
+http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/348526.m3u8
+#EXTINF:-1 tvg-logo="armagedon9322" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - CRACIUN
+http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/382728.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 1 - 5
+http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/344332.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 6 - 10
+http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/344334.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 11 - 15
+http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/344335.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 16 - 20
+http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/344336.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 21 - 25
+http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/344337.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 26
+http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/344341.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV 1 (2024)
+http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/344088.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV 1 (2025)
+http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/344330.m3u8
+#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV 2 (2025)
+http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/344089.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfpQf3HR/resize.png" group-title="⚜️ROMANIA TV⚜️",LAS FIERBINTI SEZON 27 (2025)
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/533984.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/LOGO_.jpg/revision/latest/scale-to-width-down/250?cb=20250729105159" group-title="⚜️ROMANIA TV⚜️",ASIA EXPRESS (2025)
@@ -1027,4 +1049,4 @@ http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/296305.m3u8
 
-# Total: 509
+# Total: 520

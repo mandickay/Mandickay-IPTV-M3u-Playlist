@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 10489.tvmatik.eu
-# Generated: 2026-01-28 18:33:34
+# Generated: 2026-02-14 18:35:21
 # Expires: 2026-04-07
 # Family Safe Edition
 # ==============================================
@@ -3739,7 +3739,7 @@ http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/230471.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE-Kinder",DE: DISNEY CHANNEL
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/230470.m3u8
 
-# --- DE-Kino (109) ---
+# --- DE-Kino (108) ---
 #EXTINF:-1 tvg-logo="" group-title="DE-Kino",DE: Cineplus 01
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/282989.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE-Kino",DE: Cineplus 02
@@ -3942,8 +3942,6 @@ http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/230363.m3u8
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/230364.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE-Kino",DE: Rocky Channel
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/230365.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-Kino",DE: Rambo Channel
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/230366.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE-Kino",DE: Rakuten Action Movies
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/230367.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE-Kino",DE: Rakuten Comedy Movies
@@ -8837,7 +8835,7 @@ http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/222514.m3u8
 #EXTINF:-1 tvg-logo="https://logo.multicms.info/tvlogo/hitmuzik.jpg" group-title="TR-MUZIK",TR: HIT MUZIK SANAT
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/222513.m3u8
 
-# --- TR-SINEMA (63) ---
+# --- TR-SINEMA (53) ---
 #EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/upcoming.jpg" group-title="TR-SINEMA",YAKINDA SINEMALARDA
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/19291.m3u8
 #EXTINF:-1 tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL SONVIZYON
@@ -8866,28 +8864,8 @@ http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/64149.m3u8
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/13737.m3u8
 #EXTINF:-1 tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL KOMEDI
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/13735.m3u8
-#EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios INFO
+#EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: UNIVERSAL MARVEL
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/20037.m3u8
-#EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 1
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/20036.m3u8
-#EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 2
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/20035.m3u8
-#EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 3
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/20034.m3u8
-#EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 4
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/20033.m3u8
-#EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 5
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/20032.m3u8
-#EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 6
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/20031.m3u8
-#EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 7
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/20030.m3u8
-#EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 8
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/20029.m3u8
-#EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 9
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/20028.m3u8
-#EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 10
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/20027.m3u8
 #EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 1
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/160.m3u8
 #EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 2
@@ -9327,339 +9305,513 @@ http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/51103.m3u8
 #EXTINF:-1 tvg-logo="http://ssiptv.net/logos/yol.png" group-title="TR-YEREL",TR: YOL TV
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/124.m3u8
 
-# --- UK-ENGLAND (166) ---
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: DMAX
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234439.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Animal Planet
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234438.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: National Geographic
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234437.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Nick Jr
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234436.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY Sci fi
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234435.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY Showcase
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234434.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Cinema Valentine
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234433.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Cinema Sci-Fi & Horror
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234432.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Sports Premier League
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234431.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Sports NFL
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234430.m3u8
+# --- UK-ENGLAND (253) ---
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Baby TV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349347.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Boomerang
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234429.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: CITV
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234428.m3u8
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349346.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Cartoon Network
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234427.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: MUTV
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234426.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Quest
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234425.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Eden
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234424.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: LFC TV
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234423.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: WWE Network
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234422.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Comedy Central
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234421.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Nickelodeon
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234420.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TNT Sport 4
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234419.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TNT Sport 5
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234418.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TNT Sport 6
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234417.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TNT Sport 7
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234416.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TNT Sport 8
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234415.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TNT Sport 9
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234414.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC One
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234413.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Challenge
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234412.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: 5 Select
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234411.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: ViaPlay Extra
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234410.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Pick
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234409.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC ONE NORTHERN IRELAND
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234408.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC TWO NI
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234407.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: More 4
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234406.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Kiss TV
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234405.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Blaze
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234404.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: QVC
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234403.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sporty Stuff
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234402.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: La Liga TV
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234401.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TALK TV
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234400.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: E4
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234399.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC TWO SCOTLAND
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234398.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Great TV
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234397.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: S4C
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234396.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: STV
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234395.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: VH1
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234394.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Kerrang! TV
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234393.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Bloomberg
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234392.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: 5 Action
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234391.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Great Movies
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234390.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Great Movies Action
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234389.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Great Movies Classic
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234388.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC One West Midlands
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234387.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Quest Red
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234386.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: CBS REALITY
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234385.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: NewsmaxTV
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234384.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Euronews
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234383.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Trace Hits
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234382.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC Three
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234381.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Clubbing TV
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234380.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC Four
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234379.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: NOW 80s
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234378.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Now 70's
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234377.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: ITV3
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234376.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: ITV 2
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234375.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: ITV  1
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234374.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC TWO
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234373.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Horse & Country
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234372.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: FILM 4
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234371.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Discovery Science
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234370.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY NEWS
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234369.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SONY MOVIES ACTION
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234368.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Sports Mix
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234367.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TNT Sport 1
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234366.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TNT Sport 2
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234365.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: 5Star
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234364.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC News
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234363.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC Parliament
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234362.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC Scotland
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234361.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC4
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: CBS Drama
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234359.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Crime Investigation
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234358.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Discovery Channel
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234357.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Discovery History
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234356.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Discovery Turbo
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234355.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: E!
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234354.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: MTV Club
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234352.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: MTV Hits
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234351.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: MTV Music
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234350.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: MTV Rocks
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234349.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Nat Geo Wild
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234348.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Really
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234347.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: RTE1
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234346.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: RTE2
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234345.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Pop
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234344.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Yesterday
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234343.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: 5USA
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234342.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: 4Seven
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234341.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TLC
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234340.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: AMC
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234339.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: MTV
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234338.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: HORROR CHANNEL
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234337.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: H2
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234336.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Gold
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234335.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: UTV
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234334.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Fox
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234333.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Dave
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234332.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Dave Ja Vu
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234331.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: ITV4
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234330.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: ITVbe
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234329.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: VIRGIN MEDIA 1
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234328.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: VIRGIN MEDIA 2
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234327.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: VIRGIN MEDIA 3
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234326.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Drama
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234325.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: GB NEWS
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234324.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sony Movies
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234323.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: POP MAX
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234322.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Eurosport 1
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234321.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Eurosport 2
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234320.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Premier Sports 2
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234319.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Premier Sports 1
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234318.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TNT Sport 3
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234317.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: babytv
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234316.m3u8
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349345.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Cartoonito
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234315.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: CBBC
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234314.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Alibi
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234313.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Nick Junior
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234312.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Cinema Premiere
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234311.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Cinema Greats
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234310.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY CINEMA SELECT
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234309.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY CINEMA HITS
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234308.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY CINEMA ACTION
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234307.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY Nature
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234306.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY CINEMA THRILLER
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234305.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY CINEMA DRAMA
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234304.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY CINEMA SCI & HORROR
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234303.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Cinema Comedy
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234302.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY REPLAY
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234301.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY CINEMA ANIMATION
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234300.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Sports News
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234299.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY SPORTS GOLF
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234298.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY SPORTS FOOTBALL
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234297.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY SPORTS F1
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234296.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY SPORTS ARENA
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234295.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY SPORTS ACTION
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234294.m3u8
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349344.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC 3 FHD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349343.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC 4
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349342.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Citv
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349341.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Disney Channel
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349340.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Disney Junior
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349339.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Duck TV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349338.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Lolly Kids
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349337.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Moonbug Kids
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349336.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Nick Jr Too
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349335.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: nickelodeon
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349334.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: nicktoons
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349333.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: RTE Jr
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349332.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Cinema Animation
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349331.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Kids
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349330.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Tiny Pop
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349329.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Zoom! Zoom!
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349328.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: ZooMoo
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349327.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: LFC TV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349326.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: MUTV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349325.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Premier Sports 1
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349324.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Premier Sports 2
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349323.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Sports Premier League
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349322.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Sports
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349321.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Box Nation
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349320.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Eurosport 1
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349319.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Eurosport 2
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349318.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Fuel TV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349317.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Horse & Country TV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349316.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: MotoRRacing
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349315.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: RedBull TV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349314.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Setanta Sports 1
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349313.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Sports Action
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349312.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Sports F1
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349311.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Sports Golf
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349310.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Sports Main Event
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234293.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY Witness
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234292.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: FOOD NETWORK
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234291.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY SPORTS CRICKET
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234290.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY CINEMA FAMILY
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234289.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: 4MUSIC
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234288.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Virgin Media Sport
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234287.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: FREESPORTS
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234286.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY SPORTS RACING
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234285.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Betfred TV
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234284.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: INVESTIGATION DISCOVERY
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234283.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY SPORTS BOX OFFICE
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234282.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: HGTV
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234281.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: ITV
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234280.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: ALJAZEERA NEWS
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234279.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC One NI
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234278.m3u8
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349309.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Sports Mix
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349308.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Sports News
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349307.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: talkSPORT
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349306.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TNT Sports 1
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349305.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TNT Sports 4
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349304.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TNT Sports 5
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349303.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TNT Sports 6
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349302.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TNT Sports 8
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349301.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: UFC Fight Pass
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349300.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Willow
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349299.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Willow 2
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349298.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: World Billiards
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349297.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: World Poker Tour
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349296.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Magic TV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349295.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: MTV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349294.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: MTV Classic
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349293.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Now 70s
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349292.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Now 90s
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349291.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Now Rock
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349290.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Spotlight TV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349289.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TRACE Hits
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349288.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: VH1
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349287.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Aljazeera English
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349286.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC News
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349285.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC ALBA
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349284.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC World News
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349283.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Bloomberg
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349282.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Bloomberg Asia
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349281.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Bloomberg Asia Event
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349280.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Bloomberg EU
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349279.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Bloomberg EU Event
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349278.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: CNN
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349277.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: CNN News
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349276.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: DW English
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349275.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: euronews
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349274.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: France 24
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349273.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: GB News
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349272.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TRT World
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349271.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: 5 Action
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349270.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Alibi
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349269.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Alibi  1
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349268.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: AMC
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349267.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: CBS Drama
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349266.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Comedy Central
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349265.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Dave
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349264.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Drama
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349263.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Drama  1
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349262.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: E4 Extra
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349261.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Great Movies
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349260.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Great TV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349259.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Great TV  1
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349258.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Legend
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349257.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Atlantic
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349256.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Cinema Action
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349255.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Cinema Comedy
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349254.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Cinema Family
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349253.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Cinema Hits
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349252.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Cinema sci-fi Horror
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349251.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Cinema Select
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349250.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Cinema Thriller
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349249.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Cinema Women
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349248.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Crime
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349247.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Living
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349246.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Showcase
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349245.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Witness
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349244.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Starz
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349243.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SYFY
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349242.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Talking Pictures TV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349241.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TCM
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349240.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: 5 Select
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349238.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: 5 STAR
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349237.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: 5 STAR  1
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349236.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Adventure Earth
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349235.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Ayozat TV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349234.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC First
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349233.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC Four
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349232.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC Four Starts (7PM)/ Cbeebies
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349231.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC One
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349230.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC One Channel Islands
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349229.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC One East Yorkshire
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349228.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC One London
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349227.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC One Northern Ireland
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349226.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC One Oxford
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349225.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC One Scotland
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349224.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC One South East
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349223.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC One South West
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349222.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC One Wales
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349221.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC One West
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349220.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC One Yorks & Lincs
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349219.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC Three
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349218.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC Top Gear (EN)
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349217.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC Two
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349216.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC Two Northern Ireland
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234277.m3u8
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349215.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC Two Scotland
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349214.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC Two Wales
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349213.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Blaze
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349212.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Channel 4 London
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349211.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Channel 5
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234276.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: MTV Spankin
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234275.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Store
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/234274.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BT SPORT 1
-http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/66397.m3u8
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349210.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Dave ja vu
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349209.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: E!
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349208.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: RT NEWS
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349207.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Food Network
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349206.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Gems TV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349205.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: HobbyMaker
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349204.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Ideal World
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349203.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: iFood.TV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349202.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: iON TV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349201.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: itv 2
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: itv 4
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349199.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: itv BE
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349198.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Lifetime
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349197.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: London Live
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349196.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: More 4
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349195.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: More 4 1
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349194.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Nautical Channel
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349193.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Paramount Network
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349192.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Peer TV South Tyrol
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349191.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: QVC Beauty
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349190.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: QVC Extra
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349189.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: QVC Style
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349188.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: RTE One
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: RTE Two
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349186.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: S4C
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349185.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky One
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349184.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: STV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349183.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TBN
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349182.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TLC
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349181.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Travelxp
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349180.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: U&W (Watch)
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349179.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: W  1
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349178.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: World of Love Island
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349177.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Zoomer TV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349176.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: ANIMAL PLANET
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349175.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC Earth
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349174.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Love Nature
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349173.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: NAT GEO hd
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349172.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: NAT GEO Wild
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349171.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Nature
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349170.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Travel Channel
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349169.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Discovery H&H
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349168.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Discovery History
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349167.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Discovery Science
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349166.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: DMAX
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349165.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Quest
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349164.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Really
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349163.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Arts
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349162.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky Documentaries
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349161.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky History
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349160.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Sky History 2
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349159.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: World War TV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349158.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Yesterday
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349157.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Yesterday  1
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349156.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Discover Film
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349155.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Ginx eSports
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349154.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Loveworld
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349153.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: MovieSphere
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349152.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: NatureTime
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349151.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: PBS America
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349150.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Pluto TV Animals (England)
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349149.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Pluto TV Antiques Roadshow
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349148.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Pluto TV Classic Movies (England)
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349147.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Pluto TV Food (England)
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349146.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Pluto TV Movies (England)
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349145.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Pluto TV Paranormal (England)
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349144.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Pluto TV Romance
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349143.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Pluto TV Sherlock
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349142.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Rap 2K Music TV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349141.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TalkTV
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349140.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: pbs kids
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349139.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Thane
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349138.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Tom And Jerry
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349137.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Wonder
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349136.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: World Of FreeSports
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349135.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Xtreme Outdoor Presented by HISTORY
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349134.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Yu-Gi-Oh!
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349133.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY NEWS HD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349132.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TG4
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349131.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: HORROR CHANNEL
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349130.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: INVESTIGATION DISCOVERY
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349129.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY SPORTS RACING
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349128.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: FREESPORTS
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349127.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TNT SPORT 3 HD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349126.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY SPORTS ARENA HD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349125.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY SPORTS FOOTBALL
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349124.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: SKY SPORTS PL HD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349123.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK : Nick Junior
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349122.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK : TNT Sport 3
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349121.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK : TNT Sport 2
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349120.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK : Racing UK
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349119.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK : Premier Sports 1 HD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349118.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK : Premier Sports 2 HD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349117.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK : TCM FHD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349116.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: VIRGIN MEDIA 3
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349115.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: VIRGIN MEDIA 1
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349114.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: ITV 3 FHD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349113.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: ITV1 HD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349112.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK : ITV1 SD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349111.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK : ITV3 SD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349110.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Fox FHD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349109.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Gold
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349108.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: H2
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349107.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Eden FHD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349106.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK : Fox
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349105.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK : E4
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349104.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: 5USA
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349103.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK : RTE1 HD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349102.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Nat Geo
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349101.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: History
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349100.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Discovery Turbo HD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349099.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Discovery Channel HD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349098.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: Challenge
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349097.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: BBC4 HD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349096.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TNT SPORT 2 FHD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349095.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK-ENGLAND",UK: TNT SPORT 1 FHD
+http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/349094.m3u8
 
 # --- US-USA (319) ---
 #EXTINF:-1 tvg-logo="" group-title="US-USA",US: A&E
@@ -10307,4 +10459,4 @@ http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/49032.m3u8
 #EXTINF:-1 tvg-logo="" group-title="YABANCI MUZIK",TR: KONSERLER
 http://10489.tvmatik.eu/live/MhmtZTRK01/726ychgi71/240402.m3u8
 
-# Total: 5107
+# Total: 5183

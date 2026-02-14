@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: servizi-ita.com:8080
-# Generated: 2026-02-14 07:16:46
+# Generated: 2026-02-14 18:32:46
 # Expires: 2026-10-28
 # Family Safe Edition
 # ==============================================
@@ -8121,9 +8121,11 @@ http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/18135.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON COMICO",Made in Sud  I Gomorroidi con Salvatore Conte   Made in Sud 12042017
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/18158.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (992) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (993) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/1659.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/f6988b928c38f506f7bc2d2e0cfa54eb.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",In viaggio con Joe (2026)
+http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/86943.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/15422e080d2f4f9847a012393a3e4a6a.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Mamma, i ladri! (1993)
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/86916.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/ae3b2732c07f548ee988574d53818cf4.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Rental Family - Nelle vite degli altri (2025)
@@ -10211,9 +10213,13 @@ http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1570) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1572) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/1662.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/bee3aafbfa652088c97f38eccb966f44.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Love Me Love Me (2026)
+http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/86941.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/11186f58c9b8e0ad84d08d3c049ba558.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Il Marciatore - La vera storia di Abdon Pamich (2026)
+http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/86942.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/3b3640929d23f7a63a6b7492db7f740d.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Se il nostro amore svanisse stanotte (2025)
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/86935.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/c3a303f1981ff60d6c65d9765ad3f172.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Scoperta mortale (2022)
@@ -19749,7 +19755,7 @@ http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/46163.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/abb4cfb2e854c34820508bc95e63bd8e.jpg" group-title="Movies | NETFLIX AMAZON-Serie-Tv",The Protector 04x07
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/46164.mkv
 
-# --- Movies | NETFLIX-AMAZON-SERIE (654) ---
+# --- Movies | NETFLIX-AMAZON-SERIE (655) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Celebrity Hunted: Caccia all'uomo
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",ZeroZeroZero
@@ -21058,6 +21064,8 @@ http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/1628.mp4
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/1629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Bambini di piombo
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/1632.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",The Residence
+http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/1634.mp4
 
 # --- Movies | PRIMAFILA (8) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/9dc4d3255d54b21414587c15636827a7.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD Yoh! Bestie (2026)
@@ -22365,7 +22373,7 @@ http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/1623.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Sweetpea
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/1627.mp4
 
-# --- Movies | SERIE-TV-ITALIA (152) ---
+# --- Movies | SERIE-TV-ITALIA (153) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22670,6 +22678,8 @@ http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/1625.mp4
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/1630.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Colpa dei sensi
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/1631.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Pupetta - Il Coraggio e la passione
+http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/1633.mp4
 
 # --- Movies | Serie-Tv-Ita (1231) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | Serie-Tv-Ita",==== Serie Tv Italia ====
@@ -32875,4 +32885,4 @@ http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://servizi-ita.com:8080/movie/tvy3Nfu6SK/OUOPveuHP3/20654.mkv
 
-# Total: 16406
+# Total: 16411

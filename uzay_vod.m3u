@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-02-14 07:29:46
+# Generated: 2026-02-14 18:40:30
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -12467,7 +12467,11 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/255929.mkv
 
-# --- Movies | (V|DE) Filme (1232) ---
+# --- Movies | (V|DE) Filme (1234) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/wBBb36bywe2ezfdrN66IT1xMX7L_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Code - Vertraue Keinem Dieb - 2009
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/667071.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/61CM5GgA3J1GVuP1VcFdtaV1zql_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Tage Des Donners - 1990
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/667070.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1ANLC6EERSQyOXghtz4wkrXMa9Q_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Paranormal Activity 3 - 2011
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/666466.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8vnsB3Rg9Gb91UOaecXRb7dYB37_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Grave Encounters - 2011
@@ -24231,4 +24235,4 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248353.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/10625.mp4
 
-# Total: 12090
+# Total: 12092

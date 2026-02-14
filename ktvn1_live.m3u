@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ktvn1.xyz
-# Generated: 2026-02-14 07:23:02
+# Generated: 2026-02-14 18:44:19
 # Expires: 2026-04-29
 # Family Safe Edition
 # ==============================================
@@ -2342,7 +2342,7 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/620.m3u8
 # --- AR | beIN |4K|SPORTS (33) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sports_News_ar.png" group-title="AR | beIN |4K|SPORTS",BEIN SPORTS NEWS FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/137871.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/473px-BeIN-Sports-Logo.svg.png" group-title="AR | beIN |4K|SPORTS",BEIN SPORTS FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logo_beIN.png/1280px-Logo_beIN.png" group-title="AR | beIN |4K|SPORTS",BEIN SPORTS FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/432582.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4zv8JPG/alkass1-one-live-en-en-direct.jpg" group-title="AR | beIN |4K|SPORTS",ALKASS 1 FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/431369.m3u8
@@ -2480,7 +2480,7 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/85282.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/85288.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bein-sports.svg/120px-Bein-sports.svg.png" group-title="AR | beIN |HD|SPORTS",beIN Sports FR 2 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/85291.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/473px-BeIN-Sports-Logo.svg.png" group-title="AR | beIN |HD|SPORTS",beIN Sports NBA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/NBA_Logo.svg/500px-NBA_Logo.svg.png" group-title="AR | beIN |HD|SPORTS",beIN Sports NBA HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/2257.m3u8
 
 # --- AZ | AZERBAIJAN (37) ---
@@ -3679,30 +3679,22 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/122720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2zwCP3z.jpg" group-title="EU ES | 24/7 NETFLIX",24/7 THE HANGOVER
 http://ktvn1.xyz/live/A52FDC75/34X79X26/122721.m3u8
 
-# --- EU ES | AFICIONES ESTILO DE VIDA (13) ---
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhU84fqOjBS_ON7u1rKwN2teP1LbTWUxalVA&s" group-title="EU ES | AFICIONES ESTILO DE VIDA",| ES | GRAN HERMANO | Cámara 1
-http://ktvn1.xyz/live/A52FDC75/34X79X26/423013.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhU84fqOjBS_ON7u1rKwN2teP1LbTWUxalVA&s" group-title="EU ES | AFICIONES ESTILO DE VIDA",| ES | GRAN HERMANO | Cámara 2
-http://ktvn1.xyz/live/A52FDC75/34X79X26/423012.m3u8
-#EXTINF:-1 tvg-logo="https://los40.com/resizer/v2/NAJFH62YL5F5XB6LEBOFKRF464.jpg?auth=eb3648c36a1ec4c27f3ce16638b87b392f39c75217cf1cb48ae69630693d855b&quality=70&width=1200&height=675&focal=438,251" group-title="EU ES | AFICIONES ESTILO DE VIDA",| ES | OT 2025 | 24 HORAS
-http://ktvn1.xyz/live/A52FDC75/34X79X26/421999.m3u8
+# --- EU ES | AFICIONES ESTILO DE VIDA (9) ---
 #EXTINF:-1 tvg-logo="https://cultoro.es/wp-content/uploads/2023/04/Logo-Torole.jpg" group-title="EU ES | AFICIONES ESTILO DE VIDA",| ES | TOROLE HD 1080P
 http://ktvn1.xyz/live/A52FDC75/34X79X26/421998.m3u8
 #EXTINF:-1 tvg-logo="https://cultoro.es/wp-content/uploads/2023/04/Logo-Torole.jpg" group-title="EU ES | AFICIONES ESTILO DE VIDA",| ES | TOROLE HD 720P
 http://ktvn1.xyz/live/A52FDC75/34X79X26/421997.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" group-title="EU ES | AFICIONES ESTILO DE VIDA",| ES | BBC TOP GEAR FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/421996.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBFOO.png" group-title="EU ES | AFICIONES ESTILO DE VIDA",| ES | BBC FOOD HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/421995.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBFOO.png" group-title="EU ES | AFICIONES ESTILO DE VIDA",| ES | BBC FOOD FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/421994.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EU ES | AFICIONES ESTILO DE VIDA",| ES | EL TORO T.V ᶠʰᵈ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Etoro_logo.svg/1280px-Etoro_logo.svg.png?20230429204728" group-title="EU ES | AFICIONES ESTILO DE VIDA",| ES | EL TORO T.V ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/421993.m3u8
-#EXTINF:-1 tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png" group-title="EU ES | AFICIONES ESTILO DE VIDA",| ES | ONETORO 1080p. (SAT)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Etoro_logo.svg/1280px-Etoro_logo.svg.png?20230429204728" group-title="EU ES | AFICIONES ESTILO DE VIDA",| ES | ONETORO 1080p. (SAT)
 http://ktvn1.xyz/live/A52FDC75/34X79X26/421992.m3u8
-#EXTINF:-1 tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png" group-title="EU ES | AFICIONES ESTILO DE VIDA",| ES | ONETORO ʰᵈ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Etoro_logo.svg/1280px-Etoro_logo.svg.png" group-title="EU ES | AFICIONES ESTILO DE VIDA",| ES | ONETORO ʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/421991.m3u8
-#EXTINF:-1 tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png" group-title="EU ES | AFICIONES ESTILO DE VIDA",| ES | ONETORO ᶠʰᵈ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Etoro_logo.svg/1280px-Etoro_logo.svg.png" group-title="EU ES | AFICIONES ESTILO DE VIDA",| ES | ONETORO ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/421990.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQ7BQ7UUskMBrLs-TPEEqPanW5D8IMdSbqfhdtcSGZWWAf7gJwMrOV_Po5efO0nlA500&usqp=CAU" group-title="EU ES | AFICIONES ESTILO DE VIDA",| ES | HORSE TV ʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/421989.m3u8
@@ -4349,23 +4341,15 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/412645.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s91176_ll_h3_aa.png" group-title="EU ES | TDT ESPAÑA",| ES | ANTENA 3 ʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/412695.m3u8
 
-# --- EU FR | 6 PLAY RMC (34) ---
+# --- EU FR | 6 PLAY RMC (25) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/730px-Logo_RMC_2002.svg.png" group-title="EU FR | 6 PLAY RMC",[FR] RMC ALERTE SECOURS ˢᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/393013.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/730px-Logo_RMC_2002.svg.png" group-title="EU FR | 6 PLAY RMC",[FR] RMC ALERTE SECOURS ʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/393012.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/730px-Logo_RMC_2002.svg.png" group-title="EU FR | 6 PLAY RMC",[FR] RMC ALERTE SECOURS ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/393011.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/730px-Logo_RMC_2002.svg.png" group-title="EU FR | 6 PLAY RMC",[FR] RMC MECANIC ˢᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/393010.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/730px-Logo_RMC_2002.svg.png" group-title="EU FR | 6 PLAY RMC",[FR] RMC MECANIC ʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/393009.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/730px-Logo_RMC_2002.svg.png" group-title="EU FR | 6 PLAY RMC",[FR] RMC MECANIC ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/393008.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/730px-Logo_RMC_2002.svg.png" group-title="EU FR | 6 PLAY RMC",[FR] RMC MYSTERE ˢᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/393007.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/730px-Logo_RMC_2002.svg.png" group-title="EU FR | 6 PLAY RMC",[FR] RMC MYSTERE ʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/393006.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/730px-Logo_RMC_2002.svg.png" group-title="EU FR | 6 PLAY RMC",[FR] RMC MYSTERE ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/393005.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/730px-Logo_RMC_2002.svg.png" group-title="EU FR | 6 PLAY RMC",[FR] RMC TALK INFO ˢᵈ
@@ -4374,20 +4358,10 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/393004.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/393003.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/730px-Logo_RMC_2002.svg.png" group-title="EU FR | 6 PLAY RMC",[FR] RMC TALK INFO ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/393002.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/730px-Logo_RMC_2002.svg.png" group-title="EU FR | 6 PLAY RMC",[FR] RMC TALK SPORT ˢᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/393001.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/730px-Logo_RMC_2002.svg.png" group-title="EU FR | 6 PLAY RMC",[FR] RMC TALK SPORT ʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/393000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/730px-Logo_RMC_2002.svg.png" group-title="EU FR | 6 PLAY RMC",[FR] RMC TALK SPORT ᶠʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/392999.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/730px-Logo_RMC_2002.svg.png" group-title="EU FR | 6 PLAY RMC",[FR] RMC WOW ˢᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/392998.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/730px-Logo_RMC_2002.svg.png" group-title="EU FR | 6 PLAY RMC",[FR] RMC WOW ʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/392997.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/730px-Logo_RMC_2002.svg.png" group-title="EU FR | 6 PLAY RMC",[FR] RMC WOW ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/392996.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_de_M6%2B_Max.png" group-title="EU FR | 6 PLAY RMC",|FR| M6+ SF  ᶠʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/393021.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/France.tv_-_logo_2022.svg/531px-France.tv_-_logo_2022.svg.png" group-title="EU FR | 6 PLAY RMC",|FR| FRANCE TV SERIES ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/393020.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_de_M6%2B_Max.png" group-title="EU FR | 6 PLAY RMC",|FR| HORSE ᶠʰᵈ
@@ -6537,21 +6511,41 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/177876.m3u8
 #EXTINF:-1 tvg-logo="http://playlistfoverer.online:8080/images/d018146bd4b48997c18734748263ac09.png" group-title="LA | PREMIUM LATINO",PREMIUM | Discovery TLC HD (MX)
 http://ktvn1.xyz/live/A52FDC75/34X79X26/177875.m3u8
 
-# --- NL | ALGEMEENE (40) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/RTL_Crime_Logo_2023.png?20230501074756" group-title="NL | ALGEMEENE",RTL Crime HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/357635.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/RTL_Telekids_Logo_2023.png" group-title="NL | ALGEMEENE",RTL Telekids HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/357634.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/nl/RTL4.nl.png" group-title="NL | ALGEMEENE",|NL| RTL 4 HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/164634.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/nl/RTL5.nl.png" group-title="NL | ALGEMEENE",|NL| RTL 5 HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/164633.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/nl/SBS6.nl.png" group-title="NL | ALGEMEENE",|NL| SBS 6 HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/164632.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/nl/RTL7.nl.png" group-title="NL | ALGEMEENE",|NL| RTL 7 HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/164631.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/nl/RTL8.nl.png" group-title="NL | ALGEMEENE",|NL| RTL 8 HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/164630.m3u8
+# --- NL | ALGEMEENE (50) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/RTL_4_Logo_2023.png" group-title="NL | ALGEMEENE",(NL) RTL 4
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440790.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/RTL_4_Logo_2023.png" group-title="NL | ALGEMEENE",(NL) RTL 4 HD
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440789.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/RTL_5_Logo_2017.svg/1280px-RTL_5_Logo_2017.svg.png" group-title="NL | ALGEMEENE",(NL) RTL 5
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440788.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/RTL_5_Logo_2017.svg/1280px-RTL_5_Logo_2017.svg.png" group-title="NL | ALGEMEENE",(NL) RTL 5 HD
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440787.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/RTL_7_Logo_2023.png" group-title="NL | ALGEMEENE",(NL) RTL 7
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440786.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/RTL_7_Logo_2023.png" group-title="NL | ALGEMEENE",(NL) RTL 7 HD
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440785.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/RTL_8_Logo_2023.png" group-title="NL | ALGEMEENE",(NL) RTL 8
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440784.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/RTL_8_Logo_2023.png" group-title="NL | ALGEMEENE",(NL) RTL 8 HD
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440783.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/RTL_Crime_Logo_2023.png" group-title="NL | ALGEMEENE",(NL) RTL CRIME
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440782.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/RTL_Crime_Logo_2023.png" group-title="NL | ALGEMEENE",(NL) RTL Crime HD
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440781.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/RTL_Lounge_Logo_2023.png?20230501075933" group-title="NL | ALGEMEENE",(NL) RTL LOUNGE
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440780.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/RTL_Lounge_Logo_2023.png" group-title="NL | ALGEMEENE",(NL) RTL Lounge HD
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440779.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/RTL_Telekids_Logo_2023.png" group-title="NL | ALGEMEENE",(NL) RTL TELEKIDS
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440778.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/RTL_Telekids_Logo_2023.png" group-title="NL | ALGEMEENE",(NL) RTL TELEKIDS FHD
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440777.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/RTL_Telekids_Logo_2023.png" group-title="NL | ALGEMEENE",(NL) RTL TELEKIDS HD
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440776.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTL_Z_Logo_2023.png" group-title="NL | ALGEMEENE",(NL) RTL Z
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440775.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTL_Z_Logo_2023.png" group-title="NL | ALGEMEENE",(NL) RTL Z HD
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440774.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nl/NPO1.nl.png" group-title="NL | ALGEMEENE",NL: NPO 1
 http://ktvn1.xyz/live/A52FDC75/34X79X26/158376.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nl/NPO1.nl.png" group-title="NL | ALGEMEENE",NL: NPO 1 HD
@@ -7771,4 +7765,4 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/346609.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/512px-RTP1_-_Logo_2016.svg.png" group-title="Unknown",|PT| RTP 1 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/143527.m3u8
 
-# Total: 3742
+# Total: 3739

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2026-02-14 07:17:41
+# Generated: 2026-02-14 18:35:56
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -7753,9 +7753,11 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/44491.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/342baf3fbe69391f255aa4405bb042c8.jpg" group-title="Movies | NETFLIX AMAZON COMICO",Jerry e Marge giocano alla lotteria (2022)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/61271.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (992) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (993) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1659.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/f6988b928c38f506f7bc2d2e0cfa54eb.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",In viaggio con Joe (2026)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/86943.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/15422e080d2f4f9847a012393a3e4a6a.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Mamma, i ladri! (1993)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/86916.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/ae3b2732c07f548ee988574d53818cf4.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Rental Family - Nelle vite degli altri (2025)
@@ -9843,7 +9845,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1570) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1572) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/e0d3d17e8713b2c88262ff259bc19989.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",È colpa mia Londra (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/83999.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/fa21a2ad35d92916dd80a0506b7e41ce.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Lesson (2023)
@@ -9862,6 +9864,10 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/64655.mkv
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/64654.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1662.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/bee3aafbfa652088c97f38eccb966f44.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Love Me Love Me (2026)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/86941.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/11186f58c9b8e0ad84d08d3c049ba558.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Il Marciatore - La vera storia di Abdon Pamich (2026)
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/86942.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/3b3640929d23f7a63a6b7492db7f740d.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Se il nostro amore svanisse stanotte (2025)
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/86935.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/c3a303f1981ff60d6c65d9765ad3f172.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Scoperta mortale (2022)
@@ -19381,7 +19387,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/46163.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/abb4cfb2e854c34820508bc95e63bd8e.jpg" group-title="Movies | NETFLIX AMAZON-Serie-Tv",The Protector 04x07
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/46164.mkv
 
-# --- Movies | NETFLIX-AMAZON-SERIE (652) ---
+# --- Movies | NETFLIX-AMAZON-SERIE (653) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Celebrity Hunted: Caccia all'uomo
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",ZeroZeroZero
@@ -20686,6 +20692,8 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1628.mp4
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Bambini di piombo
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1632.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",The Residence
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1634.mp4
 
 # --- Movies | PRIMAFILA (8) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/9dc4d3255d54b21414587c15636827a7.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD Yoh! Bestie (2026)
@@ -21979,7 +21987,7 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1623.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Sweetpea
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1627.mp4
 
-# --- Movies | SERIE-TV-ITALIA (152) ---
+# --- Movies | SERIE-TV-ITALIA (153) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22284,6 +22292,8 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1625.mp4
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1630.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Colpa dei sensi
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1631.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Pupetta - Il Coraggio e la passione
+http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/1633.mp4
 
 # --- Movies | Saghe Film (18) ---
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | Saghe Film",========IL SIGNORE DEGLI ANELLI========
@@ -32525,4 +32535,4 @@ http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50888.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/96e97ef7e316fab54d133aa6fcdf30a2.jpg" group-title="Movies | SerieTV",Turner and Hooch 01x12 La Resa Dei Conti
 http://world-panel.co:8080/movie/PieraSalvatore1/K9vWdcuVnA/50889.mkv
 
-# Total: 16231
+# Total: 16236

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-02-19 07:26:00
+# Generated: 2026-02-19 18:42:38
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -185,17 +185,13 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32741.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",ALB: MAXCRO SELECT 7 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/25531.m3u8
 
-# --- ARB: Arabic countries (69) ---
+# --- ARB: Arabic countries (66) ---
 #EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",##### ARABIA  #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171569.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",ADEL IMAM FHD [Shahid]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171570.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",AFLAM FHD [Shahid]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171571.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",AL ARABIYA BUSINESS [Shahid]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171572.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",AL ASOUF FHD [Shahid]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171573.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",AL HURRA HD [Shahid]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171574.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",AL ISTIQAMA TV [Shahid]
@@ -314,8 +310,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171630.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171631.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",THE GAME FHD [Shahid]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171632.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",TOP CHEF FHD [Shahid]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171633.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",TOP GEAR FHD [Shahid]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/171634.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",UTV IRAQI FHD [Shahid]
@@ -986,6 +980,22 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165930.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165929.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sportklub-1.png" group-title="CRO: KROATIEN",Sport Klub 1 HD [CRO]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165928.m3u8
+
+# --- CZE: CZECH REPUBLIC (7) ---
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",##### CZECH REPUBLIC #####
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147192.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ SPORT
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177323.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ PLUS HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177324.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ 1 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177325.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ 24 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177326.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ CINEMA HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177327.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ CINEMA 1 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177328.m3u8
 
 # --- DE-CINEMA/SELECT (72) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-CINEMA/SELECT",##### DE CINEMA/SELECT #####
@@ -2467,148 +2477,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32465.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU VIASAT NATURE HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32369.m3u8
 
-# --- FI : FINLAND (70) ---
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",##### FINLAND #####
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147192.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: YLE TV1
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: YLE TV1 FHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: YLE TV2
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147195.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Yle TV2 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147196.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Yle TV2 FHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147197.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: YLE Tema FEM HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147198.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Yle Teema Fem FHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147199.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: TV 7 News Heaven
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: TV 7 HImlen HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147201.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: TV 7 EESTI
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147202.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: TV 7 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147203.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: N4 Iceland HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147204.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: FEM HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147205.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Frii
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147206.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Nelonen
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147207.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Sub TV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147208.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: LIV
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147209.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: JIM
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147210.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: NICK JR.
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147211.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Disney Junior  [Multi-Audio]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147212.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Disney XD  [Multi-Audio]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147213.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Disney Channel  [Multi-Audio]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147214.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Juniori FHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147215.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Juniori
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147216.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: VH1
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147217.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: MTV  [Multi-Audio]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147218.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: English Club
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147219.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: BBC Brit FHD  [Multi-Sub]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147220.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Viasat Nature
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147221.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Viasat Explorer HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147222.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V History FHD  [Multi-Sub]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147223.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: H2 FHD  [Multi-Sub]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147224.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: History FHD  [Multi-Sub]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Animal Planet HD  [Multi-Sub]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147226.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Investigation Discovery  [Multi-Sub]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147227.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Discovery World
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147228.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Discovery Science
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147229.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Discovery Channel
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147230.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Nat Geo Wild FHD  [Multi-Sub]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147231.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: National Geographic FHD  [Multi-Sub]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147232.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Ginx eSports
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147233.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: EuroSport 2  FHD [Multi-Audio]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147234.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: EuroSport 1 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147235.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport Vinter HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147236.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport Premium HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147237.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V SPORT ULTRAHD 4K
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147238.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport+ Suomi
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147239.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport 2 Suomi
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147240.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport 1 Suomi
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147241.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport 1  [Multi-Audio]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147242.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Sport 1 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147243.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Sport 1 FHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147244.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Sport 2 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147245.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Sport 2 FHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147246.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: FOX
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147247.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Series FHD  [Multi-Sub]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147248.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Series HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147249.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Film Family
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147250.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Film Action
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147251.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Film Hits HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147252.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Film Premiere
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147253.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Max FHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147254.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Max HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147255.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Stars FHD  [Multi-Sub]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147256.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Stars
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147257.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Hits FHD  [Multi-Sub]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147258.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More First FHD  [Multi-Sub]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147259.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: MTV 3 FHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147261.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: MTV 3 HD  [Multi-Sub]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/147262.m3u8
-
 # --- FR: FRANCE (294) ---
 #EXTINF:-1 tvg-logo="" group-title="FR: FRANCE",##### FRANCE #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/37235.m3u8
@@ -3563,191 +3431,11 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173523.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ad3256b481e0d9bede40d46f0f62da0e.png" group-title="GR: GREECE",GR: 4E
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173537.m3u8
 
-# --- HU: HUNGARY (92) ---
+# --- HU: HUNGARY (2) ---
 #EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",##### HUNGARY #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/37931.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_m1
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177312.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_m2
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177313.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_fem3
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177305.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: m4_sport_hun
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177311.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: m5_hun
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177310.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_fb_extra_hu
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177263.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_spiler_1
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177270.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_atv_spirit
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177284.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_atv
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177285.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_tv4
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177287.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_galaxy4
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177288.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_story4
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177289.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_sorozatklub
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177290.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_moziklub
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177291.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_kolyokklub
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177292.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_rtl_otthon
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177293.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_muzsika
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177295.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_film_plus
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177297.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_cool_tv
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177298.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_rtl_harom
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177299.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_rtl_ketto
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177300.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_rtl_hun
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177301.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_tv2_kids
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177302.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_tv2_sef
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177303.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_super_tv2
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177306.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_tv2
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177307.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_duna_world
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177308.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_duna
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177309.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_slager_hu
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177249.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_zenebutik
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177250.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_mozi_plusz
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177252.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_izaura_tv
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177253.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_nickelodeon_hu
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177255.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_prime
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177234.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_spiler_2
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177235.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_jocky
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177236.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: film_drama_atktv
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: film_life_atktv
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177226.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Xsport_atktv
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: X SPORT
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177223.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: tridsatsest_hd_atktv
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177224.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: star_cinema_atktv
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177227.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: star_family_atktv
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177228.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: uatv
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177229.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: 1plus1_marathon
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177230.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: one_plus_one_int_tizen
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177231.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: espresso
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177232.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: current_time_atktv
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177233.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: pianko
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177237.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: dikh
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177238.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: balaton_tv
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177239.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ewtn_bonum
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177240.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: armenia
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177241.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: cgtn_doc
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177242.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: cgtn
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177243.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: france24_france
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177244.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: france24_eng
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177245.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: skynews
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177246.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: rybalka_tv_atktv
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177247.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: dacha_tv_atktv
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177248.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: csaba_tv_atk_800
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177251.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: nick_jr_hun
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177254.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: nicktoons_hun
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177256.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: stingray_iconcerts_hd_hevc50
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177257.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: duck_plus
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177258.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: duck_tv
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177259.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: disney_channel_hun
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177260.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: filmbox_family_hu
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177261.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: filmbox_plus_hu
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177262.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: filmbox_hun
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177265.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: viasat_film
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177269.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: film_plus_2
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177294.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: viasat6
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177266.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: viasat3
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177267.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: viasat2
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177268.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: langlabs
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177271.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: lingotoons
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177272.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ectv_hd_1
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177273.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: fishing_and_hunting_hun
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177274.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: spektrum_home_hun
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177275.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: kitchen_tv
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177276.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_travel_xp
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177277.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: bbc_earth_hun
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177278.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: national_geographic_wild_hun
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177279.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: superyacht
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177281.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: yachting_tv
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177282.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: arena4
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177283.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: sorozat_hungary
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177296.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: filmbox_premium_hun
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177264.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: national_geographic_channel_hun
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177280.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_tv2_comedy
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177304.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: film4
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/177286.m3u8
 
 # --- IT: ITALY (112) ---
 #EXTINF:-1 tvg-logo="" group-title="IT: ITALY",##### ITALY #####
@@ -6583,4 +6271,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165977.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",3 SPORT 1
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165981.m3u8
 
-# Total: 3231
+# Total: 3075

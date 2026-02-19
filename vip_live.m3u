@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: vip.defanstv.com:2086
-# Generated: 2026-02-19 07:23:55
+# Generated: 2026-02-19 18:46:23
 # Expires: 2026-10-05
 # Family Safe Edition
 # ==============================================
@@ -72,6 +72,22 @@ http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/29812.m3u8
 http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/29811.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: RSI LA 2 HD
 http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/39923.m3u8
+
+# --- CZE: CZECH REPUBLIC (7) ---
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",##### CZECH REPUBLIC #####
+http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147192.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ SPORT
+http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/177323.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ PLUS HD
+http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/177324.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ 1 HD
+http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/177325.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ 24 HD
+http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/177326.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ CINEMA HD
+http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/177327.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ CINEMA 1 HD
+http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/177328.m3u8
 
 # --- DE-CINEMA/SELECT (72) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-CINEMA/SELECT",##### DE CINEMA/SELECT #####
@@ -1025,148 +1041,6 @@ http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/176858.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EURO NEWS CHANNELS",Al Jazeera English
 http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/176859.m3u8
 
-# --- FI : FINLAND (70) ---
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",##### FINLAND #####
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147192.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: YLE TV1
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: YLE TV1 FHD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: YLE TV2
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147195.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Yle TV2 HD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147196.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Yle TV2 FHD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147197.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: YLE Tema FEM HD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147198.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Yle Teema Fem FHD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147199.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: TV 7 News Heaven
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: TV 7 HImlen HD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147201.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: TV 7 EESTI
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147202.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: TV 7 HD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147203.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: N4 Iceland HD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147204.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: FEM HD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147205.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Frii
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147206.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Nelonen
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147207.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Sub TV
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147208.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: LIV
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147209.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: JIM
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147210.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: NICK JR.
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147211.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Disney Junior  [Multi-Audio]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147212.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Disney XD  [Multi-Audio]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147213.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Disney Channel  [Multi-Audio]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147214.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Juniori FHD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147215.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Juniori
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147216.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: VH1
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147217.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: MTV  [Multi-Audio]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147218.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: English Club
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147219.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: BBC Brit FHD  [Multi-Sub]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147220.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Viasat Nature
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147221.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Viasat Explorer HD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147222.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V History FHD  [Multi-Sub]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147223.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: H2 FHD  [Multi-Sub]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147224.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: History FHD  [Multi-Sub]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Animal Planet HD  [Multi-Sub]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147226.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Investigation Discovery  [Multi-Sub]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147227.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Discovery World
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147228.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Discovery Science
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147229.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Discovery Channel
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147230.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Nat Geo Wild FHD  [Multi-Sub]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147231.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: National Geographic FHD  [Multi-Sub]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147232.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Ginx eSports
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147233.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: EuroSport 2  FHD [Multi-Audio]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147234.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: EuroSport 1 HD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147235.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport Vinter HD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147236.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport Premium HD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147237.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V SPORT ULTRAHD 4K
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147238.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport+ Suomi
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147239.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport 2 Suomi
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147240.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport 1 Suomi
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147241.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport 1  [Multi-Audio]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147242.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Sport 1 HD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147243.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Sport 1 FHD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147244.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Sport 2 HD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147245.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Sport 2 FHD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147246.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: FOX
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147247.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Series FHD  [Multi-Sub]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147248.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Series HD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147249.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Film Family
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147250.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Film Action
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147251.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Film Hits HD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147252.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Film Premiere
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147253.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Max FHD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147254.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Max HD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147255.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Stars FHD  [Multi-Sub]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147256.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Stars
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147257.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Hits FHD  [Multi-Sub]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147258.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More First FHD  [Multi-Sub]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147259.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: MTV 3 FHD
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147261.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: MTV 3 HD  [Multi-Sub]
-http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147262.m3u8
-
 # --- NO : NORWAY (15) ---
 #EXTINF:-1 tvg-logo="" group-title="NO : NORWAY",##### NORWAY #####
 http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/147263.m3u8
@@ -1539,4 +1413,4 @@ http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/165977.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",3 SPORT 1
 http://vip.defanstv.com:2086/live/Jolie2020/cw0DTeRx39/165981.m3u8
 
-# Total: 749
+# Total: 686

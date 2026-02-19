@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uksolvix.uk:8080
-# Generated: 2026-02-19 07:22:37
+# Generated: 2026-02-19 18:52:05
 # Expires: 2026-05-03
 # Family Safe Edition
 # ==============================================
@@ -53,7 +53,7 @@ http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/191084.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/3a1436c0020df67648220a778ae0c0eb.png" group-title="⭐RADIO",RADIO CONSTANTA
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/191085.m3u8
 
-# --- ⭐ROMANIA (503) ---
+# --- ⭐ROMANIA (500) ---
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/mireasa.png" group-title="⭐ROMANIA",MIREASA LIVE
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/204057.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/mireasa_plus.png" group-title="⭐ROMANIA",MIREASA PLUS
@@ -118,9 +118,9 @@ http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/241.m3u8
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/106.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/tvr_folclor.png" group-title="⭐ROMANIA",TVR FOLCLOR FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/184816.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/acasa.png" group-title="⭐ROMANIA",ACASA TV FHD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/acasa.png" group-title="⭐ROMANIA",ACASA FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/88.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/acasa.png" group-title="⭐ROMANIA",ACASA TV SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/acasa.png" group-title="⭐ROMANIA",ACASA SD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/147.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/pro_gold.png" group-title="⭐ROMANIA",ACASA GOLD FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/90.m3u8
@@ -242,7 +242,7 @@ http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/172418.m3u8
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/237.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/axn_black.png" group-title="⭐ROMANIA",AXN BLACK SD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/89535.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/axn_spin.png" group-title="⭐ROMANIA",AXN SPIN SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/axn_spin.png" group-title="⭐ROMANIA",AXN SPIN
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/89537.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/axn_white.png" group-title="⭐ROMANIA",AXN WHITE SD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/89536.m3u8
@@ -266,7 +266,7 @@ http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/19.m3u8
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/298.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/comedy_central.png" group-title="⭐ROMANIA",COMEDY CENTRAL FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/20.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/diva.png" group-title="⭐ROMANIA",DIVA UNIVERSAL SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/diva.png" group-title="⭐ROMANIA",DIVA UNIVERSAL
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/203.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/epic_drama.png" group-title="⭐ROMANIA",EPIC DRAMA FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/125.m3u8
@@ -356,8 +356,6 @@ http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/172404.m3u8
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/15107.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/animal_planet.png" group-title="⭐ROMANIA",ANIMAL PLANET FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/115.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/animal_planet.png" group-title="⭐ROMANIA",ANIMAL PLANET FHD
-http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/240.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/bbc_earth.png" group-title="⭐ROMANIA",BBC EARTH FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/204.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/bbc_earth.png" group-title="⭐ROMANIA",BBC EARTH SD
@@ -386,7 +384,7 @@ http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/209379.m3u8
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/43.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/fashion_tv.png" group-title="⭐ROMANIA",FASHION TV
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/191548.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/food_network.png" group-title="⭐ROMANIA",FOOD NETWORK FHD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/food_network.png" group-title="⭐ROMANIA",Food TV FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/194.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/prima_world.png" group-title="⭐ROMANIA",PRIMA WORLD FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/294.m3u8
@@ -398,8 +396,6 @@ http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/309.m3u8
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/62.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/history.png" group-title="⭐ROMANIA",HISTORY CHANNEL HD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/61.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/love_nature.png" group-title="⭐ROMANIA",LOVE NATURE HD
-http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/122187.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/nat_geo_wild.png" group-title="⭐ROMANIA",NAT GEO WILD FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/80.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/nat_geo_wild.png" group-title="⭐ROMANIA",NAT GEO WILD SD
@@ -410,14 +406,12 @@ http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/78.m3u8
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/132.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/fishing_and_hunting.png" group-title="⭐ROMANIA",FISHING AND HUNTING SD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/54.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/tlc.png" group-title="⭐ROMANIA",TLC SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/tlc.png" group-title="⭐ROMANIA",TLC FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/100.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/travel_mix.png" group-title="⭐ROMANIA",TRAVEL MIX FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/103.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/straine/paprika_tv.png" group-title="⭐ROMANIA",TV PAPRIKA FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/134.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/straine/paprika_tv.png" group-title="⭐ROMANIA",TV PAPRIKA SD
-http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/172412.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/viasat_explore.png" group-title="⭐ROMANIA",VIASAT EXPLORE FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/308.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/viasat_explore.png" group-title="⭐ROMANIA",VIASAT EXPLORE SD
@@ -536,7 +530,7 @@ http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/129.m3u8
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/130.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/party_mix.png" group-title="⭐ROMANIA",PARTY MIX FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/181712.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/magic_tv.png" group-title="⭐ROMANIA",MAGIC TV HD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/magic_tv.png" group-title="⭐ROMANIA",MAGIC TV
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/217.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/straine/mezzo.png" group-title="⭐ROMANIA",MEZZO
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/191555.m3u8
@@ -554,7 +548,7 @@ http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/181713.m3u8
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/209375.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/taraf_tv.png" group-title="⭐ROMANIA",TARAF TV FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/138.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/utv.png" group-title="⭐ROMANIA",U TV FHD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/utv.png" group-title="⭐ROMANIA",UTV FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/311.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/zu_tv.png" group-title="⭐ROMANIA",ZU TV FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/112.m3u8
@@ -1061,4 +1055,4 @@ http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/111281.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXdwSw5d/GOLD.png" group-title="⭐ROMANIA",GOLD HORROR 2 FHD
 http://uksolvix.uk:8080/live/Daniel-mihaila/3Uys8rPXnDjQ/135155.m3u8
 
-# Total: 525
+# Total: 522

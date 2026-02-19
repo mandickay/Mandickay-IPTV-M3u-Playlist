@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2026-02-18 18:46:15
+# Generated: 2026-02-19 18:51:30
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
@@ -1053,7 +1053,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/520840.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Bosnia%20and%20Herzegovina/tv7.png" group-title="BH BOSNIA AND HERZEGOVINA",BH: TV 7
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/520839.m3u8
 
-# --- DE AMZ DEUTSCHLAND (117) ---
+# --- DE AMZ DEUTSCHLAND (131) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE AMZ DEUTSCHLAND",DE: ----- AMZ DEUTSCHLAND -----
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626969.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/das_erste.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| DAS ERSTE
@@ -1210,12 +1210,8 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626916.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626940.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/AMASIA.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| AMASIA
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626930.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/MOVIEDOME.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| MOVIEDOME
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626905.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/FILMGOLD.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| FILMGOLD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626910.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/TURKONVIDEO.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TURK ON VIDEO
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626889.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/INSPECTORGADGET.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| INSPECTOR GADGET
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626932.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/HELLSKITCHEN.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| HELLS KITCHEN
@@ -1262,8 +1258,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626896.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626890.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/phoenix.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| PHOENIX
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626951.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/TEMPORATV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TEMPORATV
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626922.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/MYTIMEMOVIENETWORK.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| MYTIME MOVIE NETWORK
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626920.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/YU-GI-OH!.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| YU-GI-OH!
@@ -1288,6 +1282,40 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626894.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626891.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/NOW80S.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| NOW 80S
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626901.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| ANIVERSE TV
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668743.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| ANDROMEDA
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668742.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| DON MATTEO
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668741.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SPIEGEL TV ACTION+CRIME
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668740.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| BBC SERIES
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668739.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SPIEGEL TV
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668738.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| MONTALBANO - COMMISSARIO MONTALBANO
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668737.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| HELL'S KITCHEN
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668736.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| THE GOOD WIFE
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668735.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| BIG BROTHER CLASSICS BY MYSPASS
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668734.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| PLANET ACTION - RAKUTEN TV
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668733.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| WILL & GRACE
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668732.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| QUANTUM LEAP
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668731.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SAVING HOPE
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668730.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| ALL ROMANCE - RAKUTEN TV
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668729.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| 21 JUMP STREET - RAKUTEN TV
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668728.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| HIMMLISCHES KINO
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668727.m3u8
 
 # --- DE AMZ PRIME EVENT (21) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE AMZ PRIME EVENT",DE: ----- AMZ PRIME EVENT -----
@@ -1968,6 +1996,108 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/637940.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/637939.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/nba_tv.png" group-title="DE FORMEL 1 - NBA",DE: NBA EVENT 50 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/637938.m3u8
+
+# --- DE HBO MAX EVENT (50) ---
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE HBO MAX EVENT",DE: ----- HBO MAX EVENT -----
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668861.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 1 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668860.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 2 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668859.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 3 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668858.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 4 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668857.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 5 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668856.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 6 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668855.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 7 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668854.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 8 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668853.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 9 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668852.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 10 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668851.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 11 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668850.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 12 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668849.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 13 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668848.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 14 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668847.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 15 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668846.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 16 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668845.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 17 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668844.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 18 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668843.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 19 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668842.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 20 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668841.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 21 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668840.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 22 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668839.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 23 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668838.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 24 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668837.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 25 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668836.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 26 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668835.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 27 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668834.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 28 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668833.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 29 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668832.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 30 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668831.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 32 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668830.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 33 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668829.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 34 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668828.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 35 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668827.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 36 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668826.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 37 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668825.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 38 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668824.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 39 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668823.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 40 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668822.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 41 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668821.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 42 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668820.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 43 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668819.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 44 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668818.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 45 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668817.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 46 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668816.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 47 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668815.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 48 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668814.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 49 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668813.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 50 HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/668812.m3u8
 
 # --- DE HEVC - QHD - 4K (35) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE HEVC - QHD - 4K",DE: ----- HEVC / QHD / 4K -----
@@ -10345,4 +10475,4 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282779.m3u8
 
-# Total: 5094
+# Total: 5158

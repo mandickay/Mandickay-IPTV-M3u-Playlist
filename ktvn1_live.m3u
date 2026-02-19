@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ktvn1.xyz
-# Generated: 2026-02-19 07:23:18
+# Generated: 2026-02-19 18:57:24
 # Expires: 2026-04-29
 # Family Safe Edition
 # ==============================================
@@ -4681,7 +4681,7 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/131556.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/38/Les_Enfants_de_la_t%C3%A9l%C3%A9_%28France%29.png" group-title="EU FR | ENFANTS",TOM ET JERRY 24/7
 http://ktvn1.xyz/live/A52FDC75/34X79X26/109504.m3u8
 
-# --- EU FR | GENERAL (125) ---
+# --- EU FR | GENERAL (123) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/572px-RMC_Story_logo_2018.svg.png" group-title="EU FR | GENERAL",|FR| RMC STORY ʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/440946.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TF1_logo_2006.svg/619px-TF1_logo_2006.svg.png" group-title="EU FR | GENERAL",|FR| TF1 ᶠʰᵈ
@@ -4748,10 +4748,6 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/400432.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400431.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/960px-TFX_logo_2018.svg.png" group-title="EU FR | GENERAL",|FR| TFX ˢᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400430.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9c/LCP_Logo.svg/700px-LCP_Logo.svg.png" group-title="EU FR | GENERAL",|FR| LCP ᶠʰᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400429.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9c/LCP_Logo.svg/700px-LCP_Logo.svg.png" group-title="EU FR | GENERAL",|FR| LCP ˢᵈ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400428.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/BFM_TV.svg/664px-BFM_TV.svg.png" group-title="EU FR | GENERAL",|FR| BFM TV ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400427.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/BFM_TV.svg/664px-BFM_TV.svg.png" group-title="EU FR | GENERAL",|FR| BFM TV ˢᵈ
@@ -7767,4 +7763,4 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/346609.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/512px-RTP1_-_Logo_2016.svg.png" group-title="Unknown",|PT| RTP 1 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/143527.m3u8
 
-# Total: 3740
+# Total: 3738

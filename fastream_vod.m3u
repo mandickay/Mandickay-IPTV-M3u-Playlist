@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-02-19 07:24:43
+# Generated: 2026-02-19 18:43:26
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -13285,7 +13285,11 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (279) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (281) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpLNAIU8AjAxw39fZfSDt2AiwMs.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Acto Encubierto (2025)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280017.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnAKcqKEyqaiQUkMGAd8VDRQK9V.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",La Astronauta (2025)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280016.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNkdgYloImniOVJmMj2wVrcetRM.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Eternidad (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/280006.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHvNNxbg5kU0jhsTrsef2oR80yR.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Un Buen Ladron (2025)
@@ -13977,7 +13981,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/59794.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLXFw6ZylfMf8pKAzAmVc3qDaPW.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",The Venture Bros.: Radiant is the Blood of the Baboon Heart (2023)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/59795.mkv
 
-# --- Movies | → VOD FANTASÍA ← (72) ---
+# --- Movies | → VOD FANTASÍA ← (73) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD6A6BFYl8crNfZ3vs6LzxD8c1g.jpg" group-title="Movies | → VOD FANTASÍA ←",Silver y el libro de los Sueños
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280018.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crBaf3upWbYAozPKfuqym7BxnwB.jpg" group-title="Movies | → VOD FANTASÍA ←",Un Juego Legendario
 http://fastream.xyz:8080/movie/940246862tv/12ws79/272248.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXHvEFPKESYHoq5Dba1XCxJW5K7.jpg" group-title="Movies | → VOD FANTASÍA ←",Gabriel
@@ -19733,4 +19739,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9790
+# Total: 9793

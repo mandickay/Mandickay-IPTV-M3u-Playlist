@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-02-19 07:21:08
+# Generated: 2026-02-19 18:45:48
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -185,17 +185,13 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/32741.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",ALB: MAXCRO SELECT 7 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/25531.m3u8
 
-# --- ARB: Arabic countries (69) ---
+# --- ARB: Arabic countries (66) ---
 #EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",##### ARABIA  #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171569.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",ADEL IMAM FHD [Shahid]
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171570.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",AFLAM FHD [Shahid]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171571.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",AL ARABIYA BUSINESS [Shahid]
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171572.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",AL ASOUF FHD [Shahid]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171573.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",AL HURRA HD [Shahid]
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171574.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",AL ISTIQAMA TV [Shahid]
@@ -314,8 +310,6 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171630.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171631.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",THE GAME FHD [Shahid]
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171632.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",TOP CHEF FHD [Shahid]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171633.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",TOP GEAR FHD [Shahid]
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/171634.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",UTV IRAQI FHD [Shahid]
@@ -986,6 +980,22 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165930.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165929.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sportklub-1.png" group-title="CRO: KROATIEN",Sport Klub 1 HD [CRO]
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165928.m3u8
+
+# --- CZE: CZECH REPUBLIC (7) ---
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",##### CZECH REPUBLIC #####
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147192.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ SPORT
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177323.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ PLUS HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177324.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ 1 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177325.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ 24 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177326.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ CINEMA HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177327.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ CINEMA 1 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177328.m3u8
 
 # --- DE-CINEMA/SELECT (72) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-CINEMA/SELECT",##### DE CINEMA/SELECT #####
@@ -2467,148 +2477,6 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/32465.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",EX-YU VIASAT NATURE HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/32369.m3u8
 
-# --- FI : FINLAND (70) ---
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",##### FINLAND #####
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147192.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: YLE TV1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: YLE TV1 FHD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: YLE TV2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147195.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Yle TV2 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147196.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Yle TV2 FHD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147197.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: YLE Tema FEM HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147198.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Yle Teema Fem FHD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147199.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: TV 7 News Heaven
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: TV 7 HImlen HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147201.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: TV 7 EESTI
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147202.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: TV 7 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147203.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: N4 Iceland HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147204.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: FEM HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147205.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Frii
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147206.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Nelonen
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147207.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Sub TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147208.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: LIV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147209.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: JIM
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147210.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: NICK JR.
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147211.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Disney Junior  [Multi-Audio]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147212.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Disney XD  [Multi-Audio]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147213.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Disney Channel  [Multi-Audio]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147214.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Juniori FHD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147215.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Juniori
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147216.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: VH1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147217.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: MTV  [Multi-Audio]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147218.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: English Club
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147219.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: BBC Brit FHD  [Multi-Sub]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147220.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Viasat Nature
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147221.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Viasat Explorer HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147222.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V History FHD  [Multi-Sub]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147223.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: H2 FHD  [Multi-Sub]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147224.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: History FHD  [Multi-Sub]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Animal Planet HD  [Multi-Sub]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147226.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Investigation Discovery  [Multi-Sub]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147227.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Discovery World
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147228.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Discovery Science
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147229.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Discovery Channel
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147230.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Nat Geo Wild FHD  [Multi-Sub]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147231.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: National Geographic FHD  [Multi-Sub]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147232.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: Ginx eSports
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147233.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: EuroSport 2  FHD [Multi-Audio]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147234.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: EuroSport 1 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147235.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport Vinter HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147236.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport Premium HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147237.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V SPORT ULTRAHD 4K
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147238.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport+ Suomi
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147239.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport 2 Suomi
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147240.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport 1 Suomi
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147241.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Sport 1  [Multi-Audio]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147242.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Sport 1 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147243.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Sport 1 FHD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147244.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Sport 2 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147245.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Sport 2 FHD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147246.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: FOX
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147247.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Series FHD  [Multi-Sub]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147248.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Series HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147249.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Film Family
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147250.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Film Action
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147251.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Film Hits HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147252.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: V Film Premiere
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147253.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Max FHD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147254.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Max HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147255.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Stars FHD  [Multi-Sub]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147256.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Stars
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147257.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More Hits FHD  [Multi-Sub]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147258.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: C More First FHD  [Multi-Sub]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147259.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: MTV 3 FHD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147261.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FI : FINLAND",FI: MTV 3 HD  [Multi-Sub]
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/147262.m3u8
-
 # --- FR: FRANCE (294) ---
 #EXTINF:-1 tvg-logo="" group-title="FR: FRANCE",##### FRANCE #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/37235.m3u8
@@ -3563,191 +3431,11 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173523.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ad3256b481e0d9bede40d46f0f62da0e.png" group-title="GR: GREECE",GR: 4E
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173537.m3u8
 
-# --- HU: HUNGARY (92) ---
+# --- HU: HUNGARY (2) ---
 #EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",##### HUNGARY #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/37931.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_m1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177312.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_m2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177313.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_fem3
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177305.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: m4_sport_hun
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177311.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: m5_hun
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177310.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_fb_extra_hu
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177263.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_spiler_1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177270.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_atv_spirit
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177284.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_atv
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177285.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_tv4
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177287.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_galaxy4
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177288.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_story4
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177289.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_sorozatklub
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177290.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_moziklub
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177291.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_kolyokklub
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177292.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_rtl_otthon
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177293.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_muzsika
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177295.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_film_plus
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177297.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_cool_tv
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177298.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_rtl_harom
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177299.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_rtl_ketto
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177300.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_rtl_hun
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177301.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_tv2_kids
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177302.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_tv2_sef
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177303.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_super_tv2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177306.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_tv2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177307.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_duna_world
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177308.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_duna
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177309.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_slager_hu
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177249.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_zenebutik
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177250.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_mozi_plusz
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177252.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_izaura_tv
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177253.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_nickelodeon_hu
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177255.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_prime
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177234.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_spiler_2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177235.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_jocky
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177236.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: film_drama_atktv
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: film_life_atktv
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177226.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: Xsport_atktv
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: X SPORT
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177223.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: tridsatsest_hd_atktv
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177224.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: star_cinema_atktv
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177227.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: star_family_atktv
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177228.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: uatv
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177229.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: 1plus1_marathon
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177230.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: one_plus_one_int_tizen
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177231.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: espresso
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177232.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: current_time_atktv
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177233.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: pianko
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177237.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: dikh
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177238.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: balaton_tv
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177239.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ewtn_bonum
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177240.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: armenia
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177241.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: cgtn_doc
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177242.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: cgtn
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177243.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: france24_france
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177244.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: france24_eng
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177245.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: skynews
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177246.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: rybalka_tv_atktv
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177247.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: dacha_tv_atktv
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177248.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: csaba_tv_atk_800
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177251.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: nick_jr_hun
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177254.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: nicktoons_hun
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177256.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: stingray_iconcerts_hd_hevc50
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177257.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: duck_plus
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177258.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: duck_tv
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177259.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: disney_channel_hun
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177260.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: filmbox_family_hu
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177261.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: filmbox_plus_hu
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177262.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: filmbox_hun
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177265.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: viasat_film
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177269.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: film_plus_2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177294.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: viasat6
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177266.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: viasat3
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177267.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: viasat2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177268.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: langlabs
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177271.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: lingotoons
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177272.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ectv_hd_1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177273.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: fishing_and_hunting_hun
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177274.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: spektrum_home_hun
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177275.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: kitchen_tv
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177276.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_travel_xp
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177277.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: bbc_earth_hun
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177278.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: national_geographic_wild_hun
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177279.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: superyacht
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177281.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: yachting_tv
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177282.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: arena4
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177283.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: sorozat_hungary
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177296.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: filmbox_premium_hun
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177264.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: national_geographic_channel_hun
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177280.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: hisi_tv2_comedy
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177304.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: film4
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177286.m3u8
 
 # --- IT: ITALY (112) ---
 #EXTINF:-1 tvg-logo="" group-title="IT: ITALY",##### ITALY #####
@@ -6583,4 +6271,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165977.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",3 SPORT 1
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165981.m3u8
 
-# Total: 3231
+# Total: 3075

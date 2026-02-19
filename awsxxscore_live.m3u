@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: awsxxscore.uk:8080
-# Generated: 2026-02-19 07:27:04
+# Generated: 2026-02-19 18:50:10
 # Expires: 2026-04-25
 # Family Safe Edition
 # ==============================================
@@ -53,7 +53,7 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/191084.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/3a1436c0020df67648220a778ae0c0eb.png" group-title="⭐RADIO",RADIO CONSTANTA
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/191085.m3u8
 
-# --- ⭐ROMANIA (503) ---
+# --- ⭐ROMANIA (500) ---
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/mireasa.png" group-title="⭐ROMANIA",MIREASA LIVE
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/204057.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/mireasa_plus.png" group-title="⭐ROMANIA",MIREASA PLUS
@@ -118,9 +118,9 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/241.m3u8
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/106.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/tvr_folclor.png" group-title="⭐ROMANIA",TVR FOLCLOR FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/184816.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/acasa.png" group-title="⭐ROMANIA",ACASA TV FHD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/acasa.png" group-title="⭐ROMANIA",ACASA FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/88.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/acasa.png" group-title="⭐ROMANIA",ACASA TV SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/acasa.png" group-title="⭐ROMANIA",ACASA SD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/147.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/pro_gold.png" group-title="⭐ROMANIA",ACASA GOLD FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/90.m3u8
@@ -242,7 +242,7 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/172418.m3u8
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/237.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/axn_black.png" group-title="⭐ROMANIA",AXN BLACK SD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/89535.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/axn_spin.png" group-title="⭐ROMANIA",AXN SPIN SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/axn_spin.png" group-title="⭐ROMANIA",AXN SPIN
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/89537.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/axn_white.png" group-title="⭐ROMANIA",AXN WHITE SD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/89536.m3u8
@@ -266,7 +266,7 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/19.m3u8
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/298.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/comedy_central.png" group-title="⭐ROMANIA",COMEDY CENTRAL FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/20.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/diva.png" group-title="⭐ROMANIA",DIVA UNIVERSAL SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/diva.png" group-title="⭐ROMANIA",DIVA UNIVERSAL
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/203.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/epic_drama.png" group-title="⭐ROMANIA",EPIC DRAMA FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/125.m3u8
@@ -356,8 +356,6 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/172404.m3u8
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/15107.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/animal_planet.png" group-title="⭐ROMANIA",ANIMAL PLANET FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/115.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/animal_planet.png" group-title="⭐ROMANIA",ANIMAL PLANET FHD
-http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/240.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/bbc_earth.png" group-title="⭐ROMANIA",BBC EARTH FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/204.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/bbc_earth.png" group-title="⭐ROMANIA",BBC EARTH SD
@@ -386,7 +384,7 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/209379.m3u8
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/43.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/fashion_tv.png" group-title="⭐ROMANIA",FASHION TV
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/191548.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/food_network.png" group-title="⭐ROMANIA",FOOD NETWORK FHD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/food_network.png" group-title="⭐ROMANIA",Food TV FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/194.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/prima_world.png" group-title="⭐ROMANIA",PRIMA WORLD FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/294.m3u8
@@ -398,8 +396,6 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/309.m3u8
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/62.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/history.png" group-title="⭐ROMANIA",HISTORY CHANNEL HD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/61.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/love_nature.png" group-title="⭐ROMANIA",LOVE NATURE HD
-http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/122187.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/nat_geo_wild.png" group-title="⭐ROMANIA",NAT GEO WILD FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/80.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/nat_geo_wild.png" group-title="⭐ROMANIA",NAT GEO WILD SD
@@ -410,14 +406,12 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/78.m3u8
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/132.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/fishing_and_hunting.png" group-title="⭐ROMANIA",FISHING AND HUNTING SD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/54.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/tlc.png" group-title="⭐ROMANIA",TLC SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/tlc.png" group-title="⭐ROMANIA",TLC FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/100.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/travel_mix.png" group-title="⭐ROMANIA",TRAVEL MIX FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/103.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/straine/paprika_tv.png" group-title="⭐ROMANIA",TV PAPRIKA FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/134.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/straine/paprika_tv.png" group-title="⭐ROMANIA",TV PAPRIKA SD
-http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/172412.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/viasat_explore.png" group-title="⭐ROMANIA",VIASAT EXPLORE FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/308.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/viasat_explore.png" group-title="⭐ROMANIA",VIASAT EXPLORE SD
@@ -536,7 +530,7 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/129.m3u8
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/130.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/party_mix.png" group-title="⭐ROMANIA",PARTY MIX FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/181712.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/magic_tv.png" group-title="⭐ROMANIA",MAGIC TV HD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/magic_tv.png" group-title="⭐ROMANIA",MAGIC TV
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/217.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/straine/mezzo.png" group-title="⭐ROMANIA",MEZZO
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/191555.m3u8
@@ -554,7 +548,7 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/181713.m3u8
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/209375.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/taraf_tv.png" group-title="⭐ROMANIA",TARAF TV FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/138.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/utv.png" group-title="⭐ROMANIA",U TV FHD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/utv.png" group-title="⭐ROMANIA",UTV FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/311.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/zu_tv.png" group-title="⭐ROMANIA",ZU TV FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/112.m3u8
@@ -1061,4 +1055,4 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/111281.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXdwSw5d/GOLD.png" group-title="⭐ROMANIA",GOLD HORROR 2 FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/135155.m3u8
 
-# Total: 525
+# Total: 522

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-02-19 18:58:45
+# Generated: 2026-02-20 07:19:02
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -490,9 +490,9 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5022.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47009.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/M1QT8S9poU2vLEo6SWQ9555GuazG8ESWEd5r7isunLVDbhQc6g.png" group-title="ALL COUNTRY SPORTS",ITA: DAZN 2 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47010.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",ITA: DAZN 3 HD
+#EXTINF:-1 tvg-logo="http://x12tv.co/mbc/italyyy.png" group-title="ALL COUNTRY SPORTS",ITA: DAZN 3 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47011.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",ITA: DAZN 4 HD
+#EXTINF:-1 tvg-logo="http://x12tv.co/mbc/italyyy.png" group-title="ALL COUNTRY SPORTS",ITA: DAZN 4 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47012.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",ITA: DAZN 5 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47013.m3u8
@@ -1670,7 +1670,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29752.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29758.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/France/VOYAGEHD.png" group-title="FRANCE",FR: VOYAGE
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/33756.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",FR: PLANETE+ CRIME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Planetepluscrime.png/500px-Planetepluscrime.png" group-title="FRANCE",FR: PLANETE+ CRIME
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/33757.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",FR: PLANETE+ AVENTURE
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/33758.m3u8
@@ -3210,7 +3210,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/451.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/484.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/antena1_ro.png" group-title="ROMANIA",RO: ANTENA COMEDY HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/463.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: CINEMAX 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1200px-Cinemax.svg.png" group-title="ROMANIA",RO: CINEMAX 1
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28718.m3u8
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/CINEMAX_2.png" group-title="ROMANIA",RO: CINEMAX 2
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/496.m3u8

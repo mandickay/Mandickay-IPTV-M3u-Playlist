@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tzuraganu.gotdns.ch:8008
-# Generated: 2026-02-19 18:54:52
+# Generated: 2026-02-20 07:18:10
 # Expires: 2026-09-17
 # Family Safe Edition
 # ==============================================
@@ -21,7 +21,7 @@ http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/287574.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq8un4ITirZKogAhkvss0CNes93z3B-IM38VU1rNOJ2A&s" group-title="RADIO ROMANIA",RO VALENCIA FM
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/206557.m3u8
 
-# --- ⚜️ROMANIA TV⚜️ (518) ---
+# --- ⚜️ROMANIA TV⚜️ (717) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzfDK55q/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV UHD
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/33760.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSn8M9Mw/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV HD
@@ -314,28 +314,48 @@ http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/33835.m3u8
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/33836.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jG9Qckd/HBO-3-SD.jpg" group-title="⚜️ROMANIA TV⚜️",HBO 3 SD
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/33837.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSShstPB/HBO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",HBO WAR
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296354.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSShstPB/HBO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",HBO SIGNATURE
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296353.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSShstPB/HBO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",HBO MAX
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296352.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSShstPB/HBO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",HBO KIDS
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296351.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSShstPB/HBO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",HBO HORROR
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296350.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSShstPB/HBO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",HBO GO
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296348.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSShstPB/HBO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",HBO ZONE
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296355.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSShstPB/HBO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",HBO FANTASY
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296347.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSShstPB/HBO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",HBO COMEDIE
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296346.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSShstPB/HBO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",HBO AVENTURA
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296345.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSShstPB/HBO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",HBO ACTIUNE
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296344.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO PLUS 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617715.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO PLUS 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617714.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO ZONE 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617713.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO ZONE 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617712.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO PLEX 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617711.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO PLEX 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617710.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO PREMIUM 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617709.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO PREMIUM 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617708.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO SIGNATURE 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617707.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO SIGNATURE 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617706.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO MAX 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617705.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO MAX 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617704.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO GOLD 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617703.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO GOLD 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617702.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO FAMILY 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617701.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO FAMILY 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617700.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO KIDS
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617699.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO AVENTURA
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617698.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO COMEDIE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617697.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO HORROR
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617696.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWRNRluEOfyIdxGNJkwM0EVH1H6Q4wLw4HKVel-7zOSpsNQTlREDxCdtwGqjki2SWjfh_JLYpmAuMZ38IFpr8o6sAoaLx1SwcEkU61q0biSM.png" group-title="⚜️ROMANIA TV⚜️",HBO ACTIUNE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617695.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NGrSCYdP/DISCOVERY-CHANNEL-UHD.jpg" group-title="⚜️ROMANIA TV⚜️",DISCOVERY CHANNEL UHD
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/56171.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66VZVjk1/DISCOVERY-ID-UHD.jpg" group-title="⚜️ROMANIA TV⚜️",DISCOVERY ID UHD
@@ -472,18 +492,10 @@ http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/36719.m3u8
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/38428.m3u8
 #EXTINF:-1 tvg-logo="http://fluxro.live:8080/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-Wua5tWpu2YhDHfbCHTTU2qNX-rOWSdX0eBnDwl_Svry7bchWE0-AEeXXZKFvMSxQwaE.jpg" group-title="⚜️ROMANIA TV⚜️",DUCK TV SD
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/33868.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Lh0P1Hp/drrrrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY KIDS RO ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296318.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBJXJ2sY/drrrrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO KIDS ᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296285.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52LKfVth/drrrrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO KIDS 2 ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296284.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/okHBf1SqytU0xxY2z9uby1LWLY08VmCOTcs4HFZCXQXkUEKxQUgKLwaVz4cVenDoXDAKA9JUbA=s900-c-k-c0x00ffffff-no-rj" group-title="⚜️ROMANIA TV⚜️",NOSTALGIA TV SD
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/287446.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/inedittv.png" group-title="⚜️ROMANIA TV⚜️",INEDIT TV FHD
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/522598.m3u8
-#EXTINF:-1 tvg-logo="http://fluxro.live:8080/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-Wubv79sdyf43bW7l-uwO-wfE_Nxz94CHLXWBwydAE-QNO-16JF-DKvVgHcyLWg31E8sUE3niSzy7NB3OyxVTV5Qa.png" group-title="⚜️ROMANIA TV⚜️",TVR CRAIOVA
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/522244.m3u8
 #EXTINF:-1 tvg-logo="http://135.125.239.110/icon/892301.png" group-title="⚜️ROMANIA TV⚜️",ALEPH NEWS
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/526873.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/alfaomega2.png" group-title="⚜️ROMANIA TV⚜️",ALFA OMEGA TV
@@ -492,82 +504,642 @@ http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/522171.m3u8
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/522170.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/a7tv.png" group-title="⚜️ROMANIA TV⚜️",A7 TV
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/331258.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - ASIA EXPRESS
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/348526.m3u8
-#EXTINF:-1 tvg-logo="armagedon9322" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - CRACIUN
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/382728.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 1 - 5
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/344332.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 6 - 10
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/344334.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 11 - 15
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/344335.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 16 - 20
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/344336.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 21 - 25
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/344337.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 26
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/344341.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV 1 (2024)
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/344088.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV 1 (2025)
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/344330.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV 2 (2025)
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/344089.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfpQf3HR/resize.png" group-title="⚜️ROMANIA TV⚜️",LAS FIERBINTI SEZON 27 (2025)
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/533984.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/LOGO_.jpg/revision/latest/scale-to-width-down/250?cb=20250729105159" group-title="⚜️ROMANIA TV⚜️",ASIA EXPRESS (2025)
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/528829.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4CWVh9GeyEEmu9r2CV7tybz2RQ.jpg" group-title="⚜️ROMANIA TV⚜️",INSULA IUBIRII (2025)
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/531760.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFr9XmHN/GAME-OF-THRONES.jpg" group-title="⚜️ROMANIA TV⚜️",GAME OF THRONES (2011)
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/531762.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ2Fkp5n/HOME-ALONE.jpg" group-title="⚜️ROMANIA TV⚜️",HOME ALONE
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/548298.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ACTIUNE
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557733.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ADAM SANDLER
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557732.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ANGELINA JOLIE
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557731.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA AVENTURA
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557730.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA BEN STILLER
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557729.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA BOLLYWOOD
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557728.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA BRAD PITT
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557727.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ANIMATIE
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557712.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA COMEDIE
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557726.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA DRAMA
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557725.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA FANTEZIE
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557724.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA HORROR
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557723.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA JOHNNY DEEP
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557722.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ISTORIC FANTASY
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557721.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA LEONARDO DI CAPRIO
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557720.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA MARTIAL ARTS
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557719.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA MORGAN FREEMAN
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557718.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ROMANESTI
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557717.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA SCIENCE FICTION
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557716.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA VAL KILMER
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557715.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA VAN DAMME
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557714.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA WAR
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/557713.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUFP1Tov_LJxVaC3XPPOTcf_A4kcMQd9NfUCt5UMFF4GGxQIMuFnRgTwhXmdo7bzErJD2z5-oefDNedsnVyoICdTENCPwnDokobrOeDGufQz.png" group-title="⚜️ROMANIA TV⚜️",UNIVERSAL MOVIES TV 5
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617694.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUFP1Tov_LJxVaC3XPPOTcf_A4kcMQd9NfUCt5UMFF4GGxQIMuFnRgTwhXmdo7bzErJD2z5-oefDNedsnVyoICdTENCPwnDokobrOeDGufQz.png" group-title="⚜️ROMANIA TV⚜️",UNIVERSAL MOVIES TV 4
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617693.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUFP1Tov_LJxVaC3XPPOTcf_A4kcMQd9NfUCt5UMFF4GGxQIMuFnRgTwhXmdo7bzErJD2z5-oefDNedsnVyoICdTENCPwnDokobrOeDGufQz.png" group-title="⚜️ROMANIA TV⚜️",UNIVERSAL MOVIES TV 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617692.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUFP1Tov_LJxVaC3XPPOTcf_A4kcMQd9NfUCt5UMFF4GGxQIMuFnRgTwhXmdo7bzErJD2z5-oefDNedsnVyoICdTENCPwnDokobrOeDGufQz.png" group-title="⚜️ROMANIA TV⚜️",UNIVERSAL MOVIES TV 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617691.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUFP1Tov_LJxVaC3XPPOTcf_A4kcMQd9NfUCt5UMFF4GGxQIMuFnRgTwhXmdo7bzErJD2z5-oefDNedsnVyoICdTENCPwnDokobrOeDGufQz.png" group-title="⚜️ROMANIA TV⚜️",UNIVERSAL MOVIES TV 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617690.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgb-vbmY1CcqwZdZOlBHCuigU3-aLnKvV8kQfwZk_7TEf3Kk_9lkhJdyStcNOvpCacpehcZVQlhfay0iRXRog6WbzRJ3B8pG2-HCSZiC8E00x.png" group-title="⚜️ROMANIA TV⚜️",M+ACTION TV 17
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617689.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgb-vbmY1CcqwZdZOlBHCuigU3-aLnKvV8kQfwZk_7TEf3Kk_9lkhJdyStcNOvpCacpehcZVQlhfay0iRXRog6WbzRJ3B8pG2-HCSZiC8E00x.png" group-title="⚜️ROMANIA TV⚜️",M+ACTION TV 16
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617688.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgb-vbmY1CcqwZdZOlBHCuigU3-aLnKvV8kQfwZk_7TEf3Kk_9lkhJdyStcNOvpCacpehcZVQlhfay0iRXRog6WbzRJ3B8pG2-HCSZiC8E00x.png" group-title="⚜️ROMANIA TV⚜️",M+ACTION TV 15
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617687.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgb-vbmY1CcqwZdZOlBHCuigU3-aLnKvV8kQfwZk_7TEf3Kk_9lkhJdyStcNOvpCacpehcZVQlhfay0iRXRog6WbzRJ3B8pG2-HCSZiC8E00x.png" group-title="⚜️ROMANIA TV⚜️",M+ACTION TV 14
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617686.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgb-vbmY1CcqwZdZOlBHCuigU3-aLnKvV8kQfwZk_7TEf3Kk_9lkhJdyStcNOvpCacpehcZVQlhfay0iRXRog6WbzRJ3B8pG2-HCSZiC8E00x.png" group-title="⚜️ROMANIA TV⚜️",M+ACTION TV 13
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617685.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgb-vbmY1CcqwZdZOlBHCuigU3-aLnKvV8kQfwZk_7TEf3Kk_9lkhJdyStcNOvpCacpehcZVQlhfay0iRXRog6WbzRJ3B8pG2-HCSZiC8E00x.png" group-title="⚜️ROMANIA TV⚜️",M+ACTION TV 12
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617684.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgb-vbmY1CcqwZdZOlBHCuigU3-aLnKvV8kQfwZk_7TEf3Kk_9lkhJdyStcNOvpCacpehcZVQlhfay0iRXRog6WbzRJ3B8pG2-HCSZiC8E00x.png" group-title="⚜️ROMANIA TV⚜️",M+ACTION TV 11
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617683.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgb-vbmY1CcqwZdZOlBHCuigU3-aLnKvV8kQfwZk_7TEf3Kk_9lkhJdyStcNOvpCacpehcZVQlhfay0iRXRog6WbzRJ3B8pG2-HCSZiC8E00x.png" group-title="⚜️ROMANIA TV⚜️",M+ACTION TV 10
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617682.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgb-vbmY1CcqwZdZOlBHCuigU3-aLnKvV8kQfwZk_7TEf3Kk_9lkhJdyStcNOvpCacpehcZVQlhfay0iRXRog6WbzRJ3B8pG2-HCSZiC8E00x.png" group-title="⚜️ROMANIA TV⚜️",M+ACTION TV 9
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617681.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgb-vbmY1CcqwZdZOlBHCuigU3-aLnKvV8kQfwZk_7TEf3Kk_9lkhJdyStcNOvpCacpehcZVQlhfay0iRXRog6WbzRJ3B8pG2-HCSZiC8E00x.png" group-title="⚜️ROMANIA TV⚜️",M+ACTION TV 8
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617680.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgb-vbmY1CcqwZdZOlBHCuigU3-aLnKvV8kQfwZk_7TEf3Kk_9lkhJdyStcNOvpCacpehcZVQlhfay0iRXRog6WbzRJ3B8pG2-HCSZiC8E00x.png" group-title="⚜️ROMANIA TV⚜️",M+ACTION TV 7
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617679.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgb-vbmY1CcqwZdZOlBHCuigU3-aLnKvV8kQfwZk_7TEf3Kk_9lkhJdyStcNOvpCacpehcZVQlhfay0iRXRog6WbzRJ3B8pG2-HCSZiC8E00x.png" group-title="⚜️ROMANIA TV⚜️",M+ACTION TV 6
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617678.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgb-vbmY1CcqwZdZOlBHCuigU3-aLnKvV8kQfwZk_7TEf3Kk_9lkhJdyStcNOvpCacpehcZVQlhfay0iRXRog6WbzRJ3B8pG2-HCSZiC8E00x.png" group-title="⚜️ROMANIA TV⚜️",M+ACTION TV 5
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617677.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgb-vbmY1CcqwZdZOlBHCuigU3-aLnKvV8kQfwZk_7TEf3Kk_9lkhJdyStcNOvpCacpehcZVQlhfay0iRXRog6WbzRJ3B8pG2-HCSZiC8E00x.png" group-title="⚜️ROMANIA TV⚜️",M+ACTION TV 4
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617676.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgb-vbmY1CcqwZdZOlBHCuigU3-aLnKvV8kQfwZk_7TEf3Kk_9lkhJdyStcNOvpCacpehcZVQlhfay0iRXRog6WbzRJ3B8pG2-HCSZiC8E00x.png" group-title="⚜️ROMANIA TV⚜️",M+ACTION TV 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617675.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgb-vbmY1CcqwZdZOlBHCuigU3-aLnKvV8kQfwZk_7TEf3Kk_9lkhJdyStcNOvpCacpehcZVQlhfay0iRXRog6WbzRJ3B8pG2-HCSZiC8E00x.png" group-title="⚜️ROMANIA TV⚜️",M+ACTION TV 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617674.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgb-vbmY1CcqwZdZOlBHCuigU3-aLnKvV8kQfwZk_7TEf3Kk_9lkhJdyStcNOvpCacpehcZVQlhfay0iRXRog6WbzRJ3B8pG2-HCSZiC8E00x.png" group-title="⚜️ROMANIA TV⚜️",M+ACTION TV 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617673.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVD3vShppMA8f6ooGIvlW6uR74USUxB8mm0n83VHXbPhnTpZixkuw4GmA1M-Vf5gfAtEZskXphTbN4qZJua4bNvSaCb_XZhwC30jVN8yMfPT.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC TV WAR 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617672.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVD3vShppMA8f6ooGIvlW6uR74USUxB8mm0n83VHXbPhnTpZixkuw4GmA1M-Vf5gfAtEZskXphTbN4qZJua4bNvSaCb_XZhwC30jVN8yMfPT.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC TV WAR 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617671.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVD3vShppMA8f6ooGIvlW6uR74USUxB8mm0n83VHXbPhnTpZixkuw4GmA1M-Vf5gfAtEZskXphTbN4qZJua4bNvSaCb_XZhwC30jVN8yMfPT.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC TV AVENTURA 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617670.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVD3vShppMA8f6ooGIvlW6uR74USUxB8mm0n83VHXbPhnTpZixkuw4GmA1M-Vf5gfAtEZskXphTbN4qZJua4bNvSaCb_XZhwC30jVN8yMfPT.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC TV AVENTURA 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617669.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVD3vShppMA8f6ooGIvlW6uR74USUxB8mm0n83VHXbPhnTpZixkuw4GmA1M-Vf5gfAtEZskXphTbN4qZJua4bNvSaCb_XZhwC30jVN8yMfPT.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC TV AVENTURA 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617668.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVD3vShppMA8f6ooGIvlW6uR74USUxB8mm0n83VHXbPhnTpZixkuw4GmA1M-Vf5gfAtEZskXphTbN4qZJua4bNvSaCb_XZhwC30jVN8yMfPT.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC TV THRILLER 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617667.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVD3vShppMA8f6ooGIvlW6uR74USUxB8mm0n83VHXbPhnTpZixkuw4GmA1M-Vf5gfAtEZskXphTbN4qZJua4bNvSaCb_XZhwC30jVN8yMfPT.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC TV THRILLER 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617666.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVD3vShppMA8f6ooGIvlW6uR74USUxB8mm0n83VHXbPhnTpZixkuw4GmA1M-Vf5gfAtEZskXphTbN4qZJua4bNvSaCb_XZhwC30jVN8yMfPT.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC TV THRILLER 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617665.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVD3vShppMA8f6ooGIvlW6uR74USUxB8mm0n83VHXbPhnTpZixkuw4GmA1M-Vf5gfAtEZskXphTbN4qZJua4bNvSaCb_XZhwC30jVN8yMfPT.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC TV WESTERN 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617664.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVD3vShppMA8f6ooGIvlW6uR74USUxB8mm0n83VHXbPhnTpZixkuw4GmA1M-Vf5gfAtEZskXphTbN4qZJua4bNvSaCb_XZhwC30jVN8yMfPT.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC TV WESTERN 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617663.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfkTiZtYABDvo1cI44ExiJyZa0FABIPPMweTBtJoI5fKt8k_h2eaMRBUVU4s4Di2Q_GsDni19X_WdpMCYQVBA45yxICHsqGM5M23XlOnsBD7.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA TV 14
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617662.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfkTiZtYABDvo1cI44ExiJyZa0FABIPPMweTBtJoI5fKt8k_h2eaMRBUVU4s4Di2Q_GsDni19X_WdpMCYQVBA45yxICHsqGM5M23XlOnsBD7.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA TV 13
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617661.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfkTiZtYABDvo1cI44ExiJyZa0FABIPPMweTBtJoI5fKt8k_h2eaMRBUVU4s4Di2Q_GsDni19X_WdpMCYQVBA45yxICHsqGM5M23XlOnsBD7.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA TV 12
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617660.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfkTiZtYABDvo1cI44ExiJyZa0FABIPPMweTBtJoI5fKt8k_h2eaMRBUVU4s4Di2Q_GsDni19X_WdpMCYQVBA45yxICHsqGM5M23XlOnsBD7.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA TV 11
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617659.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfkTiZtYABDvo1cI44ExiJyZa0FABIPPMweTBtJoI5fKt8k_h2eaMRBUVU4s4Di2Q_GsDni19X_WdpMCYQVBA45yxICHsqGM5M23XlOnsBD7.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA TV 10
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617658.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfkTiZtYABDvo1cI44ExiJyZa0FABIPPMweTBtJoI5fKt8k_h2eaMRBUVU4s4Di2Q_GsDni19X_WdpMCYQVBA45yxICHsqGM5M23XlOnsBD7.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA TV 9
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617657.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfkTiZtYABDvo1cI44ExiJyZa0FABIPPMweTBtJoI5fKt8k_h2eaMRBUVU4s4Di2Q_GsDni19X_WdpMCYQVBA45yxICHsqGM5M23XlOnsBD7.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA TV 8
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617656.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfkTiZtYABDvo1cI44ExiJyZa0FABIPPMweTBtJoI5fKt8k_h2eaMRBUVU4s4Di2Q_GsDni19X_WdpMCYQVBA45yxICHsqGM5M23XlOnsBD7.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA TV 7
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617655.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfkTiZtYABDvo1cI44ExiJyZa0FABIPPMweTBtJoI5fKt8k_h2eaMRBUVU4s4Di2Q_GsDni19X_WdpMCYQVBA45yxICHsqGM5M23XlOnsBD7.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA TV 6
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617654.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfkTiZtYABDvo1cI44ExiJyZa0FABIPPMweTBtJoI5fKt8k_h2eaMRBUVU4s4Di2Q_GsDni19X_WdpMCYQVBA45yxICHsqGM5M23XlOnsBD7.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA TV  5
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617653.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfkTiZtYABDvo1cI44ExiJyZa0FABIPPMweTBtJoI5fKt8k_h2eaMRBUVU4s4Di2Q_GsDni19X_WdpMCYQVBA45yxICHsqGM5M23XlOnsBD7.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA TV 4
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617652.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfkTiZtYABDvo1cI44ExiJyZa0FABIPPMweTBtJoI5fKt8k_h2eaMRBUVU4s4Di2Q_GsDni19X_WdpMCYQVBA45yxICHsqGM5M23XlOnsBD7.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA TV 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617651.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfkTiZtYABDvo1cI44ExiJyZa0FABIPPMweTBtJoI5fKt8k_h2eaMRBUVU4s4Di2Q_GsDni19X_WdpMCYQVBA45yxICHsqGM5M23XlOnsBD7.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA TV 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617650.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfkTiZtYABDvo1cI44ExiJyZa0FABIPPMweTBtJoI5fKt8k_h2eaMRBUVU4s4Di2Q_GsDni19X_WdpMCYQVBA45yxICHsqGM5M23XlOnsBD7.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA TV 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617649.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgYCH3ylf6Ssmhkm0PrhvCbZ1aWPR6Mj5LVvHHZE9wZhuJ0hZLZzv02fm5o94O9-vT-o1abTB1lHp6lUvzkBPx-EzYan8HkWUpwBaNsGZBDbz.png" group-title="⚜️ROMANIA TV⚜️",ROGUE TV COMEDIE 7
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617648.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgYCH3ylf6Ssmhkm0PrhvCbZ1aWPR6Mj5LVvHHZE9wZhuJ0hZLZzv02fm5o94O9-vT-o1abTB1lHp6lUvzkBPx-EzYan8HkWUpwBaNsGZBDbz.png" group-title="⚜️ROMANIA TV⚜️",ROGUE TV COMEDIE 6
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617647.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgYCH3ylf6Ssmhkm0PrhvCbZ1aWPR6Mj5LVvHHZE9wZhuJ0hZLZzv02fm5o94O9-vT-o1abTB1lHp6lUvzkBPx-EzYan8HkWUpwBaNsGZBDbz.png" group-title="⚜️ROMANIA TV⚜️",ROGUE TV COMEDIE 5
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617646.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgYCH3ylf6Ssmhkm0PrhvCbZ1aWPR6Mj5LVvHHZE9wZhuJ0hZLZzv02fm5o94O9-vT-o1abTB1lHp6lUvzkBPx-EzYan8HkWUpwBaNsGZBDbz.png" group-title="⚜️ROMANIA TV⚜️",ROGUE TV COMEDIE 4
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617645.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgYCH3ylf6Ssmhkm0PrhvCbZ1aWPR6Mj5LVvHHZE9wZhuJ0hZLZzv02fm5o94O9-vT-o1abTB1lHp6lUvzkBPx-EzYan8HkWUpwBaNsGZBDbz.png" group-title="⚜️ROMANIA TV⚜️",ROGUE TV COMEDIE 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617644.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgYCH3ylf6Ssmhkm0PrhvCbZ1aWPR6Mj5LVvHHZE9wZhuJ0hZLZzv02fm5o94O9-vT-o1abTB1lHp6lUvzkBPx-EzYan8HkWUpwBaNsGZBDbz.png" group-title="⚜️ROMANIA TV⚜️",ROGUE TV COMEDIE 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617643.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgYCH3ylf6Ssmhkm0PrhvCbZ1aWPR6Mj5LVvHHZE9wZhuJ0hZLZzv02fm5o94O9-vT-o1abTB1lHp6lUvzkBPx-EzYan8HkWUpwBaNsGZBDbz.png" group-title="⚜️ROMANIA TV⚜️",ROGUE TV COMEDIE 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617642.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgU986batcLhHQVvlljmhNbmvSeqnktrsLttz7npVUXmnonUYEn_V1zL-Sxd-cPk36c17IbRpvzYur1-eztxiAvIVbqYrbIghRNla5WOuqD6f.png" group-title="⚜️ROMANIA TV⚜️",PREMIUM MOVIES TV 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617641.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgU986batcLhHQVvlljmhNbmvSeqnktrsLttz7npVUXmnonUYEn_V1zL-Sxd-cPk36c17IbRpvzYur1-eztxiAvIVbqYrbIghRNla5WOuqD6f.png" group-title="⚜️ROMANIA TV⚜️",PREMIUM MOVIES TV 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617640.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgU986batcLhHQVvlljmhNbmvSeqnktrsLttz7npVUXmnonUYEn_V1zL-Sxd-cPk36c17IbRpvzYur1-eztxiAvIVbqYrbIghRNla5WOuqD6f.png" group-title="⚜️ROMANIA TV⚜️",PREMIUM MOVIES TV 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617639.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWgXWw_HBvUzcdO4M-GK2ZUU78CyEgF6R12tsfPAfZyeAY7Fv-1D3cZa3l4GPUSZIqi9twIBa-6ZvZZ1GWUyNpBELV9utehFRc2fZEwWeVAc.png" group-title="⚜️ROMANIA TV⚜️",BOLLYFLIX RED TV 7
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617638.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWgXWw_HBvUzcdO4M-GK2ZUU78CyEgF6R12tsfPAfZyeAY7Fv-1D3cZa3l4GPUSZIqi9twIBa-6ZvZZ1GWUyNpBELV9utehFRc2fZEwWeVAc.png" group-title="⚜️ROMANIA TV⚜️",BOLLYFLIX RED TV 6
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617637.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWgXWw_HBvUzcdO4M-GK2ZUU78CyEgF6R12tsfPAfZyeAY7Fv-1D3cZa3l4GPUSZIqi9twIBa-6ZvZZ1GWUyNpBELV9utehFRc2fZEwWeVAc.png" group-title="⚜️ROMANIA TV⚜️",BOLLYFLIX RED TV 5
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617636.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWgXWw_HBvUzcdO4M-GK2ZUU78CyEgF6R12tsfPAfZyeAY7Fv-1D3cZa3l4GPUSZIqi9twIBa-6ZvZZ1GWUyNpBELV9utehFRc2fZEwWeVAc.png" group-title="⚜️ROMANIA TV⚜️",BOLLYFLIX RED TV 4
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617635.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWgXWw_HBvUzcdO4M-GK2ZUU78CyEgF6R12tsfPAfZyeAY7Fv-1D3cZa3l4GPUSZIqi9twIBa-6ZvZZ1GWUyNpBELV9utehFRc2fZEwWeVAc.png" group-title="⚜️ROMANIA TV⚜️",BOLLYFLIX RED TV 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617634.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWgXWw_HBvUzcdO4M-GK2ZUU78CyEgF6R12tsfPAfZyeAY7Fv-1D3cZa3l4GPUSZIqi9twIBa-6ZvZZ1GWUyNpBELV9utehFRc2fZEwWeVAc.png" group-title="⚜️ROMANIA TV⚜️",BOLLYFLIX RED TV 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617633.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWgXWw_HBvUzcdO4M-GK2ZUU78CyEgF6R12tsfPAfZyeAY7Fv-1D3cZa3l4GPUSZIqi9twIBa-6ZvZZ1GWUyNpBELV9utehFRc2fZEwWeVAc.png" group-title="⚜️ROMANIA TV⚜️",BOLLYFLIX RED TV 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617632.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWgXWw_HBvUzcdO4M-GK2ZUU78CyEgF6R12tsfPAfZyeAY7Fv-1D3cZa3l4GPUSZIqi9twIBa-6ZvZZ1GWUyNpBELV9utehFRc2fZEwWeVAc.png" group-title="⚜️ROMANIA TV⚜️",BOLLYFLIX TV 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617631.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWgXWw_HBvUzcdO4M-GK2ZUU78CyEgF6R12tsfPAfZyeAY7Fv-1D3cZa3l4GPUSZIqi9twIBa-6ZvZZ1GWUyNpBELV9utehFRc2fZEwWeVAc.png" group-title="⚜️ROMANIA TV⚜️",BOLLYFLIX TV 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617630.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSBoOBOtMuiUPZUsLBUVKhnDafsuT1uZJlMeY4kUTqvV3daRccr7GFJmRnt96f8SzvTJPJvL840axxwwVLmixaSCh1nBUld8_herDtZBgQbU.png" group-title="⚜️ROMANIA TV⚜️",FLIX TV ZONE 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617629.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSBoOBOtMuiUPZUsLBUVKhnDafsuT1uZJlMeY4kUTqvV3daRccr7GFJmRnt96f8SzvTJPJvL840axxwwVLmixaSCh1nBUld8_herDtZBgQbU.png" group-title="⚜️ROMANIA TV⚜️",FLIX TV ZONE 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617628.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSBoOBOtMuiUPZUsLBUVKhnDafsuT1uZJlMeY4kUTqvV3daRccr7GFJmRnt96f8SzvTJPJvL840axxwwVLmixaSCh1nBUld8_herDtZBgQbU.png" group-title="⚜️ROMANIA TV⚜️",FLIX TV PRIME 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617627.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSBoOBOtMuiUPZUsLBUVKhnDafsuT1uZJlMeY4kUTqvV3daRccr7GFJmRnt96f8SzvTJPJvL840axxwwVLmixaSCh1nBUld8_herDtZBgQbU.png" group-title="⚜️ROMANIA TV⚜️",FLIX TV PRIME 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617626.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSBoOBOtMuiUPZUsLBUVKhnDafsuT1uZJlMeY4kUTqvV3daRccr7GFJmRnt96f8SzvTJPJvL840axxwwVLmixaSCh1nBUld8_herDtZBgQbU.png" group-title="⚜️ROMANIA TV⚜️",FLIX TV NEW 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617625.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSBoOBOtMuiUPZUsLBUVKhnDafsuT1uZJlMeY4kUTqvV3daRccr7GFJmRnt96f8SzvTJPJvL840axxwwVLmixaSCh1nBUld8_herDtZBgQbU.png" group-title="⚜️ROMANIA TV⚜️",FLIX TV NEW 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617624.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSBoOBOtMuiUPZUsLBUVKhnDafsuT1uZJlMeY4kUTqvV3daRccr7GFJmRnt96f8SzvTJPJvL840axxwwVLmixaSCh1nBUld8_herDtZBgQbU.png" group-title="⚜️ROMANIA TV⚜️",FLIX TV MOVIE 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617623.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSBoOBOtMuiUPZUsLBUVKhnDafsuT1uZJlMeY4kUTqvV3daRccr7GFJmRnt96f8SzvTJPJvL840axxwwVLmixaSCh1nBUld8_herDtZBgQbU.png" group-title="⚜️ROMANIA TV⚜️",FLIX TV MOVIE 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617622.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSBoOBOtMuiUPZUsLBUVKhnDafsuT1uZJlMeY4kUTqvV3daRccr7GFJmRnt96f8SzvTJPJvL840axxwwVLmixaSCh1nBUld8_herDtZBgQbU.png" group-title="⚜️ROMANIA TV⚜️",FLIX TV CINEMA 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617621.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSBoOBOtMuiUPZUsLBUVKhnDafsuT1uZJlMeY4kUTqvV3daRccr7GFJmRnt96f8SzvTJPJvL840axxwwVLmixaSCh1nBUld8_herDtZBgQbU.png" group-title="⚜️ROMANIA TV⚜️",FLIX TV CINEMA 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617620.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSScT1Nb29yaq1nKiMngzrFLlq8RrcHwFREjqH4ZCOtd9LF6X9Rfu81tmYkLUyL3j5Z3vlQDFeZtAIOYpSNTO9-mujVjHK2lylenHMsBe6HD.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC TV 9
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617619.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSScT1Nb29yaq1nKiMngzrFLlq8RrcHwFREjqH4ZCOtd9LF6X9Rfu81tmYkLUyL3j5Z3vlQDFeZtAIOYpSNTO9-mujVjHK2lylenHMsBe6HD.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC TV 8
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617618.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSScT1Nb29yaq1nKiMngzrFLlq8RrcHwFREjqH4ZCOtd9LF6X9Rfu81tmYkLUyL3j5Z3vlQDFeZtAIOYpSNTO9-mujVjHK2lylenHMsBe6HD.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC TV 7
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617617.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSScT1Nb29yaq1nKiMngzrFLlq8RrcHwFREjqH4ZCOtd9LF6X9Rfu81tmYkLUyL3j5Z3vlQDFeZtAIOYpSNTO9-mujVjHK2lylenHMsBe6HD.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL  CLASSIC TV 6
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617616.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSScT1Nb29yaq1nKiMngzrFLlq8RrcHwFREjqH4ZCOtd9LF6X9Rfu81tmYkLUyL3j5Z3vlQDFeZtAIOYpSNTO9-mujVjHK2lylenHMsBe6HD.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC TV 5
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617615.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSScT1Nb29yaq1nKiMngzrFLlq8RrcHwFREjqH4ZCOtd9LF6X9Rfu81tmYkLUyL3j5Z3vlQDFeZtAIOYpSNTO9-mujVjHK2lylenHMsBe6HD.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC TV 4
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617614.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSScT1Nb29yaq1nKiMngzrFLlq8RrcHwFREjqH4ZCOtd9LF6X9Rfu81tmYkLUyL3j5Z3vlQDFeZtAIOYpSNTO9-mujVjHK2lylenHMsBe6HD.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC TV 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617613.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSScT1Nb29yaq1nKiMngzrFLlq8RrcHwFREjqH4ZCOtd9LF6X9Rfu81tmYkLUyL3j5Z3vlQDFeZtAIOYpSNTO9-mujVjHK2lylenHMsBe6HD.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC TV 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617612.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSScT1Nb29yaq1nKiMngzrFLlq8RrcHwFREjqH4ZCOtd9LF6X9Rfu81tmYkLUyL3j5Z3vlQDFeZtAIOYpSNTO9-mujVjHK2lylenHMsBe6HD.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC TV 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617611.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWrL3fWyaJAigpf64EXtIa30DWDNAbPreC3VH6Hqb0DU4dVa82UKSmoibDf_0-KGadEZgqK6_kL_nwMc4GNbhX2kdxZ-a-Ccoj07OmNJh0I4.png" group-title="⚜️ROMANIA TV⚜️",MGM MEDIA TV 5
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617610.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWrL3fWyaJAigpf64EXtIa30DWDNAbPreC3VH6Hqb0DU4dVa82UKSmoibDf_0-KGadEZgqK6_kL_nwMc4GNbhX2kdxZ-a-Ccoj07OmNJh0I4.png" group-title="⚜️ROMANIA TV⚜️",MGM MEDIA TV 4
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617609.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWrL3fWyaJAigpf64EXtIa30DWDNAbPreC3VH6Hqb0DU4dVa82UKSmoibDf_0-KGadEZgqK6_kL_nwMc4GNbhX2kdxZ-a-Ccoj07OmNJh0I4.png" group-title="⚜️ROMANIA TV⚜️",MGM MEDIA TV 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617608.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWrL3fWyaJAigpf64EXtIa30DWDNAbPreC3VH6Hqb0DU4dVa82UKSmoibDf_0-KGadEZgqK6_kL_nwMc4GNbhX2kdxZ-a-Ccoj07OmNJh0I4.png" group-title="⚜️ROMANIA TV⚜️",MGM MEDIA TV 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617607.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWrL3fWyaJAigpf64EXtIa30DWDNAbPreC3VH6Hqb0DU4dVa82UKSmoibDf_0-KGadEZgqK6_kL_nwMc4GNbhX2kdxZ-a-Ccoj07OmNJh0I4.png" group-title="⚜️ROMANIA TV⚜️",MGM MEDIA TV 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617606.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWOtDort2lxZxXCywHyWkETQbamGjmKPgzzoS4vRYpjMSlWf-iCPfnrUOZQsUEkGZjxYLquJzGJMzVtYtJ4vXgl1M_WNjHYT9xZCQ4jOzgks.png" group-title="⚜️ROMANIA TV⚜️",FIGHT CLUB TV 8
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617605.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWOtDort2lxZxXCywHyWkETQbamGjmKPgzzoS4vRYpjMSlWf-iCPfnrUOZQsUEkGZjxYLquJzGJMzVtYtJ4vXgl1M_WNjHYT9xZCQ4jOzgks.png" group-title="⚜️ROMANIA TV⚜️",FIGHT CLUB TV 7
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617604.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWOtDort2lxZxXCywHyWkETQbamGjmKPgzzoS4vRYpjMSlWf-iCPfnrUOZQsUEkGZjxYLquJzGJMzVtYtJ4vXgl1M_WNjHYT9xZCQ4jOzgks.png" group-title="⚜️ROMANIA TV⚜️",FIGHT CLUB TV 6
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617603.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWOtDort2lxZxXCywHyWkETQbamGjmKPgzzoS4vRYpjMSlWf-iCPfnrUOZQsUEkGZjxYLquJzGJMzVtYtJ4vXgl1M_WNjHYT9xZCQ4jOzgks.png" group-title="⚜️ROMANIA TV⚜️",FIGHT CLUB TV 5
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617602.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWOtDort2lxZxXCywHyWkETQbamGjmKPgzzoS4vRYpjMSlWf-iCPfnrUOZQsUEkGZjxYLquJzGJMzVtYtJ4vXgl1M_WNjHYT9xZCQ4jOzgks.png" group-title="⚜️ROMANIA TV⚜️",FIGHT CLUB TV 4
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617601.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWOtDort2lxZxXCywHyWkETQbamGjmKPgzzoS4vRYpjMSlWf-iCPfnrUOZQsUEkGZjxYLquJzGJMzVtYtJ4vXgl1M_WNjHYT9xZCQ4jOzgks.png" group-title="⚜️ROMANIA TV⚜️",FIGHT CLUB TV 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617600.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWOtDort2lxZxXCywHyWkETQbamGjmKPgzzoS4vRYpjMSlWf-iCPfnrUOZQsUEkGZjxYLquJzGJMzVtYtJ4vXgl1M_WNjHYT9xZCQ4jOzgks.png" group-title="⚜️ROMANIA TV⚜️",FIGHT CLUB TV 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617599.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgWOtDort2lxZxXCywHyWkETQbamGjmKPgzzoS4vRYpjMSlWf-iCPfnrUOZQsUEkGZjxYLquJzGJMzVtYtJ4vXgl1M_WNjHYT9xZCQ4jOzgks.png" group-title="⚜️ROMANIA TV⚜️",FIGHT CLUB  TV  1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617598.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfEGo3xy3J0G9vy84gWASfqVwfh1Fy_tUX--HUr6ZEkeoDXMOO7oCvLohK5go7fjNETdvLvbNeFhFGd0BHSzckMfM9GBCNaLLqia6xEh-02Z.png" group-title="⚜️ROMANIA TV⚜️",DIGI FILM TV 12
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617597.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfEGo3xy3J0G9vy84gWASfqVwfh1Fy_tUX--HUr6ZEkeoDXMOO7oCvLohK5go7fjNETdvLvbNeFhFGd0BHSzckMfM9GBCNaLLqia6xEh-02Z.png" group-title="⚜️ROMANIA TV⚜️",DIGI FILM TV 11
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617596.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfEGo3xy3J0G9vy84gWASfqVwfh1Fy_tUX--HUr6ZEkeoDXMOO7oCvLohK5go7fjNETdvLvbNeFhFGd0BHSzckMfM9GBCNaLLqia6xEh-02Z.png" group-title="⚜️ROMANIA TV⚜️",DIGI FILM TV 10
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617595.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfEGo3xy3J0G9vy84gWASfqVwfh1Fy_tUX--HUr6ZEkeoDXMOO7oCvLohK5go7fjNETdvLvbNeFhFGd0BHSzckMfM9GBCNaLLqia6xEh-02Z.png" group-title="⚜️ROMANIA TV⚜️",DIGI FILM TV 9
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617594.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfEGo3xy3J0G9vy84gWASfqVwfh1Fy_tUX--HUr6ZEkeoDXMOO7oCvLohK5go7fjNETdvLvbNeFhFGd0BHSzckMfM9GBCNaLLqia6xEh-02Z.png" group-title="⚜️ROMANIA TV⚜️",DIGI FILM TV 8
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617593.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfEGo3xy3J0G9vy84gWASfqVwfh1Fy_tUX--HUr6ZEkeoDXMOO7oCvLohK5go7fjNETdvLvbNeFhFGd0BHSzckMfM9GBCNaLLqia6xEh-02Z.png" group-title="⚜️ROMANIA TV⚜️",DIGI FILM TV 7
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617592.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfEGo3xy3J0G9vy84gWASfqVwfh1Fy_tUX--HUr6ZEkeoDXMOO7oCvLohK5go7fjNETdvLvbNeFhFGd0BHSzckMfM9GBCNaLLqia6xEh-02Z.png" group-title="⚜️ROMANIA TV⚜️",DIGI FILM TV 6
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617591.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfEGo3xy3J0G9vy84gWASfqVwfh1Fy_tUX--HUr6ZEkeoDXMOO7oCvLohK5go7fjNETdvLvbNeFhFGd0BHSzckMfM9GBCNaLLqia6xEh-02Z.png" group-title="⚜️ROMANIA TV⚜️",DIGI FILM TV 5
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617590.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfEGo3xy3J0G9vy84gWASfqVwfh1Fy_tUX--HUr6ZEkeoDXMOO7oCvLohK5go7fjNETdvLvbNeFhFGd0BHSzckMfM9GBCNaLLqia6xEh-02Z.png" group-title="⚜️ROMANIA TV⚜️",DIGI FILM TV 4
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617589.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfEGo3xy3J0G9vy84gWASfqVwfh1Fy_tUX--HUr6ZEkeoDXMOO7oCvLohK5go7fjNETdvLvbNeFhFGd0BHSzckMfM9GBCNaLLqia6xEh-02Z.png" group-title="⚜️ROMANIA TV⚜️",DIGI FILM TV 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617588.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfEGo3xy3J0G9vy84gWASfqVwfh1Fy_tUX--HUr6ZEkeoDXMOO7oCvLohK5go7fjNETdvLvbNeFhFGd0BHSzckMfM9GBCNaLLqia6xEh-02Z.png" group-title="⚜️ROMANIA TV⚜️",DIGI FILM TV 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617587.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfEGo3xy3J0G9vy84gWASfqVwfh1Fy_tUX--HUr6ZEkeoDXMOO7oCvLohK5go7fjNETdvLvbNeFhFGd0BHSzckMfM9GBCNaLLqia6xEh-02Z.png" group-title="⚜️ROMANIA TV⚜️",DIGI FILM TV 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617586.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfswZJnQTQSHze0IavAobfwoRq_QAQJ3Y_aNHJODhOCt.png" group-title="⚜️ROMANIA TV⚜️",ONE TV KIDS
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617585.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfswZJnQTQSHze0IavAobfwoRq_QAQJ3Y_aNHJODhOCt.png" group-title="⚜️ROMANIA TV⚜️",ONE TV SANDRA BULLOCK
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617584.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfswZJnQTQSHze0IavAobfwoRq_QAQJ3Y_aNHJODhOCt.png" group-title="⚜️ROMANIA TV⚜️",ONE TV DOLPH LUNDGREN
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617583.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfswZJnQTQSHze0IavAobfwoRq_QAQJ3Y_aNHJODhOCt.png" group-title="⚜️ROMANIA TV⚜️",ONE TV JIM CARREY
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617582.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfswZJnQTQSHze0IavAobfwoRq_QAQJ3Y_aNHJODhOCt.png" group-title="⚜️ROMANIA TV⚜️",ONE TV TOM CRUISE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617581.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfswZJnQTQSHze0IavAobfwoRq_QAQJ3Y_aNHJODhOCt.png" group-title="⚜️ROMANIA TV⚜️",ONE TV BRAD PITT
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617580.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfswZJnQTQSHze0IavAobfwoRq_QAQJ3Y_aNHJODhOCt.png" group-title="⚜️ROMANIA TV⚜️",ONE TV JASON STATHAM
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617579.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfswZJnQTQSHze0IavAobfwoRq_QAQJ3Y_aNHJODhOCt.png" group-title="⚜️ROMANIA TV⚜️",ONE TV VAL KILMER
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617578.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfswZJnQTQSHze0IavAobfwoRq_QAQJ3Y_aNHJODhOCt.png" group-title="⚜️ROMANIA TV⚜️",ONE TV JEAN CLAUDE VAN DAMME
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617577.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfswZJnQTQSHze0IavAobfwoRq_QAQJ3Y_aNHJODhOCt.png" group-title="⚜️ROMANIA TV⚜️",ONE TV AL PACINO
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617576.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfswZJnQTQSHze0IavAobfwoRq_QAQJ3Y_aNHJODhOCt.png" group-title="⚜️ROMANIA TV⚜️",ONE TV ROBERT DOWNEY JR
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617575.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfswZJnQTQSHze0IavAobfwoRq_QAQJ3Y_aNHJODhOCt.png" group-title="⚜️ROMANIA TV⚜️",ONE TV COMEDIE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617574.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfswZJnQTQSHze0IavAobfwoRq_QAQJ3Y_aNHJODhOCt.png" group-title="⚜️ROMANIA TV⚜️",ONE TV THRILLER
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617573.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfswZJnQTQSHze0IavAobfwoRq_QAQJ3Y_aNHJODhOCt.png" group-title="⚜️ROMANIA TV⚜️",ONE TV ACTIUNE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617572.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUZqdmkNn4KCdziCfKwO_8pgzczCak5ey459e0orZh52.png" group-title="⚜️ROMANIA TV⚜️",FLUX TV MARTIAL ARTS
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617571.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUZqdmkNn4KCdziCfKwO_8pgzczCak5ey459e0orZh52.png" group-title="⚜️ROMANIA TV⚜️",FLUX TV SELECT '60
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617570.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUZqdmkNn4KCdziCfKwO_8pgzczCak5ey459e0orZh52.png" group-title="⚜️ROMANIA TV⚜️",FLUX TV SELECT '25
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617569.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUZqdmkNn4KCdziCfKwO_8pgzczCak5ey459e0orZh52.png" group-title="⚜️ROMANIA TV⚜️",FLUX TV CLASSIC
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617568.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUZqdmkNn4KCdziCfKwO_8pgzczCak5ey459e0orZh52.png" group-title="⚜️ROMANIA TV⚜️",FLUX TV HORROR
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617567.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUZqdmkNn4KCdziCfKwO_8pgzczCak5ey459e0orZh52.png" group-title="⚜️ROMANIA TV⚜️",FLUX TV COMEDIE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617566.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUZqdmkNn4KCdziCfKwO_8pgzczCak5ey459e0orZh52.png" group-title="⚜️ROMANIA TV⚜️",FLUX TV THRILLER
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617565.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUZqdmkNn4KCdziCfKwO_8pgzczCak5ey459e0orZh52.png" group-title="⚜️ROMANIA TV⚜️",FLUX TV ACTIUNE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617564.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgf83S17XTzsSkzOG2l8dxPhrk7UvXJ6KHl5r4EkL6gEqQvG-TPcVN3y5rBuLHjALgnc58_4uMtv2f0LhhcFBDfr64P_M6Hkfv99ILQ2wQvB9.png" group-title="⚜️ROMANIA TV⚜️",MOVIES 4 TV
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617563.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgf83S17XTzsSkzOG2l8dxPhrk7UvXJ6KHl5r4EkL6gEqQvG-TPcVN3y5rBuLHjALgnc58_4uMtv2f0LhhcFBDfr64P_M6Hkfv99ILQ2wQvB9.png" group-title="⚜️ROMANIA TV⚜️",MOVIES 3 TV
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617562.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgf83S17XTzsSkzOG2l8dxPhrk7UvXJ6KHl5r4EkL6gEqQvG-TPcVN3y5rBuLHjALgnc58_4uMtv2f0LhhcFBDfr64P_M6Hkfv99ILQ2wQvB9.png" group-title="⚜️ROMANIA TV⚜️",MOVIES 2 TV
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617561.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgf83S17XTzsSkzOG2l8dxPhrk7UvXJ6KHl5r4EkL6gEqQvG-TPcVN3y5rBuLHjALgnc58_4uMtv2f0LhhcFBDfr64P_M6Hkfv99ILQ2wQvB9.png" group-title="⚜️ROMANIA TV⚜️",MOVIES 1 TV
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617560.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgdLPu1P14JrfGdbr-yaEmLO3m8ERYjeIAxdR5vHkByL-WnQzWngfPCQcCD6hoir3lcmdZjep7SKbXDIhHOyQTH8mKtbGAdSiQfoLanRH2pj4.png" group-title="⚜️ROMANIA TV⚜️",AXN TV CINEMA
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617559.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgdLPu1P14JrfGdbr-yaEmLO3m8ERYjeIAxdR5vHkByL-WnQzWngfPCQcCD6hoir3lcmdZjep7SKbXDIhHOyQTH8mKtbGAdSiQfoLanRH2pj4.png" group-title="⚜️ROMANIA TV⚜️",AXN TV MOVIES
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617558.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgcYDcVkICeiF6Yp4x3v_kLkYCaSV1altZn9Nff0rokz8_5tcUhpkPjwbz41WF1sNYfhF9XBhvRW0paGFqaue_4sfONXAGdUV1a25cWRvz2B8.png" group-title="⚜️ROMANIA TV⚜️",ZOKKO TV DRAMA 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617557.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgcYDcVkICeiF6Yp4x3v_kLkYCaSV1altZn9Nff0rokz8_5tcUhpkPjwbz41WF1sNYfhF9XBhvRW0paGFqaue_4sfONXAGdUV1a25cWRvz2B8.png" group-title="⚜️ROMANIA TV⚜️",ZOKKO TV DRAMA 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617556.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgcYDcVkICeiF6Yp4x3v_kLkYCaSV1altZn9Nff0rokz8_5tcUhpkPjwbz41WF1sNYfhF9XBhvRW0paGFqaue_4sfONXAGdUV1a25cWRvz2B8.png" group-title="⚜️ROMANIA TV⚜️",ZOKKO TV THRILLER
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617555.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgT6Bfc6L5jPz_Q6x_SbFu7jy7adM-6YIVttUuMLLEEM-zK70OypE85ikT7ySlETw6ClDv-UXK9SfM30Yh9xbGm-snl5Fn-7nkIs6n5xaGr_U.png" group-title="⚜️ROMANIA TV⚜️",THE JOKER COMEDIE 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617554.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgT6Bfc6L5jPz_Q6x_SbFu7jy7adM-6YIVttUuMLLEEM-zK70OypE85ikT7ySlETw6ClDv-UXK9SfM30Yh9xbGm-snl5Fn-7nkIs6n5xaGr_U.png" group-title="⚜️ROMANIA TV⚜️",THE JOKER COMEDIE 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617553.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgT6Bfc6L5jPz_Q6x_SbFu7jy7adM-6YIVttUuMLLEEM-zK70OypE85ikT7ySlETw6ClDv-UXK9SfM30Yh9xbGm-snl5Fn-7nkIs6n5xaGr_U.png" group-title="⚜️ROMANIA TV⚜️",THE JOKER DRAMA 4
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617552.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgT6Bfc6L5jPz_Q6x_SbFu7jy7adM-6YIVttUuMLLEEM-zK70OypE85ikT7ySlETw6ClDv-UXK9SfM30Yh9xbGm-snl5Fn-7nkIs6n5xaGr_U.png" group-title="⚜️ROMANIA TV⚜️",THE JOKER DRAMA 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617551.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgT6Bfc6L5jPz_Q6x_SbFu7jy7adM-6YIVttUuMLLEEM-zK70OypE85ikT7ySlETw6ClDv-UXK9SfM30Yh9xbGm-snl5Fn-7nkIs6n5xaGr_U.png" group-title="⚜️ROMANIA TV⚜️",THE JOKER DRAMA 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617550.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgT6Bfc6L5jPz_Q6x_SbFu7jy7adM-6YIVttUuMLLEEM-zK70OypE85ikT7ySlETw6ClDv-UXK9SfM30Yh9xbGm-snl5Fn-7nkIs6n5xaGr_U.png" group-title="⚜️ROMANIA TV⚜️",THE JOKER DRAMA 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617549.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgT6Bfc6L5jPz_Q6x_SbFu7jy7adM-6YIVttUuMLLEEM-zK70OypE85ikT7ySlETw6ClDv-UXK9SfM30Yh9xbGm-snl5Fn-7nkIs6n5xaGr_U.png" group-title="⚜️ROMANIA TV⚜️",THE JOKER CLASSIC 4
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617548.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgT6Bfc6L5jPz_Q6x_SbFu7jy7adM-6YIVttUuMLLEEM-zK70OypE85ikT7ySlETw6ClDv-UXK9SfM30Yh9xbGm-snl5Fn-7nkIs6n5xaGr_U.png" group-title="⚜️ROMANIA TV⚜️",THE JOKER CLASSIC 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617547.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgT6Bfc6L5jPz_Q6x_SbFu7jy7adM-6YIVttUuMLLEEM-zK70OypE85ikT7ySlETw6ClDv-UXK9SfM30Yh9xbGm-snl5Fn-7nkIs6n5xaGr_U.png" group-title="⚜️ROMANIA TV⚜️",THE JOKER CLASSIC 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617546.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgT6Bfc6L5jPz_Q6x_SbFu7jy7adM-6YIVttUuMLLEEM-zK70OypE85ikT7ySlETw6ClDv-UXK9SfM30Yh9xbGm-snl5Fn-7nkIs6n5xaGr_U.png" group-title="⚜️ROMANIA TV⚜️",THE JOKER ADVENTURE 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617545.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgT6Bfc6L5jPz_Q6x_SbFu7jy7adM-6YIVttUuMLLEEM-zK70OypE85ikT7ySlETw6ClDv-UXK9SfM30Yh9xbGm-snl5Fn-7nkIs6n5xaGr_U.png" group-title="⚜️ROMANIA TV⚜️",THE JOKER ADVENTURE 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617544.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgT6Bfc6L5jPz_Q6x_SbFu7jy7adM-6YIVttUuMLLEEM-zK70OypE85ikT7ySlETw6ClDv-UXK9SfM30Yh9xbGm-snl5Fn-7nkIs6n5xaGr_U.png" group-title="⚜️ROMANIA TV⚜️",THE JOKER HORROR 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617543.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgT6Bfc6L5jPz_Q6x_SbFu7jy7adM-6YIVttUuMLLEEM-zK70OypE85ikT7ySlETw6ClDv-UXK9SfM30Yh9xbGm-snl5Fn-7nkIs6n5xaGr_U.png" group-title="⚜️ROMANIA TV⚜️",THE JOKER HORROR 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617542.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgT6Bfc6L5jPz_Q6x_SbFu7jy7adM-6YIVttUuMLLEEM-zK70OypE85ikT7ySlETw6ClDv-UXK9SfM30Yh9xbGm-snl5Fn-7nkIs6n5xaGr_U.png" group-title="⚜️ROMANIA TV⚜️",THE JOKER ACTION 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617541.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgT6Bfc6L5jPz_Q6x_SbFu7jy7adM-6YIVttUuMLLEEM-zK70OypE85ikT7ySlETw6ClDv-UXK9SfM30Yh9xbGm-snl5Fn-7nkIs6n5xaGr_U.png" group-title="⚜️ROMANIA TV⚜️",THE JOKER ACTION 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617540.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgT6Bfc6L5jPz_Q6x_SbFu7jy7adM-6YIVttUuMLLEEM-zK70OypE85ikT7ySlETw6ClDv-UXK9SfM30Yh9xbGm-snl5Fn-7nkIs6n5xaGr_U.png" group-title="⚜️ROMANIA TV⚜️",THE JOKER LOUIS DE FUNES
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617539.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV UNIVERSAL 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617538.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV TECTONIC 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617537.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV STAR 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617536.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV SIGNATURE 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617535.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV QUANTURE 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617534.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV ODYSSEY 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617533.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV GENOM
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617532.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV TECTONIC 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617531.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV UNIVERSAL 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617530.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV STAR 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617529.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV SIGNATURE 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617528.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV QUANTURE 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617527.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV ODYSSEY 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617526.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV FUSION 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617525.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV FUSION 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617524.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV FLIX 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617523.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV FLIX 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617522.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV ENTERTAIMENT 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617521.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV ENTERTAIMENT 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617520.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV DYNAMICS 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617519.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV DYNAMICS 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617518.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV BOX 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617517.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV BOX 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617516.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV AXIS 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617515.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV AXIS 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617514.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV THRILLER
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617513.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMge_MFSsHL1wZR70HY6ba9E30Yy_YfrqB5KoSOyiQTc3ruZUiNMCSfbGAFBii6_QrEKhw63lAB4OGSpOd-zhn_5XQYid4C_3TByLeCu0X6vyo.png" group-title="⚜️ROMANIA TV⚜️",LIDAS TV ACTIUNE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617512.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV ISTORIC FANTASY 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617511.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV ISTORIC FANTASY 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617510.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV MARTIAL ARTS 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617509.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV MARTIAL ARTS 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617508.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV BOLLYWOOD 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617507.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV BOLLYWOOD 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617506.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV ROMANESTI 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617505.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV ROMANESTI 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617504.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV AVENTURA 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617503.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV AVENTURA 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617502.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV ANIMATIE 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617501.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV ANIMATIE 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617500.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV FANTEZIE 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617499.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV FANTEZIE 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617498.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV WAR 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617497.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV WAR 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617496.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV SCI-FI 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617495.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV SCI-FI 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617494.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV COMEDIE 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617493.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV COMEDIE 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617492.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV HORROR 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617491.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV HORROR 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617490.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV DRAMA 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617489.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV DRAMA 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617488.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV ACTIUNE 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617487.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV ACTIUNE 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617486.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV VAN DAMME
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617485.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV VAL KILMER
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617484.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV MORGAN FREEMAN
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617483.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV JOHNNY DEEP
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617482.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV LEONARDO DI CAPRIO
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617481.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV ADAM SANDLER
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617480.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV ANGELINA JOLIE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617479.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV BEN STILLER
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617478.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgRC0FIMnNYcvRJPel69IqT6FUu4ky4PEUcH_P2RxjIOfFuQ1Uf74LbJ42d2csmgAvjRzgJ33Y3dHZtUReMirWvP8NXhnrGqKchYVLuWJk79d.png" group-title="⚜️ROMANIA TV⚜️",MAGURA TV BRAD PITT
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617477.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVDhwurvghZLX-SDeLaeHKBTMjrTUgijk_HF9ZrbhjgeXj_jVKO1BMlUpbtIMHOiiwAoRebrIZNPAthP_zqoxHe0Z9MAAyo3jtVYWW2wpQ2U.png" group-title="⚜️ROMANIA TV⚜️",VIP TV 2 2021
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617476.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVDhwurvghZLX-SDeLaeHKBTMjrTUgijk_HF9ZrbhjgeXj_jVKO1BMlUpbtIMHOiiwAoRebrIZNPAthP_zqoxHe0Z9MAAyo3jtVYWW2wpQ2U.png" group-title="⚜️ROMANIA TV⚜️",VIP TV 1 2021
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617475.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVDhwurvghZLX-SDeLaeHKBTMjrTUgijk_HF9ZrbhjgeXj_jVKO1BMlUpbtIMHOiiwAoRebrIZNPAthP_zqoxHe0Z9MAAyo3jtVYWW2wpQ2U.png" group-title="⚜️ROMANIA TV⚜️",VIP TV BOLLYWOOD 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617474.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVDhwurvghZLX-SDeLaeHKBTMjrTUgijk_HF9ZrbhjgeXj_jVKO1BMlUpbtIMHOiiwAoRebrIZNPAthP_zqoxHe0Z9MAAyo3jtVYWW2wpQ2U.png" group-title="⚜️ROMANIA TV⚜️",VIP TV BOLLYWOOD 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617473.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVDhwurvghZLX-SDeLaeHKBTMjrTUgijk_HF9ZrbhjgeXj_jVKO1BMlUpbtIMHOiiwAoRebrIZNPAthP_zqoxHe0Z9MAAyo3jtVYWW2wpQ2U.png" group-title="⚜️ROMANIA TV⚜️",VIP TV CINEMA 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617472.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVDhwurvghZLX-SDeLaeHKBTMjrTUgijk_HF9ZrbhjgeXj_jVKO1BMlUpbtIMHOiiwAoRebrIZNPAthP_zqoxHe0Z9MAAyo3jtVYWW2wpQ2U.png" group-title="⚜️ROMANIA TV⚜️",VIP TV CINEMA 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617471.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVDhwurvghZLX-SDeLaeHKBTMjrTUgijk_HF9ZrbhjgeXj_jVKO1BMlUpbtIMHOiiwAoRebrIZNPAthP_zqoxHe0Z9MAAyo3jtVYWW2wpQ2U.png" group-title="⚜️ROMANIA TV⚜️",VIP TV COMEDY 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617470.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVDhwurvghZLX-SDeLaeHKBTMjrTUgijk_HF9ZrbhjgeXj_jVKO1BMlUpbtIMHOiiwAoRebrIZNPAthP_zqoxHe0Z9MAAyo3jtVYWW2wpQ2U.png" group-title="⚜️ROMANIA TV⚜️",VIP TV COMEDY 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617469.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVDhwurvghZLX-SDeLaeHKBTMjrTUgijk_HF9ZrbhjgeXj_jVKO1BMlUpbtIMHOiiwAoRebrIZNPAthP_zqoxHe0Z9MAAyo3jtVYWW2wpQ2U.png" group-title="⚜️ROMANIA TV⚜️",VIP TV HORROR 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617468.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVDhwurvghZLX-SDeLaeHKBTMjrTUgijk_HF9ZrbhjgeXj_jVKO1BMlUpbtIMHOiiwAoRebrIZNPAthP_zqoxHe0Z9MAAyo3jtVYWW2wpQ2U.png" group-title="⚜️ROMANIA TV⚜️",VIP TV HORROR 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617467.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVDhwurvghZLX-SDeLaeHKBTMjrTUgijk_HF9ZrbhjgeXj_jVKO1BMlUpbtIMHOiiwAoRebrIZNPAthP_zqoxHe0Z9MAAyo3jtVYWW2wpQ2U.png" group-title="⚜️ROMANIA TV⚜️",VIP TV ACTION 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617466.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVDhwurvghZLX-SDeLaeHKBTMjrTUgijk_HF9ZrbhjgeXj_jVKO1BMlUpbtIMHOiiwAoRebrIZNPAthP_zqoxHe0Z9MAAyo3jtVYWW2wpQ2U.png" group-title="⚜️ROMANIA TV⚜️",VIP TV ACTION 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617465.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA TV BOLLYWOOD
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617464.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA TV PLAY
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617463.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA TV PRIME
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617462.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA TV STREAM
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617461.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA TV ZONE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617460.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA TV COMEDY
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617459.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA TV HORROR
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617458.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA TV ACTION
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617457.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA ZONE TV 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617456.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA ZONE TV 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617455.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA ZONE TV 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617454.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA STREAMVUE TV 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617453.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA STREAMVUE TV 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617452.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA STREAMVUE TV 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617451.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA PRIME TV 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617450.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA PRIME TV 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617449.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA PRIME TV 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617448.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA PLAY TV 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617447.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA PLAY TV 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617446.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA PLAY TV 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617445.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA STREAM TV 3
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617444.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA STREAM TV 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617443.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSlojR4aWZHjG5xvVAV48OKRMZ-T-ferNX-SBPHghH207S3qtqE6EEaWd_pBo7GpOKGYUKJkGNDLuIv1TJZZtRT_COtYK0d5HUa2eI3yODcY.png" group-title="⚜️ROMANIA TV⚜️",LUNA STREAM TV 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617442.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV ANGELINA JOLIE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617441.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV JHON TRAVOLTA
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617440.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV JASON STATHAM
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617439.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV SYLVESTER STALLONE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617438.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV 4K
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617437.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV WAR
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617436.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET KIDS
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617435.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV FANTASY
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617434.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV iUMOR
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617433.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV LAS FIERBINTI
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617432.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV BOLLYWOOD
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617431.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV WESTERN
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617430.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV HORROR
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617429.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV SCI-FI
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617428.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV COMEDY
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617427.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV THRILLER
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617426.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV ACTION
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617425.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV PREMIERE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617424.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV THRILLER
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617423.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV ACTIUNE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617422.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfCA20YqZ_JEKMc5B31jFx6FLHzpyDIa1MrI4QrbYbEoP4KRUf2eMywqB1RvIZksSYf9afnUL67hD4okfzfczBwDZyQALDz5o3dfv3Ov6YZm.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV CRACIUN
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617421.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfCA20YqZ_JEKMc5B31jFx6FLHzpyDIa1MrI4QrbYbEoP4KRUf2eMywqB1RvIZksSYf9afnUL67hD4okfzfczBwDZyQALDz5o3dfv3Ov6YZm.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV INDIENE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617420.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfCA20YqZ_JEKMc5B31jFx6FLHzpyDIa1MrI4QrbYbEoP4KRUf2eMywqB1RvIZksSYf9afnUL67hD4okfzfczBwDZyQALDz5o3dfv3Ov6YZm.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV DRAMA
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617419.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgS1iemDN1CqO15ULMTcomYVJEeJYCEXp45bJbL2ST7ytoQsYWkAdkQs_d9DcOkSO_zJ8T4snI02iYZb2ggWBWVWjtTSWX6ABnDJHGaxLAsPE.png" group-title="⚜️ROMANIA TV⚜️",NETFLIX TV CRACIUN
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617418.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgS1iemDN1CqO15ULMTcomYVJEeJYCEXp45bJbL2ST7ytoQsYWkAdkQs_d9DcOkSO_zJ8T4snI02iYZb2ggWBWVWjtTSWX6ABnDJHGaxLAsPE.png" group-title="⚜️ROMANIA TV⚜️",NETFLIX TV INDIENE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617417.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgS1iemDN1CqO15ULMTcomYVJEeJYCEXp45bJbL2ST7ytoQsYWkAdkQs_d9DcOkSO_zJ8T4snI02iYZb2ggWBWVWjtTSWX6ABnDJHGaxLAsPE.png" group-title="⚜️ROMANIA TV⚜️",NETFLIX TV DRAMA
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617416.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgS1iemDN1CqO15ULMTcomYVJEeJYCEXp45bJbL2ST7ytoQsYWkAdkQs_d9DcOkSO_zJ8T4snI02iYZb2ggWBWVWjtTSWX6ABnDJHGaxLAsPE.png" group-title="⚜️ROMANIA TV⚜️",NETFLIX TV THRILLER
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617415.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgS1iemDN1CqO15ULMTcomYVJEeJYCEXp45bJbL2ST7ytoQsYWkAdkQs_d9DcOkSO_zJ8T4snI02iYZb2ggWBWVWjtTSWX6ABnDJHGaxLAsPE.png" group-title="⚜️ROMANIA TV⚜️",NETFLIX TV ACTIUNE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617414.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgQDusNlhz80kAL9S4N8dvFy6C84lmZ5HREikhxaGD9iQihk6-2hFebGG3xDON3NXnNOvU71fJMFwdjghDbjv6SGRK_t732JL7wmfIV_8Fnel.png" group-title="⚜️ROMANIA TV⚜️",VOYO TV PLEX 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617413.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgQDusNlhz80kAL9S4N8dvFy6C84lmZ5HREikhxaGD9iQihk6-2hFebGG3xDON3NXnNOvU71fJMFwdjghDbjv6SGRK_t732JL7wmfIV_8Fnel.png" group-title="⚜️ROMANIA TV⚜️",VOYO TV PLEX 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617412.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgQDusNlhz80kAL9S4N8dvFy6C84lmZ5HREikhxaGD9iQihk6-2hFebGG3xDON3NXnNOvU71fJMFwdjghDbjv6SGRK_t732JL7wmfIV_8Fnel.png" group-title="⚜️ROMANIA TV⚜️",VOYO TV CINEMA 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617411.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgQDusNlhz80kAL9S4N8dvFy6C84lmZ5HREikhxaGD9iQihk6-2hFebGG3xDON3NXnNOvU71fJMFwdjghDbjv6SGRK_t732JL7wmfIV_8Fnel.png" group-title="⚜️ROMANIA TV⚜️",VOYO TV CINEMA 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617410.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgQDusNlhz80kAL9S4N8dvFy6C84lmZ5HREikhxaGD9iQihk6-2hFebGG3xDON3NXnNOvU71fJMFwdjghDbjv6SGRK_t732JL7wmfIV_8Fnel.png" group-title="⚜️ROMANIA TV⚜️",VOYO TV GOLD 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617409.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgQDusNlhz80kAL9S4N8dvFy6C84lmZ5HREikhxaGD9iQihk6-2hFebGG3xDON3NXnNOvU71fJMFwdjghDbjv6SGRK_t732JL7wmfIV_8Fnel.png" group-title="⚜️ROMANIA TV⚜️",VOYO TV GOLD 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617408.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgQDusNlhz80kAL9S4N8dvFy6C84lmZ5HREikhxaGD9iQihk6-2hFebGG3xDON3NXnNOvU71fJMFwdjghDbjv6SGRK_t732JL7wmfIV_8Fnel.png" group-title="⚜️ROMANIA TV⚜️",VOYO TV BOX 2
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617407.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgQDusNlhz80kAL9S4N8dvFy6C84lmZ5HREikhxaGD9iQihk6-2hFebGG3xDON3NXnNOvU71fJMFwdjghDbjv6SGRK_t732JL7wmfIV_8Fnel.png" group-title="⚜️ROMANIA TV⚜️",VOYO TV BOX 1
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617406.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgQDusNlhz80kAL9S4N8dvFy6C84lmZ5HREikhxaGD9iQihk6-2hFebGG3xDON3NXnNOvU71fJMFwdjghDbjv6SGRK_t732JL7wmfIV_8Fnel.png" group-title="⚜️ROMANIA TV⚜️",VOYO TV THRILLER
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617405.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgQDusNlhz80kAL9S4N8dvFy6C84lmZ5HREikhxaGD9iQihk6-2hFebGG3xDON3NXnNOvU71fJMFwdjghDbjv6SGRK_t732JL7wmfIV_8Fnel.png" group-title="⚜️ROMANIA TV⚜️",VOYO TV ACTIUNE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617404.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSOu2ZAmzbrhsAf4JUDe9Y6ITfNeeOugL3-WVd3v3c3lfhr0WAuHVCUltqLUTzzUtCru01NfiwgUMJGJD7jw8tTFFpf4PmhsLgYLKv2NN_HD.png" group-title="⚜️ROMANIA TV⚜️",LUL TV KIDS
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617403.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSOu2ZAmzbrhsAf4JUDe9Y6ITfNeeOugL3-WVd3v3c3lfhr0WAuHVCUltqLUTzzUtCru01NfiwgUMJGJD7jw8tTFFpf4PmhsLgYLKv2NN_HD.png" group-title="⚜️ROMANIA TV⚜️",LUL TV CRACIUN
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617402.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSOu2ZAmzbrhsAf4JUDe9Y6ITfNeeOugL3-WVd3v3c3lfhr0WAuHVCUltqLUTzzUtCru01NfiwgUMJGJD7jw8tTFFpf4PmhsLgYLKv2NN_HD.png" group-title="⚜️ROMANIA TV⚜️",LUL TV INDIENE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617401.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSOu2ZAmzbrhsAf4JUDe9Y6ITfNeeOugL3-WVd3v3c3lfhr0WAuHVCUltqLUTzzUtCru01NfiwgUMJGJD7jw8tTFFpf4PmhsLgYLKv2NN_HD.png" group-title="⚜️ROMANIA TV⚜️",LUL TV DRAMA
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617400.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSOu2ZAmzbrhsAf4JUDe9Y6ITfNeeOugL3-WVd3v3c3lfhr0WAuHVCUltqLUTzzUtCru01NfiwgUMJGJD7jw8tTFFpf4PmhsLgYLKv2NN_HD.png" group-title="⚜️ROMANIA TV⚜️",LUL TV HORROR
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617399.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSOu2ZAmzbrhsAf4JUDe9Y6ITfNeeOugL3-WVd3v3c3lfhr0WAuHVCUltqLUTzzUtCru01NfiwgUMJGJD7jw8tTFFpf4PmhsLgYLKv2NN_HD.png" group-title="⚜️ROMANIA TV⚜️",LUL TV THRILLER
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617398.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSOu2ZAmzbrhsAf4JUDe9Y6ITfNeeOugL3-WVd3v3c3lfhr0WAuHVCUltqLUTzzUtCru01NfiwgUMJGJD7jw8tTFFpf4PmhsLgYLKv2NN_HD.png" group-title="⚜️ROMANIA TV⚜️",LUL TV ACTIUNE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617397.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUH64jQIiM3aTWipTmiX04nisQK3p8lFNuNSuMxXrzoZOhyODFqerqTgREw98ObNew.png" group-title="⚜️ROMANIA TV⚜️",CINEMA ONE THRILLER
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617396.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUH64jQIiM3aTWipTmiX04nisQK3p8lFNuNSuMxXrzoZOhyODFqerqTgREw98ObNew.png" group-title="⚜️ROMANIA TV⚜️",CINEMA ONE ACTIUNE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617395.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVWHDabuYBTLgjm-qaW3nN97DhdXh2Qom9bKvccjgfgH.png" group-title="⚜️ROMANIA TV⚜️",APPLE TV ROMANIA
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617394.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVWHDabuYBTLgjm-qaW3nN97DhdXh2Qom9bKvccjgfgH.png" group-title="⚜️ROMANIA TV⚜️",APPLE TV DOCUMENTAR
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617393.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVWHDabuYBTLgjm-qaW3nN97DhdXh2Qom9bKvccjgfgH.png" group-title="⚜️ROMANIA TV⚜️",APPLE TV ARTE MARTIALE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617392.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVWHDabuYBTLgjm-qaW3nN97DhdXh2Qom9bKvccjgfgH.png" group-title="⚜️ROMANIA TV⚜️",APPLE TV COMEDIE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617391.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVWHDabuYBTLgjm-qaW3nN97DhdXh2Qom9bKvccjgfgH.png" group-title="⚜️ROMANIA TV⚜️",APPLE TV THRILLER
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617390.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVWHDabuYBTLgjm-qaW3nN97DhdXh2Qom9bKvccjgfgH.png" group-title="⚜️ROMANIA TV⚜️",APPLE TV ACTIUNE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617389.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgTS1gZPEZb24h8-PM3HHC5bQsmsGlML5m-oWchngWAPmKW_w2f3UmLRafA4NxOyPCn0jjFsPFxCFShdTIUinSy4U60--hpMksOXC3bajSNZb.png" group-title="⚜️ROMANIA TV⚜️",RAKUTEN TV ACTIUNE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617388.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgTS1gZPEZb24h8-PM3HHC5bQsmsGlML5m-oWchngWAPmKW_w2f3UmLRafA4NxOyPCn0jjFsPFxCFShdTIUinSy4U60--hpMksOXC3bajSNZb.png" group-title="⚜️ROMANIA TV⚜️",RAKUTEN TV THRILLER
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617387.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgdPd7mFIvivmgr8sPiQKUzsK_uRZOFFjO6ZRSNPaS5opZeJYPXLeeOWhNoPHwCGmrCnn9FPeReWrQpA_pBAFIxUw4saRjfQECRQldX32z59u.png" group-title="⚜️ROMANIA TV⚜️",HOME ALONE TV
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617386.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgSjzqt50XFTU06FnX2Wze84TnlMpI66l2dEqr8ElCzpbl3z6aWCB4FX1ZoZvRpNgqplnXwbkmp3_vaG-ZknnWsWgz-UMUjzv6tzro1NY6YbG.png" group-title="⚜️ROMANIA TV⚜️",ISUS DIN NAZARETH TV
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617385.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgcn5oLu6xq7QMJ-jPaqbLd2q46SusU5_OOBshbhMrDsBuN2CdkXCgTKETMKBrQ2Ynef2Q3ebSKXFhsSHcVMvj2Vf6y5LAFlKDw6XUCE9_MK4.png" group-title="⚜️ROMANIA TV⚜️",LORD OF THE RINGS TV
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617384.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgdrlGBusTNcmQgVc_0Q0CRA9WMdq5cwzeCpIaCUbWhXgFQo8ytuDtFJaQ7SACl0w03A35U4tJOPpJhHkw5u0-kBNfKUwga7iT3WrrsZAFEmS.png" group-title="⚜️ROMANIA TV⚜️",GAME OF THRONES TV
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617383.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgdWYAkBwqb0X_aqEyIonl02TQ_lIBl_6gcZfSNL7ltww.png" group-title="⚜️ROMANIA TV⚜️",INFINITY MEDIA TV MINTI CRIMINALE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617381.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgdWYAkBwqb0X_aqEyIonl02TQ_lIBl_6gcZfSNL7ltww.png" group-title="⚜️ROMANIA TV⚜️",INFINITY MEDIA TV TRASNITII
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617380.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgdWYAkBwqb0X_aqEyIonl02TQ_lIBl_6gcZfSNL7ltww.png" group-title="⚜️ROMANIA TV⚜️",INFINITY MEDIA TV IUBIRI SECRETE
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617379.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgdWYAkBwqb0X_aqEyIonl02TQ_lIBl_6gcZfSNL7ltww.png" group-title="⚜️ROMANIA TV⚜️",INFINITY MEDIA TV IUBIRE INTERZISA
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617378.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgdWYAkBwqb0X_aqEyIonl02TQ_lIBl_6gcZfSNL7ltww.png" group-title="⚜️ROMANIA TV⚜️",INFINITY MEDIA TV IN CAUTAREA ADEVARULUI
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617377.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfI6JpfpEUwsU_NXEvsLEYB6XLGC2nUdL2gxCBNcKnpn.png" group-title="⚜️ROMANIA TV⚜️",SHOWTIME TV MONDENII
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617376.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcTHv7yY/logo.gif" group-title="⚜️ROMANIA TV⚜️",ROTV  ACTION
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/492847.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcTHv7yY/logo.gif" group-title="⚜️ROMANIA TV⚜️",ROTV  ADVENTURE
@@ -622,8 +1194,6 @@ http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/498641.m3u8
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/498640.m3u8
 #EXTINF:-1 tvg-logo="https://images.icon-icons.com/2699/PNG/512/netflix_logo_icon_170919.png" group-title="⚜️ROMANIA TV⚜️",NETFLIX ACTION
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/498639.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13WNWM5M/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO ASIA EXPRES ᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296272.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwgLZzkM/logo-1.gif" group-title="⚜️ROMANIA TV⚜️",BEIN ACTION 1
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/498965.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwgLZzkM/logo-1.gif" group-title="⚜️ROMANIA TV⚜️",BEIN ACTION 2
@@ -884,179 +1454,7 @@ http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/498574.m3u8
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/498573.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tn1Wr6d/images-1-removebg-preview.png" group-title="⚜️ROMANIA TV⚜️",ZOKKO TRALALA
 http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/498572.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXXYVm79/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO LAS FIERBINTI ᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296287.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjzsbtvm/k.png" group-title="⚜️ROMANIA TV⚜️",▶️FLUXRO  WESTERN ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296303.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRQBTqyN/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO VISURI LA CHEIE ᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296302.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6YSkxnt/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLUXRO  THRILLER ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296301.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMWWxLQV/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO SURVIVOR ˢᵈ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296300.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRB7Pw0R/drrrrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO SUNNY BUNNIES ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296299.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp8q7LzL/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO STAND-UP ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296298.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26LvLvYG/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO SEF SUB ACOPERIRE ᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296297.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJc16FxF/SCI-FI.gif" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO SCI-FI ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296296.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2z7ZbLJ/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO ROMANIA TE IUBESC ᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296295.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpFPXGVp/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO PREMIERE ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296294.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3SFchr5/drrrrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO PETRECERE ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296293.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLqPzt4t/drrrrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO MUZICA ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296292.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjHR0S6V/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO MR. BEAN ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296291.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYdC4yhv/LOG.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO MICKEY MOUSE ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296290.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8smNP7X/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO MANGALITA ᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296289.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgQtyLn3/drrrrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO LATINO MUSIC ⁴ᴷ ᵁᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296288.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp7BQJKT/drrrrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO LARVA ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296286.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4ddZ6mQG/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO HORROR ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296283.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMZ1HFDJ/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLUXRO FILME ROMANESTI ᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296282.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTxLTSHq/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO DRAMA ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296281.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYRmmD79/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO DOI DEGEABA ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296280.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGfyRWSh/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO CULINAR ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296279.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2X8WNQN/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO CHEFI LA CUTITE ᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296277.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1z15rYLL/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO BOLLYWOOD ᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296276.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMmMVqk/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO BAIETI DE ORAS ᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296275.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPM9wVSy/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO AVENTURA ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296274.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HW5XpQBs/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO ASTA-I ROMANIA ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296273.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSXkMD9t/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO ACTIUNE 2 ᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296271.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hmmm0Cz/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO ⁴ᴷ ᵁᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296270.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGLfwY45/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV SUPER ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296374.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjgs6MBt/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV SCI-FI ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296373.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbPjChBJ/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV ROBERT DE NIRO ᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296372.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx2Z4q8J/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV NICOLAS CAGE ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296371.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGLfwY45/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV MAX ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296370.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsffSwjB/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV MARTIN LAWRENCE ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296369.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DydXpNKz/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV LIAM NEESON ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296368.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryfjZzGb/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV LEONARDO DiCAPRIO ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296367.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNKTmcNk/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV JOHN TRAVOLTA ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296366.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ98CsTC/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV JIM CARREY ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296365.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SSVc8wH/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV Jean Claude Van Damme ˢᵈ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296364.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjK2sf6F/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV JASON STATHAM ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296363.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZwgxkN7/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV DENZEL WASHINGTON ᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296362.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdtRYRWg/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV CRIME ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296361.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q4Ftncy/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV CLASSIC
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296360.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGLfwY45/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV BEST ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296359.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9cgg339/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV AVENTURA ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296358.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hHBG231/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV ARNOLD SCHWARZENEGGER ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296357.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLW8wgc/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️ONE TV ACTIUNE ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296356.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtkDm8p7/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️KINO TV MOVIES PLUS ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296343.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cC9Vkr6v/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️KINO TV MOVIES EXTRA ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296342.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pX1Hq1ns/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️KINO TV MAX MOVIES ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296341.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5KT9S7x/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️KINO TV KARATE  PLUS ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296340.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhRGsBgj/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️KINO TV KARATE ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296339.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMrDvFNy/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️KINO TV KARATE EXTRA ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296338.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9tZp1W4/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️KINO TV FILM ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296337.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg3mhvjk/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️KINO TV FILME ROMANESTI ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296336.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLF0zHpT/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️KINO TV FIGHT ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296335.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y2tFYZy/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️KINO TV FANTASY ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296334.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1R7FrsM2/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️KINO TV COMEDIE ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296333.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1R8h4rd6/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️KINO TV BOX MOVIES ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296332.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1c0QS2r/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️KINO TV BEST MOVIES ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296331.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9wGjSrL/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️KINO TV AVENTURA ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296330.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRxSLSfr/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️KINO TV ACTIUNE ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296329.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHDrNgLv/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️KINO TV ⁴ᴷ ᵁᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296328.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nm7XD64/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️Fly LAS FIERBINTI s20 ᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296319.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nm7XD64/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️Fly LAS FIERBINTI s21 ᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296320.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x82vrRJ7/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY  WESTERN  ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296327.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/htx5TC8z/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY WAR ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296326.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLWYsqz1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY  THRILLER ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296325.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDFT4YTt/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY SCI-FI ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296324.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/63kfzKfd/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY SCI-FI EXTRAᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296323.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj3PLq9D/k.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY  RELAX ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296322.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YRNhxSq/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY PREMIERE ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296321.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Znpwpnpk/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY ACTIUNE ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296304.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Fqmgw5F/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY HORROR PLUS ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296316.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdPPd09p/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY HORROR ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296315.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76h9sfkJ/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY FILME ROMANESTI ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296314.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59gYN1Zj/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY FANTASY ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296313.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1R8VPthb/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY DRAMA-EXTRA ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296312.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKvrs243/k.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY DOCUMENTARE ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296311.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYw8srYf/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY COMEDY PLAY ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296310.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fy2fxsFj/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY CINEMA ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296309.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTszgYRB/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY BOX AVENTURA ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296308.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1z15rYLL/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY BOLLYWOOD ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296307.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MH7d00j9/drrrrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY BASME COPII ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296306.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
-http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/296305.m3u8
+#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfI6JpfpEUwsU_NXEvsLEYB6XLGC2nUdL2gxCBNcKnpn.png" group-title="⚜️ROMANIA TV⚜️",SHOWTIME TV SARITI DE PE FIX
+http://tzuraganu.gotdns.ch:8008/live/bona_marius/qE7Xwtu3gE/617375.m3u8
 
-# Total: 524
+# Total: 723

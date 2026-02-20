@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-02-19 18:58:45
+# Generated: 2026-02-20 07:19:02
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -10019,7 +10019,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1951.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",DE: Bookish (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1968.mp4
 
-# --- Movies | DE/SERIE ~ AMAZON PRIME (27) ---
+# --- Movies | DE/SERIE ~ AMAZON PRIME (28) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",56 Tage (2026) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2005.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Steal (2026)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1937.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Die rote Königin (2024)
@@ -11063,7 +11065,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1618.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ ALL",Hayrettin ile Kaos Show (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1948.mp4
 
-# --- Movies | TR/DIZI ~ AMAZON PRIME (71) ---
+# --- Movies | TR/DIZI ~ AMAZON PRIME (72) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",56 Gün (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2004.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Soygun (2026)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1936.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Suits LA (2025)
@@ -13004,11 +13008,11 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/39132.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/376.mp4
 
 # --- Movies | TR/DIZI ~ PERSEMBE (4) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Sevdiğim Sensin 1.Bölüm (Yeni Dizi)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Sevdiğim Sensin 2.Bölüm (Yeni Dizi)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/67163.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lVO7SDv4OcbdelTvSB1Onw8cEN.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Inci Taneleri 47.Bölüm (Yeni Dizi)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lVO7SDv4OcbdelTvSB1Onw8cEN.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Inci Taneleri 48.Bölüm (Yeni Dizi)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66537.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Halef Koklerin Cagrisi 20.Bölüm (YENI DIZI)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Halef Koklerin Cagrisi 21.Bölüm (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/39404.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Veliaht 21.Bölüm (Yeni Dizi)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/43582.mp4
@@ -21489,4 +21493,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10594
+# Total: 10596

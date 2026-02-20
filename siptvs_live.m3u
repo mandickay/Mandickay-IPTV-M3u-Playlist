@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-02-19 18:56:16
+# Generated: 2026-02-20 07:21:31
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -2331,7 +2331,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/104735.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/mucke.png" group-title="|EXYU| SERIJE 24/7",24/7 Mucke (Only Fools and Horses)
 http://siptvs.com:8080/live/Biljana12/Biljana12/183071.m3u8
 
-# --- |EXYU| SLOVENIJA (94) ---
+# --- |EXYU| SLOVENIJA (93) ---
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/SLOVENIA/FLAGE.png" group-title="|EXYU| SLOVENIJA",* * * *  SLOVENIJA * * * *
 http://siptvs.com:8080/live/Biljana12/Biljana12/35394.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/full/SLOVENIJA1.png" group-title="|EXYU| SLOVENIJA",SL: SLO 1 ᴴᴰ
@@ -2368,8 +2368,6 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/35410.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/35411.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/full/KOPER.png" group-title="|EXYU| SLOVENIJA",SL: KOPER ᴴᴰ
 http://siptvs.com:8080/live/Biljana12/Biljana12/35412.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinestartv.png" group-title="|EXYU| SLOVENIJA",SL: CINESTAR TV 1
-http://siptvs.com:8080/live/Biljana12/Biljana12/61095.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinestartv.png" group-title="|EXYU| SLOVENIJA",SL: CINESTAR TV 1 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/61096.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinestartv2.png" group-title="|EXYU| SLOVENIJA",SL: CINESTAR TV 2
@@ -2382,9 +2380,9 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/84880.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/84881.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/fox.png" group-title="|EXYU| SLOVENIJA",SL: FOX
 http://siptvs.com:8080/live/Biljana12/Biljana12/61098.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/foxcrime.png" group-title="|EXYU| SLOVENIJA",SL: FOX CRIME
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/foxcrime.png" group-title="|EXYU| SLOVENIJA",SL: STAR CRIME
 http://siptvs.com:8080/live/Biljana12/Biljana12/61099.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/foxlife.png" group-title="|EXYU| SLOVENIJA",SL: FOX LIFE
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/foxlife.png" group-title="|EXYU| SLOVENIJA",SL: STAR LIFE
 http://siptvs.com:8080/live/Biljana12/Biljana12/61100.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/foxmovies.png" group-title="|EXYU| SLOVENIJA",SL: FOX MOVIES
 http://siptvs.com:8080/live/Biljana12/Biljana12/61101.m3u8
@@ -2893,7 +2891,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/174955.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/newsmax.png" group-title="|EXYU| SRBIJA",SR: NEWSMAX BALKAN
 http://siptvs.com:8080/live/Biljana12/Biljana12/184383.m3u8
 
-# --- |TUR| TURKEY (72) ---
+# --- |TUR| TURKEY (71) ---
 #EXTINF:-1 tvg-logo="" group-title="|TUR| TURKEY",* * * * * TURKEY * * * * *
 http://siptvs.com:8080/live/Biljana12/Biljana12/132899.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/trt1.png" group-title="|TUR| TURKEY",TR: TRT 1
@@ -3020,8 +3018,6 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/132962.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/132963.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/sinematv2.png" group-title="|TUR| TURKEY",TR: Sinema TV 2
 http://siptvs.com:8080/live/Biljana12/Biljana12/132964.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/sinemayerli.png" group-title="|TUR| TURKEY",TR: Sinema TV Yerli
-http://siptvs.com:8080/live/Biljana12/Biljana12/132965.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/trt2.png" group-title="|TUR| TURKEY",TR: TRT 2
 http://siptvs.com:8080/live/Biljana12/Biljana12/132966.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/trtturk.png" group-title="|TUR| TURKEY",TR: TRT TURK
@@ -3261,4 +3257,4 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/85905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|WSP| WORLD SPORT",MUTV
 http://siptvs.com:8080/live/Biljana12/Biljana12/126239.m3u8
 
-# Total: 1597
+# Total: 1595

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-02-19 18:46:08
+# Generated: 2026-02-20 07:22:13
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -18109,7 +18109,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2478
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Sin Frenos
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2481
 
-# --- Series | → SERIES CRIMEN ← (155) ---
+# --- Series | → SERIES CRIMEN ← (157) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",¿Sabes quién es?
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/5
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Chicago P.D.
@@ -18420,6 +18420,10 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2526
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2527
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Detective Alex Cross
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2536
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",El Arte de Sarah
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2537
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",56 Dias
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2538
 
 # --- Series | → SERIES DC ← (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DC ←",Arrow
@@ -19739,4 +19743,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9793
+# Total: 9795

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: zikri.xtpold.com
-# Generated: 2026-02-18 18:44:12
+# Generated: 2026-02-20 18:41:31
 # Expires: 2026-03-15
 # Family Safe Edition
 # ==============================================
@@ -9069,19 +9069,17 @@ http://zikri.xtpold.com/live/pnmlgjr/zn8not3/76539.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR► Cocuk",TR: MINIBOX SIRINLER
 http://zikri.xtpold.com/live/pnmlgjr/zn8not3/76540.m3u8
 
-# --- TR► Eglence (32) ---
-#EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/24_kitchen_us.png" group-title="TR► Eglence",TR 24 Kitchen
-http://zikri.xtpold.com/live/pnmlgjr/zn8not3/793.m3u8
+# --- TR► Eglence (31) ---
 #EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/beingurme.png" group-title="TR► Eglence",TR beIN Gurme
 http://zikri.xtpold.com/live/pnmlgjr/zn8not3/1042.m3u8
-#EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/bein-series-vice-qa-tr.png" group-title="TR► Eglence",TR beIN SERIES Vice
-http://zikri.xtpold.com/live/pnmlgjr/zn8not3/1770.m3u8
-#EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/bein-series-sci-fi-qa-tr.png" group-title="TR► Eglence",TR beIN SERIES Sci-Fi
-http://zikri.xtpold.com/live/pnmlgjr/zn8not3/1769.m3u8
-#EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/bein-series-drama-qa-tr.png" group-title="TR► Eglence",TR beIN SERIES Drama
-http://zikri.xtpold.com/live/pnmlgjr/zn8not3/1771.m3u8
-#EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/bein-series-comedy-qa-tr.png" group-title="TR► Eglence",TR beIN SERIES Comedy
+#EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/bein-series-comedy-qa-tr.png" group-title="TR► Eglence",TR beIN SERIES 1
 http://zikri.xtpold.com/live/pnmlgjr/zn8not3/1772.m3u8
+#EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/bein-series-drama-qa-tr.png" group-title="TR► Eglence",TR beIN SERIES 2
+http://zikri.xtpold.com/live/pnmlgjr/zn8not3/1771.m3u8
+#EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/bein-series-sci-fi-qa-tr.png" group-title="TR► Eglence",TR beIN SERIES 3
+http://zikri.xtpold.com/live/pnmlgjr/zn8not3/1769.m3u8
+#EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/bein-series-vice-qa-tr.png" group-title="TR► Eglence",TR beIN SERIES 4
+http://zikri.xtpold.com/live/pnmlgjr/zn8not3/1770.m3u8
 #EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/fx_us.png" group-title="TR► Eglence",TR Fx
 http://zikri.xtpold.com/live/pnmlgjr/zn8not3/1206.m3u8
 #EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/dizi_smart_premium.png" group-title="TR► Eglence",TR Dizi Smart PREMIUM HD
@@ -9173,7 +9171,7 @@ http://zikri.xtpold.com/live/pnmlgjr/zn8not3/517.m3u8
 #EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/krt_tr.png" group-title="TR► Haber",TR Krt Tv
 http://zikri.xtpold.com/live/pnmlgjr/zn8not3/18977.m3u8
 
-# --- TR► Sinema (65) ---
+# --- TR► Sinema (61) ---
 #EXTINF:-1 tvg-logo="http://s11.clds.live:80/images/picon/cinebox.png" group-title="TR► Sinema",TR Cinebox 1
 http://zikri.xtpold.com/live/pnmlgjr/zn8not3/13.m3u8
 #EXTINF:-1 tvg-logo="http://s11.clds.live:80/images/picon/cinebox.png" group-title="TR► Sinema",TR Cinebox 2
@@ -9190,6 +9188,10 @@ http://zikri.xtpold.com/live/pnmlgjr/zn8not3/18.m3u8
 http://zikri.xtpold.com/live/pnmlgjr/zn8not3/19.m3u8
 #EXTINF:-1 tvg-logo="http://s11.clds.live:80/images/picon/cinebox.png" group-title="TR► Sinema",TR Cinebox 8
 http://zikri.xtpold.com/live/pnmlgjr/zn8not3/20.m3u8
+#EXTINF:-1 tvg-logo="http://dreamboxx.net/netflix.png" group-title="TR► Sinema",TR Netflix Cinema Oscar 1
+http://zikri.xtpold.com/live/pnmlgjr/zn8not3/108447.m3u8
+#EXTINF:-1 tvg-logo="http://dreamboxx.net/netflix.png" group-title="TR► Sinema",TR Netflix Cinema Oscar 2
+http://zikri.xtpold.com/live/pnmlgjr/zn8not3/108448.m3u8
 #EXTINF:-1 tvg-logo="http://dreamboxx.net/netflix.png" group-title="TR► Sinema",TR Netflix Cinema Club 1
 http://zikri.xtpold.com/live/pnmlgjr/zn8not3/108417.m3u8
 #EXTINF:-1 tvg-logo="http://dreamboxx.net/netflix.png" group-title="TR► Sinema",TR Netflix Cinema Club 2
@@ -9202,6 +9204,14 @@ http://zikri.xtpold.com/live/pnmlgjr/zn8not3/108420.m3u8
 http://zikri.xtpold.com/live/pnmlgjr/zn8not3/108421.m3u8
 #EXTINF:-1 tvg-logo="http://dreamboxx.net/netflix.png" group-title="TR► Sinema",TR Netflix Cinema Club 6
 http://zikri.xtpold.com/live/pnmlgjr/zn8not3/108422.m3u8
+#EXTINF:-1 tvg-logo="http://dreamboxx.net/netflix.png" group-title="TR► Sinema",TR Netflix Cinema Club Yerli
+http://zikri.xtpold.com/live/pnmlgjr/zn8not3/108449.m3u8
+#EXTINF:-1 tvg-logo="http://dreamboxx.net/netflix.png" group-title="TR► Sinema",TR Netflix Cinema Club Animasyon
+http://zikri.xtpold.com/live/pnmlgjr/zn8not3/108424.m3u8
+#EXTINF:-1 tvg-logo="http://dreamboxx.net/prime.png" group-title="TR► Sinema",TR Amazon Prime Movies 1
+http://zikri.xtpold.com/live/pnmlgjr/zn8not3/108450.m3u8
+#EXTINF:-1 tvg-logo="http://dreamboxx.net/prime.png" group-title="TR► Sinema",TR Amazon Prime Movies 2
+http://zikri.xtpold.com/live/pnmlgjr/zn8not3/108451.m3u8
 #EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/moviesmart-turk-tr.png" group-title="TR► Sinema",TR Movie Smart Turk
 http://zikri.xtpold.com/live/pnmlgjr/zn8not3/555.m3u8
 #EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/movie_smart_classic.png" group-title="TR► Sinema",TR Movie Smart Classic
@@ -9284,26 +9294,6 @@ http://zikri.xtpold.com/live/pnmlgjr/zn8not3/92.m3u8
 http://zikri.xtpold.com/live/pnmlgjr/zn8not3/107461.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR► Sinema",TR Marvel Movies
 http://zikri.xtpold.com/live/pnmlgjr/zn8not3/25190.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR► Sinema",TR Marvel Studios 1
-http://zikri.xtpold.com/live/pnmlgjr/zn8not3/25191.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR► Sinema",TR Marvel Studios 2
-http://zikri.xtpold.com/live/pnmlgjr/zn8not3/25192.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR► Sinema",TR Marvel Studios 3
-http://zikri.xtpold.com/live/pnmlgjr/zn8not3/25193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR► Sinema",TR Marvel Studios 4
-http://zikri.xtpold.com/live/pnmlgjr/zn8not3/25194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR► Sinema",TR Marvel Studios 5
-http://zikri.xtpold.com/live/pnmlgjr/zn8not3/25195.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR► Sinema",TR Marvel Studios 6
-http://zikri.xtpold.com/live/pnmlgjr/zn8not3/25196.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR► Sinema",TR Marvel Studios 7
-http://zikri.xtpold.com/live/pnmlgjr/zn8not3/25197.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR► Sinema",TR Marvel Studios 8
-http://zikri.xtpold.com/live/pnmlgjr/zn8not3/25198.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR► Sinema",TR Marvel Studios 9
-http://zikri.xtpold.com/live/pnmlgjr/zn8not3/25199.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR► Sinema",TR Marvel Studios 10
-http://zikri.xtpold.com/live/pnmlgjr/zn8not3/25200.m3u8
 
 # --- TR► Spor (74) ---
 #EXTINF:-1 tvg-logo="http://dreamboxx.net/logo2/be_in_tr_sports_01_hd.png" group-title="TR► Spor",TR beIN SPORTS SD 1 (480p)
@@ -10283,4 +10273,4 @@ http://zikri.xtpold.com/live/pnmlgjr/zn8not3/67884.m3u8
 #EXTINF:-1 tvg-logo="" group-title="US► U.S.A.",US: TLC EAST
 http://zikri.xtpold.com/live/pnmlgjr/zn8not3/67883.m3u8
 
-# Total: 5101
+# Total: 5096

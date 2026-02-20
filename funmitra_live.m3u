@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-02-19 18:42:43
+# Generated: 2026-02-20 18:44:31
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -357,7 +357,7 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/227546.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/mysports9.png" group-title="CH SUISSE - SWITZERLAND SPORT",CH: MYSPORTS 9 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/339591.m3u8
 
-# --- DE AMZ DEUTSCHLAND (131) ---
+# --- DE AMZ DEUTSCHLAND (130) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE AMZ DEUTSCHLAND",DE: ----- AMZ DEUTSCHLAND -----
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626969.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/das_erste.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| DAS ERSTE
@@ -442,6 +442,8 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626884.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626913.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/PRIME.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| PRIME
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626966.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/BIG BROTHER CLASSICS BY MYSPASS.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| BIG BROTHER CLASSICS BY MYSPASS
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668734.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/TRAILERS.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TRAILERS
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626879.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/LADYKRACHER.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| LADYKRACHER
@@ -456,10 +458,18 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626942.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626939.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/ARDPLUSKRIMI.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| ARD PLUS KRIMI
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626936.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/LANDLUSTTV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| LANDLUST TV
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626962.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/CRIMESCENETV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| CRIME SCENE TV
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626961.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/LANDLUSTTV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| LANDLUST TV
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626962.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/spiegeltv.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SPIEGEL TV
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668738.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/SPIEGELTVKONFLIKTE.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SPIEGEL TV KONFLIKTE
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626925.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/SPIEGEL TV ACTION+CRIME.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SPIEGEL TV ACTION+CRIME
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668740.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/BBC SERIES.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| BBC SERIES
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668739.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/RIVERMONSTERS.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| RIVER MONSTERS
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626944.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/WORLD'SWILDESTPOLICEVIDEOS.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| WORLD'S WILDEST POLICE VIDEOS
@@ -508,6 +518,30 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626935.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626934.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/NARUTO.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| NARUTO
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626933.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/ANIVERSE TV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| ANIVERSE TV
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668743.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/ANDROMEDA.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| ANDROMEDA
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668742.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/DON MATTEO.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| DON MATTEO
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668741.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/MONTALBANO - COMMISSARIO MONTALBANO.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| MONTALBANO - COMMISSARIO MONTALBANO
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668737.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/THE GOOD WIFE.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| THE GOOD WIFE
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668735.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/PLANET ACTION - RAKUTEN TV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| PLANET ACTION - RAKUTEN TV
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668733.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/WILL & GRACE.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| WILL & GRACE
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668732.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/QUANTUM LEAP.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| QUANTUM LEAP
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668731.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/SAVING HOPE.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SAVING HOPE
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668730.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/ALL ROMANCE.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| ALL ROMANCE - RAKUTEN TV
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668729.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/21 JUMP STREET.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| 21 JUMP STREET - RAKUTEN TV
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668728.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/HIMMLISCHES KINO.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| HIMMLISCHES KINO
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668727.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/DEFATV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| DEFA TV
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626916.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/MOVIESPHEREBYLIONSGATE.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| MOVIESPHERE BY LIONSGATE
@@ -518,8 +552,6 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626930.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626910.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/INSPECTORGADGET.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| INSPECTOR GADGET
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626932.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/HELLSKITCHEN.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| HELLS KITCHEN
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626931.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/XENAWARRIORPRINCESS.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| XENA WARRIOR PRINCESS
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626929.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/axMen.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| AX MEN DIE HOLZFALLER
@@ -540,12 +572,12 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/636851.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626928.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/THEWICKEDTUNACHANNEL.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| THE WICKED TUNA CHANNEL
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626927.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/SPIEGELTVKONFLIKTE.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SPIEGEL TV KONFLIKTE
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626925.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/BBCHISTORY.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| BBC HISTORY
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626926.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/BBCFOOD.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| BBC FOOD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626909.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/HELLSKITCHEN.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| HELL'S KITCHEN
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668736.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/TOPCHEF.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TOP CHEF
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626880.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/BLOOMBERGORIGINALS.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| BLOOMBERG ORIGINALS
@@ -586,40 +618,6 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626894.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626891.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/NOW80S.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| NOW 80S
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626901.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| ANIVERSE TV
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668743.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| ANDROMEDA
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668742.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| DON MATTEO
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668741.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SPIEGEL TV ACTION+CRIME
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668740.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| BBC SERIES
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668739.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SPIEGEL TV
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668738.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| MONTALBANO - COMMISSARIO MONTALBANO
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668737.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| HELL'S KITCHEN
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668736.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| THE GOOD WIFE
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668735.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| BIG BROTHER CLASSICS BY MYSPASS
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668734.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| PLANET ACTION - RAKUTEN TV
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668733.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| WILL & GRACE
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668732.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| QUANTUM LEAP
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668731.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SAVING HOPE
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668730.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| ALL ROMANCE - RAKUTEN TV
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668729.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| 21 JUMP STREET - RAKUTEN TV
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668728.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| HIMMLISCHES KINO
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668727.m3u8
 
 # --- DE AMZ PRIME EVENT (21) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE AMZ PRIME EVENT",DE: ----- AMZ PRIME EVENT -----
@@ -1304,103 +1302,103 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/637938.m3u8
 # --- DE HBO MAX EVENT (50) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE HBO MAX EVENT",DE: ----- HBO MAX EVENT -----
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668861.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 1 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 1 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668860.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 2 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 2 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668859.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 3 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 3 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668858.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 4 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 4 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668857.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 5 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 5 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668856.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 6 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 6 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668855.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 7 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 7 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668854.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 8 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 8 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668853.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 9 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 9 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668852.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 10 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 10 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668851.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 11 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 11 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668850.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 12 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 12 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668849.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 13 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 13 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668848.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 14 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 14 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668847.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 15 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 15 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668846.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 16 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 16 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668845.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 17 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 17 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668844.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 18 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 18 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668843.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 19 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 19 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668842.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 20 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 20 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668841.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 21 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 21 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668840.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 22 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 22 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668839.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 23 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 23 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668838.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 24 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 24 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668837.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 25 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 25 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668836.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 26 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 26 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668835.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 27 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 27 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668834.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 28 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 28 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668833.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 29 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 29 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668832.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 30 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 30 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668831.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 32 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 32 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668830.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 33 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 33 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668829.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 34 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 34 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668828.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 35 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 35 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668827.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 36 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 36 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668826.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 37 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 37 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668825.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 38 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 38 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668824.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 39 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 39 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668823.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 40 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 40 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668822.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 41 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 41 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668821.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 42 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 42 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668820.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 43 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 43 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668819.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 44 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 44 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668818.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 45 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 45 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668817.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 46 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 46 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668816.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 47 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 47 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668815.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 48 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 48 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668814.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 49 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 49 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668813.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 50 HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="DE HBO MAX EVENT",DE: HBO MAX EVENT 50 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/668812.m3u8
 
 # --- DE HEVC - QHD - 4K (35) ---
@@ -9255,4 +9253,4 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199554.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="UK SPORT",UK: RED BULL TV FHD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199548.m3u8
 
-# Total: 4553
+# Total: 4552

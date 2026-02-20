@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 206.212.244.71:8080
-# Generated: 2026-02-20 07:31:14
+# Generated: 2026-02-20 18:42:25
 # Expires: 2026-06-05
 # Family Safe Edition
 # ==============================================
@@ -4667,7 +4667,7 @@ http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/256268.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wm8vkpJmY7UbUXME8lXkxqIalX6.jpg" group-title="Movies | 2024 Movies",Lake Jesup: Bonecrusher's Revenge (2024)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/256269.mp4
 
-# --- Movies | 2025 MOVIES (977) ---
+# --- Movies | 2025 MOVIES (981) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32NWI8EEJo8os5rHzhXE0dMYIqG.jpg" group-title="Movies | 2025 MOVIES",Laws of Man (2025)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/222977.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcSJHAVNZSbqaoOHduKesZ01Wfj.jpg" group-title="Movies | 2025 MOVIES",Sunray: Fallen Soldier (2025)
@@ -6622,6 +6622,14 @@ http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262231.mp4
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262232.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJQD5fxOuWxCwsMBVB5SvDA0iHe.jpg" group-title="Movies | 2025 MOVIES",Everything Is Fine (2025)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262257.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0t53XosZnJ5wjiORvZqobZPmJF.jpg" group-title="Movies | 2025 MOVIES",Hijacked (2025)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262339.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg" group-title="Movies | 2025 MOVIES",Hunting Season (2025)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262340.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | 2025 MOVIES",Play the Field
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262341.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9MvECzeo7G6f4jML02yOWwsiPN.jpg" group-title="Movies | 2025 MOVIES",Sorry Ms Jackson (2025)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262342.mp4
 
 # --- Movies | 2026 Movies (30) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | 2026 Movies",The Rip (2026)
@@ -28737,4 +28745,4 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2348
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Night Manager
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2350
 
-# Total: 14310
+# Total: 14314

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-02-20 07:19:02
+# Generated: 2026-02-20 18:38:56
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -10129,7 +10129,13 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1319.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ANIME",Dragonball Z (1989)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1320.mp4
 
-# --- Movies | DE/SERIE ~ APPLE (15) ---
+# --- Movies | DE/SERIE ~ APPLE (18) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ APPLE",Yellowjackets (2021) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2008.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ APPLE",School Spirits (2023) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2007.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ APPLE",Bookie (2023) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2006.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ APPLE",Hijack (2023)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1092.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ APPLE",Foundation (2021)
@@ -21493,4 +21499,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10596
+# Total: 10599

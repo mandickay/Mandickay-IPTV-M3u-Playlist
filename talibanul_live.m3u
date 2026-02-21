@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: talibanul.net:8080
-# Generated: 2026-02-20 18:43:53
+# Generated: 2026-02-21 07:24:40
 # Expires: 2026-03-26
 # Family Safe Edition
 # ==============================================
@@ -26,7 +26,7 @@ http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/897
 http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/13180.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",Antena 1 HDR (Net Bun)
 http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/70447.m3u8
-#EXTINF:-1 tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania",Pro TV SD
+#EXTINF:-1 tvg-logo="https://opentvpanel.com:2096/resize.php?max=32&url=https://i.ibb.co/t4mkrkW/Pro-TV-HD-logo-2017.png" group-title="Romania",Pro TV SD
 http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/70428.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania",Pro TV HD
 http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/9048.m3u8
@@ -474,6 +474,8 @@ http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/711
 http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/75887.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTv Las Fierbinti Sezonul 28
 http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/101524.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTV Las Fierbinti Sezonul 29
+http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/102006.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTv Actiune New
 http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/70591.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTv Horror New
@@ -1066,7 +1068,5 @@ http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/147
 http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/58771.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",Sens Tv
 http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/74509.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTV Las Fierbinti Sezonul 29
-http://talibanul.net:8080/live/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/102006.m3u8
 
 # Total: 530

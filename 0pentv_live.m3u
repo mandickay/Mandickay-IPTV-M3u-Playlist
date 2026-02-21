@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 0pentv.space:8080
-# Generated: 2026-02-20 18:42:03
+# Generated: 2026-02-21 07:28:03
 # Expires: 2026-07-28
 # Family Safe Edition
 # ==============================================
@@ -26,7 +26,7 @@ http://0pentv.space:8080/live/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/8
 http://0pentv.space:8080/live/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/13180.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",Antena 1 HDR (Net Bun)
 http://0pentv.space:8080/live/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/70447.m3u8
-#EXTINF:-1 tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania",Pro TV SD
+#EXTINF:-1 tvg-logo="https://opentvpanel.com:2096/resize.php?max=32&url=https://i.ibb.co/t4mkrkW/Pro-TV-HD-logo-2017.png" group-title="Romania",Pro TV SD
 http://0pentv.space:8080/live/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/70428.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania",Pro TV HD
 http://0pentv.space:8080/live/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/9048.m3u8
@@ -474,6 +474,8 @@ http://0pentv.space:8080/live/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/7
 http://0pentv.space:8080/live/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/75887.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTv Las Fierbinti Sezonul 28
 http://0pentv.space:8080/live/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/101524.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTV Las Fierbinti Sezonul 29
+http://0pentv.space:8080/live/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/102006.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTv Actiune New
 http://0pentv.space:8080/live/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/70591.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTv Horror New
@@ -1066,8 +1068,6 @@ http://0pentv.space:8080/live/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/1
 http://0pentv.space:8080/live/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/58771.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",Sens Tv
 http://0pentv.space:8080/live/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/74509.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania",OpenTV Las Fierbinti Sezonul 29
-http://0pentv.space:8080/live/iosif_alina_elena/5onWQ2rCS8lNhNVKXecRCyaoC4eSag/102006.m3u8
 
 # --- ⭐⭐⭐ANGLIA (Rezerva)⭐⭐⭐ (182) ---
 #EXTINF:-1 tvg-logo="http://sltv-logo.cms-s.com/logo/uk/itv_uk.png" group-title="⭐⭐⭐ANGLIA (Rezerva)⭐⭐⭐",UK: ITV 1 HD

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cms-portals.com:80
-# Generated: 2026-02-20 18:50:51
+# Generated: 2026-02-21 07:29:07
 # Expires: 2026-05-22
 # Family Safe Edition
 # ==============================================
@@ -4017,4 +4017,10 @@ http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13432.mp4
 #EXTINF:-1 tvg-logo="http://85.14.243.71/images/220px-Den_of_thieves_two_pantera_ver2.jpg" group-title="Movies | VIDEOTEKA 2025",Den of Thieves 2: Pantera (2025)
 http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13433.mp4
 
-# Total: 1990
+# --- Movies | VIDEOTEKA 2026 (2) ---
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=" group-title="Movies | VIDEOTEKA 2026",Anaconda (2026)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13658.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/4/43/Mercy_2026_poster.jpeg" group-title="Movies | VIDEOTEKA 2026",Mercy (2026)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13660.mp4
+
+# Total: 1992

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-02-20 18:49:08
+# Generated: 2026-02-21 07:22:10
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -805,7 +805,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/10571.m3u8
 #EXTINF:-1 tvg-logo="" group-title="A1 TV",STV 4 Mobile test
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/10570.m3u8
 
-# --- ARB Algeria (26) ---
+# --- ARB Algeria (27) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/TV8.svg/640px-TV8.svg.png" group-title="ARB Algeria",Algeria 8 HD ARB
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/126719.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo4KPO_GGKlYjGv92u4mNWNX5chDMAbtgcBQ&s" group-title="ARB Algeria",Algeria 7 HD ARB
@@ -856,6 +856,8 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/3560.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/3566.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB Algeria",Numedia Algerie ARB
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/3567.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ARB Algeria",Samira TV ARB
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/3568.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB Algeria",El Bilad TV Algeria ARB
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4632.m3u8
 
@@ -3957,7 +3959,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104058.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania Sport",OverSport 3 HD AL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104057.m3u8
 
-# --- Arab Countries (88) ---
+# --- Arab Countries (87) ---
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/arabflag.png" group-title="Arab Countries",##########   Arab Countries   ##########
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2519.m3u8
 #EXTINF:-1 tvg-logo="https://www.advertonclick.com/cache/0509690001632167719-335x202.png" group-title="Arab Countries",Assadissa FHD ARB
@@ -4038,8 +4040,6 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4895.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/3517.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arab Countries",Quest Arabiya ARB
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4960.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Arab Countries",Samira TV ARB
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/3568.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arab Countries",Sudan Drama ARB
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4879.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arab Countries",Sudan TV ARB

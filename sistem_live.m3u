@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: sistem.boss4k.com:2095
-# Generated: 2026-02-20 18:48:45
+# Generated: 2026-02-21 07:26:55
 # Expires: 2026-05-08
 # Family Safe Edition
 # ==============================================
@@ -2495,9 +2495,13 @@ http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/51273.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/320px-HGTV_logo.png" group-title="POLAND - PL",PL: HGTV
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/53707.m3u8
 
-# --- ROMANIA - RO (61) ---
+# --- ROMANIA - RO (63) ---
 #EXTINF:-1 tvg-logo="http://logo.slinepro.com/ch//ro.png" group-title="ROMANIA - RO",### ROMANIA ###
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/429.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ROMANIA - RO",|RO| PRO TV HD
+http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/238336.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ROMANIA - RO",|RO| ANTENA 1 HD
+http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/238337.m3u8
 #EXTINF:-1 tvg-logo="http://vip26.fritznet.xyz:80/images/QJir22TquV1YSJplBhxUcD5BeeC8DuuvVWZ-ysQ1DTbE5g68LcvdUPwkBoQaQTlahs3PgBBH9uKYWCNEQn-IjyX9Z_0ittWN2vxk1iKK9YH-Wr3JyAmNoZ15TAfMDju4.png" group-title="ROMANIA - RO",|RO| National Geographic HD
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/231621.m3u8
 #EXTINF:-1 tvg-logo="http://vip26.fritznet.xyz:80/images/QJir22TquV1YSJplBhxUcD5BeeC8DuuvVWZ-ysQ1DTbE5g68LcvdUPwkBoQaQTlahs3PgBBH9uKYWCNEQn-IjyX9Z_0ittWN2vxk1iKK9YH-Wr3JyAmNoZ15TAfMDju4.png" group-title="ROMANIA - RO",|RO| National Geographic FHD
@@ -3775,4 +3779,4 @@ http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/181400.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ÇOCUK - TR",TR : KIDSAX Tas Devri
 http://sistem.boss4k.com:2095/live/Sevketcanxx/a3jzB3rrbdAQSb/181402.m3u8
 
-# Total: 1830
+# Total: 1832

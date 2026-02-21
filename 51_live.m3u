@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-02-20 18:38:36
+# Generated: 2026-02-21 07:19:23
 # Expires: 2026-12-31
 # Family Safe Edition
 # ==============================================
@@ -981,21 +981,117 @@ http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/165929.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sportklub-1.png" group-title="CRO: KROATIEN",Sport Klub 1 HD [CRO]
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/165928.m3u8
 
-# --- CZE: CZECH REPUBLIC (7) ---
+# --- CZE: CZECH REPUBLIC (55) ---
 #EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",##### CZECH REPUBLIC #####
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/147192.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ SPORT
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177323.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ PLUS HD
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177324.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ 1 HD
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177325.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ 24 HD
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177326.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ CINEMA HD
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177327.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JOJ CINEMA 1 HD
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177328.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: joj sport
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177434.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: joj plus
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177435.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: joj cinema 1
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177436.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: joj cinema
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177437.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: joj 24
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177438.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: joj 1
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177439.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: 24 tv
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177440.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: A 11
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177441.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: AMC
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177442.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: ANIMAL PLANET
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177443.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: ARENA SPORT 2
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177444.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: AUTO MOTOR
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177445.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: AXN
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177446.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: AXN BLACK
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177447.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: AXN WHITE
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177448.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: BARRANDOV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177449.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: BTV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177450.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: CCTV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177451.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: CINEMAX
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177452.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: CINEMAX 2
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177453.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: CNN PRIMA NEWS
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177454.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: CRIME investigation
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177455.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: CSR TV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177456.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: CT ART
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177457.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: CT 1
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177458.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: CT 2
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177459.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: CT 24
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177460.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: DAJITO
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177461.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: DISCOVERY
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177462.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: DISNEY JUNIUR
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177463.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: DOMA
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177464.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: DUCK TV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177465.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: DVOJKA
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177466.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: EURO SPORT 1
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177467.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: EURO SPORT 2
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177468.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: FASHION TV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177469.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: FILM BOX
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177470.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: FILM BOX EXTRA
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177471.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: FILM BOX FAMILY
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177472.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: FILM BOX PREMIM
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177473.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: FILM BOX STARS
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177474.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: FILM PLUS
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177475.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: GOLF CHANEL
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177476.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: HBO
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177477.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: HBO 2
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177478.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: FISHING
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177479.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: HBO 3
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177480.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: HG TV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177481.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: HISTORY CHANEL
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177482.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: HISTORY CHANEL 2
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177483.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: HN TV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177484.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JEDONTKA
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177485.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: ID
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177486.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CZE: CZECH REPUBLIC",CZE: JIM JAM
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177487.m3u8
 
 # --- DE-CINEMA/SELECT (72) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-CINEMA/SELECT",##### DE CINEMA/SELECT #####
@@ -1173,43 +1269,247 @@ http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/170928.m3u8
 
-# --- DE-DAZN EVENT (18) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/88oppf84ymemigxejc0ps5cut_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 12 (Eurosport 1) (2026-02-18 08:15:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177177.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5w186zedyf2yyi1llvet7psic_image-header_pDach_1767661480000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Szeged - FC Barcelona (2026-02-18 17:45:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177179.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1h02ypv9coc1habonh5axc49h_image-header_pDach_1769961939000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Qarabag - Newcastle (2026-02-18 17:45:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177180.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/14n03n4bkk1wwarif1we9gg82_image-header_pDach_1765353592000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Levante - Villarreal (2026-02-18 19:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177181.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dw9b4gqi7wrnh2gxxq0fl5um_image-header_pDach_1768403785000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Manchester Basketball - Newcastle Eagles (2026-02-18 19:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177182.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6jjon8q3gphykdaaw5o3qhfzy_image-header_pDach_1770276456000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Mittwochs-Konferenz | Play-offs (Hinspiele) (2026-02-18 19:15:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177183.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5tcbcwofrk91movvsq3y1asx7_image-header_pDach_1769961921000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Piräus - Bayer Leverkusen (2026-02-18 19:15:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177184.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d518pg0omee4d900hdt6o7l9_image-header_pDach_1766503545000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Milan - Como (italienischer Kommentar) (2026-02-18 19:15:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177185.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/an3oq0726obredvmlw94tjnno_image-header_pDach_1767661480000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",SC Magdeburg - GOG (2026-02-18 19:45:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177186.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9rr241vx7lsy42la2gtbcqdt9_image-header_pDach_1766503545000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Milan - Como (2026-02-18 19:45:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177187.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dyljonm7uyqlyu7oq6c0umxol_image-header_pDach_1769961931000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Bodö/Glimt - Inter (2026-02-18 20:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177188.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aw4vfhb7k7dukm2peiy1ty64q_image-header_pDach_1769961928000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Club Brügge - Atletico Madrid (2026-02-18 20:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177189.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eo738cym7nl3en8dfnh5tpajd_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 13 (Eurosport 1) (2026-02-19 08:15:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177190.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eagtwdjws9b2ryxsomdi4er72_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 13 (Eurosport 2) (2026-02-19 08:55:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177191.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1kmv9p66ldh181uk618m29l3vz_image-header_pDach_1770645609000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Wood vs. Warrington 2: Pressekonferenz (2026-02-19 13:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177192.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4up9xtwvd82djgsh6kbkr0zk9_image-header_pDach_1767661480000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Dinamo Bukarest - Füchse Berlin (2026-02-19 17:45:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177193.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dbmofmqt39pysosir8wl5syms_image-header_pDach_1770128204000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Premier League Darts | Spieltag 3 in Glasgow (2026-02-19 19:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177194.m3u8
+# --- DE-DAZN EVENT (120) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3owc6r3yfdqx2n2gxg967xqhq_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 14 (Eurosport 1) (2026-02-20 08:30:00)
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177195.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3d0r6jg726exp0mzkglccg5u_image-header_pDach_1770215099000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Poland Darts Open | Tag 1 (Session 1) (2026-02-20 12:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177488.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/32dvvwxg5cqg1vsdf404n3slk_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 14 (Eurosport 2) (2026-02-20 17:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177489.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5xo1ttahu2squsl1q2al2sune_image-header_pDach_1766305532000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",1. FC Union Berlin - 1. FC Köln (2026-02-20 17:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177490.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/jf8nruo47ii3i9jhstkabjq0_image-header_pDach_1770213579000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Poland Darts Open | Tag 1 (Session 2) (2026-02-20 18:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177491.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/qk19biou6gk61036aosg36nf5_image-header_pDach_1770647571000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Wood vs. Warrington 2: Weigh-In (2026-02-20 18:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177492.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/afmhf03nw98cipj9o8gkqbwlz_image-header_pDach_1762210608000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Sassuolo - Hellas Verona (italienischer Kommentar) (2026-02-20 18:45:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177493.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cak55va7z32nr1mq3tn6nmvnz_image-header_pDach_1760431995000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Bristol Flyers - Cheshire Phoenix (2026-02-20 19:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177494.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/kqel291k51zhhxl67nhnxjyl_image-header_pDach_1756895775000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Caledonia Gladiators - Sheffield Sharks (2026-02-20 19:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177495.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/82138wmj4wqah9ekiblracgkt_image-header_pDach_1758895372000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Newcastle Eagles - Surrey 89ers (2026-02-20 19:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177496.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bk6tfhma09xbw4o7vdxeyqk1p_image-header_pDach_1756977852000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",London Lions - Leicester Riders (2026-02-20 19:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177497.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2ab393lurtk7ufzr19rixtfo_image-header_pDach_1762210608000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Sassuolo - Hellas Verona (2026-02-20 19:45:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177498.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a0sremsvwe3hr1s0siv9l0xgk_image-header_pDach_1769343656000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Brest - Marseille (2026-02-20 19:45:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177499.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8ez1euovrb15oc27y9wx2kfsc_image-header_pDach_1770534412000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",PSG - Lens (2026-02-20 20:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177500.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6rkn4bhkvh185xspequtpc4qv_image-header_pDach_1766502804000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Bilbao - Elche (2026-02-20 20:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177501.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1gaoyb6u5jcfc1c069qu7p5tj2_image-header_pDach_1771156783000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Barrios vs. Garcia: Weigh-In (2026-02-20 23:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177502.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/f5xd7savhbsz1r41r0ycz7k53_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Indiana @ Purdue (2026-02-21 01:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177503.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eloffoyshafusm1iw2mo6qfj_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 15 (Eurosport 1) (2026-02-21 08:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177504.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7e4g2ynpztasef0oh9cij4a99_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 15 (Eurosport 2) (2026-02-21 08:55:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177505.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6ap75986bbdfshmyc42fkhhi4_image-header_pDach_1766305524000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",1. FC Nürnberg - FC Carl Zeiss Jena (2026-02-21 11:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177506.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8ffgj53hshf2x8lzcis182dhi_image-header_pDach_1770992612000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",CFC Genua - Como (2026-02-21 11:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177507.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ay7qoeeh11ooywdua6kuynwq_image-header_pDach_1769689857000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Porsche Sprint Challenge SE 2026 | Valencia (2026-02-21 11:45:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177508.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ad2nj9rut3ul3ktahnx8kmd7p_image-header_pDach_1770997885000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Rajadamnern World Series | Mongkutpetch vs Devina Martin (2026-02-21 12:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177509.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dlp437ja1hv1irmq3ocdjx0ba_image-header_pDach_1770213579000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Poland Darts Open | Tag 2 (Session 1) (2026-02-21 12:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177510.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3wqcec9oqij7lskkej2vqvod0_image-header_pDach_1768316620000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Bundesliga-Konferenz | 23. Spieltag (2026-02-21 13:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177511.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/52uhnl1jwfss0ek2j9knmnnpg_image-header_pDach_1768802297000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Troyes - Pau (2026-02-21 13:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177512.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/edhszjcbrm86cpbqbyeintb5k_image-header_pDach_1767771148000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Hamburger SV - SV Werder Bremen (2026-02-21 13:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177513.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ae7or7viih7xilbob8w1kh3sv_image-header_pDach_1764531031000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Real Sociedad - Oviedo (2026-02-21 13:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177514.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aa8p2gacs34lepjzdy9iy72fs_image-header_pDach_1766508937000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Juventus - Como (italienischer Kommentar) (2026-02-21 13:15:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177515.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/40eycubse5kfyc8ha2ci51of4_image-header_pDach_1766508937000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Juventus - Como (2026-02-21 14:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177516.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5yp7f9k33xhlnoqbxr6gr9iis_image-header_pDach_1770992621000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Lazio - Milan (2026-02-21 14:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177517.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/83sipdcp47365ulf6cm0y118r_image-header_pDach_1766575830000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Real Betis - Vallecano (2026-02-21 15:15:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177518.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aue975l9ypjewy2k5hcojq160_image-header_pDach_1769343978000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Lens - Monaco (2026-02-21 16:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177519.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8sihpithsx09d2z81vrl9pq9z_image-header_pDach_1766502952000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Lecce - Inter (italienischer Kommentar) (2026-02-21 16:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177520.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cdazr73tq7krzcrjcnzhfezbb_image-header_pDach_1759880852000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",ALL IN | Die Bundesliga-Highlight-Show (23. Spieltag) (2026-02-21 16:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177521.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/vvz4gy4hnq0e1xmnon7lrfwa0_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Rutgers @ Minnesota (2026-02-21 17:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177522.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/80150f77yzoy1wqlbsuaib2jx_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Creighton @ St. John's (2026-02-21 17:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177523.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/55hjx5i9c4dzfwq04v9ijbcwv_image-header_pDach_1760287743000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",King of Kings | Riga (2026-02-21 17:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177524.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/30d0uufbx7295pq7mffvdbicn_image-header_pDach_1766502952000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Lecce - Inter (2026-02-21 17:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177525.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9aduzbkp34cxisk33zpixx0re_image-header_pDach_1757503118000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Granada - FC Barcelona (2026-02-21 17:15:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177526.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1jqn0qrmthyup1g4jfqqaympp5_image-header_pDach_1770652045000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Wood vs. Warrington 2: Prelims (2026-02-21 17:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177527.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ehd76ikh7pzqi4367kdok0mh_image-header_pDach_1764530734000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Osasuna - Real Madrid (2026-02-21 17:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177528.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bz53rs5t1r9n9mry159bpdy2d_image-header_pDach_1770999554000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Eindhoven - Heerenveen (2026-02-21 17:45:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177529.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ci2z183esm5w98n1wzirtol6j_image-header_pDach_1766140385000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Toulouse - Paris FC (2026-02-21 18:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177530.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/14b4ptkwwf5fprww84f9tnaqv_image-header_pDach_1770213579000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Poland Darts Open | Tag 2 (Session 2) (2026-02-21 18:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177531.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1waagpdnmjt171ghhz3009hu74_image-header_pDach_1769772997000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Volkovs vs. Luis (2026-02-21 18:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177532.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cwuw4dufb9pb01x8dfcgtv5xm_image-header_pDach_1768840173000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",St. Etienne - Laval (2026-02-21 19:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177533.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cc7s5pvnlpjqwu4a8qkoyc3o2_image-header_pDach_1771416750000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Al-Nassr - Al-Hazem (2026-02-21 19:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177534.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5spc7d2gvlb5fwprvxq17jo9w_image-header_pDach_1771416716000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Al-Hilal - Al-Ittihad (2026-02-21 19:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177535.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9f0zfqp4wuep18t52drdar3ak_image-header_pDach_1763378170000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Wood vs. Warrington 2 (2026-02-21 19:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177536.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1kncc955iaqve1lj1bitg79r6c_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Penn State @ Nebraska (2026-02-21 19:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177537.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8rym10jzt1jbwy93fx0gip8kk_image-header_pDach_1762210687000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Cagliari - Lazio (italienischer Kommentar) (2026-02-21 19:15:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177538.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xl527yixc1hk1md6z21t7tu3z_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Kansas State @ Texas Tech (2026-02-21 19:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177539.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bd8ux2zdtcsubsl1bt64av1wb_image-header_pDach_1750944256000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Saint-Gilloise - Antwerpen (2026-02-21 19:45:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177540.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/74dn5v4t1ggxn7612o7kjc828_image-header_pDach_1762210687000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Cagliari - Lazio (2026-02-21 19:45:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177541.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1tpb6e9ixfzy1nx12anid3lob_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Washington @ Maryland (2026-02-21 20:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177542.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ezseekwmpil9q1mpm2ttouoz9_image-header_pDach_1764531036000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Atletico Madrid - Espanyol (2026-02-21 20:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177543.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/95id52qglsjm4gwmded0tj9pb_image-header_pDach_1771496844000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Marseille - Lyon (2026-02-21 20:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177544.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2vdf1dv73og7ytooaml5vxd3u_image-header_pDach_1766140699000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",PSG - Metz (2026-02-21 20:05:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177545.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1cemairndlx6u1govflowdbxja_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Oregon @ USC (2026-02-21 21:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177546.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/17wc9t8b89nnc1cmlecz2c56dp_image-header_pDach_1770301048000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Barrios vs. Garcia (2026-02-21 22:45:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177547.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1sv7gq8750rj1vfu1i7k263fp_image-header_pDach_1771320274000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Barrios vs. Garcia: Free to Watch Fights (2026-02-21 22:45:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177548.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/19j3478vp0lwf1tyo01srdlyum_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Illinois @ UCLA (2026-02-22 01:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177549.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5etm2ockwhscmipamz6sp72pl_image-header_pDach_1770119377000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",UFC Fight Night | Sean Strickland vs Anthony Hernandez (Main Card) (2026-02-22 01:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177550.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7zbg7d1xy3fjd0ne1m2tweq9h_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 16 (Eurosport 1) (2026-02-22 08:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177551.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7pdjf39lq5atkmvpaiosott9u_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 16 (Eurosport 2) (2026-02-22 08:55:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177552.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5smd9hcmqm72zvofjgnvcklil_image-header_pDach_1755857841000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Doppelpass | 22. Februar (2026-02-22 10:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177553.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/djonveuns4rzv8h3oou6n588e_image-header_pDach_1770798276000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Real Madrid - Teneriffa (2026-02-22 11:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177554.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4ww9tnuip68g3pun7bbv5j66g_image-header_pDach_1762210544000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",CFC Genua - FC Turin (italienischer Kommentar) (2026-02-22 11:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177555.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4id223gh0kwbz6zjpvg69b77u_image-header_pDach_1770992596000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Ternana - Juventus (2026-02-22 11:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177556.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7xsoxy2ei1pt2d69cg9ugqxja_image-header_pDach_1762210544000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",CFC Genua - FC Turin (2026-02-22 11:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177557.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/16zfvl79zz1zrb7n2xuxx7pyt_image-header_pDach_1770213579000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Poland Darts Open | Tag 3 (Session 1) (2026-02-22 12:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177558.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5432e93ygql722eemncoxhnh2_image-header_pDach_1721219712000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Genk - Lüttich (2026-02-22 12:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177559.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4cwjt8y3i208iybpymzihg8ui_image-header_pDach_1767194107000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Getafe - FC Sevilla (2026-02-22 13:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177560.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/796yynmb5kjji90epz4ca4nt5_image-header_pDach_1766305498000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Bayer Leverkusen - TSG Hoffenheim (2026-02-22 13:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177561.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7grojp0f2xpwnwi7pmyi7buef_image-header_pDach_1762210740000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Atalanta - Neapel (italienischer Kommentar) (2026-02-22 13:15:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177562.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/96wbieu9gxpdt5x27x5591ysr_image-header_pDach_1762210740000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Atalanta - Neapel (2026-02-22 14:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177563.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5r0gxl8d4gbrp1sjb8plahrci_image-header_pDach_1767123000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",SC Freiburg - Borussia M'gladbach (2026-02-22 14:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177564.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6d5k9czgjlj2poho1s6baf9h7_image-header_pDach_1766140681000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Auxerre - Rennes (2026-02-22 14:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177565.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7m158um3aatp4nn57vemd057f_image-header_pDach_1770992601000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Inter - AS Rom (2026-02-22 14:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177566.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2e53jeygd80wui3oyyqbis29g_image-header_pDach_1769089786000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Györi - Borussia Dortmund (2026-02-22 15:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177567.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/565s1630i1rscf1agru3pmx9t_image-header_pDach_1756977853000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Manchester Basketball - London Lions (2026-02-22 15:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177568.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2id4k4tq69g7pwlbvpniaua7f_image-header_pDach_1764531032000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",FC Barcelona - Levante (2026-02-22 15:15:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177569.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5wcpktbicpup5ijqvg88hox9r_image-header_pDach_1766305520000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",FC Bayern München - VfL Wolfsburg (2026-02-22 15:20:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177570.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6qsm4mfuensk7vsd3whoe8sse_image-header_pDach_1767122994000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",FC St. Pauli - SV Werder Bremen (2026-02-22 15:45:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177571.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dk4o7558je6j75w0ec8venoho_image-header_pDach_1760435724000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Sheffield Sharks - Bristol Flyers (2026-02-22 16:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177572.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5x14d11hn5ilz2vcsq535s1bo_image-header_pDach_1766140726000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Nizza - Lorient (2026-02-22 16:15:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177573.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/26thcmkzhqrwon15qap5ztdea_image-header_pDach_1766140410000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Angers - Lille (2026-02-22 16:15:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177574.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bsqzjseg1twqsoxwdbwyqr3rx_image-header_pDach_1766503456000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Milan - Parma (italienischer Kommentar) (2026-02-22 16:15:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177575.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8hukpgh2hlvt1rrjnet40yeys_image-header_pDach_1770027268000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Nantes - Le Havre (2026-02-22 16:15:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177576.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e5npaz7raa3o2g6dlyfe6r5o4_image-header_pDach_1766503456000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Milan - Parma (2026-02-22 17:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177577.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4ovxnl4z3y0scd7tffqte6zmw_image-header_pDach_1770798609000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",FC Sevilla - Atletico Madrid (2026-02-22 17:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177578.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xeq2n2vefntm1q9pwh9j8s4i0_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Michigan @ Iowa (2026-02-22 17:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177579.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/lp6lmpkkxffe1nazq5gsbj0l8_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Providence @ Uconn (2026-02-22 17:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177580.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aabnzm3t7bd9w341ujetm1gkv_image-header_pDach_1756898476000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Cheshire Phoenix - Surrey 89ers (2026-02-22 17:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177581.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/w37gur2vvvablmj6afw2m43p_image-header_pDach_1766571932000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Celta Vigo - Mallorca (2026-02-22 17:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177582.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6g325f6lzlfvkbcyoojnzrraw_image-header_pDach_1766305500000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",SGS Essen - RB Leipzig (2026-02-22 17:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177583.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6nebhofi41odibkvty8zuv2sj_image-header_pDach_1766418722000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Zulte-Waregem - Anderlecht (2026-02-22 17:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177584.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c7b58un2bqor10ebac4adiihj_image-header_pDach_1767122997000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",1. FC Heidenheim - VfB Stuttgart (2026-02-22 17:45:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177585.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eyrq8uy4c4vrb8urviexpx0e9_image-header_pDach_1770213579000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Poland Darts Open | Viertelfinale, Halbfinale & Finale (2026-02-22 18:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177586.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1iw9i0q9cyrqx1gac5xifsuyr5_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Ohio State @ Michigan State (2026-02-22 18:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177587.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dlvdgon4coaol0i51eezx4el4_image-header_pDach_1770385025000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",AS Rom - Cremonese (italienischer Kommentar) (2026-02-22 18:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177588.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c3wzy9cgrxy31tyx62qxramz8_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",USC @ Ohio State (2026-02-22 19:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177589.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/asbsz87kgxty8hmgbhkxziims_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Abschlussfeier (2026-02-22 19:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177590.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ed51lq8vjy3lqs690d4xf0ybw_image-header_pDach_1769338543000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Straßburg - Lyon (2026-02-22 19:45:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177591.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/57lsshft3eos9svzx2rca87bp_image-header_pDach_1770385025000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",AS Rom - Cremonese (2026-02-22 19:45:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177592.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/df5w51a9cqm19978iuku9rwyn_image-header_pDach_1764530938000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Villarreal - Valencia (2026-02-22 20:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177593.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d55az1j5zv9av9vih2ywb99ta_image-header_pDach_1770532406000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Porto - Rio Ave (2026-02-22 20:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177594.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/15o3htx5gf0n81dqaxirer1aqg_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Iowa @ Wisconsin (2026-02-22 21:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177595.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ftct2cwhtb2k1gyf857u5xxxg_image-header_pDach_1770201646000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Wisconsin @ UCLA (2026-02-22 22:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177596.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bm37aksz47bn1a8vepdqmbw2s_image-header_pDach_1766417496000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Shields vs. Crews-Dezurn 2 (2026-02-23 01:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177597.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ckr1ncchn6ga3h638fzyxi9fv_image-header_pDach_1767771044000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Eintracht Frankfurt - SC Freiburg (2026-02-23 17:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177598.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aluupkhxk6n0hwapl8f5xpiaf_image-header_pDach_1762210547000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Fiorentina - Pisa (italienischer Kommentar) (2026-02-23 17:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177599.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8lm8hv9bev77r4mtbja10nzvr_image-header_pDach_1762210547000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Fiorentina - Pisa (2026-02-23 17:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177600.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/f2vhem08hopzcgqhkc59taddo_image-header_pDach_1762210417000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Bologna - Udinese (italienischer Kommentar) (2026-02-23 19:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177601.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/sywsxg14io341o3n2aa1plbx6_image-header_pDach_1765451847000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Inside The Ring - Feb 23 (2026-02-23 19:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177602.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6ckm2th1m5gsmm2hxsv14wr9l_image-header_pDach_1771486818000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Al-Qadsiah - Al-Ettifaq (2026-02-23 19:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177603.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b483a1vb13oxv8kypfv6huef2_image-header_pDach_1770989175000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Cadiz - Real Sociedad II (2026-02-23 19:30:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177604.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/f4ewu90hnjfmrs60uuohkoywi_image-header_pDach_1762210417000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Bologna - Udinese (2026-02-23 19:45:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177605.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2lopkmc4e9fds4g6qof6ob59s_image-header_pDach_1764530980000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Alaves - Girona (2026-02-23 20:00:00)
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177606.m3u8
 
 # --- DE-DOKU/NEWS/KULTUR (54) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-DOKU/NEWS/KULTUR",##### DE DOKU/NEWS/KULTUR #####
@@ -3431,11 +3731,201 @@ http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/173523.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ad3256b481e0d9bede40d46f0f62da0e.png" group-title="GR: GREECE",GR: 4E
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/173537.m3u8
 
-# --- HU: HUNGARY (2) ---
+# --- HU: HUNGARY (97) ---
 #EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",##### HUNGARY #####
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/37931.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: 1PLUS1 INT TIZEN
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177345.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: 1PLUS1 MARATHON
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177344.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ALJAZEERA
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177364.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ALJAZEERA eng
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177365.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ARENA 4
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177405.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ARIRANG
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177362.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ARMENIA
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177355.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ATV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177407.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ATV SPIRIT
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177406.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: BALATON
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177353.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: BBC EARTH
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177400.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: BBC WORLD
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177368.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: CGTN
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177357.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: CGTN DOC
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177356.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: COOL TV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177418.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: CSABA TV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177373.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: CURRENT TIME
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177347.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: DACHA TV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177370.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: DIKH
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177352.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: DISNEY CHANNEL
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177383.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: DUCK PLUS
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177381.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: DUCK TV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177382.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: DUNA
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177429.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: DUNA WORLD
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177428.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ECTV HD 1200
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177395.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ESPRESSO
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177346.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: EURONEWS
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177366.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: EURONEWS HU 1200
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177376.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: EWTN BONUM
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177354.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: FEM3
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177425.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: FILM DRAMA
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177339.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: FILM LIFE
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177340.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: FILM PLUS
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177417.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: FILM PLUS 2
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177414.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: FILMBOX
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177388.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: FILMBOX EXTRA
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177386.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: FILMBOX FAMILY
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177384.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: FILMBOX PLUS
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177385.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: FILMBOX PREMIUM
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177387.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: FISHING and HUNTING
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177396.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: FRANCE24 eng
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177359.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: FRANCE24 france
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177358.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: GALAXY 4
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177409.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: IZAURA TV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177375.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: JOCKY
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177350.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: KITCHEN TV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177398.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: KOLYOK KLUB
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177413.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: LANGLABS
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177393.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: LINGOTOONS
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177394.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: M1 HUN
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177432.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: M2 HUN
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177433.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: M4 SPORT HUN
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177431.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: M5 HUN
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177430.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: MOZI KLUB
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177412.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: MOZI PLUSZ
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177374.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: MUZSIKA
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177415.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: NATIONAL GEOGRAPHIC CHANNEL
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177402.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: NATIONAL GEOGRAPHIC WILD
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177401.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: NEWSMAX AVC
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177367.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: NHK
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177363.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: NICK JR
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177377.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: NICKELODEON
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177378.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: NICKTOONS
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177379.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: PIANKO
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177351.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: PRIME
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177348.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: RTL
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177421.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: RTL HAROM
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177419.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: RTL KETTO
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177420.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: RYBALKA TV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177369.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: SKY NEWS
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: SLAGER HU
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177371.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: SOROZAT HUNGARY
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177416.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: SOROZATKLUB
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177411.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: SPEKTRUM HOME
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177397.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: SPILER 2
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177349.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: STAR CINEMA
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177341.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: STAR FAMILY
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177342.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: STINGRAY ICONCERTS HD
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177380.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: STORY 4
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177410.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: SUPER TV2
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177426.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: SUPERYACHT
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177403.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: TRAVEL XP
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177399.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: TRT WORLD
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177361.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: TV 4
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177408.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: TV2
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177427.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: TV2 COMEDY
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177424.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: TV2 KIDS
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177422.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: TV2 SEF
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177423.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: UATV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177343.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: VIASAT 2
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177391.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: VIASAT 3
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177390.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: VIASAT 6
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177389.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: VIASAT FILM
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177392.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: X SPORT
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177223.m3u8
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177338.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: YACHTING TV
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177404.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: ZENEBUTIK
+http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/177372.m3u8
 
 # --- IT: ITALY (112) ---
 #EXTINF:-1 tvg-logo="" group-title="IT: ITALY",##### ITALY #####
@@ -5824,7 +6314,7 @@ http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/142728.m3u8
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/143955.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinconnect8.png" group-title="TR | beIN SPORTS",TR: Premier Lig UHD 4K  ( 2 )
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/143954.m3u8
-#EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinconnect7.png" group-title="TR | beIN SPORTS",TR: Sky Sport Bundesliga UHD [Live]
+#EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinconnect7.png" group-title="TR | beIN SPORTS",SPORT 5 4K
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/143953.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinsports1.png" group-title="TR | beIN SPORTS",TR: VIP beIN SPORTS 1 (Deutsche Telekom)
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/36197.m3u8
@@ -6244,7 +6734,7 @@ http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/166011.m3u8
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/166012.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/astro-supersport-1.png" group-title="WORLD SPORTS",Astro Premier [MYS]
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/166013.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/3QXoqx9.png" group-title="WORLD SPORTS",Dazn F1 Espana
+#EXTINF:-1 tvg-logo="https://iili.io/3QXoqx9.png" group-title="WORLD SPORTS",Dazn LALIGA HD
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/166037.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/2Mwcqve.png" group-title="WORLD SPORTS",Sporttv Brasil HD
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/166039.m3u8
@@ -6271,4 +6761,4 @@ http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/165977.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",3 SPORT 1
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/165981.m3u8
 
-# Total: 3075
+# Total: 3320

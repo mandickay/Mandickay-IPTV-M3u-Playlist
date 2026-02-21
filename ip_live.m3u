@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ip.plat.cx:8080
-# Generated: 2026-02-20 18:53:14
+# Generated: 2026-02-21 07:25:04
 # Expires: 2026-03-05
 # Family Safe Edition
 # ==============================================
@@ -57,7 +57,7 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/207952.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/ALBON.png" group-title="F1",F1: ONBOARD ALEXANDER ALBON
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/207951.m3u8
 
-# --- PORTUGAL (313) ---
+# --- PORTUGAL (312) ---
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/paises_flags/Portugal.png" group-title="PORTUGAL",PT: ***********PORTUGAL**************
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/2.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP%201.png" group-title="PORTUGAL",PT: RTP 1 SD
@@ -104,8 +104,6 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/597.m3u8
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/103991.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/converted-tvi%20inter.png" group-title="PORTUGAL",PT: TVI INTERNACIONAL
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/208808.m3u8
-#EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/TVI-AFRICA.png" group-title="PORTUGAL",PT: TVI AFRICA
-http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/202041.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/rtpnoticias.png" group-title="PORTUGAL",PT: RTP NOTICIAS SD
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/14.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/logo/exclusivos/rtpnoticias.png" group-title="PORTUGAL",PT: RTP NOTICIAS HD
@@ -943,4 +941,4 @@ http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/184235.m3u8
 #EXTINF:-1 tvg-logo="http://picon-platinium.ddns.net/picons/separador.png" group-title="Unknown",SE: *********** SERIES **************
 http://ip.plat.cx:8080/live/MAriaisabel/63u7shwjjuw/6602.m3u8
 
-# Total: 462
+# Total: 461

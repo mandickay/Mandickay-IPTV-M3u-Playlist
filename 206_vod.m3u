@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 206.212.244.71:8080
-# Generated: 2026-02-23 07:20:35
+# Generated: 2026-02-23 18:42:47
 # Expires: 2026-06-05
 # Family Safe Edition
 # ==============================================
@@ -20739,7 +20739,7 @@ http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/183015.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2Jwo4Eoax0oOnsU5qcXv0ea0Q8.jpg" group-title="Movies | Scary Movie Collection",Scary Movie 5 (2013)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/183016.mp4
 
-# --- Movies | Science Fiction (356) ---
+# --- Movies | Science Fiction (355) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Science Fiction",
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/200584.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Science Fiction",5th Passenger (2018)
@@ -21378,8 +21378,6 @@ http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/200903.mp4
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/200904.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6hwbnR2nGacSzljqYaXY25w1Me.jpg" group-title="Movies | Science Fiction",The Purge (2013)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/200905.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GTAUOhO4BN0peJVvxGEQydJvUO.jpg" group-title="Movies | Science Fiction",The Running Man (1987)
-http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/200907.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmVgGpLdAUzCszbyQ4THY8eB0HL.jpg" group-title="Movies | Science Fiction",These Final Hours (2014)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/200908.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QB6wIc6XOtoi02uUCLSvY0onSL.jpg" group-title="Movies | Science Fiction",The Time Machine (2002)
@@ -27941,7 +27939,7 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2318
 #EXTINF:-1 tvg-logo="" group-title="Series | 2023 TV Series",Funny Woman
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2324
 
-# --- Series | 2024 TV Series (67) ---
+# --- Series | 2024 TV Series (68) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",Mr. & Mrs. Smith
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2231
 #EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",Criminal Record
@@ -28076,6 +28074,8 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2323
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2332
 #EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",A Man on the Inside
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2344
+#EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",Cross
+http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2352
 
 # --- Series | 2025 TV Series (23) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Watson

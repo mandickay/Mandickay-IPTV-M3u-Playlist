@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-02-23 07:29:04
+# Generated: 2026-02-23 18:54:07
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -485,7 +485,7 @@ http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/43509.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/2560px-Magenta_Sport_Logo_2020.svg.png" group-title="Germania",DE: Magenta Sport 8 FHD
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/5011.m3u8
 
-# --- Romania (610) ---
+# --- Romania (611) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pxfCt7f/MegaTV.png" group-title="Romania",*** Tv Romania ***
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/43250.m3u8
 #EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2022/10/20/BVESxs8JPb0Xqjj34BwQ.png" group-title="Romania",CaTine Live
@@ -1076,6 +1076,8 @@ http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/44017.m3u
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/45603.m3u8
 #EXTINF:-1 tvg-logo="http://apk.cx/logos/romanesti/orizont_tv.png" group-title="Romania",Orizont TV SD
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10831.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Romania",Radio Tequila Dance
+http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/57134.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pxfCt7f/MegaTV.png" group-title="Romania",DANCE TV
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/64052.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pxfCt7f/MegaTV.png" group-title="Romania",DANDE DEEP HAUSE DISTRING
@@ -1707,4 +1709,4 @@ http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/31098.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjr9kmpw/visuri-si-ro-te-iubesc.gif" group-title="Romania",ONE TV AVENTURA
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/22640.m3u8
 
-# Total: 848
+# Total: 849

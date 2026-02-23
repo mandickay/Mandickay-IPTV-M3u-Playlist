@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.iptvsmart.live:80
-# Generated: 2026-02-23 07:25:16
+# Generated: 2026-02-23 18:43:15
 # Expires: 2026-03-23
 # Family Safe Edition
 # ==============================================
@@ -3734,7 +3734,7 @@ http://tv.iptvsmart.live:80/movie/zaton_lovric_236/qIU5zvUTkp/13189.mp4
 # --- Movies | VIDEOTEKA 2025 (142) ---
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Pose_%28film%29_poster.jpg/250px-Pose_%28film%29_poster.jpg" group-title="Movies | VIDEOTEKA 2025",POSE (2025)
 http://tv.iptvsmart.live:80/movie/zaton_lovric_236/qIU5zvUTkp/13655.mp4
-#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=" group-title="Movies | VIDEOTEKA 2025",My Secret Santa (2025)
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BNDhiZDFhNzItY2FlYS00NTg4LThhOTAtYWIyMzNkNjZmYmQyXkEyXkFqcGc@._V1_.jpg" group-title="Movies | VIDEOTEKA 2025",My Secret Santa (2025)
 http://tv.iptvsmart.live:80/movie/zaton_lovric_236/qIU5zvUTkp/13656.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Now_You_See_Me_Now_You_Don%27t_poster.jpg/250px-Now_You_See_Me_Now_You_Don%27t_poster.jpg" group-title="Movies | VIDEOTEKA 2025",Now You See Me: Now You Don't (2025)
 http://tv.iptvsmart.live:80/movie/zaton_lovric_236/qIU5zvUTkp/13652.mp4
@@ -4017,10 +4017,12 @@ http://tv.iptvsmart.live:80/movie/zaton_lovric_236/qIU5zvUTkp/13432.mp4
 #EXTINF:-1 tvg-logo="http://85.14.243.71/images/220px-Den_of_thieves_two_pantera_ver2.jpg" group-title="Movies | VIDEOTEKA 2025",Den of Thieves 2: Pantera (2025)
 http://tv.iptvsmart.live:80/movie/zaton_lovric_236/qIU5zvUTkp/13433.mp4
 
-# --- Movies | VIDEOTEKA 2026 (2) ---
-#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=" group-title="Movies | VIDEOTEKA 2026",Anaconda (2026)
+# --- Movies | VIDEOTEKA 2026 (3) ---
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/6/68/Greenland_-_Migration.jpg" group-title="Movies | VIDEOTEKA 2026",Greenland 2: Migration (2026)
+http://tv.iptvsmart.live:80/movie/zaton_lovric_236/qIU5zvUTkp/13659.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeWlvUo2Cs8MtBK6pmw7pAZd4nFVNOPFVbQ&s" group-title="Movies | VIDEOTEKA 2026",Anaconda (2026)
 http://tv.iptvsmart.live:80/movie/zaton_lovric_236/qIU5zvUTkp/13658.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/4/43/Mercy_2026_poster.jpeg" group-title="Movies | VIDEOTEKA 2026",Mercy (2026)
 http://tv.iptvsmart.live:80/movie/zaton_lovric_236/qIU5zvUTkp/13660.mp4
 
-# Total: 1992
+# Total: 1993

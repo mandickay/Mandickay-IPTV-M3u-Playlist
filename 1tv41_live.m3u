@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 1tv41.icu:8080
-# Generated: 2026-02-22 18:35:05
+# Generated: 2026-02-23 18:49:00
 # Expires: 2026-05-07
 # Family Safe Edition
 # ==============================================
@@ -3377,47 +3377,61 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/21091.m3u8
 
-# --- NBA (20) ---
+# --- NBA (27) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: ORL Magic VS PHX Suns ( NBA TV Feed ) @ 5:00 PM
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262403.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: HOU Rockets VS NYK Knicks ( ABC Feed ) @ 8:30 PM
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262404.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Philadelphia 76ers vs New Orleans Pelicans @ 07:00 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262405.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Memphis Grizzlies vs Miami Heat @ 08:00 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262406.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Detroit Pistons vs Chicago Bulls @ 08:00 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262407.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Sacramento Kings vs San Antonio Spurs @ 08:00 PM EST
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262408.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Orlando Magic @ Phoenix Suns | Home Stream | 02/21/2026 5:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262409.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Orlando Magic @ Phoenix Suns | Away Stream | 02/21/2026 5:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262410.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Philadelphia 76ers @ New Orleans Pelicans | Home Stream | 02/21/2026 7:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262411.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Philadelphia 76ers @ New Orleans Pelicans | Away Stream | 02/21/2026 7:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262412.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Sacramento Kings @ San Antonio Spurs | Home Stream | 02/21/2026 8:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262413.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Sacramento Kings @ San Antonio Spurs | Away Stream | 02/21/2026 8:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262414.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Detroit Pistons @ Chicago Bulls | Home Stream | 02/21/2026 8:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262415.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Detroit Pistons @ Chicago Bulls | Away Stream | 02/21/2026 8:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262416.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Memphis Grizzlies @ Miami Heat | Home Stream | 02/21/2026 8:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262417.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Memphis Grizzlies @ Miami Heat | Away Stream | 02/21/2026 8:00 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262418.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Houston Rockets @ New York Knicks | Home Stream | 02/21/2026 8:30 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262419.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Houston Rockets @ New York Knicks | Away Stream | 02/21/2026 8:30 PM ET
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262420.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: CLE Cavaliers VS OKC Thunder ( ABC Feed ) @ 1:00 PM
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262516.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: DEN Nuggets VS GSW Warriors ( ABC Feed ) @ 3:30 PM
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262517.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: ORL Magic VS LAC Clippers ( NBA TV Feed ) @ 9:00 PM
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262518.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Brooklyn Nets vs Atlanta Hawks @ 03:30 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262519.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Toronto Raptors vs Milwaukee Bucks @ 03:30 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262520.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Dallas Mavericks vs Indiana Pacers @ 05:00 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262521.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Charlotte Hornets vs Washington Wizards @ 06:00 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262522.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 08: Boston Celtics vs Los Angeles Lakers @ 06:30 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262523.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 09: Philadelphia 76ers vs Minnesota Timberwolves @ 07:00 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262524.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 10: New York Knicks vs Chicago Bulls @ 08:00 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262525.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 11: Portland Trail Blazers vs Phoenix Suns @ 08:00 PM EST
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262526.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Cleveland Cavaliers @ Oklahoma City Thunder | Home Stream | 02/22/2026 1:00 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262527.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Cleveland Cavaliers @ Oklahoma City Thunder | Away Stream | 02/22/2026 1:00 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262528.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Denver Nuggets @ Golden State Warriors | Home Stream | 02/22/2026 3:30 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262529.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Denver Nuggets @ Golden State Warriors | Away Stream | 02/22/2026 3:30 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262530.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Toronto Raptors @ Milwaukee Bucks | Home Stream | 02/22/2026 3:30 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262531.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Toronto Raptors @ Milwaukee Bucks | Away Stream | 02/22/2026 3:30 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262532.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Brooklyn Nets @ Atlanta Hawks | Home Stream | 02/22/2026 3:30 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262533.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Brooklyn Nets @ Atlanta Hawks | Away Stream | 02/22/2026 3:30 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262534.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Dallas Mavericks @ Indiana Pacers | Home Stream | 02/22/2026 5:00 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262535.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Dallas Mavericks @ Indiana Pacers | Away Stream | 02/22/2026 5:00 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262536.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Charlotte Hornets @ Washington Wizards | Home Stream | 02/22/2026 6:00 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262537.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Charlotte Hornets @ Washington Wizards | Away Stream | 02/22/2026 6:00 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262538.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13: Boston Celtics @ Los Angeles Lakers | Home Stream | 02/22/2026 6:30 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262539.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 14: Boston Celtics @ Los Angeles Lakers | Away Stream | 02/22/2026 6:30 PM ET
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/262540.m3u8
 
 # --- NCAAB (16) ---
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | AKRON @ BALL STATE (M) | 2.20 6:30 PM | CBSSN
@@ -13385,4 +13399,4 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/121048.m3u8
 
-# Total: 6653
+# Total: 6660

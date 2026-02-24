@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: caffe.link:25461
-# Generated: 2026-02-24 07:28:39
+# Generated: 2026-02-24 18:52:40
 # Expires: 2026-05-01
 # Family Safe Edition
 # ==============================================
@@ -810,7 +810,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/3635.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1248.m3u8
 #EXTINF:-1 tvg-logo="http://epg.netsolutionpro.com/logo-tv/118.hr.png" group-title="Hrvatska",Slavonska TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1247.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Plava_Vinkovacka_logo.png" group-title="Hrvatska",Vinkovacka TV
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Plava_Vinkovacka_logo.png" group-title="Hrvatska",Plava Vinkovacka TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1246.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hrvatska",DALMACIJA (HR)
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118816.m3u8
@@ -1109,7 +1109,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/3719.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/hbo-logo.png" group-title="Slovenija",Slovenija | HBO 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/14517.m3u8
 
-# --- Sport (201) ---
+# --- Sport (200) ---
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/SK_HD_RS_logo.png" group-title="Sport",SK HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4731.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK1_HR_logo.png" group-title="Sport",SK 1
@@ -1154,8 +1154,6 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34155.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/54037.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Tenis_RS_logo.png" group-title="Sport",Arena Tenis
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118768.m3u8
-#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/MAXSport_3_HR_logo_v2.png" group-title="Sport",Max Sport 3
-http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118748.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Adrenalin_RS_logo.png" group-title="Sport",Arena Adrenalin
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118769.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="Sport",Arena Sport 1 HR
@@ -1513,7 +1511,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6413.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",Viasat Sport Premium
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5549.m3u8
 
-# --- Srbija (73) ---
+# --- Srbija (72) ---
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTS1_logo.png" group-title="Srbija",RTS 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1310.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/RTS1_logo.png" group-title="Srbija",RTS 1 (backup)
@@ -1654,8 +1652,6 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/53657.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1297.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/tv-belle-amie-logo.png" group-title="Srbija",Belle Amie
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/50709.m3u8
-#EXTINF:-1 tvg-logo="http://epg.netsolutionpro.com/logo-tv/117.sr.png" group-title="Srbija",TV Bor
-http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6875.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/agrotv_logo-1.png" group-title="Srbija",Agro TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/33023.m3u8
 #EXTINF:-1 tvg-logo="https://zona.ba/wp-content/uploads/sandzak-2.jpg" group-title="Srbija",Sandzak TV
@@ -1753,4 +1749,4 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/79256.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Švicarska",CH: TELE 1 HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7382.m3u8
 
-# Total: 849
+# Total: 847

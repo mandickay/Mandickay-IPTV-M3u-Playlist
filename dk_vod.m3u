@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: dk.2665.ninja:8080
-# Generated: 2026-02-24 07:26:49
+# Generated: 2026-02-24 18:46:53
 # Expires: 2026-04-16
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | (S|TR) Animasyon - Cizgi Diziler (130) ---
+# --- Movies | (S|TR) Animasyon - Cizgi Diziler (122) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Ben 10 Omniverse
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/1644.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Gumball
@@ -86,24 +86,8 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5771.mp4
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5794.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Lost Ollie
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5796.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Cars On The Road
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5854.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Ada Twist Scientist
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5875.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Spirit Rangers
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6158.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Dead End: Paranormal Park
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6174.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Marvel's Hit-Monkey
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6204.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Star Wars: Tales Of The Jedi
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6308.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Daniel Spellbound
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6319.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Zootopia+
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6372.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Dragon Age: Absolution
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6499.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Sonic Prime
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6519.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Koala Man
@@ -269,7 +253,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/11347.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Feride - MAX
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/11407.mp4
 
-# --- Movies | (S|TR) Eski Diziler (238) ---
+# --- Movies | (S|TR) Eski Diziler (237) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Cukur
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/215.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Bir Zamanlar Cukurova
@@ -286,8 +270,6 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/495.mp4
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/500.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Zalim İstanbul
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/862.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Şampiyon
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/1119.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Mucize Doktor
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/1120.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Kurşun
@@ -747,7 +729,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/11284.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Sakincali
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/11394.mp4
 
-# --- Movies | (S|TR) Yabanci Diziler (1024) ---
+# --- Movies | (S|TR) Yabanci Diziler (939) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mars
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/313.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 1983
@@ -1256,20 +1238,6 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5827.mp4
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5828.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Sons Of Anarchy
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5831.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Entrapped
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5855.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Epic Adventures With Bertie Gregory
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5856.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Narco-Saints
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5857.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Super Pumped
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5858.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Imperfects
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5859.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Sins Of Our Mother
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5890.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Lørenskog Disappearance
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5894.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Yellowstone
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5903.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) She-Hulk: Attorney At Law
@@ -1288,184 +1256,28 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5918.mp4
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5919.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mike
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5924.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Royals
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5929.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Conversations With Friends
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5930.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Dahmer - Monster: The Jeffrey Dahmer Story
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5942.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Thai Cave Rescue
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5947.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Super/Natural
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5949.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Prisma
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5951.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Girls At The Back
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5952.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Star Trek: Strange New Worlds
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5972.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Empress
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5984.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Star Wars: Andor
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5987.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Phantom Pups
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5990.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Snabba Cash
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5995.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Arrow
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6017.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Nailed It!
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6083.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Only Murders In The Building
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6096.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Pistol
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6098.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Shipwreck Hunters Australia
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6100.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Wedding Season
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6102.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Conversations With A Killer: The Jeffrey Dahmer Tapes
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6108.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Glitch
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6110.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Growing Up
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6112.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Midnight Club
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6114.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Oussekine
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6155.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Deep State
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6156.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Inventing Anna
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6160.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Blood & Water
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6161.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Best In Dough
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6167.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Rookie Cops
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6171.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Bear
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6172.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Playlist
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6176.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Watcher
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6178.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Holy Family
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6186.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Black Butterflies
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6188.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Fakes
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6189.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Unsolved: The Murders Of Tupac And The Notorious B.I.G.
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6206.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Grid
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6216.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Insanity
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6218.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Tierra Incógnita
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6220.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) It Was Always Me
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6243.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Notre-Dame
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6245.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Santa Evita
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6247.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Soundtrack #1
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6248.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Vatican Girl: The Disappearance Of Emanuela Orlandi
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6256.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Barbarians
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6271.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) From Scratch
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6272.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Better Call Saul
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6280.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Watchmen
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6281.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Heartthrob: TV Changed He Didn’t
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6315.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Snowdrop
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6317.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) I Am A Stalker
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6323.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) If Only
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6325.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Bastard Son & The Devil Himself
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6327.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Guillermo Del Toro's Cabinet Of Curiosities
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6329.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Deadwind
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6331.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) This Fool
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6332.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) House of Cards
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6334.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Blockbuster
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6340.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Reboot
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6342.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Secret Of The Greco Family
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6357.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Everything I Know About Love
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6359.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Save Our Squad With David Beckham
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6370.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Warrior Nun
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6376.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Candy
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6377.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Ancient Apocalypse
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6399.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mammals
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6401.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Night Sky
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6413.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Teletubbies
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6415.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Murders Before The Marathon
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6417.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Children Of The Underground
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6419.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Deep End
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6421.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Limitless With Chris Hemsworth
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6423.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Keep This Between Us
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6425.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) All The Same… Or Not
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6427.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Tell Me Lies
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6430.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Euphoria
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6432.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 1899
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6433.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Pepsi Where's My Jet?
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6436.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Maggie
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6441.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Wednesday
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6448.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Reasonable Doubt
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6450.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Daddies On Request
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6454.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Legacy: The True Story Of The LA Lakers
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6456.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) LIMBO... Until I Decide
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6458.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Crime Scene: The Texas Killing Fields
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6478.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Patient
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6482.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Our Only Chance
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6489.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) I Hate Christmas
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6495.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Smiley
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6497.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Glitter
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6515.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Recruit
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6527.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) A Storm For Christmas
@@ -2797,7 +2609,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/11955.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 56 Days
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/11992.mp4
 
-# --- Movies | (S|TR) Yerli Diziler (406) ---
+# --- Movies | (S|TR) Yerli Diziler (401) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/444.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Sıfır Bir - MAX
@@ -2954,24 +2766,14 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5749.mp4
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5812.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Dünyayla Benim Aramda
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5891.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Terim
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5893.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Sadece Arkadaşız - EXXEN
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5904.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Sizi Dinliyorum - EXXEN
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/5945.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Sen Uyuyunca - MAX
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6016.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Andropoz
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6106.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Kizilcik Serbeti
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6322.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Ben Gri
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6429.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Saklı - MAX
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6435.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Sicak Kafa
-http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6487.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Cekic Ve Gül: Bir Behzat Ç. Hikayesi - MAX
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/6494.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Tacsiz Prenses
@@ -4513,7 +4315,9 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/258469.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/fEmyJSVoWwmRZwDyFBeLzYL69q9.jpg" group-title="Movies | (V|SC) Scandinavia Movies - Scandinavia Filmer",(SC-) Godzilla: King of the Monsters - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/258470.mkv
 
-# --- Movies | (V|TR) Animasyon - Cizgi Filmleri (563) ---
+# --- Movies | (V|TR) Animasyon - Cizgi Filmleri (564) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8i2eQHH7Ruh0KduSIWT5lNlrrau_big.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Heidi: Rescue Of The Lynx - 2025
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/670339.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3yIT5oIGPRPLIPJNeFan3l2yRso_big.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) Caretta Bobi - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/668763.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/oRwi8Ogzm0PnEjOf2eDOg33MkEf_big.jpg" group-title="Movies | (V|TR) Animasyon - Cizgi Filmleri",(TR-) The SpongeBob Movie: Search For SquarePants - 2025
@@ -6841,7 +6645,13 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (252) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (255) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 51)
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/670341.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 23)
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/670337.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pym4NaXmFEaAfPa1ZQei6pAJGhS_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ayni Yagmur Altinda (Bolum 3)
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/670336.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 170)
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/669738.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 19)
@@ -13823,7 +13633,9 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/508684.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zDjpCBr7fleewKN7HpF2EPQT1jN_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2024",(TR-) Parthenope - 2024
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/635435.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2025 (216) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2025 (217) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qPJzcYR2f1O1uynYBCVPPJuOiAH_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) HIM - 2025
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/670338.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/fBmLlHKvDuvO4316qzqaDxEuKsg_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Predator: Badlands - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/666717.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/RuPljPQw3nCTBhvefbdcYDNkJ.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) A Big Bold Beautiful Journey - 2025
@@ -17095,4 +16907,4 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/584223.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u1UPlw3M8qOsqsiqkFeLtg6eEVt_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Umami - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/583470.mkv
 
-# Total: 8513
+# Total: 8419

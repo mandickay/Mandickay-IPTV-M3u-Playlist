@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: play.tecnomolly.com:8080
-# Generated: 2026-02-24 07:31:33
+# Generated: 2026-02-24 18:47:33
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -861,18 +861,8 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523991.m3u8
 #EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/superligaarg.jpg" group-title="Live Soccer Jueves",16:30 River Plate vs Banfield
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523992.m3u8
 
-# --- Live Soccer Lunes (4) ---
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/premierleague.jpg" group-title="Live Soccer Lunes",14:00 Everton vs Manchester United
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523290.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/laligaesp.jpg" group-title="Live Soccer Lunes",14:00 Alaves vs Girona
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523291.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/serieA.jpg" group-title="Live Soccer Lunes",11:30 Fiorentina vs Pisa
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523292.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/serieA.jpg" group-title="Live Soccer Lunes",13:45 Bologna vs Udinese
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523293.m3u8
-
 # --- Live Soccer Martes (17) ---
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/concachamions.jpg" group-title="Live Soccer Martes",|19:00 Nashville vs Atletico Ottawa
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/concachamions.jpg" group-title="Live Soccer Martes",19:00 Nashville vs Atletico Ottawa
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523934.m3u8
 #EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/concachamions.jpg" group-title="Live Soccer Martes",21:00 Los Angeles FC vs Real España
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523935.m3u8
@@ -974,22 +964,6 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/524003.m3u8
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/524004.m3u8
 #EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/amistosofifa.jpg" group-title="Live Soccer Viernes",19:00 Costa Rica vs Brasil
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/524005.m3u8
-
-# --- MLB 23/02/26 (presiona boton update) (7) ---
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/mlb.jpg" group-title="MLB 23/02/26 (presiona boton update)",12:05 Rays vs Red Sox
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523657.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/mlb.jpg" group-title="MLB 23/02/26 (presiona boton update)",12:05 Tigers vs Twins
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523658.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/mlb.jpg" group-title="MLB 23/02/26 (presiona boton update)",12:05 Cardenales vs Marlins
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523659.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/mlb.jpg" group-title="MLB 23/02/26 (presiona boton update)",12:05 Pirates vs Yankees
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523660.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/mlb.jpg" group-title="MLB 23/02/26 (presiona boton update)",12:05 Orioles vs Braves
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523661.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/mlb.jpg" group-title="MLB 23/02/26 (presiona boton update)",14:05 Dodgers vs Mariners
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523665.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/mlb.jpg" group-title="MLB 23/02/26 (presiona boton update)",14:10 Padres vs Brewers
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523668.m3u8
 
 # --- MLB 24/02/26 (presiona boton update) (15) ---
 #EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/mlb.jpg" group-title="MLB 24/02/26 (presiona boton update)",12:05 Red Sox vs Pirates
@@ -1385,15 +1359,13 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520899.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/photo/2019/0624/r561206_809x455_16-9.png" group-title="Olimpiadas 2026",Olympics 4
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520900.m3u8
 
-# --- PAY PER VIEW - SUNSET EXCLUSIVE (4) ---
+# --- PAY PER VIEW - SUNSET EXCLUSIVE (3) ---
 #EXTINF:-1 tvg-logo="https://www.contramuro.com/wp-content/uploads/2026/02/vina-del-mar-2026-en-vivo-en-disney-fechas-y-artistas-transmision-1.jpeg" group-title="PAY PER VIEW - SUNSET EXCLUSIVE",18:30 Festival Vina del Mar
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523703.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/008/19376008-SNAPSHOT-m.jpg" group-title="PAY PER VIEW - SUNSET EXCLUSIVE",17:55 Abierto Mexicano
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523707.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/lOsRwCBA9DVPXSswAMy98TJ_Ak29XlgweT7lFKSqpmJl7c9Vo30UREIdCFUnT_eXiJTfbZY1fq4=s900-c-k-c0x00ffffff-no-rj" group-title="PAY PER VIEW - SUNSET EXCLUSIVE",20:15 Astros de Jalisco vs. Pioneros de Los Mochis
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/lOsRwCBA9DVPXSswAMy98TJ_Ak29XlgweT7lFKSqpmJl7c9Vo30UREIdCFUnT_eXiJTfbZY1fq4=s900-c-k-c0x00ffffff-no-rj" group-title="PAY PER VIEW - SUNSET EXCLUSIVE",13:00 Astros de Jalisco vs. Pioneros de Los Mochis
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523708.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/raw.jpg" group-title="PAY PER VIEW - SUNSET EXCLUSIVE",19:00 RAW
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/523709.m3u8
 
 # --- Panama (7) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvFRyWkH/rpc.jpg" group-title="Panama",PA | RCP TV
@@ -1917,4 +1889,4 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/279047.m3u8
 #EXTINF:-1 tvg-logo="http://valetv.info/wp-content/uploads/2019/10/LOGO-VALE-TV-1.jpg" group-title="Venezuela",VE | Vale tv
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/279058.m3u8
 
-# Total: 895
+# Total: 883

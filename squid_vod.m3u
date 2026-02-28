@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-02-28 07:20:18
+# Generated: 2026-02-28 18:41:13
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -358,6 +358,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1010.mp4
 # --- Movies | Ask Mantik Intikam - Dragoste Ratiune Razbunare (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Ask Mantik Intikam - Dragoste Ratiune Razbunare",Ask Mantık İntikam (2021)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1181.mp4
+
+# --- Movies | Ask Yarasi – Am iubit un trandafir (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Ask Yarasi – Am iubit un trandafir",Ask Yarasi – Am iubit un trandafir
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1197.mp4
 
 # --- Movies | Ask ve Gözyasi – Dragoste si lacrimi (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Ask ve Gözyasi – Dragoste si lacrimi",Aşk ve Gözyaşı (2025)
@@ -1976,6 +1980,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/427.mp4
 # --- Movies | Fall River (Documentar) (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Fall River (Documentar)",Fall River
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/288.mp4
+
+# --- Movies | Falling Skies (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Falling Skies",Falling Skies (2011)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1199.mp4
 
 # --- Movies | Fallout (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Fallout",Fallout
@@ -7251,7 +7259,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (37) ---
+# --- Movies | Filme 2026 (38) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRU9yeqerg50QI8Eg6KeDXaGXsH.jpg" group-title="Movies | Filme 2026",Trial Period - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68332.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbURquxQUJXFfeqpjzmHekRmyqb.jpg" group-title="Movies | Filme 2026",Skyscraper Live - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68269.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKleYiEj4pFqxedTRWfujLooi84.jpg" group-title="Movies | Filme 2026",Primate - 2026
@@ -15333,7 +15343,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/31665.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dhHpbBemuyEBgcYGrmm7bHpjgdO.jpg" group-title="Movies | Filme SCI-FI (NOU)",Battle Drone  (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9682.mp4
 
-# --- Movies | Filme Thriller (210) ---
+# --- Movies | Filme Thriller (211) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YmeO4pB7XTh8P8F960O1uA14JO.jpg" group-title="Movies | Filme Thriller",Zodiac - 2007
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68387.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyI1M8toCUr6xlVnVqXOdATg9gY.jpg" group-title="Movies | Filme Thriller",Monolith - 2016
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68204.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JEt0qtEaYrJZuPeTArR691V256.jpg" group-title="Movies | Filme Thriller",Taking Lives (2004)
@@ -18669,6 +18681,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/754.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Someone Has to Die",Someone Has to Die
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/251.mp4
 
+# --- Movies | Son Kare - Ultimul cadru (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Son Kare - Ultimul cadru",Son Kare (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1198.mp4
+
 # --- Movies | Soy Luna (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Soy Luna",Soy Luna (2016)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1154.mp4
@@ -20107,4 +20123,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8823
+# Total: 8828

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-02-28 07:11:33
+# Generated: 2026-02-28 18:37:42
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1269,17 +1269,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (70) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2f1rqz6lzubqt46g1vjupyor7_image-header_pDach_1771518669000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Parma - Cagliari (italienischer Kommentar) (2026-02-27 18:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178045.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2f1rqz6lzubqt46g1vjupyor7_image-header_pDach_1771518669000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Parma - Cagliari (2026-02-27 19:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178051.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/435p35nl1a9a8b8isye7note5_image-header_pDach_1764530877000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Levante - Alaves (2026-02-27 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178052.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/15z6j5psrqo0i15mogmrxncisw_image-header_pDach_1770897782000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Michigan @ Illinois (2026-02-28 01:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178053.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2o6l9ztr1wgnar3bv1zw58xeb_image-header_pDach_1765662534000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Wintersport-Samstag | 28. Februar (2026-02-28 09:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178054.m3u8
+# --- DE-DAZN EVENT (64) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/zuatl02sy31ze5plz2ihmsfg_image-header_pDach_1737023636000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Alpiner Skiweltcup Garmisch-Partenkirchen | Abfahrt (2026-02-28 10:45:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178055.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/44iujtigy1ujwkes9njmkwzmn_image-header_pDach_1770998010000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Rajadamnern World Series | Jaroensook vs Captainteam (2026-02-28 12:00:00)
@@ -1408,8 +1398,6 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178116.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178117.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/14iy3ulmof22d1p6wradzblatj_image-header_pDach_1770898901000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",UCLA @ USC (2026-03-01 23:00:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178118.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2p207ghfalg2sg8zw3shdurgo_image-header_pDach_1770218669000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Orlando - Inter Miami (2026-03-01 23:55:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/178119.m3u8
 
 # --- DE-DOKU/NEWS/KULTUR (54) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-DOKU/NEWS/KULTUR",##### DE DOKU/NEWS/KULTUR #####
@@ -3617,7 +3605,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173523.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ad3256b481e0d9bede40d46f0f62da0e.png" group-title="GR: GREECE",GR: 4E
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173537.m3u8
 
-# --- HU: HUNGARY (97) ---
+# --- HU: HUNGARY (95) ---
 #EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",##### HUNGARY #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/37931.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: 1PLUS1 INT TIZEN
@@ -3662,8 +3650,6 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177352.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177383.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: DUCK PLUS
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177381.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: DUCK TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177382.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: DUNA
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177429.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: DUNA WORLD
@@ -3674,8 +3660,6 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177395.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177346.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: EURONEWS
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177366.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: EURONEWS HU 1200
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177376.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: EWTN BONUM
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/177354.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",HU: FEM3
@@ -6647,4 +6631,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165977.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/CC/83/80b1d9d796a8cc83.png" group-title="WORLD SPORTS",3 SPORT 1
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165981.m3u8
 
-# Total: 3263
+# Total: 3255

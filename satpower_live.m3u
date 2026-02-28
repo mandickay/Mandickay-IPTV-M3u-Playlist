@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2026-02-27 07:16:21
+# Generated: 2026-02-28 18:28:56
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
@@ -1841,31 +1841,9 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/580017.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE DYN SPORT - RTL+ SPORT",DE: VIP RTL+ SPORT EVENT 13 HD (SPIELZEIT)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/633970.m3u8
 
-# --- DE DYN SPORT EVENT (40) ---
+# --- DE DYN SPORT EVENT (29) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE DYN SPORT EVENT",DE: ----- DYN SPORT EVENT -----
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670872.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| SINGAPUR SMASH TAG 5 SESSION 1 (2026-02-26 05:00:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670950.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| SINGAPUR SMASH TAG 5 SESSION 2 (2026-02-26 11:00:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670949.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| DYN CHAMPIONS KONFERENZ (2026-02-26 18:15:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670948.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| FUCHSE BERLIN - INDUSTRIA KIELCE (2026-02-26 18:35:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670947.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| THSV EISENACH - HC ERLANGEN (2026-02-26 18:45:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670946.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| TBV LEMGO LIPPE - HSV HAMBURG (2026-02-26 18:45:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670945.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| WISLA PLOCK - SC MAGDEBURG (2026-02-26 20:35:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670944.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| SINGAPUR SMASH TAG 6 SESSION 1 (2026-02-27 05:00:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670943.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| SINGAPUR SMASH TAG 6 SESSION 2 (2026-02-27 11:00:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670942.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| SG FLENSBURG-HANDEWITT - HSG WETZLAR (2026-02-27 18:45:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670941.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| BORUSSIA DORTMUND - SPORT-UNION NECKARSULM (2026-02-27 19:15:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670940.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| SINGAPUR SMASH TAG 7 SESSION 1 (2026-02-28 05:00:00)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670939.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| SINGAPUR SMASH TAG 7 SESSION 2 (2026-02-28 11:00:00)
@@ -3999,33 +3977,9 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/486773.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/tvIngolstadt.png" group-title="DE REGIONAL",DE: TV.INGOLSTADT
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/487219.m3u8
 
-# --- DE RTL+ SPORT EVENT (19) ---
+# --- DE RTL+ SPORT EVENT (7) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE RTL+ SPORT EVENT",DE: ----- RTL+ SPORT EVENT -----
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670911.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| ROTER STERN BELGRAD VS. OSC LILLE (2026-02-26 18:10:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670910.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| FERENCVAROS BUDAPEST VS. LUDOGORETS RAZGRAD (2026-02-26 18:10:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670909.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| SAMSUNSPOR VS. KF SHKENDIJA (2026-02-26 18:10:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670908.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| MATCHDAY-SHOW & KONFERENZ (2026-02-26 18:10:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670907.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| VIKTORIA PILSEN VS. PANATHINAIKOS ATHEN (2026-02-26 18:10:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670906.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| VFB STUTTGART VS. CELTIC GLASGOW (2026-02-26 18:25:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670905.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| NOTTINGHAM FOREST VS. FENERBAHCE ISTANBUL (2026-02-26 20:40:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670903.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| FC BOLOGNA VS. SK BRANN (2026-02-26 20:45:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670902.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| KRC GENK VS. DINAMO ZAGREB (2026-02-26 20:45:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670901.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| CELTA VIGO VS. PAOK THESSALONIKI (2026-02-26 20:45:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670900.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| CRYSTAL PALACE VS. ZRINJSKI MOSTAR (2026-02-26 20:45:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670899.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| AUSLOSUNG KO-PHASE (2026-02-27 12:50:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670898.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| FC LIVERPOOL VS. WEST HAM UNITED (2026-02-28 15:40:00)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670897.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| WOLVERHAMPTON WANDERERS VS. FC LIVERPOOL (2026-03-03 20:55:00)
@@ -10599,4 +10553,4 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282779.m3u8
 
-# Total: 5218
+# Total: 5195

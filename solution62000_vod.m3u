@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-02-28 07:10:34
+# Generated: 2026-02-28 18:33:35
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -1093,7 +1093,7 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5531.mp4
 
-# --- Movies | Films (1472) ---
+# --- Movies | Films (1473) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/npPywqfYehpHRPjKvegosZUUgYK.jpg" group-title="Movies | Films",Les invisibles (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/23334.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/suLZ1xT68LBBKo9tebHoJGFAP9L.jpg" group-title="Movies | Films",Clika (2026)
@@ -1126,6 +1126,8 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21982.mkv
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sxaMtiQLgUhMbvuSxNo5BZZ7EVs.jpg" group-title="Movies | Films",La Femme la plus riche du monde (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/23353.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/39DriTpvzihb8OYuL039IGPWNZ7.jpg" group-title="Movies | Films",Yoroï (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/23273.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9IT5WHl6Z011vRg8mjYKMSSRKGu.jpg" group-title="Movies | Films",H Is for Hawk (2025)
@@ -7499,4 +7501,4 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/990
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Vanished
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/991
 
-# Total: 3716
+# Total: 3717

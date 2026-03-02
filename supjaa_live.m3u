@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: supjaa.xyz
-# Generated: 2026-03-02 07:20:08
+# Generated: 2026-03-02 18:38:21
 # Expires: 2026-12-22
 # Family Safe Edition
 # ==============================================
@@ -722,9 +722,9 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/934.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/931.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/HADATH NEWS.png" group-title="AR | ARABIC NEWS",AR - AL ARABIYA AL HADATH HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/930.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ALARABYHD.png" group-title="AR | ARABIC NEWS",AR - AL ARABY HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/araby.png" group-title="AR | ARABIC NEWS",AR - AL ARABY HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/937.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ALARABYHD.png" group-title="AR | ARABIC NEWS",AR - AL ARABY 2 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/araby.png" group-title="AR | ARABIC NEWS",AR - AL ARABY 2 HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/283980.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AL GHAD HD.png" group-title="AR | ARABIC NEWS",AR - AL GHAD HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/915.m3u8
@@ -752,11 +752,11 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/141380.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/259616.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/NEWS%26FACTUAL/SKYNEWS.png" group-title="AR | ARABIC NEWS",AR - SKY NEWS ARABIA HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/933.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/TRT ARABIC.png" group-title="AR | ARABIC NEWS",AR - TRT ARABIC HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/rtarabic.png" group-title="AR | ARABIC NEWS",AR - TRT ARABIC HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/17706.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BBC ARABIC.png" group-title="AR | ARABIC NEWS",AR - BBC ARABIC HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/929.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/RT ARABIC.png" group-title="AR | ARABIC NEWS",AR - RT ARABIC HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/rtarabic.png" group-title="AR | ARABIC NEWS",AR - RT ARABIC HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/926.m3u8
 
 # --- AR | ARABIC SPORTS (23) ---
@@ -808,7 +808,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/79800.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/79801.m3u8
 
 # --- AR | ART (6) ---
-#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | ART",##### AR - ART #####
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/art0.png" group-title="AR | ART",##### AR - ART #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1306328.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ART_AFLAM1.png" group-title="AR | ART",AR - ART AFLAM 1 FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/984.m3u8
@@ -2086,60 +2086,60 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/63680.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762955.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ALOULAHD.png" group-title="AR | MOROCCO",MA - AL AOULA INTER FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762553.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ALOULAHD.png" group-title="AR | MOROCCO",MA - AL AOULA FHD ◉
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1057.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ALOULAHD.png" group-title="AR | MOROCCO",MA - AL AOULA FHD +6H
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/50351.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/2MMAROC.png" group-title="AR | MOROCCO",MA - 2M MAROC NATIONAL FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762104.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/2MMAROC.png" group-title="AR | MOROCCO",MA - 2M MAROC FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762074.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ALMAGHRIBIA.png" group-title="AR | MOROCCO",MA - AL MAGHRIBIA FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762546.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRABIA.png" group-title="AR | MOROCCO",MA - ARRABIAA FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762471.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ASSADISSA.png" group-title="AR | MOROCCO",MA - ASSADISSA FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ALMAGHRIBIA.png" group-title="AR | MOROCCO",MA - AL MAGHRIBIA FHD¹
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1049.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ASSADISSA.png" group-title="AR | MOROCCO",MA - ASSADISSA FHD ◉
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1048.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ASSADISSA.png" group-title="AR | MOROCCO",MA - ASSADISSA FHD¹
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762539.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ASSABIA.png" group-title="AR | MOROCCO",MA - ASSABIA FHD ◉
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1047.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRIADIA.png" group-title="AR | MOROCCO",MA - ARRYADIA FHD ◉
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762859.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRIADIA.png" group-title="AR | MOROCCO",MA - ARRYADIA 1 FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/954692.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/mbc55.png" group-title="AR | MOROCCO",MA - MBC 5 FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762950.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/TAMAZIGHT.png" group-title="AR | MOROCCO",MA - TV TAMAZIGHT FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762466.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/laayoun.gif" group-title="AR | MOROCCO",MA - LAAYOUNE TV FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762839.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ALOULAHD.png" group-title="AR | MOROCCO",MA - AL AOULA FHD ◉
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1057.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ALOULAHD.png" group-title="AR | MOROCCO",MA - AL AOULA FHD +6H
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/50351.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ALMAGHRIBIA.png" group-title="AR | MOROCCO",MA - AL MAGHRIBIA FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1049.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRABIA.png" group-title="AR | MOROCCO",MA - ARRABIA FHD +6
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/83191.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRABIA.png" group-title="AR | MOROCCO",MA - ARRABIA FHD ◉
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1050.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRABIA.png" group-title="AR | MOROCCO",MA - ARRABIAA FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRABIA.png" group-title="AR | MOROCCO",MA - ARRABIAA FHD¹
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762538.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ASSADISSA.png" group-title="AR | MOROCCO",MA - ASSADISSA FHD ◉
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1048.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ASSABIA.png" group-title="AR | MOROCCO",MA - ASSABIA FHD ◉
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1047.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRABIA.png" group-title="AR | MOROCCO",MA - ARRABIAA FHD²
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762471.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRABIA.png" group-title="AR | MOROCCO",MA - ARRABIA FHD +6
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/83191.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/mbc55.png" group-title="AR | MOROCCO",MA - MBC 5 FHD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/267764.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/mbc55.png" group-title="AR | MOROCCO",MA - MBC 5 FHD¹
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762950.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/TAMAZIGHT.png" group-title="AR | MOROCCO",MA - TAMAZIGHT FHD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1046.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/TAMAZIGHT.png" group-title="AR | MOROCCO",MA - TV TAMAZIGHT FHD¹
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762467.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/TAMAZIGHT.png" group-title="AR | MOROCCO",MA - TV TAMAZIGHT FHD²
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762466.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/laayoun.gif" group-title="AR | MOROCCO",MA - LAAYOUNE TV FHD ◉
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1053.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/laayoun.gif" group-title="AR | MOROCCO",MA - LAAYOUNE TV FHD¹
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762839.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/laayoun.gif" group-title="AR | MOROCCO",MA - LAAYOUNE TV FHD²
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/338269.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/MEDI1TVHD.png" group-title="AR | MOROCCO",MA - MEDI 1 MAGHREB FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1045.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/MEDI1TVHD.png" group-title="AR | MOROCCO",MA - MEDI 1 TV ARABIC FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/84309.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/MEDI1TVHD.png" group-title="AR | MOROCCO",MA - MEDI 1 TV AFRIQUE FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1055.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/mbc55.png" group-title="AR | MOROCCO",MA - MBC 5 FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/267764.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/CHADAFM.png" group-title="AR | MOROCCO",MA - CHADA FM FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/7174.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/laayoun.gif" group-title="AR | MOROCCO",MA - LAAYOUNE TV FHD ◉
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1053.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/laayoun.gif" group-title="AR | MOROCCO",MA - LAAYOUNE TV FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/338269.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/TAMAZIGHT.png" group-title="AR | MOROCCO",MA - TV TAMAZIGHT FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762467.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/TAMAZIGHT.png" group-title="AR | MOROCCO",MA - TAMAZIGHT FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1046.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/TELEMAROC.png" group-title="AR | MOROCCO",MA - TELE MAROC FHD ◉
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/79161.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/MAROC.png" group-title="AR | MOROCCO",##### MA - HEVC #####
@@ -2180,14 +2180,14 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762951.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762712.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/2MMAROC.png" group-title="AR | MOROCCO",MA - 2M MAROC SD ◉
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1052.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/2MMAROC.png" group-title="AR | MOROCCO",MA - 2M MAROC +6H
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/48894.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRIADIA.png" group-title="AR | MOROCCO",MA - ARRYADIA SD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762710.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRIADIA.png" group-title="AR | MOROCCO",MA - ARRYADIA 1 SD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/954691.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ASSADISSA.png" group-title="AR | MOROCCO",MA - ASSADISSA SD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762882.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/2MMAROC.png" group-title="AR | MOROCCO",MA - 2M MAROC +6H
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/48894.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/TELEMAROC.png" group-title="AR | MOROCCO",MA - TELE MAROC SD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1044.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ALONSTV-1.png" group-title="AR | MOROCCO",MA - AL ONS TV SD
@@ -2200,30 +2200,30 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/763652.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/14793.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ALOULAHD.png" group-title="AR | MOROCCO",MA - TNT AL Aoula FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/14794.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ALOULAHD.png" group-title="AR | MOROCCO",MA - TNT AL Aoula FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ALOULAHD.png" group-title="AR | MOROCCO",MA - TNT AL Aoula FHD¹
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/14795.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/2MMAROC.png" group-title="AR | MOROCCO",MA - TNT 2M MAROC FHD ◉
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/14792.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ALMAGHRIBIA.png" group-title="AR | MOROCCO",MA - TNT AL MAGHRIBIA FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/14789.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRABIA.png" group-title="AR | MOROCCO",MA - TNT ARRABIA FHD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/14790.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRABIA.png" group-title="AR | MOROCCO",MA - TNT ARRABIAA FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762537.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ASSADISSA.png" group-title="AR | MOROCCO",MA - TNT ASSADISSA FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/49719.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ASSADISSA.png" group-title="AR | MOROCCO",MA - TNT ASSADISSA FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/14788.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRIADIA.png" group-title="AR | MOROCCO",MA - TNT ARRYADIA FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762869.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRIADIA.png" group-title="AR | MOROCCO",MA - TNT ARRIADIA FHD ◉
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/14791.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/MEDI1TVHD.png" group-title="AR | MOROCCO",MA - TNT MEDI 1 TV FHD ◉
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/14785.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ASSADISSA.png" group-title="AR | MOROCCO",MA - TNT ASSADISSA FHD¹
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/49719.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ASSABIA.png" group-title="AR | MOROCCO",MA - TNT ASSABIA FHD ◉
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/14787.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRIADIA.png" group-title="AR | MOROCCO",MA - TNT ARRIADIA FHD ◉
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/14791.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRIADIA.png" group-title="AR | MOROCCO",MA - TNT ARRYADIA FHD¹
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/762869.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/MEDI1TVHD.png" group-title="AR | MOROCCO",MA - TNT MEDI 1 TV FHD ◉
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/14785.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/TAMAZIGHT.png" group-title="AR | MOROCCO",MA - TNT TAMAZIGHT FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/14786.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MOROCCO/ARRABIA.png" group-title="AR | MOROCCO",MA - TNT ARRABIA FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/14790.m3u8
 
 # --- AR | MYHD PREMIUM (63) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MY-HD/MYHD-PREMIUM.png" group-title="AR | MYHD PREMIUM",##### AR - FHD QUALITY #####
@@ -11846,11 +11846,11 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1287084.m3u8
 # --- VIP | BUNDESLIGA (40) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/FLAGS/flag_germany.png" group-title="VIP | BUNDESLIGA",##### DEUTSCH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1017979.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - STUTTGART - WOLFSBURG 15:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100768.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - EINTRACHT FRANKFURT - FREIBURG 17:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100767.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - HAMBURGER SV - RB LEIPZIG 19:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1042307.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1017985.m3u8
@@ -11866,11 +11866,11 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1017981.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1017982.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | BUNDESLIGA",##### ENGLISH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1017972.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - STUTTGART - WOLFSBURG 15:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100762.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - EINTRACHT FRANKFURT - FREIBURG 17:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100761.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - HAMBURGER SV - RB LEIPZIG 19:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1042308.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1017978.m3u8
@@ -11886,11 +11886,11 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1017974.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1017975.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | BUNDESLIGA",##### FRENCH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1017965.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - STUTTGART - WOLFSBURG 15:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100764.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - EINTRACHT FRANKFURT - FREIBURG 17:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100763.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - HAMBURGER SV - RB LEIPZIG 19:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1067573.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1029741.m3u8
@@ -11906,11 +11906,11 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1029737.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1029738.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | BUNDESLIGA",##### ARABIC #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1005066.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - STUTTGART - WOLFSBURG 15:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100766.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - EINTRACHT FRANKFURT - FREIBURG 17:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100765.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - HAMBURGER SV - RB LEIPZIG 19:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1042306.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033762.m3u8
@@ -12180,14 +12180,14 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024487.m3u8
 # --- VIP | LA LIGA (56) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | LA LIGA",##### FRENCH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015817.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - ELCHE - ESPANYOL 14:00 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1117244.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - VALENCIA - OSASUNA 16:15 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100783.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - REAL BETIS - SEVILLA 18:30 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100776.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - GIRONA - CELTA DE VIGO 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - REAL MADRID VS GETAFE 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100775.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1117244.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100783.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100776.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015819.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - NO MATCH
@@ -12206,14 +12206,14 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015823.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033738.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | LA LIGA",##### ENGLISH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015824.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - ELCHE - ESPANYOL 14:00 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1001784.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - VALENCIA - OSASUNA 16:15 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1117243.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - REAL BETIS - SEVILLA 18:30 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100784.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - GIRONA - CELTA DE VIGO 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - REAL MADRID VS GETAFE 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100774.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1001784.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1117243.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100784.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100772.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - NO MATCH
@@ -12234,14 +12234,14 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015830.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015829.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | LA LIGA",##### ARABIC #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015831.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - ELCHE - ESPANYOL 14:00 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100782.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - VALENCIA - OSASUNA 16:15 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100778.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - REAL BETIS - SEVILLA 18:30 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100777.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - GIRONA - CELTA DE VIGO 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - REAL MADRID VS GETAFE 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033758.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100782.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100778.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100777.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033362.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - NO MATCH
@@ -12252,14 +12252,14 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015836.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015837.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="VIP | LA LIGA",##### SPAIN #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033317.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - ELCHE - ESPANYOL 14:00 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1117245.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - VALENCIA - OSASUNA 16:15 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100781.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - REAL BETIS - SEVILLA 18:30 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100780.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - GIRONA - CELTA DE VIGO 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - REAL MADRID VS GETAFE 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100779.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1117245.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100781.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100780.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015832.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - NO MATCH
@@ -12274,14 +12274,14 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033357.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1033785.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="VIP | LA LIGA",##### ALBANIA #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1145824.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - ELCHE - ESPANYOL 14:00 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015818.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - VALENCIA - OSASUNA 16:15 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1145838.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - REAL BETIS - SEVILLA 18:30 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1117242.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - GIRONA - CELTA DE VIGO 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - REAL MADRID VS GETAFE 21:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1086615.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015818.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1145838.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1117242.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015834.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - NO MATCH

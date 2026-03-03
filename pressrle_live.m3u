@@ -1,8 +1,8 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pressrle.lat
-# Generated: 2025-12-10 07:04:20
-# Expires: 2025-12-23
+# Generated: 2026-03-03 07:29:19
+# Expires: 2026-03-24
 # Family Safe Edition
 # ==============================================
 
@@ -251,7 +251,7 @@ http://pressrle.lat/live/52145784/453930/532327.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWnS4GhPhppLXBEGFZbvz2tTCoywpP9Zqt7w&s" group-title="CANAIS | 4K",LOVE NATURE UHD
 http://pressrle.lat/live/52145784/453930/3457807.m3u8
 
-# --- CANAIS | ABERTOS (70) ---
+# --- CANAIS | ABERTOS (71) ---
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Mipt1zNcitz8E-tIZQpcS7PnaWGJdDzAFhVeHnRKF9S9jU6UL9X_Yo2Vze7pw339oOc" group-title="CANAIS | ABERTOS",AGROPLUS HD
 http://pressrle.lat/live/52145784/453930/1993225.m3u8
 #EXTINF:-1 tvg-logo="https://www.gruporedeamazonica.com.br/files/amazonsat/AMAZON-SAT-01.png" group-title="CANAIS | ABERTOS",AMAZON SAT HD
@@ -260,6 +260,8 @@ http://pressrle.lat/live/52145784/453930/500656.m3u8
 http://pressrle.lat/live/52145784/453930/3473164.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s76652_ll_h3_aa.png" group-title="CANAIS | ABERTOS",BAND AMAZONAS HD
 http://pressrle.lat/live/52145784/453930/3473165.m3u8
+#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s76652_ll_h3_aa.png" group-title="CANAIS | ABERTOS",BAND AMAZONAS HD
+http://pressrle.lat/live/52145784/453930/3505538.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s76133_ll_h3_aa.png" group-title="CANAIS | ABERTOS",BAND BAHIA HD
 http://pressrle.lat/live/52145784/453930/531805.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s41309_ll_h3_ab.png" group-title="CANAIS | ABERTOS",BAND CEARA HD
@@ -599,21 +601,39 @@ http://pressrle.lat/live/52145784/453930/2004704.m3u8
 #EXTINF:-1 tvg-logo="https://agendaesportiva.com.br/lib/img/portal/logo/6/icone-titulo.png" group-title="CANAIS | ESPORTES DO DIA",AGENDA ESPORTIVA
 http://pressrle.lat/live/52145784/453930/765865.m3u8
 
-# --- CANAIS | ESPORTES ESTADUAIS (4) ---
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.wasabisys.com/odiario/2024/09/CopaPaulista_Site_1-761x682-1.png" group-title="CANAIS | ESPORTES ESTADUAIS",COPA PAULISTA 01 HD
-http://pressrle.lat/live/52145784/453930/1993610.m3u8
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.wasabisys.com/odiario/2024/09/CopaPaulista_Site_1-761x682-1.png" group-title="CANAIS | ESPORTES ESTADUAIS",COPA PAULISTA 02 HD
-http://pressrle.lat/live/52145784/453930/1993613.m3u8
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.wasabisys.com/odiario/2024/09/CopaPaulista_Site_1-761x682-1.png" group-title="CANAIS | ESPORTES ESTADUAIS",COPA PAULISTA 03 HD
-http://pressrle.lat/live/52145784/453930/1993612.m3u8
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.wasabisys.com/odiario/2024/09/CopaPaulista_Site_1-761x682-1.png" group-title="CANAIS | ESPORTES ESTADUAIS",COPA PAULISTA 04 HD
-http://pressrle.lat/live/52145784/453930/1993611.m3u8
+# --- CANAIS | ESPORTES ESTADUAIS (12) ---
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1RK6AKQBip0e-Wtrt0C5xQT9NY_1LS5fdSg&s" group-title="CANAIS | ESPORTES ESTADUAIS",COPINHA SP HD 01
+http://pressrle.lat/live/52145784/453930/3484673.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1RK6AKQBip0e-Wtrt0C5xQT9NY_1LS5fdSg&s" group-title="CANAIS | ESPORTES ESTADUAIS",COPINHA SP HD 02
+http://pressrle.lat/live/52145784/453930/3484674.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1RK6AKQBip0e-Wtrt0C5xQT9NY_1LS5fdSg&s" group-title="CANAIS | ESPORTES ESTADUAIS",COPINHA SP HD 03
+http://pressrle.lat/live/52145784/453930/3484675.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1RK6AKQBip0e-Wtrt0C5xQT9NY_1LS5fdSg&s" group-title="CANAIS | ESPORTES ESTADUAIS",COPINHA SP HD 04
+http://pressrle.lat/live/52145784/453930/3484676.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1RK6AKQBip0e-Wtrt0C5xQT9NY_1LS5fdSg&s" group-title="CANAIS | ESPORTES ESTADUAIS",COPINHA SP HD 05
+http://pressrle.lat/live/52145784/453930/3484677.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1RK6AKQBip0e-Wtrt0C5xQT9NY_1LS5fdSg&s" group-title="CANAIS | ESPORTES ESTADUAIS",COPINHA SP HD 06
+http://pressrle.lat/live/52145784/453930/3484678.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1RK6AKQBip0e-Wtrt0C5xQT9NY_1LS5fdSg&s" group-title="CANAIS | ESPORTES ESTADUAIS",COPINHA SP HD 07
+http://pressrle.lat/live/52145784/453930/3484679.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1RK6AKQBip0e-Wtrt0C5xQT9NY_1LS5fdSg&s" group-title="CANAIS | ESPORTES ESTADUAIS",COPINHA SP HD 08
+http://pressrle.lat/live/52145784/453930/3484680.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1RK6AKQBip0e-Wtrt0C5xQT9NY_1LS5fdSg&s" group-title="CANAIS | ESPORTES ESTADUAIS",COPINHA SP HD 09
+http://pressrle.lat/live/52145784/453930/3484681.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1RK6AKQBip0e-Wtrt0C5xQT9NY_1LS5fdSg&s" group-title="CANAIS | ESPORTES ESTADUAIS",COPINHA SP HD 10
+http://pressrle.lat/live/52145784/453930/3484682.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1RK6AKQBip0e-Wtrt0C5xQT9NY_1LS5fdSg&s" group-title="CANAIS | ESPORTES ESTADUAIS",COPINHA SP HD 11
+http://pressrle.lat/live/52145784/453930/3484683.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1RK6AKQBip0e-Wtrt0C5xQT9NY_1LS5fdSg&s" group-title="CANAIS | ESPORTES ESTADUAIS",COPINHA SP HD 12
+http://pressrle.lat/live/52145784/453930/3484684.m3u8
 
-# --- CANAIS | FILMES E SÉRIES (65) ---
+# --- CANAIS | FILMES E SÉRIES (64) ---
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s16268_ll_h3_aa.png" group-title="CANAIS | FILMES E SÉRIES",A&E HD
 http://pressrle.lat/live/52145784/453930/765085.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s92009_ll_h3_aa.png" group-title="CANAIS | FILMES E SÉRIES",AMC HD
 http://pressrle.lat/live/52145784/453930/762015.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiezHxoTjB_1EaW2Ksf8N6rBV7t69rH4gQc_SwR6VhjGp0mErCVCSQVofznNQu9K5E04UXhRfGU3M73n4ZE_LQMiJ6F_306YrpSNzavdmN5pIts-fnax6HhHkCpk9794x2BigdKTbKo6xo7WsiPDewh9KCb4t6XWGMuavF1BD2MwOPwYsa4sfJOSeyi/w1600/amc-series-chega-ao-brasil-novo-canal-da-amc-networks-estreia-em-janeiro-na-sky.jpg" group-title="CANAIS | FILMES E SÉRIES",AMC SERIES HD
+http://pressrle.lat/live/52145784/453930/3505537.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s16439_ll_h3_aa.png" group-title="CANAIS | FILMES E SÉRIES",AXN HD
 http://pressrle.lat/live/52145784/453930/765088.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s104743_ll_h3_aa.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD
@@ -640,8 +660,6 @@ http://pressrle.lat/live/52145784/453930/1993218.m3u8
 http://pressrle.lat/live/52145784/453930/1993220.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s75591_ll_h3_aa.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX HD
 http://pressrle.lat/live/52145784/453930/1572.m3u8
-#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s94356_ll_h3_ac.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL HD
-http://pressrle.lat/live/52145784/453930/1582.m3u8
 #EXTINF:-1 tvg-logo="http://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60" group-title="CANAIS | FILMES E SÉRIES",RUNTIME ACAO HD
 http://pressrle.lat/live/52145784/453930/874696.m3u8
 #EXTINF:-1 tvg-logo="http://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60" group-title="CANAIS | FILMES E SÉRIES",RUNTIME CINE ESPANTO HD
@@ -716,8 +734,6 @@ http://pressrle.lat/live/52145784/453930/765089.m3u8
 http://pressrle.lat/live/52145784/453930/339234.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s75591_ll_h3_aa.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX FHD H265
 http://pressrle.lat/live/52145784/453930/339236.m3u8
-#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s94356_ll_h3_ac.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL FHD H265
-http://pressrle.lat/live/52145784/453930/339237.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s16212_ll_h3_ab.png" group-title="CANAIS | FILMES E SÉRIES",SONY FHD H265
 http://pressrle.lat/live/52145784/453930/339233.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/sonymovies.png" group-title="CANAIS | FILMES E SÉRIES",SONY MOVIES FHD H265
@@ -1105,7 +1121,7 @@ http://pressrle.lat/live/52145784/453930/339391.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/hboxtreme.png" group-title="CANAIS | HBO",HBO XTREME FHD H265
 http://pressrle.lat/live/52145784/453930/339392.m3u8
 
-# --- CANAIS | INFANTIS (21) ---
+# --- CANAIS | INFANTIS (17) ---
 #EXTINF:-1 tvg-logo="https://avatars.akamai.steamstatic.com/f4ed099a1830b3c946af080657bc6eef0f844481_full.jpg" group-title="CANAIS | INFANTIS",ANIME TV HD
 http://pressrle.lat/live/52145784/453930/500657.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s16142_ll_h3_aa.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
@@ -1122,10 +1138,6 @@ http://pressrle.lat/live/52145784/453930/1618.m3u8
 http://pressrle.lat/live/52145784/453930/1558.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s105759_ll_h3_aa.png" group-title="CANAIS | INFANTIS",GLOOBINHO HD
 http://pressrle.lat/live/52145784/453930/15461.m3u8
-#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s78242_ll_h3_aa.png" group-title="CANAIS | INFANTIS",NICK JR HD
-http://pressrle.lat/live/52145784/453930/1579.m3u8
-#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s16708_ll_h3_aa.png" group-title="CANAIS | INFANTIS",NICKELODEON HD
-http://pressrle.lat/live/52145784/453930/1580.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s83240_ll_h3_aa.png" group-title="CANAIS | INFANTIS",TOONCAST HD
 http://pressrle.lat/live/52145784/453930/1612.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/tvratimbum.png" group-title="CANAIS | INFANTIS",TV RA TIM BUM HD
@@ -1140,10 +1152,6 @@ http://pressrle.lat/live/52145784/453930/339376.m3u8
 http://pressrle.lat/live/52145784/453930/339380.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s105759_ll_h3_aa.png" group-title="CANAIS | INFANTIS",GLOOBINHO FHD H265
 http://pressrle.lat/live/52145784/453930/339381.m3u8
-#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s78242_ll_h3_aa.png" group-title="CANAIS | INFANTIS",NICK JR FHD H265
-http://pressrle.lat/live/52145784/453930/1675.m3u8
-#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s16708_ll_h3_aa.png" group-title="CANAIS | INFANTIS",NICKELODEON FHD H265
-http://pressrle.lat/live/52145784/453930/339382.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s83240_ll_h3_aa.png" group-title="CANAIS | INFANTIS",TOONCAST FHD H265
 http://pressrle.lat/live/52145784/453930/18712.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/tvratimbum.png" group-title="CANAIS | INFANTIS",TV RA TIM BUM FHD H265
@@ -1171,17 +1179,11 @@ http://pressrle.lat/live/52145784/453930/533845.m3u8
 #EXTINF:-1 tvg-logo="https://www.fontedecanais.app/logos/canais/max.png" group-title="CANAIS | MAX",HBO MAX 10 HD
 http://pressrle.lat/live/52145784/453930/533846.m3u8
 
-# --- CANAIS | MÚSICAS (57) ---
+# --- CANAIS | MÚSICAS (51) ---
 #EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/bis.png" group-title="CANAIS | MÚSICAS",BIS HD
 http://pressrle.lat/live/52145784/453930/1515.m3u8
 #EXTINF:-1 tvg-logo="https://thumbnail.imgbin.com/16/2/0/kpop-kpop-heart-hand-sign-logo-7Ept5JEd_t.jpg" group-title="CANAIS | MÚSICAS",K-POP HD
 http://pressrle.lat/live/52145784/453930/3457826.m3u8
-#EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/mtv.png" group-title="CANAIS | MÚSICAS",MTV '00 HD
-http://pressrle.lat/live/52145784/453930/393969.m3u8
-#EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/mtv.png" group-title="CANAIS | MÚSICAS",MTV HD
-http://pressrle.lat/live/52145784/453930/1573.m3u8
-#EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/mtvlive.png" group-title="CANAIS | MÚSICAS",MTV LIVE HD
-http://pressrle.lat/live/52145784/453930/393982.m3u8
 #EXTINF:-1 tvg-logo="https://boxbrazil.tv.br/assets/images/logos/music-logo.png" group-title="CANAIS | MÚSICAS",MUSIC BOX BRAZIL HD
 http://pressrle.lat/live/52145784/453930/1451.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBtROCXRFR7edGZWD3JcWPUF2c3G4IgFqDV2ReFvkQ9ycpSEoiPUYd8L96EYHFLzAS0M&usqp=CAU" group-title="CANAIS | MÚSICAS",MUSIC TOP HD
@@ -1276,18 +1278,12 @@ http://pressrle.lat/live/52145784/453930/3444746.m3u8
 http://pressrle.lat/live/52145784/453930/3444747.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/bis.png" group-title="CANAIS | MÚSICAS",BIS FHD H265
 http://pressrle.lat/live/52145784/453930/339399.m3u8
-#EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/mtv.png" group-title="CANAIS | MÚSICAS",MTV '00 FHD H265
-http://pressrle.lat/live/52145784/453930/393968.m3u8
-#EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/mtv.png" group-title="CANAIS | MÚSICAS",MTV FHD H265
-http://pressrle.lat/live/52145784/453930/339398.m3u8
-#EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/mtvlive.png" group-title="CANAIS | MÚSICAS",MTV LIVE FHD H265
-http://pressrle.lat/live/52145784/453930/393981.m3u8
 #EXTINF:-1 tvg-logo="https://boxbrazil.tv.br/assets/images/logos/music-logo.png" group-title="CANAIS | MÚSICAS",MUSIC BOX BRAZIL FHD H265
 http://pressrle.lat/live/52145784/453930/339395.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_prime-box-brazil_m.png" group-title="CANAIS | MÚSICAS",PRIME BOX BRASIL FHD H265
 http://pressrle.lat/live/52145784/453930/339396.m3u8
 
-# --- CANAIS | NOTÍCIAS (22) ---
+# --- CANAIS | NOTÍCIAS (23) ---
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s54679_ll_h3_ab.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
 http://pressrle.lat/live/52145784/453930/1512.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s53168_ll_h3_ac.png" group-title="CANAIS | NOTÍCIAS",BLOOMBERG HD
@@ -1316,6 +1312,8 @@ http://pressrle.lat/live/52145784/453930/352367.m3u8
 http://pressrle.lat/live/52145784/453930/367428.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s38709_ll_h3_aa.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD
 http://pressrle.lat/live/52145784/453930/1589.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YEUbAtkHsLYeG89429sGIl9cnPzCpzvWC-AuqFDkW82PxhoKWtQKraZqtl2Uyn-i-AWS4QkM=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | NOTÍCIAS",SBT NEWS HD
+http://pressrle.lat/live/52145784/453930/3479410.m3u8
 #EXTINF:-1 tvg-logo="http://tm.ibxk.com.br/2012/6/materias/3741586851316426.jpg" group-title="CANAIS | NOTÍCIAS",TIMES CNBC BRASIL HD
 http://pressrle.lat/live/52145784/453930/879625.m3u8
 #EXTINF:-1 tvg-logo="https://tvdnews.com.br/wp-content/uploads/2024/08/logo-tvd.png" group-title="CANAIS | NOTÍCIAS",TVD NEWS HD
@@ -1817,21 +1815,33 @@ http://pressrle.lat/live/52145784/453930/1913125.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 9 HD
 http://pressrle.lat/live/52145784/453930/1913126.m3u8
 
-# --- CANAIS | REALITIES (6) ---
-#EXTINF:-1 tvg-logo="https://uploads.metroimg.com/wp-content/uploads/2025/07/01073008/1-3070.jpg" group-title="CANAIS | REALITIES",A FAZENDA 01 HD
-http://pressrle.lat/live/52145784/453930/3147035.m3u8
-#EXTINF:-1 tvg-logo="https://uploads.metroimg.com/wp-content/uploads/2025/07/01073008/1-3070.jpg" group-title="CANAIS | REALITIES",A FAZENDA 02 HD
-http://pressrle.lat/live/52145784/453930/3147036.m3u8
-#EXTINF:-1 tvg-logo="https://uploads.metroimg.com/wp-content/uploads/2025/07/01073008/1-3070.jpg" group-title="CANAIS | REALITIES",A FAZENDA 03 HD
-http://pressrle.lat/live/52145784/453930/3147037.m3u8
-#EXTINF:-1 tvg-logo="https://uploads.metroimg.com/wp-content/uploads/2025/07/01073008/1-3070.jpg" group-title="CANAIS | REALITIES",A FAZENDA 04 HD
-http://pressrle.lat/live/52145784/453930/3147038.m3u8
-#EXTINF:-1 tvg-logo="https://uploads.metroimg.com/wp-content/uploads/2025/07/01073008/1-3070.jpg" group-title="CANAIS | REALITIES",A FAZENDA 05 HD
-http://pressrle.lat/live/52145784/453930/3147039.m3u8
-#EXTINF:-1 tvg-logo="https://uploads.metroimg.com/wp-content/uploads/2025/07/01073008/1-3070.jpg" group-title="CANAIS | REALITIES",A FAZENDA 06 HD
-http://pressrle.lat/live/52145784/453930/3147040.m3u8
+# --- CANAIS | REALITIES (12) ---
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQF2-bIC6sSJbaro5g4TdLgNLK9OEAGHY8Q&s" group-title="CANAIS | REALITIES",BBB26 -  ACOMPANHE A CASA 02 HD
+http://pressrle.lat/live/52145784/453930/3490127.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQF2-bIC6sSJbaro5g4TdLgNLK9OEAGHY8Q&s" group-title="CANAIS | REALITIES",BBB26 - ACADEMIA NIVEA HD
+http://pressrle.lat/live/52145784/453930/3490136.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQF2-bIC6sSJbaro5g4TdLgNLK9OEAGHY8Q&s" group-title="CANAIS | REALITIES",BBB26 - ACOMPANHE A CASA 01 HD
+http://pressrle.lat/live/52145784/453930/3490126.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQF2-bIC6sSJbaro5g4TdLgNLK9OEAGHY8Q&s" group-title="CANAIS | REALITIES",BBB26 - BANHEIRO SUPER CIMED HD
+http://pressrle.lat/live/52145784/453930/3490133.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQF2-bIC6sSJbaro5g4TdLgNLK9OEAGHY8Q&s" group-title="CANAIS | REALITIES",BBB26 - COZINHA 02 HD
+http://pressrle.lat/live/52145784/453930/3490132.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQF2-bIC6sSJbaro5g4TdLgNLK9OEAGHY8Q&s" group-title="CANAIS | REALITIES",BBB26 - COZINHA HD
+http://pressrle.lat/live/52145784/453930/3490128.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQF2-bIC6sSJbaro5g4TdLgNLK9OEAGHY8Q&s" group-title="CANAIS | REALITIES",BBB26 - MOSAICO HD
+http://pressrle.lat/live/52145784/453930/3490125.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQF2-bIC6sSJbaro5g4TdLgNLK9OEAGHY8Q&s" group-title="CANAIS | REALITIES",BBB26 - PISCINA HD
+http://pressrle.lat/live/52145784/453930/3490135.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQF2-bIC6sSJbaro5g4TdLgNLK9OEAGHY8Q&s" group-title="CANAIS | REALITIES",BBB26 - QUARTO SONHO DE ETERNIDADE HD
+http://pressrle.lat/live/52145784/453930/3490129.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQF2-bIC6sSJbaro5g4TdLgNLK9OEAGHY8Q&s" group-title="CANAIS | REALITIES",BBB26 - QUARTO SONHO DE VOAR HD
+http://pressrle.lat/live/52145784/453930/3490130.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQF2-bIC6sSJbaro5g4TdLgNLK9OEAGHY8Q&s" group-title="CANAIS | REALITIES",BBB26 - QUARTO SONHO DO GRANDE AMOR HD
+http://pressrle.lat/live/52145784/453930/3490131.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQF2-bIC6sSJbaro5g4TdLgNLK9OEAGHY8Q&s" group-title="CANAIS | REALITIES",BBB26 - SALA SONHO DE SER MILIONARIO HD
+http://pressrle.lat/live/52145784/453930/3490134.m3u8
 
-# --- CANAIS | RECORD (56) ---
+# --- CANAIS | RECORD (58) ---
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s41479_ll_h3_aa.png" group-title="CANAIS | RECORD",RECORD ACRE HD
 http://pressrle.lat/live/52145784/453930/3473171.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s104274_ll_h3_aa.png" group-title="CANAIS | RECORD",RECORD ATALAIA SERGIPE HD
@@ -1846,6 +1856,8 @@ http://pressrle.lat/live/52145784/453930/339446.m3u8
 http://pressrle.lat/live/52145784/453930/531800.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s78319_ll_h3_aa.png" group-title="CANAIS | RECORD",RECORD BRASILIA HD
 http://pressrle.lat/live/52145784/453930/19063.m3u8
+#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s41479_ll_h3_aa.png" group-title="CANAIS | RECORD",RECORD CASCAVEL HD
+http://pressrle.lat/live/52145784/453930/3505541.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s41479_ll_h3_aa.png" group-title="CANAIS | RECORD",RECORD CHAPECO HD
 http://pressrle.lat/live/52145784/453930/3457856.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s41479_ll_h3_aa.png" group-title="CANAIS | RECORD",RECORD ES HD
@@ -1874,6 +1886,8 @@ http://pressrle.lat/live/52145784/453930/1993222.m3u8
 http://pressrle.lat/live/52145784/453930/339450.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s41479_ll_h3_aa.png" group-title="CANAIS | RECORD",RECORD MARANHAO HD
 http://pressrle.lat/live/52145784/453930/3473173.m3u8
+#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s41479_ll_h3_aa.png" group-title="CANAIS | RECORD",RECORD MARINGA HD
+http://pressrle.lat/live/52145784/453930/3568947.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s41479_ll_h3_aa.png" group-title="CANAIS | RECORD",RECORD MT DO SUL HD
 http://pressrle.lat/live/52145784/453930/3473172.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s41479_ll_h3_aa.png" group-title="CANAIS | RECORD",RECORD NORDESTE HD
@@ -1989,7 +2003,7 @@ http://pressrle.lat/live/52145784/453930/6454.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/tvpaieterno.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO HD
 http://pressrle.lat/live/52145784/453930/339485.m3u8
 
-# --- CANAIS | RÁDIOS (177) ---
+# --- CANAIS | RÁDIOS (163) ---
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",24 Horas Rdio
 http://pressrle.lat/live/52145784/453930/512553.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",91 Rock
@@ -2002,18 +2016,10 @@ http://pressrle.lat/live/52145784/453930/512566.m3u8
 http://pressrle.lat/live/52145784/453930/512572.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",99 FM Sentinela
 http://pressrle.lat/live/52145784/453930/512577.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",99FM
-http://pressrle.lat/live/52145784/453930/512579.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Alfa e mega
-http://pressrle.lat/live/52145784/453930/512599.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Alternativa Webrdio
-http://pressrle.lat/live/52145784/453930/512610.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Alvorada FM
 http://pressrle.lat/live/52145784/453930/512619.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Amazon Gospel
 http://pressrle.lat/live/52145784/453930/512624.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Amor e Saudade
-http://pressrle.lat/live/52145784/453930/512634.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Antena 1 gospel
 http://pressrle.lat/live/52145784/453930/512642.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Antena Zero
@@ -2034,8 +2040,6 @@ http://pressrle.lat/live/52145784/453930/512716.m3u8
 http://pressrle.lat/live/52145784/453930/512718.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Batucada
 http://pressrle.lat/live/52145784/453930/512729.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Biblica Gospel FM
-http://pressrle.lat/live/52145784/453930/512742.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Biz WEB Rdio
 http://pressrle.lat/live/52145784/453930/512746.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",BLINK 102 FM
@@ -2066,8 +2070,6 @@ http://pressrle.lat/live/52145784/453930/512865.m3u8
 http://pressrle.lat/live/52145784/453930/512870.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Dance Music 90
 http://pressrle.lat/live/52145784/453930/512889.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Dinmica Gospel
-http://pressrle.lat/live/52145784/453930/512908.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Disco 80
 http://pressrle.lat/live/52145784/453930/512910.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",DJP Informatica
@@ -2080,8 +2082,6 @@ http://pressrle.lat/live/52145784/453930/413521.m3u8
 http://pressrle.lat/live/52145784/453930/512928.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Efraim Gospel
 http://pressrle.lat/live/52145784/453930/512930.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Elo Gospel
-http://pressrle.lat/live/52145784/453930/512935.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Energia FM
 http://pressrle.lat/live/52145784/453930/512941.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Escuta Area WEB Rdio
@@ -2124,14 +2124,8 @@ http://pressrle.lat/live/52145784/453930/513046.m3u8
 http://pressrle.lat/live/52145784/453930/513075.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",GK Music
 http://pressrle.lat/live/52145784/453930/513076.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Grande Rio FM
-http://pressrle.lat/live/52145784/453930/513087.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Granja Web Rdio
-http://pressrle.lat/live/52145784/453930/513088.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Grao Para 88 FM
 http://pressrle.lat/live/52145784/453930/513089.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",GrooveMix
-http://pressrle.lat/live/52145784/453930/513093.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Heavy Metal Ears Radio
 http://pressrle.lat/live/52145784/453930/513104.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Hits FM
@@ -2210,14 +2204,10 @@ http://pressrle.lat/live/52145784/453930/513312.m3u8
 http://pressrle.lat/live/52145784/453930/513327.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Multisom Ubaense 1240 AM
 http://pressrle.lat/live/52145784/453930/513335.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Nativa FM 1027
-http://pressrle.lat/live/52145784/453930/513353.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Nossa Rdio Pacaraima FM
 http://pressrle.lat/live/52145784/453930/513375.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Nova Brasil FM
 http://pressrle.lat/live/52145784/453930/513382.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Nova Melodia 1075FM
-http://pressrle.lat/live/52145784/453930/513390.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Novo Dia FM
 http://pressrle.lat/live/52145784/453930/513405.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Opo FM
@@ -2244,16 +2234,12 @@ http://pressrle.lat/live/52145784/453930/513481.m3u8
 http://pressrle.lat/live/52145784/453930/513483.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Portal Cristo do Brasil
 http://pressrle.lat/live/52145784/453930/513487.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Portal WEB Gospel
-http://pressrle.lat/live/52145784/453930/513491.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Quissam FM
 http://pressrle.lat/live/52145784/453930/513517.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Quissama FM
 http://pressrle.lat/live/52145784/453930/513518.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Radio 80s Best 1
 http://pressrle.lat/live/52145784/453930/513571.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Radio 887 FM
-http://pressrle.lat/live/52145784/453930/513578.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Radio 957 FM
 http://pressrle.lat/live/52145784/453930/513597.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Radio Amigos do Sertanejo
@@ -2345,13 +2331,15 @@ http://pressrle.lat/live/52145784/453930/514049.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/411/470/png-transparent-red-headphones-mike-music-radio-logo-music-radio-music-radio-station.png" group-title="CANAIS | RÁDIOS",Sertaneja FM 106.7 Ribeirao Preto SP
 http://pressrle.lat/live/52145784/453930/364827.m3u8
 
-# --- CANAIS | SBT (28) ---
+# --- CANAIS | SBT (31) ---
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2024/08/25/224281876-mais-sbt.jpg" group-title="CANAIS | SBT",+SBT NOVELAS HD
 http://pressrle.lat/live/52145784/453930/791204.m3u8
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2024/08/25/224281876-mais-sbt.jpg" group-title="CANAIS | SBT",+SBT SILVIO SANTOS HD
 http://pressrle.lat/live/52145784/453930/791200.m3u8
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2024/08/25/224281876-mais-sbt.jpg" group-title="CANAIS | SBT",+SBT TV ZYN HD
 http://pressrle.lat/live/52145784/453930/791199.m3u8
+#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s76206_ll_h3_aa.png" group-title="CANAIS | SBT",SBT ALTEROSA LESTE HD
+http://pressrle.lat/live/52145784/453930/3505539.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s76212_ll_h3_aa.png" group-title="CANAIS | SBT",SBT AMAZONAS HD
 http://pressrle.lat/live/52145784/453930/3457857.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s104735_ll_h3_aa.png" group-title="CANAIS | SBT",SBT ARATU HD
@@ -2388,8 +2376,12 @@ http://pressrle.lat/live/52145784/453930/339488.m3u8
 http://pressrle.lat/live/52145784/453930/1951811.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s76564_ll_h3_aa.png" group-title="CANAIS | SBT",SBT TV TAMBAU PARAIBA HD
 http://pressrle.lat/live/52145784/453930/432264.m3u8
+#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s76206_ll_h3_aa.png" group-title="CANAIS | SBT",SBT ALTEROSA SUL DE MINAS FHD
+http://pressrle.lat/live/52145784/453930/3505540.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s104735_ll_h3_aa.png" group-title="CANAIS | SBT",SBT ARATU FHD H265
 http://pressrle.lat/live/52145784/453930/388504.m3u8
+#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s76212_ll_h3_aa.png" group-title="CANAIS | SBT",SBT MARINGA FHD
+http://pressrle.lat/live/52145784/453930/3568948.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s76213_ll_h3_aa.png" group-title="CANAIS | SBT",SBT RIO FHD H265
 http://pressrle.lat/live/52145784/453930/388507.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s76212_ll_h3_aa.png" group-title="CANAIS | SBT",SBT RS FHD H265
@@ -2403,21 +2395,11 @@ http://pressrle.lat/live/52145784/453930/339467.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s78513_ll_h3_aa.png" group-title="CANAIS | SBT",SBT TV JANGADEIRO CEARA FHD H265
 http://pressrle.lat/live/52145784/453930/339469.m3u8
 
-# --- CANAIS | SPORTV (11) ---
+# --- CANAIS | SPORTV (6) ---
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s56104_ll_h3_aa.png" group-title="CANAIS | SPORTV",SPORTV 2 HD
 http://pressrle.lat/live/52145784/453930/1599.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s76967_ll_h3_aa.png" group-title="CANAIS | SPORTV",SPORTV 3 HD
 http://pressrle.lat/live/52145784/453930/1600.m3u8
-#EXTINF:-1 tvg-logo="https://imagensempng.com.br/wp-content/uploads/2023/04/Logo-Sportv-Png-1024x1024.png" group-title="CANAIS | SPORTV",SPORTV EXTRA HD 02
-http://pressrle.lat/live/52145784/453930/3111754.m3u8
-#EXTINF:-1 tvg-logo="https://imagensempng.com.br/wp-content/uploads/2023/04/Logo-Sportv-Png-1024x1024.png" group-title="CANAIS | SPORTV",SPORTV EXTRA HD 03
-http://pressrle.lat/live/52145784/453930/3111755.m3u8
-#EXTINF:-1 tvg-logo="https://imagensempng.com.br/wp-content/uploads/2023/04/Logo-Sportv-Png-1024x1024.png" group-title="CANAIS | SPORTV",SPORTV EXTRA HD 04
-http://pressrle.lat/live/52145784/453930/3111756.m3u8
-#EXTINF:-1 tvg-logo="https://imagensempng.com.br/wp-content/uploads/2023/04/Logo-Sportv-Png-1024x1024.png" group-title="CANAIS | SPORTV",SPORTV EXTRA HD 05
-http://pressrle.lat/live/52145784/453930/3111752.m3u8
-#EXTINF:-1 tvg-logo="https://imagensempng.com.br/wp-content/uploads/2023/04/Logo-Sportv-Png-1024x1024.png" group-title="CANAIS | SPORTV",SPORTV EXTRA HD 06
-http://pressrle.lat/live/52145784/453930/3111753.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s56103_ll_h3_aa.png" group-title="CANAIS | SPORTV",SPORTV HD
 http://pressrle.lat/live/52145784/453930/765080.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s56104_ll_h3_aa.png" group-title="CANAIS | SPORTV",SPORTV 2 FHD H265
@@ -3527,11 +3509,9 @@ http://pressrle.lat/live/52145784/453930/3457208.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | USA",[VIP-SPORT] NHL Network HD
 http://pressrle.lat/live/52145784/453930/3457270.m3u8
 
-# --- CANAIS | VARIEDADES (34) ---
+# --- CANAIS | VARIEDADES (33) ---
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s79689_ll_h3_aa.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD
 http://pressrle.lat/live/52145784/453930/1509.m3u8
-#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s75832_ll_h3_ab.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD
-http://pressrle.lat/live/52145784/453930/1520.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s79639_ll_h3_ab.png" group-title="CANAIS | VARIEDADES",CURTA! HD
 http://pressrle.lat/live/52145784/453930/1522.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s55913_ll_h3_ab.png" group-title="CANAIS | VARIEDADES",DISCOVERY HOME & HEALTH HD
@@ -3623,4 +3603,4 @@ http://pressrle.lat/live/52145784/453930/6188.m3u8
 #EXTINF:-1 tvg-logo="http://9822ko909.us:80/images/r42lGcgZ5Es0LIcsPesT21fyY32wzG5yuCnf9x8yMgS3wDTIAAqq8lF27bHd9zu0PKTdHzILZ9wgMiCZexPnjOxBGK2FOx8NF1zGMbRNJ78.png" group-title="Radios",Super Radio Tupi RJ
 http://pressrle.lat/live/52145784/453930/6187.m3u8
 
-# Total: 1773
+# Total: 1763

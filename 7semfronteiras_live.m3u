@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 7semfronteiras.cc
-# Generated: 2026-03-02 18:42:25
+# Generated: 2026-03-03 07:27:05
 # Expires: 2026-07-31
 # Family Safe Edition
 # ==============================================
@@ -9205,6 +9205,16 @@ http://7semfronteiras.cc/live/3947938/128192899/307905.m3u8
 #EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon/13788304881.png" group-title="CANAIS | ÁFRICA",ZA: Walf TV
 http://7semfronteiras.cc/live/3947938/128192899/307906.m3u8
 
+# --- CDN TESTE (4) ---
+#EXTINF:-1 tvg-logo="" group-title="CDN TESTE",Globo RJ Capital FHD [CDN]
+http://7semfronteiras.cc/live/3947938/128192899/362399.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CDN TESTE",Globo RJ Capital HD
+http://7semfronteiras.cc/live/3947938/128192899/362400.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CDN TESTE",Globo AP Macapa HD
+http://7semfronteiras.cc/live/3947938/128192899/362401.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CDN TESTE",Globo RS Porto Alegre HD [GP]
+http://7semfronteiras.cc/live/3947938/128192899/362402.m3u8
+
 # --- DESATIVADOS (7) ---
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/urbandocshd.png" group-title="DESATIVADOS",URBAN DOCS HD¹
 http://7semfronteiras.cc/live/3947938/128192899/322317.m3u8
@@ -9231,4 +9241,4 @@ http://7semfronteiras.cc/live/3947938/128192899/197700.m3u8
 #EXTINF:-1 tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_ufc.png" group-title="ESPAÇO DO CLIENTE",CALENDÁRIO UFC
 http://7semfronteiras.cc/live/3947938/128192899/197701.m3u8
 
-# Total: 4556
+# Total: 4560

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-03-02 18:37:50
+# Generated: 2026-03-03 07:24:19
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -1405,7 +1405,9 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/236090.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47Cd0MIpIG6qoz9FdHl3NBdU8Oh.jpg" group-title="Movies | → VOD ANIME ←",Bleach: Hell Verse (2010)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/236092.mp4
 
-# --- Movies | → VOD AVENTURAS ← (602) ---
+# --- Movies | → VOD AVENTURAS ← (603) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PXQBpvaOjRr5Bz33RX2OrDEq3M.jpg" group-title="Movies | → VOD AVENTURAS ←",Foxter & Max: Un perro de otro Mundo
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280202.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0pJ0SZ9xAEpqo0tx7WOQ9xv8Ns.jpg" group-title="Movies | → VOD AVENTURAS ←",Robin Hood, príncipe de los ladrones
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/278676.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovspKcx8UmWaurGYo0SaeUH999Q.jpg" group-title="Movies | → VOD AVENTURAS ←",El Alucinante viaje de Bill y Ted
@@ -13901,7 +13903,9 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/279351.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Gente que conocemos en Vacaciones (2026)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/279293.mp4
 
-# --- Movies | → VOD ESTRENOS SUBTITULADOS ← (57) ---
+# --- Movies | → VOD ESTRENOS SUBTITULADOS ← (58) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6GhGmlEpWYwuY0ZfUPdtACTFdD.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",Paul McCartney: Hombre a la Fuga (2026) SUB
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280203.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1DintRyDHFuKja6fuyVpkzS0eC.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",The Huntsman (2026) SUB
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280015.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7aijAKE98Fcp6dgR6oWiUkFO2g.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",El Dia del Fin del Mundo: Migración (2026) SUB
@@ -19787,4 +19791,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9817
+# Total: 9819

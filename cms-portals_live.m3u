@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cms-portals.com:80
-# Generated: 2026-03-03 07:32:36
+# Generated: 2026-03-03 18:49:49
 # Expires: 2026-05-22
 # Family Safe Edition
 # ==============================================
@@ -217,7 +217,7 @@ http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/9406.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AUSTRIA",AT: ATV 2
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/9407.m3u8
 
-# --- BIH (52) ---
+# --- BIH (51) ---
 #EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/44.png" group-title="BIH",Federalna TV
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/572.m3u8
 #EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/22.png" group-title="BIH",BHT 1 HD
@@ -248,8 +248,6 @@ http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/590.m3u8
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/8847.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/BN_2_HD_BA_logo.png" group-title="BIH",BN 2 TV
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/10233.m3u8
-#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/UNA_TV_HR_logo.png" group-title="BIH",UNA TV BH
-http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/12464.m3u8
 #EXTINF:-1 tvg-logo="http://116.203.156.75/logo/k3.png" group-title="BIH",K3 Prnjavor
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/509.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_of_HIT_Televizija.png" group-title="BIH",HIT
@@ -1082,7 +1080,7 @@ http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/559.m3u8
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/6859.m3u8
 #EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/76.png" group-title="HRVATSKA",HRT 4
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/6860.m3u8
-#EXTINF:-1 tvg-logo="http://116.203.156.75/logo/hrt5_logo.png" group-title="HRVATSKA",HRT 5
+#EXTINF:-1 tvg-logo="http://116.203.156.75/logo/hrt5_logo.png" group-title="HRVATSKA",HRT Int.
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/556.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA",HRT 1 HD (Hevc)
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/12097.m3u8
@@ -2425,4 +2423,4 @@ http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/9509.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK",USA: CBS
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/9511.m3u8
 
-# Total: 1179
+# Total: 1178

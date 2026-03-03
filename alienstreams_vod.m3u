@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-03-03 07:26:52
+# Generated: 2026-03-03 18:38:47
 # Expires: 2026-03-22
 # Family Safe Edition
 # ==============================================
@@ -18432,10 +18432,18 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405122
 http://alienstreams.fi:8080/series/hellhell/hellhell/403526
 
 # --- Series | Svenska Serier [Series] (285) ---
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",S:t Görans sjukhus
-http://alienstreams.fi:8080/series/hellhell/hellhell/493083
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Över Atlanten
+http://alienstreams.fi:8080/series/hellhell/hellhell/495173
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska bönder
+http://alienstreams.fi:8080/series/hellhell/hellhell/493920
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gränsbevakarna Sverige
+http://alienstreams.fi:8080/series/hellhell/hellhell/477390
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Här är ditt kylskåp
 http://alienstreams.fi:8080/series/hellhell/hellhell/489076
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Lyxfällan
+http://alienstreams.fi:8080/series/hellhell/hellhell/493370
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",S:t Görans sjukhus
+http://alienstreams.fi:8080/series/hellhell/hellhell/493083
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Jeopardy!
 http://alienstreams.fi:8080/series/hellhell/hellhell/477262
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Husdrömmar
@@ -18470,18 +18478,10 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/495288
 http://alienstreams.fi:8080/series/hellhell/hellhell/492062
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Poliserna i våldsvågen
 http://alienstreams.fi:8080/series/hellhell/hellhell/495274
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Lyxfällan
-http://alienstreams.fi:8080/series/hellhell/hellhell/493370
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gränsbevakarna Sverige
-http://alienstreams.fi:8080/series/hellhell/hellhell/477390
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Över Atlanten
-http://alienstreams.fi:8080/series/hellhell/hellhell/495173
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska nyheter
 http://alienstreams.fi:8080/series/hellhell/hellhell/481045
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bäst i test
 http://alienstreams.fi:8080/series/hellhell/hellhell/489840
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska bönder
-http://alienstreams.fi:8080/series/hellhell/hellhell/493920
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Mammor
 http://alienstreams.fi:8080/series/hellhell/hellhell/492701
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Slutet på sommaren

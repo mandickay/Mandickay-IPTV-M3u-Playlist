@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: dk.2665.ninja:8080
-# Generated: 2026-03-02 07:27:39
+# Generated: 2026-03-03 18:40:25
 # Expires: 2026-04-16
 # Family Safe Edition
 # ==============================================
@@ -6649,7 +6649,13 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (270) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (273) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 171)
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/671695.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 20)
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/671694.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ylpluerF3X4QQYBXEwztfYNMkOh_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Rüya Gibi (Bolum 13 Final)
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/671693.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3Qwhs7xxf9LILllWLnxbSaCBNDf_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Güller Ve Günahlar (Bolum 19)
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/671588.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 207)
@@ -13671,7 +13677,9 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/508684.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zDjpCBr7fleewKN7HpF2EPQT1jN_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2024",(TR-) Parthenope - 2024
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/635435.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2025 (217) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2025 (218) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ssy1uHGZkuXLkIWJWrtsBczPvVC_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Christy - 2025
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/671692.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qPJzcYR2f1O1uynYBCVPPJuOiAH_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) HIM - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/670338.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/fBmLlHKvDuvO4316qzqaDxEuKsg_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Predator: Badlands - 2025
@@ -14192,7 +14200,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/667201.mkv
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/667200.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pTkdQ0jfXqUpoFvg0DmSAYGlc7K_big.jpg" group-title="Movies | (V|TR) Turkce Film - 4K",(TR-) People We Meet On Vacation 4K - 2026
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/667199.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/_big.jpg" group-title="Movies | (V|TR) Turkce Film - 4K",(TR-) Our Fault 4K - 2025
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg" group-title="Movies | (V|TR) Turkce Film - 4K",(TR-) Our Fault 4K - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/667198.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/cyZNdaVJa5V7au58ej7HakYLRXm_big.jpg" group-title="Movies | (V|TR) Turkce Film - 4K",(TR-) Unfruitful Times 4K - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/667197.mkv
@@ -16953,4 +16961,4 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/584223.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u1UPlw3M8qOsqsiqkFeLtg6eEVt_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Umami - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/583470.mkv
 
-# Total: 8442
+# Total: 8446

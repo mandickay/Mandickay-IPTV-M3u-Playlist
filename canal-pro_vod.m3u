@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-03-03 07:24:19
+# Generated: 2026-03-03 18:49:08
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -7930,6 +7930,8 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/5901.mkv
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/249188.mp4
 
 # --- Movies | → VOD DRAMA ← (461) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ms9WEALWyumQ80Zkkb94gyUsjIZ.jpg" group-title="Movies | → VOD DRAMA ←",El Juego de la Fortuna
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280205.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbTtU8LXhH8MLB7EF7hBZy3WUYC.jpg" group-title="Movies | → VOD DRAMA ←",Votos de Amor
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280008.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99Dpm7Ep8OelbNyEVBlln50EHGj.jpg" group-title="Movies | → VOD DRAMA ←",Rango
@@ -8460,8 +8462,6 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/6000.mkv
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/6001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKgZigAP5XBVg1hACXEdKBDVs5m.jpg" group-title="Movies | → VOD DRAMA ←",El coro (2014)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/6002.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqmJeuHcHCbics1LjOd9ak6R9TO.jpg" group-title="Movies | → VOD DRAMA ←",Moneyball: Rompiendo las reglas (2011)
-http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/6003.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d89FZk4nID54tKRV5oInKneZgT3.jpg" group-title="Movies | → VOD DRAMA ←",El Juez (2014)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/6004.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kQosoZJ7R5MgG5hEgnKvageoJW.jpg" group-title="Movies | → VOD DRAMA ←",El mayordomo de la casa blanca (2013)
@@ -13903,7 +13903,9 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/279351.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Gente que conocemos en Vacaciones (2026)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/279293.mp4
 
-# --- Movies | → VOD ESTRENOS SUBTITULADOS ← (58) ---
+# --- Movies | → VOD ESTRENOS SUBTITULADOS ← (59) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFeEXvKtKZ9wY3EMsR7yp9Izfej.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",La habitación de al Lado SUB
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280204.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6GhGmlEpWYwuY0ZfUPdtACTFdD.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",Paul McCartney: Hombre a la Fuga (2026) SUB
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280203.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1DintRyDHFuKja6fuyVpkzS0eC.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",The Huntsman (2026) SUB
@@ -19791,4 +19793,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9819
+# Total: 9820

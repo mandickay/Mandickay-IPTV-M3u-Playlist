@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: danbitman.ddns.net:8008
-# Generated: 2026-03-03 07:25:47
+# Generated: 2026-03-03 18:52:39
 # Expires: 2026-09-28
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | ⚜️FILME - 2026⚜️ (130) ---
+# --- Movies | ⚜️FILME - 2026⚜️ (133) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5YCcj97kknZNtfe6gLRYLGCZgY.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Joe's College Road Trip - 2026
 http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617353.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfwHKRHRE2X4NTexdzblaioHH51.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Love Me Love Me - 2026
@@ -268,6 +268,12 @@ http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617751.mkv
 http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617752.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gS0Jif1hIHhqhqLkur29tjdaOJ.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",The Mother and the Bear - 2026
 http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617753.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXSSLu4d26mS9m3m6hmQ5BEHsz1.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Dungeons of Ecstasy - 2025
+http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617754.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnrrZfFiUIpL00wUh15OBKStnDD.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",In Cold Light - 2026
+http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617755.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FJ8kh5rj7RdFbYdF0nycmPsYbv.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Życie i śmierci Maxa Lindera - 2026
+http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617756.mkv
 
 # --- Movies | ⚡SERIALE - ACTIUNE & AVENTURA⚡ (223) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - ACTIUNE & AVENTURA⚡",24
@@ -35119,4 +35125,4 @@ http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/581353.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51LItgyecu2KMAtIchYogEykCIu.jpg" group-title="Movies | ✨FILME - WESTERN✨",Wyatt Earp - 1994
 http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/581354.mkv
 
-# Total: 17513
+# Total: 17516

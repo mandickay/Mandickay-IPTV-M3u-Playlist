@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-03-03 07:25:18
+# Generated: 2026-03-03 18:37:33
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -21421,7 +21421,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/77701.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/by6iZd4FxSTLCtnyCjyKYao57Ar.jpg" group-title="Movies | WWE PPV's",WWE WrestleMania Backlash (2021)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/77702.mkv
 
-# --- Series | INTERNATIONALE SERIES (420) ---
+# --- Series | INTERNATIONALE SERIES (421) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Tytgat Chocolat
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/17
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Eigen Kweek
@@ -22262,6 +22262,8 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3653
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3654
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Doc
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3665
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",CIA
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3666
 
 # --- Series | NL GESPROKEN KINDERSERIES (21) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN KINDERSERIES",Pieter Konijn
@@ -22437,4 +22439,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11162
+# Total: 11163

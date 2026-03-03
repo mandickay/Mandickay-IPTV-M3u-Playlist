@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-03 07:33:26
+# Generated: 2026-03-03 18:41:48
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -469,7 +469,13 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35623.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY MUSIC",*****ALL SERIES*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25126.m3u8
 
-# --- ALL COUNTRY SPORTS (243) ---
+# --- ALL COUNTRY SPORTS (246) ---
+#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",RU: SETANTA SPORTS KZ
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/68945.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",RU: SETANTA SPORT 2 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24985.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",RU: SETANTA SPORTS 1 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/68944.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",*****OTHER SPORT*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/18801.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",NZ: SKY Sport 1 NZ
@@ -942,7 +948,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24291.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56465.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",HU: Eurosport 2 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56466.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",KG: Q SPORT
+#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",KAZ: QAZSPORT
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5897.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",GEO: Rugby TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25028.m3u8
@@ -3362,7 +3368,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5867.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5868.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RUSSIA",RU: Belgorod 24
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5869.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RUSSIA",RU: K1
+#EXTINF:-1 tvg-logo="" group-title="RUSSIA",RU: CINEMA 10
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5871.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RUSSIA",RU: CINEMA
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5873.m3u8
@@ -5947,4 +5953,4 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR RADYO: ANKARA RADYO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43245.m3u8
 
-# Total: 2913
+# Total: 2916

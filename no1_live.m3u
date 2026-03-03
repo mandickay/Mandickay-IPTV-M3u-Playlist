@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-03-03 07:33:09
+# Generated: 2026-03-03 18:49:10
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1269,21 +1269,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (39) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/68lfi9krp569hdeppt82pw7x6_image-header_pDach_1771518678000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Pisa - Bologna (italienischer Kommentar) (2026-03-02 17:15:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/178235.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1zgvlcgg0zk8r9qrmfaaify8e_image-header_pDach_1771518678000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Pisa - Bologna (2026-03-02 17:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/178236.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1mrpfr23fob2rf8x5crzkglrq_image-header_pDach_1771518687000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Udinese - Fiorentina (italienischer Kommentar) (2026-03-02 19:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/178237.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/agz5iwkxrlg814q7qje1v4hdm_image-header_pDach_1765451865000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Inside The Ring - 2 Mar (2026-03-02 19:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/178238.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b26aa99djdd4tx4f8d5ffdx2h_image-header_pDach_1771495878000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Cordoba - Andorra (2026-03-02 19:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/178239.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7f5pdh3t26tssj45izdhx7vpi_image-header_pDach_1771518687000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Udinese - Fiorentina (2026-03-02 19:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/178240.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1x4sq13kohytxjtyv9lsegefw_image-header_pDach_1767914170000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Real Madrid - Getafe (2026-03-02 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/178241.m3u8
+# --- DE-DAZN EVENT (32) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eertp5cc0axq0h81m4a49h9os_image-header_pDach_1769090836000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",THW Kiel - Irun (2026-03-03 17:45:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/178242.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/487wzasra9dwp7offzbrohcxc_image-header_pDach_1771503365000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Nijmegen - Eindhoven | Halbfinale (2026-03-03 19:00:00)
@@ -6579,4 +6565,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165948.m3u8
 
-# Total: 3229
+# Total: 3222

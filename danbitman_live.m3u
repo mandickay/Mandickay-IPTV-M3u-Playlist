@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: danbitman.ddns.net:8008
-# Generated: 2026-03-03 18:52:39
+# Generated: 2026-03-04 07:24:33
 # Expires: 2026-09-28
 # Family Safe Edition
 # ==============================================
 
 
-# --- ⚜️ROMANIA TV⚜️ (716) ---
+# --- ⚜️ROMANIA TV⚜️ (717) ---
 #EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",RXF FIGHT EVENTS
 http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/617717.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzfDK55q/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV UHD
@@ -490,6 +490,8 @@ http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/522171.m3u8
 http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/522170.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/a7tv.png" group-title="⚜️ROMANIA TV⚜️",A7 TV
 http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/331258.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",TELE MOLDOVA PLUS
+http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/617757.m3u8
 #EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUFP1Tov_LJxVaC3XPPOTcf_A4kcMQd9NfUCt5UMFF4GGxQIMuFnRgTwhXmdo7bzErJD2z5-oefDNedsnVyoICdTENCPwnDokobrOeDGufQz.png" group-title="⚜️ROMANIA TV⚜️",UNIVERSAL MOVIES TV 5
 http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/617694.m3u8
 #EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUFP1Tov_LJxVaC3XPPOTcf_A4kcMQd9NfUCt5UMFF4GGxQIMuFnRgTwhXmdo7bzErJD2z5-oefDNedsnVyoICdTENCPwnDokobrOeDGufQz.png" group-title="⚜️ROMANIA TV⚜️",UNIVERSAL MOVIES TV 4
@@ -1441,4 +1443,4 @@ http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/498572.m3u8
 #EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfI6JpfpEUwsU_NXEvsLEYB6XLGC2nUdL2gxCBNcKnpn.png" group-title="⚜️ROMANIA TV⚜️",SHOWTIME TV SARITI DE PE FIX
 http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/617375.m3u8
 
-# Total: 716
+# Total: 717

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cazintv.com:80
-# Generated: 2026-03-03 18:37:13
+# Generated: 2026-03-04 07:24:50
 # Expires: 2026-10-21
 # Family Safe Edition
 # ==============================================
@@ -217,7 +217,7 @@ http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/9406.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AUSTRIA",AT: ATV 2
 http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/9407.m3u8
 
-# --- BIH (51) ---
+# --- BIH (52) ---
 #EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/44.png" group-title="BIH",Federalna TV
 http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/572.m3u8
 #EXTINF:-1 tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/22.png" group-title="BIH",BHT 1 HD
@@ -252,6 +252,8 @@ http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/10233.m3u8
 http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/509.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_of_HIT_Televizija.png" group-title="BIH",HIT
 http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/5749.m3u8
+#EXTINF:-1 tvg-logo="http://116.203.156.75/logo/una.jpg" group-title="BIH",UNA TV
+http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/13664.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BIH",Tok TV
 http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/13001.m3u8
 #EXTINF:-1 tvg-logo="http://116.203.156.75/logo/rtv-is.png" group-title="BIH",RTV IS
@@ -2423,4 +2425,4 @@ http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/9509.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK",USA: CBS
 http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/9511.m3u8
 
-# Total: 1178
+# Total: 1179

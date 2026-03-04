@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-03-03 18:49:06
+# Generated: 2026-03-04 07:25:12
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -19979,7 +19979,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/197693.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3xi52A7e1ZjEyLiXxanEyOdR8ma.jpg" group-title="Movies | |EXYU| HISTORICNI",Father & Soldier (2023)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/198681.mkv
 
-# --- Movies | |EXYU| HORROR (510) ---
+# --- Movies | |EXYU| HORROR (511) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaURDnsqwTpFdg7RuizUp0nI2I4.jpg" group-title="Movies | |EXYU| HORROR",3 from Hell (2019)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/14064.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJTIkMOaEM74ChVBX9WVxyufLrm.jpg" group-title="Movies | |EXYU| HORROR",Malasaña 32 (2020)
@@ -21000,6 +21000,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/198283.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/199422.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qCDPKUMX5xrxxQY8XhGVCKO3fks.jpg" group-title="Movies | |EXYU| HORROR",Countdown (2019)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/199646.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg" group-title="Movies | |EXYU| HORROR",Terrifier (2018)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/200816.mp4
 
 # --- Movies | |EXYU| KIDS (114) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| KIDS",Zlikavci
@@ -29603,7 +29605,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/200753.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8PWu0V10nMqG5SrA13wLRXTD2fH.jpg" group-title="Movies | |EXYU| STRANI 2026",Ikkis (2026)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/200803.mkv
 
-# --- Movies | |EXYU| STRANI ARHIVA (716) ---
+# --- Movies | |EXYU| STRANI ARHIVA (717) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDiAfxcjz5bydpbqTtBYBfaYHKD.jpg" group-title="Movies | |EXYU| STRANI ARHIVA",1 Buck (2017)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/14061.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdANQijuNrJaw1HA61rDccME4Tm.jpg" group-title="Movies | |EXYU| STRANI ARHIVA",12 godina ropstva (2013)
@@ -31036,6 +31038,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/200750.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/200751.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f6mktkzLF0dAK1tuoIJm0WNOltX.jpg" group-title="Movies | |EXYU| STRANI ARHIVA",Missing in America (2005)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/200752.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qEAlwXbYk6IHA4ztoS2XFFaa7Xo.jpg" group-title="Movies | |EXYU| STRANI ARHIVA",Terrifier 2 (2022)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/200815.mkv
 
 # --- Movies | |EXYU| STRANI FILMOGRAFIJA (592) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | |EXYU| STRANI FILMOGRAFIJA",A Schwarz  Aftermath (2017)
@@ -33923,4 +33927,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 16895
+# Total: 16897

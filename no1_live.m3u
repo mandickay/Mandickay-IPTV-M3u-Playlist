@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-03-03 18:49:10
+# Generated: 2026-03-04 07:21:38
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -5407,7 +5407,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/48538.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/exxenspor2.png" group-title="TR | EXXEN SPORTS",TR: EXXEN SPORTS 2 HD (TELEKOM)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/48539.m3u8
 
-# --- TR | HABER (44) ---
+# --- TR | HABER (43) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/turkey.png" group-title="TR | HABER",##### TURK HABER PAKETI #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/36215.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/haber/tv100.png" group-title="TR | HABER",TR: TV100 HD
@@ -5450,10 +5450,8 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/31716.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/154622.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/haber/akittv.png" group-title="TR | HABER",TR: AKIT TV FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/31729.m3u8
-#EXTINF:-1 tvg-logo="http://icon.sporcpu.com/haber/ahaber.png" group-title="TR | HABER",TR: A HABER   UHD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/2000.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/haber/ahaber.png" group-title="TR | HABER",TR: A HABER SD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/152.m3u8
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/2000.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/haber/ntv.png" group-title="TR | HABER",TR: NTV HABER UHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/2003.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/haber/ntv.png" group-title="TR | HABER",TR: NTV HABER HD
@@ -6565,4 +6563,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165948.m3u8
 
-# Total: 3222
+# Total: 3221

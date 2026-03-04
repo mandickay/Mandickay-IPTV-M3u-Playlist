@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-03-03 18:44:31
+# Generated: 2026-03-04 07:25:24
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -4380,7 +4380,7 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10230.mp
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/21870.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="Movies | Filme 2023",80 for Brady - 2023
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/35234.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/vHhqObNuxeIVexFfc0t6z4fpz02.jpg" group-title="Movies | Filme 2023",The Shift - 2023
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voLxg0emuu862JAgFwM4yTH3eGj.jpg" group-title="Movies | Filme 2023",The Shift (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/49578.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/9ayYOpeqHhxfHHUoyt3kXzznECO.jpg" group-title="Movies | Filme 2023",Fallen Leaves - 2023
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25163.mp4
@@ -5971,7 +5971,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (644) ---
+# --- Movies | Filme 2025 (645) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXSSLu4d26mS9m3m6hmQ5BEHsz1.jpg" group-title="Movies | Filme 2025",Dungeons of Ecstasy - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68493.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoqDvTUVPoZJWw24AjGDt3J4tZN.jpg" group-title="Movies | Filme 2025",Little Amélie or the Character of Rain - 2025
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68392.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3igABxx2wkslwdlTBDYHzyNfL6.jpg" group-title="Movies | Filme 2025",Momo - 2025
@@ -7261,7 +7263,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (40) ---
+# --- Movies | Filme 2026 (41) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeP55mdqj4KpWtEPBvZJoxmnkXI.jpg" group-title="Movies | Filme 2026",Accused - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68491.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vWqIdoBavo1htxmxlScDniOS9C.jpg" group-title="Movies | Filme 2026",In the Blink of an Eye - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68390.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFungFRJrEF9ehC6qGpunpCCQUw.jpg" group-title="Movies | Filme 2026",Bring the Law - 2026
@@ -17703,6 +17707,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1169.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Married with Children (Familia Bundy)",Married... with Children (1987)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/686.mp4
 
+# --- Movies | Marshals (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Marshals",Marshals (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1201.mp4
+
 # --- Movies | Marvel's The Defenders (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Marvel's The Defenders",Marvel's The Defenders
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/293.mp4
@@ -20135,4 +20143,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8833
+# Total: 8836

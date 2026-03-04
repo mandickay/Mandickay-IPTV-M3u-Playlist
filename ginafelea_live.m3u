@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ginafelea.ddns.net:8008
-# Generated: 2026-03-03 18:40:33
+# Generated: 2026-03-04 07:27:59
 # Expires: 2026-07-15
 # Family Safe Edition
 # ==============================================
 
 
-# --- ⚜️ROMANIA TV⚜️ (716) ---
+# --- ⚜️ROMANIA TV⚜️ (717) ---
 #EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",RXF FIGHT EVENTS
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/617717.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzfDK55q/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV UHD
@@ -490,6 +490,8 @@ http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/522171.m3u8
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/522170.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/a7tv.png" group-title="⚜️ROMANIA TV⚜️",A7 TV
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/331258.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",TELE MOLDOVA PLUS
+http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/617757.m3u8
 #EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUFP1Tov_LJxVaC3XPPOTcf_A4kcMQd9NfUCt5UMFF4GGxQIMuFnRgTwhXmdo7bzErJD2z5-oefDNedsnVyoICdTENCPwnDokobrOeDGufQz.png" group-title="⚜️ROMANIA TV⚜️",UNIVERSAL MOVIES TV 5
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/617694.m3u8
 #EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgUFP1Tov_LJxVaC3XPPOTcf_A4kcMQd9NfUCt5UMFF4GGxQIMuFnRgTwhXmdo7bzErJD2z5-oefDNedsnVyoICdTENCPwnDokobrOeDGufQz.png" group-title="⚜️ROMANIA TV⚜️",UNIVERSAL MOVIES TV 4
@@ -1441,4 +1443,4 @@ http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/498572.m3u8
 #EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfI6JpfpEUwsU_NXEvsLEYB6XLGC2nUdL2gxCBNcKnpn.png" group-title="⚜️ROMANIA TV⚜️",SHOWTIME TV SARITI DE PE FIX
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/617375.m3u8
 
-# Total: 716
+# Total: 717

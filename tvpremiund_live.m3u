@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-03-03 18:40:58
+# Generated: 2026-03-04 07:26:10
 # Expires: 2026-04-14
 # Family Safe Edition
 # ==============================================
@@ -671,7 +671,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/82339.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A0BBS4z.png" group-title="CENTRO AMERICA",Telesistema
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/72550.m3u8
 
-# --- CHILE (45) ---
+# --- CHILE (48) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hkb12bwr/Mega-2020.png" group-title="CHILE",MEGA
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2355.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hkb12bwr/Mega-2020.png" group-title="CHILE",MEGA HD
@@ -762,6 +762,12 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/30301.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/56926.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1635423578651852802/dwa1KZ_o_400x400.jpg" group-title="CHILE",Via X
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/56929.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="CHILE",Retro Plus TV
+http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/74738.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5G5kian.png" group-title="CHILE",Retro Plus 2 HD
+http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/71508.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="CHILE",Retro Plus 3
+http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/71509.m3u8
 
 # --- CHILE REGIONES (186) ---
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/71_Antofagasta_TV.png" group-title="CHILE REGIONES",Antofagasta TV | CL
@@ -3193,7 +3199,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70174.m3u8
 #EXTINF:-1 tvg-logo="https://players.grupodial.cl/player/radio/img/45b312bfd616a3430ab90167854fe44b08121256.png" group-title="MUSICA",Radio Duna TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/30.m3u8
 
-# --- OTROS (6339) ---
+# --- OTROS (6333) ---
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/dark.jpg" group-title="OTROS",Dark
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/67762.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png" group-title="OTROS",Nubeh TV ✪ | VE
@@ -3218,12 +3224,6 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/74733.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/74734.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/433_Solo_Stand_Up.png" group-title="OTROS",Solo Stand Up | CL
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/74737.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="OTROS",Retro Plus TV | CL
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/74738.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="OTROS",Retro Plus TV Señal 2 | CL
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/74739.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="OTROS",Retro Plus TV Señal 3 | CL
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/74740.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/14_Urban_TV.png" group-title="OTROS",Urban TV | ES
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/74741.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1_Rewind_Radio_y_TV.png" group-title="OTROS",Rewind Radio y TV | CL
@@ -12410,12 +12410,6 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/71505.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/71506.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="OTROS",Retrô Cartoon (480p) [Not 24/7]
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/71507.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5G5kian.png" group-title="OTROS",Retro Plus 2 HD (720p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/71508.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="OTROS",Retro Plus 3 (720p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/71509.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="OTROS",Retro Plus HD (720p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/71510.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="OTROS",Retro TV (KCKS-LD9) (480p)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/71511.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="OTROS",RetroCrush TV (1080p)
@@ -16611,4 +16605,4 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2429.m3u8
 
-# Total: 8270
+# Total: 8267

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-03 18:40:00
+# Generated: 2026-03-04 07:21:19
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -1847,9 +1847,11 @@ http://world-service.us:8080/movie/giovanmer/merante/2034.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NAPOLI",Tradimento
 http://world-service.us:8080/movie/giovanmer/merante/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1493) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1494) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://world-service.us:8080/movie/giovanmer/merante/62556.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d8b15e910589eba7e756be0884ba4edc.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Osiris (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87101.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d80d0b79a9652875eb13baf0babafd83.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",The Bluff (2026)
 http://world-service.us:8080/movie/giovanmer/merante/87077.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/14fd76e5deef63d62253c8b56f28ca4b.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Missione Shelter (2026)
@@ -10247,9 +10249,11 @@ http://world-service.us:8080/movie/giovanmer/merante/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://world-service.us:8080/movie/giovanmer/merante/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1583) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1584) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://world-service.us:8080/movie/giovanmer/merante/1662.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/0aa1f8241fdf59ec2ec1b3978060bead.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Franco Battiato - Il lungo viaggio (2026)
+http://world-service.us:8080/movie/giovanmer/merante/87102.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8a62f576b753cb444aeb9cbffeaa6d08.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Accused (2023)
 http://world-service.us:8080/movie/giovanmer/merante/87081.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/4972c433129812b1fe38939b083ae851.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Diciannove (2025)
@@ -21427,7 +21431,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1550.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",Batman - Cavaliere della notte
 http://world-service.us:8080/movie/giovanmer/merante/1608.mp4
 
-# --- Movies | SERIE-TV (512) ---
+# --- Movies | SERIE-TV (514) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
 http://world-service.us:8080/movie/giovanmer/merante/20.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Blacklist
@@ -22452,6 +22456,10 @@ http://world-service.us:8080/movie/giovanmer/merante/1637.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1639.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Compagni di viaggio
 http://world-service.us:8080/movie/giovanmer/merante/1640.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Under Salt Marsh Segreti sommersi
+http://world-service.us:8080/movie/giovanmer/merante/1642.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Il signore delle mosche
+http://world-service.us:8080/movie/giovanmer/merante/1643.mp4
 
 # --- Movies | SERIE-TV-ITALIA (154) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
@@ -32967,4 +32975,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16452
+# Total: 16456

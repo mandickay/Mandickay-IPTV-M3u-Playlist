@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nocable.cc:8080
-# Generated: 2026-03-03 18:40:12
+# Generated: 2026-03-04 07:16:23
 # Expires: 2026-05-08
 # Family Safe Edition
 # ==============================================
@@ -6667,7 +6667,7 @@ http://nocable.cc:8080/movie/28148830/68208395/262726.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg" group-title="Movies | 2025 MOVIES",Marty Supreme (2025)
 http://nocable.cc:8080/movie/28148830/68208395/262968.mp4
 
-# --- Movies | 2026 Movies (42) ---
+# --- Movies | 2026 Movies (48) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | 2026 Movies",The Rip (2026)
 http://nocable.cc:8080/movie/28148830/68208395/260134.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg" group-title="Movies | 2026 Movies",The Wrecking Crew (2026)
@@ -6752,6 +6752,18 @@ http://nocable.cc:8080/movie/28148830/68208395/262717.mp4
 http://nocable.cc:8080/movie/28148830/68208395/262718.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GdF5fublhF1w0suCpsj1zExzPl.jpg" group-title="Movies | 2026 Movies",The Drift (2026)
 http://nocable.cc:8080/movie/28148830/68208395/262719.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFungFRJrEF9ehC6qGpunpCCQUw.jpg" group-title="Movies | 2026 Movies",Bring the Law (2026)
+http://nocable.cc:8080/movie/28148830/68208395/263420.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KsorV5PdsIGIrTA7SFceqKDJTK.jpg" group-title="Movies | 2026 Movies",Pushed Off a Plane and Survived (2026)
+http://nocable.cc:8080/movie/28148830/68208395/263421.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76jjEatL53KYooIrDQK9wsk4rm1.jpg" group-title="Movies | 2026 Movies",Reckless (2026)
+http://nocable.cc:8080/movie/28148830/68208395/263422.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg" group-title="Movies | 2026 Movies",Return to Silent Hill (2026)
+http://nocable.cc:8080/movie/28148830/68208395/263423.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8A8Zoq43KSAk2KmB4NKaqz6zR4L.jpg" group-title="Movies | 2026 Movies",Romance at Hope Ranch (2026)
+http://nocable.cc:8080/movie/28148830/68208395/263424.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sojEzvfxR2DBcDSJyAisX8TWjov.jpg" group-title="Movies | 2026 Movies",The Bluff (2026)
+http://nocable.cc:8080/movie/28148830/68208395/263425.mp4
 
 # --- Movies | Action Movies (1606) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
@@ -28817,4 +28829,4 @@ http://nocable.cc:8080/series/28148830/68208395/2350
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Duckman
 http://nocable.cc:8080/series/28148830/68208395/2351
 
-# Total: 14349
+# Total: 14355

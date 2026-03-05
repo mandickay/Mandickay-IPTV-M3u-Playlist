@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-03-05 07:26:09
+# Generated: 2026-03-05 18:43:19
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -19441,7 +19441,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2469
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MARVEL ←",Wonder Man
 http://fastream.xyz:8080/series/940246862tv/12ws79/2532
 
-# --- Series | → SERIES MISTERIO ← (59) ---
+# --- Series | → SERIES MISTERIO ← (60) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",Instinto
 http://fastream.xyz:8080/series/940246862tv/12ws79/47
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",La Montaña De La Muerte: El Incidente del Paso Dyatlov
@@ -19560,6 +19560,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2505
 http://fastream.xyz:8080/series/940246862tv/12ws79/2517
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",Agatha Christie: Las Siete Esferas
 http://fastream.xyz:8080/series/940246862tv/12ws79/2528
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",El Joven Sherlock
+http://fastream.xyz:8080/series/940246862tv/12ws79/2545
 
 # --- Series | → SERIES REALLITY ← (23) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES REALLITY ←",La Isla de las Tentaciones Argentina & Chile
@@ -19795,4 +19797,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9821
+# Total: 9822

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-03-05 07:29:02
+# Generated: 2026-03-05 18:49:37
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -260,8 +260,6 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52628.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/6924.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/df0c35517ab2f2e9e6e63c1808730694.webp" group-title="BRASIL",Vintage TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52631.m3u8
-#EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png" group-title="BRASIL",Record Tv
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/27319.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="BRASIL",Rede Clone
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52676.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",Rede M Amiga
@@ -550,6 +548,8 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52747.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52753.m3u8
 #EXTINF:-1 tvg-logo="https://vejatimon.com/wp-content/uploads/2014/12/Multishow-Logomarca.jpg" group-title="BRASIL",Multishow
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/54184.m3u8
+#EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png" group-title="BRASIL",Record Tv
+http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/135898.m3u8
 
 # --- CENTRO AMERICA (59) ---
 #EXTINF:-1 tvg-logo="http://www.iptvcristiano.com/uploads/channels/225/logo_thumb_fb.jpg" group-title="CENTRO AMERICA",C.RI: Extrema TV

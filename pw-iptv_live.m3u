@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-03-05 07:34:33
+# Generated: 2026-03-05 18:47:15
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -3289,7 +3289,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/319240.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/263.jpg" group-title="AR| EGYPT +6H USA ⎋",AR: CBC SOFRA +6H
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/319241.m3u8
 
-# --- AR| EGYPT 4K ▶ مصر (81) ---
+# --- AR| EGYPT 4K ▶ مصر (80) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Animated-Flag-Egypt.gif" group-title="AR| EGYPT 4K ▶ مصر",###### EGYPT TV ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/251815.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/53.jpg?1665" group-title="AR| EGYPT 4K ▶ مصر",AR: Al Oula Masria QAF HD
@@ -3370,8 +3370,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/4219.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3171.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/336.png" group-title="AR| EGYPT 4K ▶ مصر",AR: El Mold
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/4297.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8343.png?41710" group-title="AR| EGYPT 4K ▶ مصر",AR: ETC
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/310180.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12967.png?ver=53899" group-title="AR| EGYPT 4K ▶ مصر",AR: Madrastna 1
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/212652.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12663.png?29837" group-title="AR| EGYPT 4K ▶ مصر",AR: Madrastna 2
@@ -19091,4 +19089,4 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443446.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/tv5monde.png" group-title="VI| VIETNAM",VN: TV5 MONDE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443444.m3u8
 
-# Total: 9293
+# Total: 9292

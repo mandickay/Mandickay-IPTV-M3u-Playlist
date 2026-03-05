@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: dk.2665.ninja:8080
-# Generated: 2026-03-05 07:22:09
+# Generated: 2026-03-05 18:41:09
 # Expires: 2026-04-16
 # Family Safe Edition
 # ==============================================
@@ -731,7 +731,7 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/11284.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Sakincali
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/11394.mp4
 
-# --- Movies | (S|TR) Yabanci Diziler (940) ---
+# --- Movies | (S|TR) Yabanci Diziler (941) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mars
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/313.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 1983
@@ -2612,6 +2612,8 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/11955.mp4
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/11992.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Crap Happens
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/12055.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Young Sherlock
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/12069.mp4
 
 # --- Movies | (S|TR) Yerli Diziler (401) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
@@ -6649,7 +6651,17 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (276) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (281) ---
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/pym4NaXmFEaAfPa1ZQei6pAJGhS.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ayni Yagmur Altinda (Bolum 4)
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/671928.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 52)
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/671929.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bu8ks983hBPEzyAH8gSATW5aPJ7_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Yeraltı (Bolum 6)
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/672122.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahipsizler (Bolum 51)
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/672119.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pYr58J7eePyXbUpUA9jhxPsabum_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Esref Rüya (Bolum 35)
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/672118.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Mehmed: Fetihler Sultani (Bolum 71)
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/672022.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/herjCgzFTKF3tCN8bW9cNfrvKjW_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kiskanmak (Bolum 25)
@@ -13683,7 +13695,9 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/508684.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zDjpCBr7fleewKN7HpF2EPQT1jN_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2024",(TR-) Parthenope - 2024
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/635435.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2025 (218) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2025 (219) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/xPAcaKFWvbB9fXAmhIr3leBCRVJ_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) The Friend - 2025
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/672121.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ssy1uHGZkuXLkIWJWrtsBczPvVC_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Christy - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/671692.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qPJzcYR2f1O1uynYBCVPPJuOiAH_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) HIM - 2025
@@ -14121,7 +14135,9 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/635434.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u64csVCG9nLpYqFWFFitrdvz7hG_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Daniela Forever - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/635432.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2026 (19) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2026 (20) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/chivRgMyevpLUDfLIokY9aTomRu_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) Street Flow 3 - 2026
+http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/672120.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4vWqIdoBavo1htxmxlScDniOS9C_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) In The Blink Of An Eye - 2026
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/671540.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/eeP55mdqj4KpWtEPBvZJoxmnkXI_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) Accused - 2026
@@ -16967,4 +16983,4 @@ http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/584223.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u1UPlw3M8qOsqsiqkFeLtg6eEVt_big.jpg" group-title="Movies | (V|TR) Yerli Film - 2025",(TR-) Umami - 2025
 http://dk.2665.ninja:8080/movie/SeyHALIS182/L6trnyzWyv/583470.mkv
 
-# Total: 8449
+# Total: 8457

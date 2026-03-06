@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: danbitman.ddns.net:8008
-# Generated: 2026-03-06 07:21:29
+# Generated: 2026-03-06 18:40:48
 # Expires: 2026-09-28
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | ⚜️FILME - 2026⚜️ (133) ---
+# --- Movies | ⚜️FILME - 2026⚜️ (140) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5YCcj97kknZNtfe6gLRYLGCZgY.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Joe's College Road Trip - 2026
 http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617353.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfwHKRHRE2X4NTexdzblaioHH51.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Love Me Love Me - 2026
@@ -274,6 +274,20 @@ http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617754.mkv
 http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617755.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FJ8kh5rj7RdFbYdF0nycmPsYbv.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Życie i śmierci Maxa Lindera - 2026
 http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617756.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RuM05N8S5BFK5fKHuQcERuO5Qb.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Cursa - 2025
+http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617758.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5a3YbuC4o7ISD4DgPG5VLRAtElc.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Honey - 2025
+http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617759.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vl50ruzFWxrbK4zFz0ySjC3TdyK.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Banlieusards 3 - 2026
+http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617760.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⚜️FILME - 2026⚜️",Subedaar - 2026
+http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617761.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/750RNSHr25GQcCr2Ws8iSGrHJA9.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",The House on Haunted Grounds - 2026
+http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617762.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",War Machine - 2026
+http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617763.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRnTZCjHHMc7cM0HgNkQMB27GYT.jpg" group-title="Movies | ⚜️FILME - 2026⚜️",Whistle - 2026
+http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/617764.mkv
 
 # --- Movies | ⚡SERIALE - ACTIUNE & AVENTURA⚡ (223) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - ACTIUNE & AVENTURA⚡",24
@@ -35125,4 +35139,4 @@ http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/581353.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51LItgyecu2KMAtIchYogEykCIu.jpg" group-title="Movies | ✨FILME - WESTERN✨",Wyatt Earp - 1994
 http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/581354.mkv
 
-# Total: 17516
+# Total: 17523

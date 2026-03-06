@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-03-06 07:35:39
+# Generated: 2026-03-06 18:38:22
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -1242,8 +1242,6 @@ http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/737842.m3u8
 # --- IT| GENERALE (102) ---
 #EXTINF:-1 tvg-logo="" group-title="IT| GENERALE",##### GENERALE HD/4K #####
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/692604.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ANTENNASICILIA.png" group-title="IT| GENERALE",IT| ANTENNA SICILIA
-http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2021972.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692857.png" group-title="IT| GENERALE",IT| MEDIASET ITALIA (NA)
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/692857.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692856.png" group-title="IT| GENERALE",IT| RAI ITALIA HD (NA)
@@ -1370,6 +1368,8 @@ http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/692548.m3u8
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/692545.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692544.png" group-title="IT| GENERALE",IT| RAI PREMIUM SD
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/692544.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ANTENNASICILIA.png" group-title="IT| GENERALE",IT| ANTENNA SICILIA
+http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/2021972.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692543.png" group-title="IT| GENERALE",IT| ALICE
 http://exclusifott.pro:80/live/121aad2b72/6ea3277f177a/692543.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692542.png" group-title="IT| GENERALE",IT| BLAZE SD

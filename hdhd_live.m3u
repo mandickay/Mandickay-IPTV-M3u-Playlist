@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2026-03-06 07:26:25
+# Generated: 2026-03-06 18:46:23
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
@@ -1087,9 +1087,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/370215.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/superchannelvault.png" group-title="Canada Movies",CA Super Channel Vault
 http://hdhd.tk:80/live/Amanda1/Frechette1/370216.m3u8
 
-# --- Canada Network (41) ---
-#EXTINF:-1 tvg-logo="https://static.epg.best/ca/ABCSpark.ca.png" group-title="Canada Network",CA ABC Spark
-http://hdhd.tk:80/live/Amanda1/Frechette1/2078.m3u8
+# --- Canada Network (39) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/ca/AMC.ca.png" group-title="Canada Network",CA AMC
 http://hdhd.tk:80/live/Amanda1/Frechette1/2083.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ca/AMITV.ca.png" group-title="Canada Network",CA AMI TV HD
@@ -1160,8 +1158,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/2210.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/2216.m3u8
 #EXTINF:-1 tvg-logo="https://logo.koditvepg.com/CA/t.plus.e.totally.entertaining.ca.png" group-title="Canada Network",CA: T+E
 http://hdhd.tk:80/live/Amanda1/Frechette1/2217.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ca/FamilyChannel.ca.png" group-title="Canada Network",CA Family
-http://hdhd.tk:80/live/Amanda1/Frechette1/2218.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ca/Showcase.ca.png" group-title="Canada Network",CA Showcase
 http://hdhd.tk:80/live/Amanda1/Frechette1/2220.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ca/TVASports.ca.png" group-title="Canada Network",CA TVA Sports
@@ -1243,7 +1239,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/395788.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canada OHL team",(OHL) Windsor Spitfires [WIN]
 http://hdhd.tk:80/live/Amanda1/Frechette1/395789.m3u8
 
-# --- Canada Sports (21) ---
+# --- Canada Sports (20) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/ca/TSN1.ca.png" group-title="Canada Sports",CA TSN1
 http://hdhd.tk:80/live/Amanda1/Frechette1/18708.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ca/TSN2.ca.png" group-title="Canada Sports",CA TSN2
@@ -1284,8 +1280,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/18731.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/18732.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canada Sports",CA Sportsnet WWE
 http://hdhd.tk:80/live/Amanda1/Frechette1/339380.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canada Sports",CA Sportsnet News
-http://hdhd.tk:80/live/Amanda1/Frechette1/339381.m3u8
 
 # --- Canada Sportsnet (30) ---
 #EXTINF:-1 tvg-logo="" group-title="Canada Sportsnet",Sportsnet+ 01 ::
@@ -1349,131 +1343,113 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/363630.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canada Sportsnet",Sportsnet+ 30:
 http://hdhd.tk:80/live/Amanda1/Frechette1/363631.m3u8
 
-# --- Caribbean (65) ---
+# --- Caribbean (56) ---
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib TVJ
 http://hdhd.tk:80/live/Amanda1/Frechette1/19839.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib TVJ_Sports_Network
 http://hdhd.tk:80/live/Amanda1/Frechette1/19840.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) Cartoon Network
 http://hdhd.tk:80/live/Amanda1/Frechette1/19845.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib AXSTV
-http://hdhd.tk:80/live/Amanda1/Frechette1/19847.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib PBS
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) PBS
 http://hdhd.tk:80/live/Amanda1/Frechette1/19848.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Wgn9
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) WGN9
 http://hdhd.tk:80/live/Amanda1/Frechette1/19852.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Warner
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) Warner Brothers
 http://hdhd.tk:80/live/Amanda1/Frechette1/19855.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Lifetime
 http://hdhd.tk:80/live/Amanda1/Frechette1/19857.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Space
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (Hub) SPACE
 http://hdhd.tk:80/live/Amanda1/Frechette1/19858.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib CTV_Comedy
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) Comedy TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/19860.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Arts
 http://hdhd.tk:80/live/Amanda1/Frechette1/19861.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib CNN International
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) CNN
 http://hdhd.tk:80/live/Amanda1/Frechette1/19862.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib JNN
 http://hdhd.tk:80/live/Amanda1/Frechette1/19864.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib RETV
 http://hdhd.tk:80/live/Amanda1/Frechette1/19865.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib AXN
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) AXN
 http://hdhd.tk:80/live/Amanda1/Frechette1/19866.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib MTV
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) MTV
 http://hdhd.tk:80/live/Amanda1/Frechette1/19877.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib VH_1_Classic
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) VH1
 http://hdhd.tk:80/live/Amanda1/Frechette1/19878.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Daystar
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) Daystar TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/19887.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib PetsTV
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) PETSTV
 http://hdhd.tk:80/live/Amanda1/Frechette1/19890.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Trvl_Channel
-http://hdhd.tk:80/live/Amanda1/Frechette1/19893.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib BET_Her
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) BET Her
 http://hdhd.tk:80/live/Amanda1/Frechette1/19894.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Outdoor Channel
 http://hdhd.tk:80/live/Amanda1/Frechette1/19897.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Bet_Jams
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (Hub) BET Jams
 http://hdhd.tk:80/live/Amanda1/Frechette1/19898.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Lifetime Real Women
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) Lifetime Real Women
 http://hdhd.tk:80/live/Amanda1/Frechette1/19900.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib MavTV
 http://hdhd.tk:80/live/Amanda1/Frechette1/19905.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Baby_First
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) Baby First
 http://hdhd.tk:80/live/Amanda1/Frechette1/19910.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib NBCSN
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (Hub) CNBC
 http://hdhd.tk:80/live/Amanda1/Frechette1/19911.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib CCTV4
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) CCTV4
 http://hdhd.tk:80/live/Amanda1/Frechette1/19916.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib FX
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) FX
 http://hdhd.tk:80/live/Amanda1/Frechette1/19918.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib FXM
-http://hdhd.tk:80/live/Amanda1/Frechette1/19920.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib MAX
-http://hdhd.tk:80/live/Amanda1/Frechette1/19923.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib TBN
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) TBN
 http://hdhd.tk:80/live/Amanda1/Frechette1/19925.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib CGTN_Documentary
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) CGTN
 http://hdhd.tk:80/live/Amanda1/Frechette1/19932.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) History Channel
 http://hdhd.tk:80/live/Amanda1/Frechette1/19935.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib 3ABN
 http://hdhd.tk:80/live/Amanda1/Frechette1/19938.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Investigation_Discovery
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) Investigation Discovery
 http://hdhd.tk:80/live/Amanda1/Frechette1/19940.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib TCM
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) TCM
 http://hdhd.tk:80/live/Amanda1/Frechette1/19945.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib TNT
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) TNT
 http://hdhd.tk:80/live/Amanda1/Frechette1/19946.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Tooncast
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) Tooncast
 http://hdhd.tk:80/live/Amanda1/Frechette1/19948.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Lifetime_Movies
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) Lifetime Movie Network
 http://hdhd.tk:80/live/Amanda1/Frechette1/19949.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Flowsports
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) Flowsports
 http://hdhd.tk:80/live/Amanda1/Frechette1/19953.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) Nickelodeon
 http://hdhd.tk:80/live/Amanda1/Frechette1/19954.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib MAXUP
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) Cinemax
 http://hdhd.tk:80/live/Amanda1/Frechette1/19955.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Smile_Child
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) SMILE
 http://hdhd.tk:80/live/Amanda1/Frechette1/19957.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib MSNBC
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) MSNBC
 http://hdhd.tk:80/live/Amanda1/Frechette1/19958.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) Discovery Home & Health
 http://hdhd.tk:80/live/Amanda1/Frechette1/19962.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Euronews
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (Hub) Euronews
 http://hdhd.tk:80/live/Amanda1/Frechette1/19963.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib MAX_Prime
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (Hub) Rush Prime
 http://hdhd.tk:80/live/Amanda1/Frechette1/19965.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib RT_Documentary
-http://hdhd.tk:80/live/Amanda1/Frechette1/19970.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib FOX_Business
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) Fox Business Network
 http://hdhd.tk:80/live/Amanda1/Frechette1/19972.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib Fox News
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) Fox News
 http://hdhd.tk:80/live/Amanda1/Frechette1/19973.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib CityTV
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) City TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/19975.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib USA_Network
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) USA
 http://hdhd.tk:80/live/Amanda1/Frechette1/19977.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib OWN
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) OWN
 http://hdhd.tk:80/live/Amanda1/Frechette1/19990.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib B4U_Music
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (Hub) B4U Music
 http://hdhd.tk:80/live/Amanda1/Frechette1/19994.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib B4U_Music
-http://hdhd.tk:80/live/Amanda1/Frechette1/19995.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib FLOW Sports (P)
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (Hub) Flow Sports
 http://hdhd.tk:80/live/Amanda1/Frechette1/19998.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",CA (Carib) Win HD Caribbean (B)
-http://hdhd.tk:80/live/Amanda1/Frechette1/20000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",CA (Carib) CEEN
-http://hdhd.tk:80/live/Amanda1/Frechette1/20003.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib CNC3
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib (AMP) CNC3
 http://hdhd.tk:80/live/Amanda1/Frechette1/29101.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib CVM TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/38548.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Caribbean",TYC Sports
-http://hdhd.tk:80/live/Amanda1/Frechette1/47214.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",Carib TVDirect13
 http://hdhd.tk:80/live/Amanda1/Frechette1/400796.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Caribbean",CAR: NOS TV
@@ -2745,7 +2721,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/399509.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",KR KBS America
 http://hdhd.tk:80/live/Amanda1/Frechette1/399510.m3u8
 
-# --- Latino (50) ---
+# --- Latino (51) ---
 #EXTINF:-1 tvg-logo="" group-title="Latino",USA Latin A3 Series
 http://hdhd.tk:80/live/Amanda1/Frechette1/28855.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino",USA Latin A3Cine
@@ -2842,6 +2818,8 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/28961.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/28962.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino",US Latin Estrella TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/32724.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino",US Latin TyC Sports
+http://hdhd.tk:80/live/Amanda1/Frechette1/47214.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino",USA Latin ZONA Futbol
 http://hdhd.tk:80/live/Amanda1/Frechette1/49843.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino",Latin TVE
@@ -3401,7 +3379,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/48034.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Peru",Latin PE America TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/48035.m3u8
 
-# --- Pilipino (25) ---
+# --- Pilipino (22) ---
 #EXTINF:-1 tvg-logo="" group-title="Pilipino",PH MYX (D)
 http://hdhd.tk:80/live/Amanda1/Frechette1/23188.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pilipino",PH TFC Canada (D)
@@ -3428,24 +3406,18 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/49821.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/49822.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pilipino",PH Discovery Asia
 http://hdhd.tk:80/live/Amanda1/Frechette1/49824.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Pilipino",PH Hilsong Channel
-http://hdhd.tk:80/live/Amanda1/Frechette1/49826.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pilipino",PH KBS World
 http://hdhd.tk:80/live/Amanda1/Frechette1/49828.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pilipino",PH Knowledge Channel
 http://hdhd.tk:80/live/Amanda1/Frechette1/49829.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pilipino",PH MOR
 http://hdhd.tk:80/live/Amanda1/Frechette1/49830.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Pilipino",PH One PH
-http://hdhd.tk:80/live/Amanda1/Frechette1/49831.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pilipino",PH Outdoor Channel
 http://hdhd.tk:80/live/Amanda1/Frechette1/49832.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pilipino",PH PBO
 http://hdhd.tk:80/live/Amanda1/Frechette1/49833.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pilipino",PH SARI SARI
 http://hdhd.tk:80/live/Amanda1/Frechette1/49834.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Pilipino",PH TeleNovela
-http://hdhd.tk:80/live/Amanda1/Frechette1/49835.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pilipino",PH TFC USA
 http://hdhd.tk:80/live/Amanda1/Frechette1/49837.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pilipino",PH UAAP Varsity CH
@@ -3529,7 +3501,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/38777.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Russia",RU MATCH! Football 3
 http://hdhd.tk:80/live/Amanda1/Frechette1/45106.m3u8
 
-# --- SPORTS CRICKET (15) ---
+# --- SPORTS CRICKET (14) ---
 #EXTINF:-1 tvg-logo="" group-title="SPORTS CRICKET",Cricket 01 :
 http://hdhd.tk:80/live/Amanda1/Frechette1/47250.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS CRICKET",Cricket 02:
@@ -3552,8 +3524,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/48470.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/48471.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS CRICKET",Astro Cricket
 http://hdhd.tk:80/live/Amanda1/Frechette1/48514.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS CRICKET",CA ATN Cricket Plus
-http://hdhd.tk:80/live/Amanda1/Frechette1/48515.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS CRICKET",MY Astro Cricket
 http://hdhd.tk:80/live/Amanda1/Frechette1/48649.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS CRICKET",Carib SPORTS MAX
@@ -6169,7 +6139,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/380679.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Movies",24/7 Romance Movies
 http://hdhd.tk:80/live/Amanda1/Frechette1/384923.m3u8
 
-# --- USA Music (40) ---
+# --- USA Music (37) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/MTV.us.png" group-title="USA Music",US MTV
 http://hdhd.tk:80/live/Amanda1/Frechette1/299.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/MTVClassic.us.png" group-title="USA Music",US MTV Classic
@@ -6184,11 +6154,11 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/306.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/307.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NickMusic.us.png" group-title="USA Music",US Nick Music
 http://hdhd.tk:80/live/Amanda1/Frechette1/308.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | 80s
+#EXTINF:-1 tvg-logo="" group-title="USA Music",(MC Radio) 80s
 http://hdhd.tk:80/live/Amanda1/Frechette1/23367.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | '90s
+#EXTINF:-1 tvg-logo="" group-title="USA Music",(MC Radio) 90s
 http://hdhd.tk:80/live/Amanda1/Frechette1/23368.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Alternative
+#EXTINF:-1 tvg-logo="" group-title="USA Music",(MC Radio) Alternative
 http://hdhd.tk:80/live/Amanda1/Frechette1/23370.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Brits + Hits
 http://hdhd.tk:80/live/Amanda1/Frechette1/23371.m3u8
@@ -6200,11 +6170,11 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/23373.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/23375.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Hit List
 http://hdhd.tk:80/live/Amanda1/Frechette1/23376.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Indie
+#EXTINF:-1 tvg-logo="" group-title="USA Music",(MC Radio) Indie
 http://hdhd.tk:80/live/Amanda1/Frechette1/23377.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Kids Only
 http://hdhd.tk:80/live/Amanda1/Frechette1/23379.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Motown Hits
+#EXTINF:-1 tvg-logo="" group-title="USA Music",(MC Radio) Motown Hits
 http://hdhd.tk:80/live/Amanda1/Frechette1/23381.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Metal
 http://hdhd.tk:80/live/Amanda1/Frechette1/23382.m3u8
@@ -6218,15 +6188,13 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/23385.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/23386.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Pop Hits
 http://hdhd.tk:80/live/Amanda1/Frechette1/23387.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Pride
-http://hdhd.tk:80/live/Amanda1/Frechette1/23388.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | R&B 2K
 http://hdhd.tk:80/live/Amanda1/Frechette1/23389.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | R&B Soul
 http://hdhd.tk:80/live/Amanda1/Frechette1/23390.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Rap
+#EXTINF:-1 tvg-logo="" group-title="USA Music",(MC Radio) Rap
 http://hdhd.tk:80/live/Amanda1/Frechette1/23391.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Rap 2K
+#EXTINF:-1 tvg-logo="" group-title="USA Music",(MC Radio) 2000s Rap
 http://hdhd.tk:80/live/Amanda1/Frechette1/23392.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Rock
 http://hdhd.tk:80/live/Amanda1/Frechette1/23393.m3u8
@@ -6240,12 +6208,8 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/23397.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/23398.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Music",US (CX) Music Choice: Tropicales
 http://hdhd.tk:80/live/Amanda1/Frechette1/23399.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Wonderama
-http://hdhd.tk:80/live/Amanda1/Frechette1/23400.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Music",US (CX) Music Choice: Y2K
 http://hdhd.tk:80/live/Amanda1/Frechette1/23401.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Youth Hits
-http://hdhd.tk:80/live/Amanda1/Frechette1/23402.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Music",US MC Video | Pop Latino
 http://hdhd.tk:80/live/Amanda1/Frechette1/23403.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Music",US MTV (West)
@@ -7848,8 +7812,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/42769.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/47653.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/nbcsportsphiladelphia.png" group-title="USA Sports",NBC Sports Philadelphia
 http://hdhd.tk:80/live/Amanda1/Frechette1/49846.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Sports",US MeTV (KSTC)
-http://hdhd.tk:80/live/Amanda1/Frechette1/50053.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/rootsportsnorthwest.png" group-title="USA Sports",US Root Sports Northwest
 http://hdhd.tk:80/live/Amanda1/Frechette1/50238.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/mlbnetworkstrikezone.png" group-title="USA Sports",US MLB Network Strike Zone
@@ -7896,6 +7858,8 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/384955.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/387002.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Sports",US DAZN Ringside
 http://hdhd.tk:80/live/Amanda1/Frechette1/395053.m3u8
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA Sports",US The MLB Channel
+http://hdhd.tk:80/live/Amanda1/Frechette1/821821.m3u8
 
 # --- USA Telemundo (Local) (30) ---
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/telemundownju.png" group-title="USA Telemundo (Local)",US Telemundo (WNJU) Norwalk
@@ -8021,4 +7985,4 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/Amanda1/Frechette1/330322.m3u8
 
-# Total: 3914
+# Total: 3896

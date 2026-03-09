@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2026-03-09 07:30:12
+# Generated: 2026-03-09 18:40:28
 # Expires: 2026-05-28
 # Family Safe Edition
 # ==============================================
@@ -6097,7 +6097,9 @@ http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/5400.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7doCBDNnEITiRg4LPI7wK1jdb4p.jpg" group-title="Movies | → VOD COMEDIA ←",Superlópez (2018)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/4820.mp4
 
-# --- Movies | → VOD CONCIERTOS ← (455) ---
+# --- Movies | → VOD CONCIERTOS ← (456) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AigpusxLychNPHCdB8jRVTEQ1kS.jpg" group-title="Movies | → VOD CONCIERTOS ←",Harry Styles: Una noche en Manchester (2026)
+http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/280262.mkv
 #EXTINF:-1 tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="Movies | → VOD CONCIERTOS ←",Ke Personajes: Viña 2026
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/280165.mp4
 #EXTINF:-1 tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="Movies | → VOD CONCIERTOS ←",Juanes: Viña 2026
@@ -19813,4 +19815,4 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2492
 
-# Total: 9830
+# Total: 9831

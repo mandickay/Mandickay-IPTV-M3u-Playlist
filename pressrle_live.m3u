@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pressrle.lat
-# Generated: 2026-03-09 07:33:42
+# Generated: 2026-03-09 18:47:54
 # Expires: 2026-03-24
 # Family Safe Edition
 # ==============================================
 
 
-# --- CANAIS | 24H (94) ---
+# --- CANAIS | 24H (95) ---
 #EXTINF:-1 tvg-logo="http://canais.is/imgs/CINE24H.png" group-title="CANAIS | 24H",24 HORAS: A GRANDE FAMILIA
 http://pressrle.lat/live/52145784/453930/1894343.m3u8
 #EXTINF:-1 tvg-logo="http://canais.is/imgs/CINE24H.png" group-title="CANAIS | 24H",24 HORAS: A VACA E O FRANGO
@@ -102,6 +102,8 @@ http://pressrle.lat/live/52145784/453930/1894731.m3u8
 http://pressrle.lat/live/52145784/453930/1894323.m3u8
 #EXTINF:-1 tvg-logo="http://canais.is/imgs/CINE24H.png" group-title="CANAIS | 24H",24 HORAS: HOW I MET YOUR MOTHER
 http://pressrle.lat/live/52145784/453930/1894357.m3u8
+#EXTINF:-1 tvg-logo="http://canais.is/imgs/CINE24H.png" group-title="CANAIS | 24H",24 HORAS: IRMAO DO JOREL
+http://pressrle.lat/live/52145784/453930/1894324.m3u8
 #EXTINF:-1 tvg-logo="http://canais.is/imgs/CINE24H.png" group-title="CANAIS | 24H",24 HORAS: JASPION
 http://pressrle.lat/live/52145784/453930/1894490.m3u8
 #EXTINF:-1 tvg-logo="http://canais.is/imgs/CINE24H.png" group-title="CANAIS | 24H",24 HORAS: JIRAYA
@@ -529,13 +531,15 @@ http://pressrle.lat/live/52145784/453930/339254.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s16388_ll_h3_aa.png" group-title="CANAIS | ESPN",ESPN FHD H265
 http://pressrle.lat/live/52145784/453930/339253.m3u8
 
-# --- CANAIS | ESPORTES (31) ---
+# --- CANAIS | ESPORTES (32) ---
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s54680_ll_h3_ab.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
 http://pressrle.lat/live/52145784/453930/752283.m3u8
 #EXTINF:-1 tvg-logo="https://portalmakingof.com.br/wp-content/uploads/2022/12/transmitindo-a-copa-na-internet-casimiro-miguel-tem-audiencia-alta-637dfe72455ae_thumb.jpg" group-title="CANAIS | ESPORTES",CAZE TV HD
 http://pressrle.lat/live/52145784/453930/437715.m3u8
 #EXTINF:-1 tvg-logo="https://portalmakingof.com.br/wp-content/uploads/2022/12/transmitindo-a-copa-na-internet-casimiro-miguel-tem-audiencia-alta-637dfe72455ae_thumb.jpg" group-title="CANAIS | ESPORTES",CAZE TV HD 2
 http://pressrle.lat/live/52145784/453930/533462.m3u8
+#EXTINF:-1 tvg-logo="https://portalmakingof.com.br/wp-content/uploads/2022/12/transmitindo-a-copa-na-internet-casimiro-miguel-tem-audiencia-alta-637dfe72455ae_thumb.jpg" group-title="CANAIS | ESPORTES",CAZE TV HD 3
+http://pressrle.lat/live/52145784/453930/721065.m3u8
 #EXTINF:-1 tvg-logo="https://portalmakingof.com.br/wp-content/uploads/2022/12/transmitindo-a-copa-na-internet-casimiro-miguel-tem-audiencia-alta-637dfe72455ae_thumb.jpg" group-title="CANAIS | ESPORTES",CAZE TV HD 4
 http://pressrle.lat/live/52145784/453930/721201.m3u8
 #EXTINF:-1 tvg-logo="https://portalmakingof.com.br/wp-content/uploads/2022/12/transmitindo-a-copa-na-internet-casimiro-miguel-tem-audiencia-alta-637dfe72455ae_thumb.jpg" group-title="CANAIS | ESPORTES",CAZE TV HD 5
@@ -753,7 +757,7 @@ http://pressrle.lat/live/52145784/453930/339244.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s16214_ll_h3_aa.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL FHD H265
 http://pressrle.lat/live/52145784/453930/339249.m3u8
 
-# --- CANAIS | GLOBO (163) ---
+# --- CANAIS | GLOBO (164) ---
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s110807_ll_h3_aa.png" group-title="CANAIS | GLOBO",GLOBO AMAPA HD
 http://pressrle.lat/live/52145784/453930/406788.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s75855_ll_h3_aa.png" group-title="CANAIS | GLOBO",GLOBO ANHANGUERA GOIANIA HD
@@ -786,6 +790,8 @@ http://pressrle.lat/live/52145784/453930/329584.m3u8
 http://pressrle.lat/live/52145784/453930/516232.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s76479_ll_h3_aa.png" group-title="CANAIS | GLOBO",GLOBO GAZETA NOROESTE HD
 http://pressrle.lat/live/52145784/453930/531794.m3u8
+#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s76475_ll_h3_aa.png" group-title="CANAIS | GLOBO",GLOBO GAZETA NORTE ESPIRITO SANTO HD
+http://pressrle.lat/live/52145784/453930/531795.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s75870_ll_h3_aa.png" group-title="CANAIS | GLOBO",GLOBO GUARUJA HD
 http://pressrle.lat/live/52145784/453930/1924281.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s76632_ll_h3_aa.png" group-title="CANAIS | GLOBO",GLOBO INTER TV ALTO LITORAL HD
@@ -1173,7 +1179,7 @@ http://pressrle.lat/live/52145784/453930/533845.m3u8
 #EXTINF:-1 tvg-logo="https://www.fontedecanais.app/logos/canais/max.png" group-title="CANAIS | MAX",HBO MAX 10 HD
 http://pressrle.lat/live/52145784/453930/533846.m3u8
 
-# --- CANAIS | MÚSICAS (50) ---
+# --- CANAIS | MÚSICAS (51) ---
 #EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/bis.png" group-title="CANAIS | MÚSICAS",BIS HD
 http://pressrle.lat/live/52145784/453930/1515.m3u8
 #EXTINF:-1 tvg-logo="https://thumbnail.imgbin.com/16/2/0/kpop-kpop-heart-hand-sign-logo-7Ept5JEd_t.jpg" group-title="CANAIS | MÚSICAS",K-POP HD
@@ -1210,6 +1216,8 @@ http://pressrle.lat/live/52145784/453930/3457847.m3u8
 http://pressrle.lat/live/52145784/453930/3457835.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0qYPpU5VN3-IDyoKl00NnXnJbKJ0SwOIBARpE4UM8Y-OEjXKcUaOkXKGBSdV0sN5yQ" group-title="CANAIS | MÚSICAS",STINGRAY JUKEBOX OLDIES HD
 http://pressrle.lat/live/52145784/453930/3457841.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0qYPpU5VN3-IDyoKl00NnXnJbKJ0SwOIBARpE4UM8Y-OEjXKcUaOkXKGBSdV0sN5yQ" group-title="CANAIS | MÚSICAS",STINGRAY K-POP HD
+http://pressrle.lat/live/52145784/453930/3457828.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0qYPpU5VN3-IDyoKl00NnXnJbKJ0SwOIBARpE4UM8Y-OEjXKcUaOkXKGBSdV0sN5yQ" group-title="CANAIS | MÚSICAS",STINGRAY MOVIE MUSIC HD
 http://pressrle.lat/live/52145784/453930/3457831.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0qYPpU5VN3-IDyoKl00NnXnJbKJ0SwOIBARpE4UM8Y-OEjXKcUaOkXKGBSdV0sN5yQ" group-title="CANAIS | MÚSICAS",STINGRAY NOTHING BUT 90S HD
@@ -1995,7 +2003,7 @@ http://pressrle.lat/live/52145784/453930/6454.m3u8
 #EXTINF:-1 tvg-logo="http://www.fontedoscanais.com/logos/canais/tvpaieterno.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO HD
 http://pressrle.lat/live/52145784/453930/339485.m3u8
 
-# --- CANAIS | RÁDIOS (163) ---
+# --- CANAIS | RÁDIOS (164) ---
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",24 Horas Rdio
 http://pressrle.lat/live/52145784/453930/512553.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",91 Rock
@@ -2206,6 +2214,8 @@ http://pressrle.lat/live/52145784/453930/513405.m3u8
 http://pressrle.lat/live/52145784/453930/513424.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Pagode FM
 http://pressrle.lat/live/52145784/453930/513430.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Paixao FM 879
+http://pressrle.lat/live/52145784/453930/513433.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Panamby FM
 http://pressrle.lat/live/52145784/453930/513435.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | RÁDIOS",Par FM
@@ -2323,7 +2333,7 @@ http://pressrle.lat/live/52145784/453930/514049.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/411/470/png-transparent-red-headphones-mike-music-radio-logo-music-radio-music-radio-station.png" group-title="CANAIS | RÁDIOS",Sertaneja FM 106.7 Ribeirao Preto SP
 http://pressrle.lat/live/52145784/453930/364827.m3u8
 
-# --- CANAIS | SBT (31) ---
+# --- CANAIS | SBT (32) ---
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2024/08/25/224281876-mais-sbt.jpg" group-title="CANAIS | SBT",+SBT NOVELAS HD
 http://pressrle.lat/live/52145784/453930/791204.m3u8
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2024/08/25/224281876-mais-sbt.jpg" group-title="CANAIS | SBT",+SBT SILVIO SANTOS HD
@@ -2338,6 +2348,8 @@ http://pressrle.lat/live/52145784/453930/3457857.m3u8
 http://pressrle.lat/live/52145784/453930/388505.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s78505_ll_h3_aa.png" group-title="CANAIS | SBT",SBT BRASILIA HD
 http://pressrle.lat/live/52145784/453930/1925889.m3u8
+#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s76212_ll_h3_aa.png" group-title="CANAIS | SBT",SBT DIFUSORA MA HD
+http://pressrle.lat/live/52145784/453930/3571115.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s76727_ll_h3_aa.png" group-title="CANAIS | SBT",SBT INTERIOR HD
 http://pressrle.lat/live/52145784/453930/388511.m3u8
 #EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s16529_ll_h3_aa.png" group-title="CANAIS | SBT",SBT LONDRINA HD
@@ -3595,4 +3607,4 @@ http://pressrle.lat/live/52145784/453930/6188.m3u8
 #EXTINF:-1 tvg-logo="http://9822ko909.us:80/images/r42lGcgZ5Es0LIcsPesT21fyY32wzG5yuCnf9x8yMgS3wDTIAAqq8lF27bHd9zu0PKTdHzILZ9wgMiCZexPnjOxBGK2FOx8NF1zGMbRNJ78.png" group-title="Radios",Super Radio Tupi RJ
 http://pressrle.lat/live/52145784/453930/6187.m3u8
 
-# Total: 1759
+# Total: 1765

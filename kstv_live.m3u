@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: kstv.us:8080
-# Generated: 2026-03-09 18:50:44
+# Generated: 2026-03-10 07:17:56
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -1757,64 +1757,72 @@ http://kstv.us:8080/live/GX0PjEapsX/5128860596/49204.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB",MLB GAME 20 (HOME)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49205.m3u8
 
-# --- MLB.2 (35) ---
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 01H: 1:05pm Astros at Nationals (SDPA)
+# --- MLB.2 (39) ---
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 01H: 1:05pm Cardinals at Astros (CARD)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48165.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 01A: 1:05pm Astros at Nationals (CINR)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 01A:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48166.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 03H: 1:05pm Braves at Rays (MASN)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 02H: 1:05pm Orioles at Cardinals (CARD)
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/48167.m3u8
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 02A:
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/48168.m3u8
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 03H: 1:05pm Phillies at Red Sox (CARD)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48169.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 03A: 1:05pm Braves at Rays (CINR)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 03A:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48170.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 04H: 1:05pm Phillies at Twins (MNNT)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 04H: 1:05pm Rays at Tigers (CARD)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48171.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 04A: 1:05pm Red Sox at Pirates (SNP)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 04A:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48172.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 05H: 1:05pm Red Sox at Pirates (CINR)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 05H: 1:05pm Twins at Braves (ATL Video)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48173.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 06A: 1:10pm Cardinals at Marlins (MNNT)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 05A:
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/48174.m3u8
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 06H: 4:05pm Angels at Giants (ATL Video)
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/48175.m3u8
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 06A:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48176.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 07H: 1:10pm Cardinals at Marlins (CARD)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 07H: 4:05pm Athletics at Reds (ATL Video)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48177.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 07A: 1:10pm Yankees at Mets (WPIX)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 07A:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48178.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 08H: 1:10pm Yankees at Mets (DSN)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 08H: 4:05pm Guardians at Royals (ATL Video)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48179.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 08A: 4:05pm Angels at Athletics (KVVU FOX 5)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 08A:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48180.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 09H: 4:05pm Angels at Athletics (DSN)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 09H: 4:05pm Rockies at White Sox (ATL Video)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48181.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 09A: 4:05pm Angels at Rangers (MARQ)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 09A:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48182.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 10H: 4:05pm Angels at Rangers (SNLA)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 10H: 4:10pm Dodgers at Brewers (BREW)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48183.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 10A: 4:05pm D-backs at Reds (CINR)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 10A: 4:10pm Dodgers at Brewers (SNLA)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48184.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 11H: 4:05pm D-backs at Reds (ARID)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 11H: 4:10pm Mariners at D-backs (ATL Video)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48185.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 11A: 4:05pm Dodgers at Athletics (KVVU FOX 5)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 11A:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48186.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 12H: 4:05pm Dodgers at Athletics (SNLA)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 12H: 4:10pm Rangers at Padres (SDPA)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48187.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 12A: 4:05pm Giants at Cubs (MARQ)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 12A:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48188.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 13H: 4:05pm Giants at Cubs (SNLA)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 13H: 6:10pm Marlins at Mets (SNY)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48189.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 13A: 4:05pm Royals at White Sox (MARQ)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 13A: 6:10pm Marlins at Mets (SNLA)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48190.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 14H: 4:05pm Royals at White Sox (SNLA)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 14H: 6:35pm Pirates at Yankees (Gotham)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48191.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 14A: 4:10pm Guardians at Rockies (COLR)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 14A: 6:35pm Pirates at Yankees (SNLA)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48192.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 15H: 4:10pm Guardians at Rockies (CLEG)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 15H:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48193.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 15A: 4:10pm Mariners at Brewers (MARQ)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 15A:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48194.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 16H: 4:10pm Mariners at Brewers (SNLA)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 16H:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48195.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 16A: 4:10pm Reds at Padres (SDPA)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 16A:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48196.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 17H: 4:10pm Reds at Padres (CINR)
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 17H:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48197.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 17A:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48198.m3u8
@@ -1830,21 +1838,21 @@ http://kstv.us:8080/live/GX0PjEapsX/5128860596/48202.m3u8
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48203.m3u8
 
 # --- Main Events / PPV (26) ---
-#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 01: 7am wXw We Love Wrestling
+#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 01: 8pm WWE Monday Night RAW
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47695.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 02: 11am True Grit Wrestling Redemption
+#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 02:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47696.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 03: 12:30pm wXw 16 Carat Gold
+#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 03:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47697.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 04: 7pm GCW Ransom
+#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 04:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47698.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 05: 9pm Opetaia v Glanton
+#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 05:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47699.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 06: 8:30am USAC Road Racing Sebring
+#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 06:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47700.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 07: Arnold Sports Festival 1
+#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 07:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47701.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 08: Arnold Sports Festival 2
+#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 08:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47702.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 09:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47703.m3u8
@@ -1884,25 +1892,25 @@ http://kstv.us:8080/live/GX0PjEapsX/5128860596/47719.m3u8
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48375.m3u8
 
 # --- NBA (20) ---
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 01: BOS Celtics VS CLE Cavaliers ( ABC Feed ) @ 1:00 PM
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 01: Philadelphia 76ers vs Cleveland Cavaliers @ 07:00 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47477.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 02: NYK Knicks VS LAL Lakers ( ABC Feed ) @ 3:30 PM
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 02: Memphis Grizzlies vs Brooklyn Nets @ 07:30 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47478.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 03: Detroit Pistons vs Miami Heat @ 06:00 PM EST
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 03: Denver Nuggets vs Oklahoma City Thunder @ 07:30 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47479.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 04: Dallas Mavericks vs Toronto Raptors @ 06:00 PM
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 04: Golden State Warriors vs Utah Jazz @ 09:00 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47480.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 05: Washington Wizards vs New Orleans Pelicans @ 07:00 PM
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 05: New York Knicks vs LA Clippers @ 10:00 PM
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47481.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 06: Orlando Magic vs Milwaukee Bucks @ 08:00 PM
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 06:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47482.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 07: Houston Rockets vs San Antonio Spurs @ 08:00 PM
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 07:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47483.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 08: Indiana Pacers vs Portland Trail Blazers @ 09:00 PM
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 08:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47484.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 09: Chicago Bulls vs Sacramento Kings @ 09:00 PM
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 09:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47485.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 10: Charlotte Hornets vs Phoenix Suns @ 10:00 PM
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 10:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47486.m3u8
 #EXTINF:-1 tvg-logo="https://tlgrm.re/images/nba-tv-us.png" group-title="NBA",NBA GAME 11:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47487.m3u8
@@ -1926,25 +1934,25 @@ http://kstv.us:8080/live/GX0PjEapsX/5128860596/48339.m3u8
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48340.m3u8
 
 # --- NBA.2 (15) ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 01: 1:00PM Celtics @ Cavaliers - Sun | ABC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 01: 7:00PM 76ers @ Cavaliers - Mon | NBCSP, FDSNOH
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47583.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 02: 3:30PM Knicks @ Lakers - Sun | ABC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 02: 7:30PM Grizzlies @ Nets - Mon | YES
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47584.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 03: 6:00PM Pistons @ Heat - Sun | FDSNDET, FDSNSun
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 03: 7:30PM Nuggets @ Thunder - Mon | ALT, FDSNOK, Peacock
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47585.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 04: 6:00PM Mavericks @ Raptors - Sun | KFAA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 04: 9:00PM Warriors @ Jazz - Mon | NBCSBA, KJZZ
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47586.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 05: 7:00PM Wizards @ Pelicans - Sun | MNMT, GCSEN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 05: 10:00PM Knicks @ Clippers - Mon | FDSNSoCal, Peacock
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47587.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 06: 8:00PM Magic @ Bucks - Sun | FDSNFL, FDSNWI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 06:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47588.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 07: 8:00PM Rockets @ Spurs - Sun | Telemundo, NBC, Peacock
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 07:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47589.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 08: 9:00PM Pacers @ Trail Blazers - Sun | FDSNIN, KUNP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 08:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47590.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 09: 9:00PM Bulls @ Kings - Sun | NBCSCA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 09:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47591.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 10: 10:00PM Hornets @ Suns - Sun | NBCSN, Peacock
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 10:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47592.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA.2",NBA 11:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47593.m3u8
@@ -2474,17 +2482,17 @@ http://kstv.us:8080/live/GX0PjEapsX/5128860596/47693.m3u8
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47694.m3u8
 
 # --- NHL (16) ---
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 01: 02:00PM Wild at Avalanche - Sun (TNT, truTV)
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47534.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 02: 04:30PM Bruins at Penguins - Sun (TNT, truTV)
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 02: 07:00PM Rangers at Flyers - Mon (MSGSN)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47535.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 03: 06:00PM Lightning at Sabres - Sun (PS1)
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 03: 07:00PM Flames at Capitals - Mon (MNMT)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47536.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 04: 06:00PM Blackhawks at Stars - Sun (CHSN)
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 04: 08:30PM Mammoth at Blackhawks - Mon (CHSN)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47537.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 05: 07:00PM Red Wings at Devils - Sun (ESPN)
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 05: 09:00PM Senators at Canucks - Mon (RDS)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47538.m3u8
-#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 07: 09:30PM Oilers at Golden Knights - Sun (ESPN)
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 06:
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47539.m3u8
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 07:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47540.m3u8
 #EXTINF:-1 tvg-logo="https://tlgrm.re/images/nhl-center-ice-us.png" group-title="NHL",NHL GAME 08:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47541.m3u8
@@ -4567,4 +4575,4 @@ http://kstv.us:8080/live/GX0PjEapsX/5128860596/48534.m3u8
 #EXTINF:-1 tvg-logo="https://tlgrm.re/images/wnba.png" group-title="WNBA.2",WNBA 10:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48535.m3u8
 
-# Total: 2243
+# Total: 2247

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 7semfronteiras.cc
-# Generated: 2026-03-09 18:51:19
+# Generated: 2026-03-10 07:13:58
 # Expires: 2026-03-15
 # Family Safe Edition
 # ==============================================
@@ -5755,7 +5755,7 @@ http://7semfronteiras.cc/live/dfferreira02/evosj4297n/359809.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/e526178d9441b33673d1796c1402bf1a.png" group-title="CANAIS | NBA NHL MBL & LEAGUE PASS",USA | NBA | Atlanta Hawks
 http://7semfronteiras.cc/live/dfferreira02/evosj4297n/359810.m3u8
 
-# --- CANAIS | NOTÍCIAS (36) ---
+# --- CANAIS | NOTÍCIAS (38) ---
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/cnnbrasilfhd.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD²
 http://7semfronteiras.cc/live/dfferreira02/evosj4297n/18641.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/cnnbrasilfhd.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD¹
@@ -5828,6 +5828,10 @@ http://7semfronteiras.cc/live/dfferreira02/evosj4297n/126621.m3u8
 http://7semfronteiras.cc/live/dfferreira02/evosj4297n/336455.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/cnnmoney.png" group-title="CANAIS | NOTÍCIAS",CNN Money HD¹
 http://7semfronteiras.cc/live/dfferreira02/evosj4297n/341174.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2YEu3uh.png" group-title="CANAIS | NOTÍCIAS",SBT NEWS FHD¹
+http://7semfronteiras.cc/live/dfferreira02/evosj4297n/362596.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yhPlkai.png" group-title="CANAIS | NOTÍCIAS",SBT NEWS HD¹
+http://7semfronteiras.cc/live/dfferreira02/evosj4297n/362597.m3u8
 
 # --- CANAIS | PARAMOUNT+ (8) ---
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/paramountfhd.png" group-title="CANAIS | PARAMOUNT+",PARAMOUNT+ 1 FHD¹
@@ -9669,4 +9673,4 @@ http://7semfronteiras.cc/live/dfferreira02/evosj4297n/197700.m3u8
 #EXTINF:-1 tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_ufc.png" group-title="ESPAÇO DO CLIENTE",CALENDÁRIO UFC
 http://7semfronteiras.cc/live/dfferreira02/evosj4297n/197701.m3u8
 
-# Total: 4769
+# Total: 4771

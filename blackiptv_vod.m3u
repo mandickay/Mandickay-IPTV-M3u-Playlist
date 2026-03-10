@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-09 18:54:23
+# Generated: 2026-03-10 07:25:04
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -11519,7 +11519,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/26836.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CMT: Sahtekarlar 21.Bölüm (YENI GÜNÜNDE)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60873.mp4
 
-# --- Movies | TR/DIZI ~ DISNEY + (79) ---
+# --- Movies | TR/DIZI ~ DISNEY + (80) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",The Beauty (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2047.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Tell Me Lies (2022) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2025.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Percy Jackson and the Olympians (2023) TR
@@ -12163,7 +12165,11 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ HBO MAX/BLUTV",The Chair Company (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1658.mp4
 
-# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (506) ---
+# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (508) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Vladimir (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2049.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Salvador (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2048.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Dinozorlar (2026) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2045.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Can This Love Be Translated? (2026) TR
@@ -13190,9 +13196,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/33155.mp4
 # --- Movies | TR/DIZI ~ PAZARTESI (3) ---
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/82/322/png-clipart-flag-of-turkey-national-flag-yukselen-bayrak-turk-bayra%C4%9F%C4%B1-100x150-flag-miscellaneous-flag.png" group-title="Movies | TR/DIZI ~ PAZARTESI",*****TURK DIZI*****
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/4968.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Cennetin Cocuklari 23.Bölüm (YENI DIZI)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Cennetin Cocuklari 24.Bölüm (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/39132.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Uzak Sehir 52.Bölüm (YENI SEZON)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Uzak Sehir 53.Bölüm (YENI SEZON)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/376.mp4
 
 # --- Movies | TR/DIZI ~ PERSEMBE (4) ---
@@ -21811,4 +21817,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10755
+# Total: 10758

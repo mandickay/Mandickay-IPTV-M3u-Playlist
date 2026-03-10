@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-03-07 18:36:32
+# Generated: 2026-03-10 07:24:27
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -199,7 +199,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/225145.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/artDoku2.png" group-title="AL DOKUMENTARE",AL: DOKU 2
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/488443.m3u8
 
-# --- AL FETARE (9) ---
+# --- AL FETARE (10) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/al.png" group-title="AL FETARE",AL: ----- ISLAM/FETARE -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301612.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ALBANIA/rtvPendimi.png" group-title="AL FETARE",AL: RTV PENDIMI HD
@@ -218,6 +218,8 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/365883.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/412912.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mekameleen_tv_eg.png" group-title="AL FETARE",AL: TV MEKA LIVE
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301730.m3u8
+#EXTINF:-1 tvg-logo="https://arkivaislame.com/wp-content/uploads/2024/03/Arkiva-Islame.jpg" group-title="AL FETARE",AL: ARKIVA ISLAME
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672452.m3u8
 
 # --- AL FILMA - SERIALE (73) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTSHFILM.png" group-title="AL FILMA - SERIALE",AL: RTSH FILM
@@ -1685,71 +1687,125 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/580017.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE DYN SPORT - RTL+ SPORT",DE: VIP RTL+ SPORT EVENT 13 HD (SPIELZEIT)
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/633970.m3u8
 
-# --- DE DYN SPORT EVENT (MIT EPG) (24) ---
+# --- DE DYN SPORT EVENT (MIT EPG) (51) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: ----- DYN SPORT EVENT -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/670872.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| TSV HACHING MUNCHEN - BERLIN RECYCLING VOLLEYS (2026-03-07 17:40:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671661.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| TUS FERNDORF - DESSAU-ROSSLAUER HV 06 (2026-03-07 17:40:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671660.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| HSG KREFELD NIEDERRHEIN - TV GROSSWALLSTADT (2026-03-07 17:40:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671659.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| VCO BERLIN - VFB FRIEDRICHSHAFEN (2026-03-07 17:40:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671658.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| ALLIANZ MTV STUTTGART - USC MUNSTER (2026-03-07 17:45:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671657.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| VC WIESBADEN - SSC PALMBERG SCHWERIN (2026-03-07 18:10:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671656.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| ENERGIEQUELLE NETZHOPPERS KW - WWK VOLLEYS HERRSCHING (2026-03-07 18:40:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671655.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| SG FLENSBURG-HANDEWITT - SC DHFK LEIPZIG (2026-03-07 18:45:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671654.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| ASV DACHAU - HELIOS GRIZZLYS GIESEN (2026-03-07 19:10:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671653.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| ETV HAMBURGER VOLKSBANK VOLLEYS - VFB SUHL LOTTO THURINGEN (2026-03-07 19:10:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671652.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| HSC 2000 COBURG - 1. VFL POTSDAM (2026-03-07 19:10:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671651.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| BINDER BLAUBAREN TSV FLACHT - SKURIOS VOLLEYS BORKEN (2026-03-07 19:10:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671650.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| FT 1844 FREIBURG - SVG LUNEBURG (2026-03-07 19:40:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671649.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| PRINCETON REVOLUTION - LOS ANGELES SPINNERS (2026-03-07 22:00:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671648.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| TELEKOM BASKETS BONN - SYNTAINICS MBC (2026-03-08 14:45:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671647.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| SKYLINERS FRANKFURT - BMA365 BAMBERG BASKETS (2026-03-08 14:45:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671646.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| SC MAGDEBURG - TSV HANNOVER-BURGDORF (2026-03-08 14:45:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671645.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| LANDERSPIEL FRAUEN: DEUTSCHLAND VS. SLOWENIEN | EM-QUALIFIKATION (2026-03-08 15:20:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671644.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| SCHWARZ-WEISS ERFURT - DRESDNER SC (2026-03-08 15:40:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671643.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CAROLINA GOLD RUSH - LOS ANGELES SPINNERS (2026-03-08 16:00:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671642.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| ALBA BERLIN - FITNESS FIRST WURZBURG BASKETS (2026-03-08 16:15:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671641.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| HC ERLANGEN - GWD MINDEN (2026-03-08 16:15:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671640.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| HSG WETZLAR - MT MELSUNGEN (2026-03-08 16:15:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/671639.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| FRISCH AUF! GOPPINGEN - THSV EISENACH (2026-03-09 18:45:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672578.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| TUS N-LUBBECKE - HC ELBFLORENZ 2006 (2026-03-09 19:10:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672577.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| VET-CONCEPT GLADIATORS TRIER - MLP ACADEMICS HEIDELBERG (2026-03-09 19:45:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672576.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 1 SESSION 1 (2026-03-10 04:00:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672575.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 1 SESSION 2 (2026-03-10 07:00:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672574.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 1 SESSION 3 (2026-03-10 11:30:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672573.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| HAPOEL ATSMON HOLON - GALATASARAY SPOR KULUBU DERNEGI (2026-03-10 17:20:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672572.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| VEOLIA TOWERS HAMBURG - SCIENCE CITY JENA (2026-03-10 18:15:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672571.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| RK NEXE - TSV HANNOVER-BURGDORF (2026-03-10 18:35:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672570.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| FC BAYERN MUNCHEN BASKETBALL - BASKETBALL LOWEN BRAUNSCHWEIG (2026-03-10 19:45:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672569.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CLUB JOVENTUT BADALONA SAD - FITNESS FIRST WURZBURG BASKETS (2026-03-10 20:20:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672568.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| ELAN CHALON - UNICAJA SD (2026-03-10 20:20:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672567.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| MT MELSUNGEN - HC VARDAR 1961 (2026-03-10 20:35:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672566.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| THW KIEL - SG FLENSBURG-HANDEWITT (2026-03-10 20:35:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672565.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 2 SESSION 1 (2026-03-11 04:00:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672564.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 2 SESSION 2 (2026-03-11 07:00:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672563.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 2 SESSION 3 (2026-03-11 11:30:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672562.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| AEK - TOFAS SPORTS CLUB (2026-03-11 17:50:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672561.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| BC RYTAS - LE MANS SARTHE (2026-03-11 18:20:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672560.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| ERA BASKETBALL NYMBURK - PALLACANESTRO TRIESTE 2004 SRL SSD ARL (2026-03-11 18:20:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672559.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| ASK KARDITSAS BC - ALBA BERLIN (2026-03-11 19:50:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672558.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| PARIS SAINT-GERMAIN HANDBALL - SC MAGDEBURG (2026-03-11 20:35:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672557.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| LENOVO TENERIFE - CB GRAN CANARIA CLARET SAD (2026-03-11 20:50:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672556.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 3 SESSION 1 (2026-03-12 04:00:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672555.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 3 SESSION 2 (2026-03-12 11:30:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672554.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| FUCHSE BERLIN - HBC NANTES (2026-03-12 20:35:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672553.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 4 SESSION 1 (2026-03-13 04:00:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672552.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 4 SESSION 2 (2026-03-13 11:30:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672551.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| SWD POWERVOLLEYS DUREN - CEREBRICKS VOLLEY GOATS MITTELDT (2026-03-13 18:40:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672550.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| SV WARNEMUNDE - VCO BERLIN (2026-03-13 18:40:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672549.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| 1. VFL POTSDAM - HSG NORDHORN-LINGEN (2026-03-13 18:40:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672548.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| TSV HANNOVER-BURGDORF - HSV HAMBURG (2026-03-13 18:45:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672547.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| THSV EISENACH - RHEIN-NECKAR LOWEN (2026-03-13 18:45:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672546.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| TSV BAYER DORMAGEN - TV 05/07 HUTTENBERG (2026-03-13 19:10:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672545.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| VFL EINTRACHT HAGEN - HC OPPENWEILER/BACKNANG (2026-03-13 19:40:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672544.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| MT MELSUNGEN - VFL GUMMERSBACH (2026-03-13 19:45:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672543.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| VEOLIA TOWERS HAMBURG - MLP ACADEMICS HEIDELBERG (2026-03-13 19:45:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672542.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| PORTLAND PADDLERS - NEW YORK SLICE (2026-03-13 21:00:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672541.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 5 SESSION 1 (2026-03-14 04:00:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672540.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 5 SESSION 2 (2026-03-14 11:30:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672539.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| THURINGER HC - HSG BENSHEIM/AUERBACH | HAUSHAHN FINAL 4 (2026-03-14 16:15:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672538.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| VFL LUBECK-SCHWARTAU - TUS N-LUBBECKE (2026-03-14 17:40:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672537.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| SG BBM BIETIGHEIM - TUS FERNDORF (2026-03-14 17:40:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672536.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| FITNESS FIRST WURZBURG BASKETS - TELEKOM BASKETS BONN (2026-03-14 18:15:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672535.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| RATIOPHARM ULM - SCIENCE CITY JENA (2026-03-14 18:15:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672534.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| BORUSSIA DORTMUND - HSG BLOMBERG-LIPPE | HAUSHAHN FINAL 4 (2026-03-14 18:45:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672533.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| GWD MINDEN - HSG WETZLAR (2026-03-14 18:45:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672532.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| TV GROSSWALLSTADT - TUSEM ESSEN (2026-03-14 19:10:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672531.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| THW KIEL - SG FLENSBURG-HANDEWITT (2026-03-14 19:30:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672530.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| RASTA VECHTA - MHP RIESEN LUDWIGSBURG (2026-03-14 19:45:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672529.m3u8
 
 # --- DE FORMEL 1 - NBA (79) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE FORMEL 1 - NBA",DE: ----- FORMEL 1 -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/553492.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skySportF1.png" group-title="DE FORMEL 1 - NBA",DE: F1 HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/609937.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/f1Battle.png" group-title="DE FORMEL 1 - NBA",DE: F1 BATTLE
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/598161.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/f1DriverTracker.png" group-title="DE FORMEL 1 - NBA",DE: F1 DRIVER TRACKER
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/553491.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/f1MULTI-SCREAN.png" group-title="DE FORMEL 1 - NBA",DE: F1 MULTI SCREEN - TEAM RADIO
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/553490.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/f1On%20BoardMix.png" group-title="DE FORMEL 1 - NBA",DE: F1 ON BOARD MIX
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/553489.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/f1Timing-Screean.png" group-title="DE FORMEL 1 - NBA",DE: F1 TIMING SCREEN
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/553488.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/f1Battle.png" group-title="DE FORMEL 1 - NBA",DE: F1 ON BOARD PER PEREZ
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/598161.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/f1On%20BoardMix.png" group-title="DE FORMEL 1 - NBA",DE: F1 ONBOARD FRANCO COLAPINTO
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/553489.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/f1OnBoard.png" group-title="DE FORMEL 1 - NBA",DE: F1 ON BOARD ALEXANDER ALBON
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/553487.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/f1OnBoard.png" group-title="DE FORMEL 1 - NBA",DE: F1 ON BOARD CARLOS SAINZ
@@ -1762,7 +1818,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/553484.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/553483.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/f1OnBoard.png" group-title="DE FORMEL 1 - NBA",DE: F1 ON BOARD FERNANDO ALONSO
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/553482.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/f1OnBoard.png" group-title="DE FORMEL 1 - NBA",DE: F1 ON BOARD JACK DOOHAN
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/f1OnBoard.png" group-title="DE FORMEL 1 - NBA",DE: F1 ON BOARD ARVID LINDBLAD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/553481.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/f1OnBoard.png" group-title="DE FORMEL 1 - NBA",DE: F1 ON BOARD GEORGE RUSSEL
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/553480.m3u8
@@ -1786,7 +1842,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/553472.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/553471.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/f1OnBoard.png" group-title="DE FORMEL 1 - NBA",DE: F1 ON BOARD GABRIEL BORTOLETO
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/553470.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/f1OnBoard.png" group-title="DE FORMEL 1 - NBA",DE: F1 ON BOARD YUKI TSUNODA
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/f1OnBoard.png" group-title="DE FORMEL 1 - NBA",DE: F1 ON BOARD VALTTERI BOTTAS
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/553469.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/f1OnBoard.png" group-title="DE FORMEL 1 - NBA",DE: F1 ON BOARD OLIVER BEARMAN
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/553468.m3u8
@@ -3811,17 +3867,39 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/486773.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/tvIngolstadt.png" group-title="DE REGIONAL",DE: TV.INGOLSTADT
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/487219.m3u8
 
-# --- DE RTL+ SPORT EVENT (MIT EPG) (5) ---
+# --- DE RTL+ SPORT EVENT (MIT EPG) (16) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: ----- RTL+ SPORT EVENT -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/670911.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| OKTAGON 85: DIE MMA FIGHTNIGHT LIVE AUS HAMBURG (2026-03-07 17:25:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/670895.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| MANCHESTER UNITED VS. ASTON VILLA (2026-03-15 14:40:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/670894.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| OKTAGON 86: STETTIN (2026-04-11 16:25:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/670893.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| OKTAGON 87: LIBEREC (2026-04-25 16:25:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/670892.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| OSC LILLE VS. ASTON VILLA (2026-03-12 17:10:00) (2026-03-12 18:10:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672593.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| SAMSUNSPOR VS. RAYO VALLECANO (2026-03-12 17:10:00) (2026-03-12 18:10:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672592.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| PANATHINAIKOS ATHEN VS. REAL BETIS (2026-03-12 17:10:00) (2026-03-12 18:10:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672591.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| FC BOLOGNA VS. AS ROM (2026-03-12 17:10:00) (2026-03-12 18:10:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672590.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| MATCHDAY-SHOW & KONFERENZ (2026-03-12 17:10:00) (2026-03-12 18:10:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672589.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| VFB STUTTGART VS. FC PORTO (2026-03-12 17:25:00) (2026-03-12 18:25:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672588.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| SENDUNG VOM 12.03.2026 (2026-03-12 17:40:00) (2026-03-12 18:40:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672587.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| SK SIGMA OLMUTZ VS. FSV MAINZ 05 (2026-03-12 19:40:00) (2026-03-12 20:40:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672586.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| KRC GENK VS. SC FREIBURG (2026-03-12 19:40:00) (2026-03-12 20:40:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672585.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| NOTTINGHAM FOREST VS. FC MIDTJYLLAND (2026-03-12 19:45:00) (2026-03-12 20:45:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672584.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| FERENCVAROS BUDAPEST VS. SC BRAGA (2026-03-12 19:45:00) (2026-03-12 20:45:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672583.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| CELTA VIGO VS. OLYMPIQUE LYON (2026-03-12 19:45:00) (2026-03-12 20:45:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672582.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| MANCHESTER UNITED VS. ASTON VILLA (2026-03-15 13:40:00) (2026-03-15 14:40:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672581.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| OKTAGON 86: STETTIN (2026-04-11 15:25:00) (2026-04-11 16:25:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672580.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| OKTAGON 87: LIBEREC (2026-04-25 15:25:00) (2026-04-25 16:25:00)
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672579.m3u8
 
 # --- DE SPORT (104) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE SPORT",DE: ----- SPORT -----
@@ -4729,4 +4807,4 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/210664.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/alsat.png" group-title="MK MACEDONIA",MK: ALSAT M TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/290212.m3u8
 
-# Total: 2326
+# Total: 2365

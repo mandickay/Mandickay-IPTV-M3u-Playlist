@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ktvn1.xyz
-# Generated: 2026-03-09 18:53:28
+# Generated: 2026-03-10 07:23:21
 # Expires: 2026-04-29
 # Family Safe Edition
 # ==============================================
@@ -3657,7 +3657,9 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/176146.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Melilla.svg/750px-Flag_of_Melilla.svg.png" group-title="EU ES | AUTONOMICOS",| ES| MELILLA TV
 http://ktvn1.xyz/live/A52FDC75/34X79X26/167481.m3u8
 
-# --- EU ES | CINE & SERIES (84) ---
+# --- EU ES | CINE & SERIES (85) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/HBO_Max_logo_%28May_2025%29.png?_=20250514225558" group-title="EU ES | CINE & SERIES",|ES| M+ HBO MAX  ʰᵈ
+http://ktvn1.xyz/live/A52FDC75/34X79X26/443580.m3u8
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.marefa.org%2Fw%2Fimages%2Fthumb%2F8%2F80%2FEstrenos_por_Movistar_Plus%252B_2022_logo.svg%2F1200px-Estrenos_por_Movistar_Plus%252B_2022_logo.svg.png&f=1&nofb=1&ipt=5283a1706ba294dd464e657e36738223a8cb8a1385e20bc7e5d619c0767a4d80&ipo=images" group-title="EU ES | CINE & SERIES",|ES| M+ ESTRENOS ʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/418196.m3u8
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.marefa.org%2Fw%2Fimages%2Fthumb%2F8%2F80%2FEstrenos_por_Movistar_Plus%252B_2022_logo.svg%2F1200px-Estrenos_por_Movistar_Plus%252B_2022_logo.svg.png&f=1&nofb=1&ipt=5283a1706ba294dd464e657e36738223a8cb8a1385e20bc7e5d619c0767a4d80&ipo=images" group-title="EU ES | CINE & SERIES",|ES| M+ ESTRENOS ᶠʰᵈ
@@ -7625,4 +7627,4 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/346609.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/512px-RTP1_-_Logo_2016.svg.png" group-title="Unknown",|PT| RTP 1 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/143527.m3u8
 
-# Total: 3669
+# Total: 3670

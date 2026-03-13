@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: awsxcore.uk:8080
-# Generated: 2026-03-12 07:17:49
+# Generated: 2026-03-13 18:39:21
 # Expires: 2026-11-18
 # Family Safe Edition
 # ==============================================
@@ -53,7 +53,13 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191084.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/3a1436c0020df67648220a778ae0c0eb.png" group-title="⭐RADIO",RADIO CONSTANTA
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191085.m3u8
 
-# --- ⭐ROMANIA (492) ---
+# --- ⭐ROMANIA (496) ---
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/mireasa.png" group-title="⭐ROMANIA",MIREASA
+http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/210810.m3u8
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/mireasa_plus.png" group-title="⭐ROMANIA",MIREASA PLUS
+http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/210811.m3u8
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/mireasa_extra.png" group-title="⭐ROMANIA",MIREASA EXTRA
+http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/210812.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/antena_1.png" group-title="⭐ROMANIA",ANTENA 1 4K
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/117.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/antena_1.png" group-title="⭐ROMANIA",ANTENA 1 FHD
@@ -84,6 +90,8 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191541.m3u8
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/94773.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/antena_stars.png" group-title="⭐ROMANIA",ANTENA STARS SD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/89534.m3u8
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/antena_international.png" group-title="⭐ROMANIA",ANTENA INTERNATIONAL
+http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/210813.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/happy_channel.png" group-title="⭐ROMANIA",HAPPY CHANNEL 4K
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/172419.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/happy_channel.png" group-title="⭐ROMANIA",HAPPY CHANNEL FHD
@@ -1039,4 +1047,4 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/111281.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXdwSw5d/GOLD.png" group-title="⭐ROMANIA",GOLD HORROR 2 FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/135155.m3u8
 
-# Total: 514
+# Total: 518

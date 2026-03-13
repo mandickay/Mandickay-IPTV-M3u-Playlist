@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cazintv.com:80
-# Generated: 2026-03-13 07:22:29
+# Generated: 2026-03-13 18:39:50
 # Expires: 2026-10-21
 # Family Safe Edition
 # ==============================================
@@ -4025,7 +4025,9 @@ http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13432.mp4
 #EXTINF:-1 tvg-logo="http://85.14.243.71/images/220px-Den_of_thieves_two_pantera_ver2.jpg" group-title="Movies | VIDEOTEKA 2025",Den of Thieves 2: Pantera (2025)
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13433.mp4
 
-# --- Movies | VIDEOTEKA 2026 (14) ---
+# --- Movies | VIDEOTEKA 2026 (15) ---
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bSqND49Hj3DKH27GkTK_MVs2mDUe4lGfZ_2mZvUjpL0ygJ_lQwp-E7jf6-li29Micxhn&s=10" group-title="Movies | VIDEOTEKA 2026",Cold Storage (2026)
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13718.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/2/22/War_Machine_poster.jpeg/250px-War_Machine_poster.jpeg" group-title="Movies | VIDEOTEKA 2026",War Machine (2026)
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13693.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BMzI2ODY3MzQtYzllNy00YWM1LWExZTgtOGIwNjk2MmE2MmY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies | VIDEOTEKA 2026",Shelter (2026)
@@ -4055,4 +4057,4 @@ http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13658.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/4/43/Mercy_2026_poster.jpeg" group-title="Movies | VIDEOTEKA 2026",Mercy (2026)
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13660.mp4
 
-# Total: 2008
+# Total: 2009

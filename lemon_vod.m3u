@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-03-13 07:24:16
+# Generated: 2026-03-13 18:52:51
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -18101,7 +18101,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/189678.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg" group-title="Movies | Nieuwe Releases 2024",Thelma De Eenhoorn (2024) NL Gesproken
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190125.mkv
 
-# --- Movies | Nieuwe Releases 2025 (468) ---
+# --- Movies | Nieuwe Releases 2025 (469) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHcG8FPk9yILRVPnHEcrwtrkAAN.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 16: Dolphins @ Jets
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/119331.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldEVs1GQiYLGXZEwa93tb5t3gsD.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 17: Chiefs @ Broncos
@@ -19038,6 +19038,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/198072.mkv
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/198088.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7eHvzCoRFXhqt0XM2d8MQ1FBKa.jpg" group-title="Movies | Nieuwe Releases 2025",F Marry Kill (2025)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/198116.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xzAMqYt7SduZcfdEtjeMg6T5fI.jpg" group-title="Movies | Nieuwe Releases 2025",De Tatta's 3 (2025)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/198790.mkv
 
 # --- Movies | Nieuwe Releases 2026 (3) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDEbtlRgUl14gamR0FbG4qxdLY5.jpg" group-title="Movies | Nieuwe Releases 2026",UFC Fight Night 267: Strickland vs. Hernandez (2026)
@@ -20749,7 +20751,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3193.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Viaplay",Max Verstappen – New Ground
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3643.mp4
 
-# --- Movies | Videoland (291) ---
+# --- Movies | Videoland (292) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",De 12 van Schouwendam
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",Mocro Maffia
@@ -21332,6 +21334,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3658.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3667.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",Costa Hollandia
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3668.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",De Verraders
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3674.mp4
 
 # --- Movies | WESTERN FILMS (51) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rVIjriV3Sv1B9INrzGRXW8Q7aY.jpg" group-title="Movies | WESTERN FILMS",The Magnificent Seven (1960)
@@ -22477,4 +22481,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11182
+# Total: 11184

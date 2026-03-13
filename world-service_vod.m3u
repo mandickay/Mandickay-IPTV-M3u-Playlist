@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-13 07:26:38
+# Generated: 2026-03-13 18:48:22
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -8145,9 +8145,13 @@ http://world-service.us:8080/movie/giovanmer/merante/18135.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON COMICO",Made in Sud  I Gomorroidi con Salvatore Conte   Made in Sud 12042017
 http://world-service.us:8080/movie/giovanmer/merante/18158.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (1002) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (1004) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://world-service.us:8080/movie/giovanmer/merante/1659.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/4eba4e8d44424b232a9ae3bcccfd7a58.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Oi vita mia (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87198.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/bcf2e05680cd8471157fefda147d5531.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Mostruosamente tuo (2026)
+http://world-service.us:8080/movie/giovanmer/merante/87199.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/4fe3625d2e884a02d259ca34f604d3bb.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",The Knife (2025)
 http://world-service.us:8080/movie/giovanmer/merante/87145.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/0584b85ec3b06bea35089c87457b10e8.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Breve storia d'amore (2025)
@@ -21453,7 +21457,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1550.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",Batman - Cavaliere della notte
 http://world-service.us:8080/movie/giovanmer/merante/1608.mp4
 
-# --- Movies | SERIE-TV (519) ---
+# --- Movies | SERIE-TV (520) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
 http://world-service.us:8080/movie/giovanmer/merante/20.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Blacklist
@@ -22492,6 +22496,8 @@ http://world-service.us:8080/movie/giovanmer/merante/1647.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1648.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Le libere donne
 http://world-service.us:8080/movie/giovanmer/merante/1649.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Day One
+http://world-service.us:8080/movie/giovanmer/merante/1650.mp4
 
 # --- Movies | SERIE-TV-ITALIA (155) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
@@ -33009,4 +33015,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16473
+# Total: 16476

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-03-13 07:23:37
+# Generated: 2026-03-13 18:50:59
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -1143,15 +1143,9 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/580017.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE DYN SPORT - RTL+ SPORT",DE: VIP RTL+ SPORT EVENT 13 HD (SPIELZEIT)
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/633970.m3u8
 
-# --- DE DYN SPORT EVENT (MIT EPG) (28) ---
+# --- DE DYN SPORT EVENT (MIT EPG) (25) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: ----- DYN SPORT EVENT -----
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/670872.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 3 SESSION 1 (2026-03-12 04:00:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672555.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 3 SESSION 2 (2026-03-12 11:30:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672554.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| FUCHSE BERLIN - HBC NANTES (2026-03-12 20:35:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672553.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 4 SESSION 1 (2026-03-13 04:00:00)
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672552.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| CHAMPIONS CHONGQING TAG 4 SESSION 2 (2026-03-13 11:30:00)
@@ -3277,33 +3271,9 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/486773.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/tvIngolstadt.png" group-title="DE REGIONAL",DE: TV.INGOLSTADT
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/487219.m3u8
 
-# --- DE RTL+ SPORT EVENT (MIT EPG) (16) ---
+# --- DE RTL+ SPORT EVENT (MIT EPG) (4) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: ----- RTL+ SPORT EVENT -----
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/670911.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| OSC LILLE VS. ASTON VILLA (2026-03-12 17:10:00) (2026-03-12 18:10:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672593.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| SAMSUNSPOR VS. RAYO VALLECANO (2026-03-12 17:10:00) (2026-03-12 18:10:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672592.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| PANATHINAIKOS ATHEN VS. REAL BETIS (2026-03-12 17:10:00) (2026-03-12 18:10:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672591.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| FC BOLOGNA VS. AS ROM (2026-03-12 17:10:00) (2026-03-12 18:10:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672590.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| MATCHDAY-SHOW & KONFERENZ (2026-03-12 17:10:00) (2026-03-12 18:10:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672589.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| VFB STUTTGART VS. FC PORTO (2026-03-12 17:25:00) (2026-03-12 18:25:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672588.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| SENDUNG VOM 12.03.2026 (2026-03-12 17:40:00) (2026-03-12 18:40:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672587.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| SK SIGMA OLMUTZ VS. FSV MAINZ 05 (2026-03-12 19:40:00) (2026-03-12 20:40:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672586.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| KRC GENK VS. SC FREIBURG (2026-03-12 19:40:00) (2026-03-12 20:40:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672585.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| NOTTINGHAM FOREST VS. FC MIDTJYLLAND (2026-03-12 19:45:00) (2026-03-12 20:45:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672584.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| FERENCVAROS BUDAPEST VS. SC BRAGA (2026-03-12 19:45:00) (2026-03-12 20:45:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672583.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| CELTA VIGO VS. OLYMPIQUE LYON (2026-03-12 19:45:00) (2026-03-12 20:45:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672582.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| MANCHESTER UNITED VS. ASTON VILLA (2026-03-15 13:40:00) (2026-03-15 14:40:00)
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/672581.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT (MIT EPG)",DE: |RTL+| OKTAGON 86: STETTIN (2026-04-11 15:25:00) (2026-04-11 16:25:00)
@@ -9243,4 +9213,4 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199554.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="UK SPORT",UK: RED BULL TV FHD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199548.m3u8
 
-# Total: 4545
+# Total: 4530

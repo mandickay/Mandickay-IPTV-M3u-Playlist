@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-03-13 07:32:12
+# Generated: 2026-03-14 18:35:48
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1099,7 +1099,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1494) ---
+# --- Movies | Films (1496) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aWLXwlquFp72G1Wy81JMox0sDZC.jpg" group-title="Movies | Films",Petits meurtres en Corrèze (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/24061.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xAfVu3TQPNUnn1OgBjRSO81Rnmr.jpg" group-title="Movies | Films",Au coeur de nos terres (2026)
@@ -1148,6 +1148,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21982.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1yEpwRv403PGexZQUfTXi5MjJaa.jpg" group-title="Movies | Films",Bare Hands (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/24190.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3854lGVpwgLZqXVZdQKNkhqSC1H.jpg" group-title="Movies | Films",The Bayou (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/24145.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9cUJ0TsinaOD8f93vY5iQvqkcgA.jpg" group-title="Movies | Films",Teresa (2025)
@@ -4088,6 +4090,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/11390.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/22480.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7Q9EdjddChgzuMwXmXmNVcO3bI.jpg" group-title="Movies | Films",Sons of Rizk 2 (2019)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13764.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hrze9JXp2QJpc2WjLfSUtRxyYSb.jpg" group-title="Movies | Films",Afterburn (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/24191.mkv
 
 # --- Movies | Films - ULTRA HD 4K (21) ---
 #EXTINF:-1 tvg-logo="https://metalunastore.fr/cdn/shop/files/RoboCop4KBlu-ray.jpg?v=1715248236" group-title="Movies | Films - ULTRA HD 4K",RoboCop (2014) - 4K
@@ -5007,7 +5011,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (446) ---
+# --- Movies | NETFLIX (448) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/foEObhyAMM3dxYeBEr242EdQDB7.jpg" group-title="Movies | NETFLIX",Made In Korea (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/24232.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/druPnu8nmUm3psoZMUr8jw9oEim.jpg" group-title="Movies | NETFLIX",Les Temps changent (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/24019.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg" group-title="Movies | NETFLIX",War Machine (2026)
@@ -5900,6 +5906,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/988.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/989.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Boyfriend on Demand
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1053.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Esa noche
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1061.mp4
 
 # --- Movies | RAMADAN ( 2026 ) (49) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",( 2021 ) المداح
@@ -6625,7 +6633,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/382
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Algerienne",El'sardines
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/764
 
-# --- Series | Series Anciennes (15) ---
+# --- Series | Series Anciennes (16) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Anciennes",Prison Break
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/3
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Anciennes",Loïs et Clark : les Nouvelles Aventures de Superman
@@ -6656,6 +6664,8 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/808
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/809
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Anciennes",Friends
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/811
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Anciennes",Stargate Universe
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1062
 
 # --- Series | Series Arabe (129) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",الاسطورة
@@ -7087,7 +7097,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/992
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2025 ) مترجمة - Vicdansız عديم الضمير
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/993
 
-# --- Series | Series divers (261) ---
+# --- Series | Series divers (263) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -7610,5 +7620,9 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1051
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1055
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Maison de retraite, la série
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1057
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",9-1-1: Nashville
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1059
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Day One
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1060
 
-# Total: 3772
+# Total: 3779

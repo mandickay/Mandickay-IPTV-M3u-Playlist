@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: awsxxscore.uk:8080
-# Generated: 2026-03-12 07:23:14
+# Generated: 2026-03-14 18:33:12
 # Expires: 2026-04-25
 # Family Safe Edition
 # ==============================================
@@ -53,7 +53,13 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/191084.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/3a1436c0020df67648220a778ae0c0eb.png" group-title="⭐RADIO",RADIO CONSTANTA
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/191085.m3u8
 
-# --- ⭐ROMANIA (492) ---
+# --- ⭐ROMANIA (496) ---
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/mireasa.png" group-title="⭐ROMANIA",MIREASA
+http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/210810.m3u8
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/mireasa_plus.png" group-title="⭐ROMANIA",MIREASA PLUS
+http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/210811.m3u8
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/mireasa_extra.png" group-title="⭐ROMANIA",MIREASA EXTRA
+http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/210812.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/antena_1.png" group-title="⭐ROMANIA",ANTENA 1 4K
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/117.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/antena_1.png" group-title="⭐ROMANIA",ANTENA 1 FHD
@@ -84,6 +90,8 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/191541.m3u8
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/94773.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/antena_stars.png" group-title="⭐ROMANIA",ANTENA STARS SD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/89534.m3u8
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/antena_international.png" group-title="⭐ROMANIA",ANTENA INTERNATIONAL
+http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/210813.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/happy_channel.png" group-title="⭐ROMANIA",HAPPY CHANNEL 4K
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/172419.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/happy_channel.png" group-title="⭐ROMANIA",HAPPY CHANNEL FHD
@@ -1039,4 +1047,4 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/111281.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXdwSw5d/GOLD.png" group-title="⭐ROMANIA",GOLD HORROR 2 FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/135155.m3u8
 
-# Total: 514
+# Total: 518

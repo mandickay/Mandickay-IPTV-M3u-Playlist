@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-03-14 07:17:51
+# Generated: 2026-03-14 18:44:28
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -2575,9 +2575,11 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/52993.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht6EfsM5hrsUPSR4ReJQFDVU71F.jpg" group-title="Movies | Filma me titra Shqip",Roald Dahl's The Witches (2020)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/30398.mkv
 
-# --- Movies | Seriale me titra Shqip (203) ---
+# --- Movies | Seriale me titra Shqip (204) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",=====Seriale Me Titra Shqip=====
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/1.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",The Madison (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/294.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",ONE PIECE (2023)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/293.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Young Sherlock (2026)
@@ -9065,4 +9067,4 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69012.mkv
 
-# Total: 4520
+# Total: 4521

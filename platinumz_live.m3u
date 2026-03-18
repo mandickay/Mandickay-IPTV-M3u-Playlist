@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2026-03-17 18:53:42
+# Generated: 2026-03-18 07:24:59
 # Expires: 2026-12-23
 # Family Safe Edition
 # ==============================================
@@ -1211,15 +1211,17 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/554132.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/uDkFM.png" group-title="DE ✨ 24/7 SERIEN",SERIE 24/7 THE WIRE
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/554131.m3u8
 
-# --- DE ✨ CHAMPIONS LEAGUE (48) ---
+# --- DE ✨ CHAMPIONS LEAGUE (49) ---
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/PmJ_o.jpg" group-title="DE ✨ CHAMPIONS LEAGUE",CHAMPIONS LEAGUE KONFERENZ
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/865310.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/primevideo.png" group-title="DE ✨ CHAMPIONS LEAGUE",AMAZON PRIME VIDEO HEVC
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/811504.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/primevideo.png" group-title="DE ✨ CHAMPIONS LEAGUE",AMAZON PRIME VIDEO FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/622645.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/primevideo.png" group-title="DE ✨ CHAMPIONS LEAGUE",AMAZON PRIME VIDEO HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/622646.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/primevideo.png" group-title="DE ✨ CHAMPIONS LEAGUE",AMAZON PRIME VISION FHD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/898135.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/primevideo.png" group-title="DE ✨ CHAMPIONS LEAGUE",AMAZON PRIME VISION HD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/811504.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN 1 FHD+
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/622639.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN 1 FHD
@@ -4745,4 +4747,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 2323
+# Total: 2324

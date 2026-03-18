@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-17 18:55:43
+# Generated: 2026-03-18 07:38:34
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -21184,7 +21184,7 @@ http://world-service.us:8080/movie/giovanmer/merante/87034.mkv
 http://world-service.us:8080/movie/giovanmer/merante/87033.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/a0f993f964eb4cc8a32fd173aee85b85.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 13HD In the Lost Lands (2025)
 http://world-service.us:8080/movie/giovanmer/merante/87032.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | PRIMAFILA",PRIMAFILA 15HD  Cortafuego
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/1835a641861e7d7e1550f5d13a8c4d29.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 15HD Cortafuego (2026)
 http://world-service.us:8080/movie/giovanmer/merante/87031.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/6c8994c07600b810979fdca2fefe6eea.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 17HD Benvenuti in casa Esposito (2021)
 http://world-service.us:8080/movie/giovanmer/merante/87030.mkv
@@ -22497,7 +22497,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1648.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Le libere donne
 http://world-service.us:8080/movie/giovanmer/merante/1649.mp4
 
-# --- Movies | SERIE-TV-ITALIA (155) ---
+# --- Movies | SERIE-TV-ITALIA (157) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://world-service.us:8080/movie/giovanmer/merante/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22808,6 +22808,10 @@ http://world-service.us:8080/movie/giovanmer/merante/1633.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1641.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Avvocato Ligas
 http://world-service.us:8080/movie/giovanmer/merante/1646.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Guerrieri - La regola dell’equilibrio
+http://world-service.us:8080/movie/giovanmer/merante/1650.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Made in Italy
+http://world-service.us:8080/movie/giovanmer/merante/1651.mp4
 
 # --- Movies | Serie-Tv-Ita (1231) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | Serie-Tv-Ita",==== Serie Tv Italia ====
@@ -33013,4 +33017,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16475
+# Total: 16477

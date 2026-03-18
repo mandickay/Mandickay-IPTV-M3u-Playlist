@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-17 18:53:54
+# Generated: 2026-03-18 07:29:43
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -4391,8 +4391,10 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/26530.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK MUZIK",TR: MMN TURK TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/92.m3u8
 
-# --- TURK SINEMA (313) ---
-#EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR:SDM TV Sinema
+# --- TURK SINEMA (314) ---
+#EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: KUZEYMAX TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69989.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: SDM TV Sinema
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69991.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: SUPERTURK TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69990.m3u8
@@ -5385,11 +5387,9 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/110.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/line-tv-tr.png" group-title="TURK ULUSAL",TR: LINE TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/103.m3u8
 
-# --- TURK YEREL (69) ---
+# --- TURK YEREL (68) ---
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: TIVI 16
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/824.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: Malatya Pencere Tv
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69989.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tele1-tr.png" group-title="TURK YEREL",TR: TELE 1
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3350.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/Flag_of_Turkey.png" group-title="TURK YEREL",*****TURK YEREL*****

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-03-21 07:14:32
+# Generated: 2026-03-21 18:36:41
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3691,9 +3691,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORTING TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81960.m3u8
 
-# --- Shqiptare (448) ---
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Sofia Kids Club ᶠʰᵈ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/84644.m3u8
+# --- Shqiptare (449) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -4426,6 +4424,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/67308.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67310.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",= = = Fëmijet = = =
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/74840.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: ●Filma per Femije -Dubluar●⁴ᴷ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84645.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/digitalb/digi-16.png" group-title="Shqiptare",AL: Junior Tv ᴴᴰ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/791.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/digitalb/digi-23.png" group-title="Shqiptare",AL: Bang Bang ᴴᴰ
@@ -4440,6 +4440,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/787.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/788.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Sofia.png" group-title="Shqiptare",AL: Sofia HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2748.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Sofia Kids Club ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84644.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Prince%20Kids.png" group-title="Shqiptare",AL: Art Prince Kids
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2265.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/21%20Junior.png" group-title="Shqiptare",AL: 21 Junior
@@ -8881,4 +8883,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4410
+# Total: 4411

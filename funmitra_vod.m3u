@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-03-21 07:24:21
+# Generated: 2026-03-21 18:38:06
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -23349,7 +23349,9 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/256374.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/f6Lb4bpUW2AJW42Hpnix2533RKU.jpg" group-title="Movies | (V|TR) Kovboy Filmleri",(TR-) Tombstone - 1993
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/262805.mkv
 
-# --- Movies | (V|TR) Programlar (718) ---
+# --- Movies | (V|TR) Programlar (719) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gTJZ9d49dLI2m1vv1Ufi3Cx7rMt.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Konusanlar Disney (Bolum 26)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674673.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Güldür Güldür Show (14.03.2026)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/673650.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gTJZ9d49dLI2m1vv1Ufi3Cx7rMt.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Konusanlar Disney (Bolum 25)
@@ -30025,7 +30027,11 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/635434.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u64csVCG9nLpYqFWFFitrdvz7hG_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Daniela Forever - 2025
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/635432.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2026 (21) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2026 (23) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gRMalasZEzsZi4w2VFuYusfSfqf_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) Peaky Blinders: The Immortal Man - 2026
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674674.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/itXEKSglDdbAFtpodqMDFsM8Y4A_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) Agent Zeta - 2026
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674672.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/tn6zYcdEvfoTJeBP0OeNqu3Sl4J_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) War Machine - 2026
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672369.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/chivRgMyevpLUDfLIokY9aTomRu_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2026",(TR-) Street Flow 3 - 2026
@@ -32877,4 +32883,4 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/583470.mkv
 #EXTINF:-1 tvg-logo="https://resources-biletino.s3-external-3.amazonaws.com/content/event/32237/960x540.jpg" group-title="Movies | (V|TR) Yerli Film - 2026",(TR-) Yasemin Sakallioglu: Dogru Koca Nasil Secilir? - 2026
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672238.mkv
 
-# Total: 16389
+# Total: 16392

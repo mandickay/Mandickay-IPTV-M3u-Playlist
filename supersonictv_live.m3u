@@ -1,8 +1,8 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: supersonictv.live:8080
-# Generated: 2026-03-21 07:21:44
-# Expires: 2026-03-21
+# Generated: 2026-03-21 18:36:37
+# Expires: 2026-04-21
 # Family Safe Edition
 # ==============================================
 
@@ -11799,126 +11799,128 @@ http://supersonictv.live:8080/live/864072/196529/13704.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB EXTRA INNINGS (03/20)",MLB 16 | MLB TEAM | PITTSBURGH PIRATES
 http://supersonictv.live:8080/live/864072/196529/13705.m3u8
 
-# --- MLB LIVE GAME (03/20) (60) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB 01  : Red Sox VS Rays (Red Sox Feed ) @ 13:05
+# --- MLB LIVE GAME (03/21) (61) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB 01  : Phillies VS Orioles (Orioles Feed ) @ 13:05
 http://supersonictv.live:8080/live/864072/196529/87700.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB03 : Tigers VS Phillies (Phillies Feed ) @ 13:05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB02 :   Athletics VS Dodgers (Dodgers Feed ) @ 14:05
+http://supersonictv.live:8080/live/864072/196529/87701.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB03 : Cubs VS Mariners (Cubs Feed ) @ 21:10
 http://supersonictv.live:8080/live/864072/196529/87702.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB04 :  Cardinals VS Mets (MLBN Feed ) @ 13:10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB04 :
 http://supersonictv.live:8080/live/864072/196529/87703.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB05 :   Cardinals VS Mets (Mets Feed ) @ 13:10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB05 :
 http://supersonictv.live:8080/live/864072/196529/87704.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB06 :  Padres VS Dodgers (Dodgers Feed ) @ 21:05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB06 :
 http://supersonictv.live:8080/live/864072/196529/87705.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB07 :   Giants VS Rangers (Rangers Feed ) @ 21:05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB07 :
 http://supersonictv.live:8080/live/864072/196529/87706.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB08 :  Cubs VS Athletics (Athletics Feed ) @ 21:10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB08 :
 http://supersonictv.live:8080/live/864072/196529/87707.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB 09 :  Cubs VS Athletics (Cubs Feed ) @ 21:10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB 09 :
 http://supersonictv.live:8080/live/864072/196529/87708.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB10 :  Rockies VS Padres (Rockies Feed ) @ 21:10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB10 :
 http://supersonictv.live:8080/live/864072/196529/87709.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB11  :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB11  :
 http://supersonictv.live:8080/live/864072/196529/87710.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB12 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB12 :
 http://supersonictv.live:8080/live/864072/196529/87711.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB13 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB13 :
 http://supersonictv.live:8080/live/864072/196529/87712.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB14 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB14 :
 http://supersonictv.live:8080/live/864072/196529/87713.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB15 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB15 :
 http://supersonictv.live:8080/live/864072/196529/87714.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB16 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB16 :
 http://supersonictv.live:8080/live/864072/196529/87715.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB17 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB17 :
 http://supersonictv.live:8080/live/864072/196529/87716.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB 18 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB 18 :
 http://supersonictv.live:8080/live/864072/196529/87717.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB19 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB19 :
 http://supersonictv.live:8080/live/864072/196529/87718.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB20 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB20 :
 http://supersonictv.live:8080/live/864072/196529/87719.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB21:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB21:
 http://supersonictv.live:8080/live/864072/196529/87720.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB22:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB22:
 http://supersonictv.live:8080/live/864072/196529/87721.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB23:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB23:
 http://supersonictv.live:8080/live/864072/196529/87722.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB24 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB24 :
 http://supersonictv.live:8080/live/864072/196529/87723.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB25 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB25 :
 http://supersonictv.live:8080/live/864072/196529/87724.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB26:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB26:
 http://supersonictv.live:8080/live/864072/196529/87725.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB LIVE GAME (03/20)",MLB27:
+#EXTINF:-1 tvg-logo="" group-title="MLB LIVE GAME (03/21)",MLB27:
 http://supersonictv.live:8080/live/864072/196529/87726.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB28  :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB28  :
 http://supersonictv.live:8080/live/864072/196529/87727.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB29:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB29:
 http://supersonictv.live:8080/live/864072/196529/87728.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB30:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB30:
 http://supersonictv.live:8080/live/864072/196529/87729.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB31:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB31:
 http://supersonictv.live:8080/live/864072/196529/87730.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB32:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB32:
 http://supersonictv.live:8080/live/864072/196529/87731.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB33:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB33:
 http://supersonictv.live:8080/live/864072/196529/87732.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB34:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB34:
 http://supersonictv.live:8080/live/864072/196529/87733.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB35:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB35:
 http://supersonictv.live:8080/live/864072/196529/87734.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB36:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB36:
 http://supersonictv.live:8080/live/864072/196529/87735.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB37:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB37:
 http://supersonictv.live:8080/live/864072/196529/87736.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB38:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB38:
 http://supersonictv.live:8080/live/864072/196529/87737.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB39:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB39:
 http://supersonictv.live:8080/live/864072/196529/87738.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB40:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB40:
 http://supersonictv.live:8080/live/864072/196529/87739.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB41:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB41:
 http://supersonictv.live:8080/live/864072/196529/87740.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB42:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB42:
 http://supersonictv.live:8080/live/864072/196529/87741.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB43:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB43:
 http://supersonictv.live:8080/live/864072/196529/87742.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB44:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB44:
 http://supersonictv.live:8080/live/864072/196529/87743.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB45:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB45:
 http://supersonictv.live:8080/live/864072/196529/87744.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB46:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB46:
 http://supersonictv.live:8080/live/864072/196529/87745.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB47:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB47:
 http://supersonictv.live:8080/live/864072/196529/87746.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB48:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB48:
 http://supersonictv.live:8080/live/864072/196529/87747.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB49:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB49:
 http://supersonictv.live:8080/live/864072/196529/87748.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB50:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB50:
 http://supersonictv.live:8080/live/864072/196529/87749.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB51:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB51:
 http://supersonictv.live:8080/live/864072/196529/87750.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB52:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB52:
 http://supersonictv.live:8080/live/864072/196529/87751.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB53:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB53:
 http://supersonictv.live:8080/live/864072/196529/87752.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB54:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB54:
 http://supersonictv.live:8080/live/864072/196529/87753.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB55:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB55:
 http://supersonictv.live:8080/live/864072/196529/87754.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB56:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB56:
 http://supersonictv.live:8080/live/864072/196529/87755.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB57:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB57:
 http://supersonictv.live:8080/live/864072/196529/87756.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB58:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB58:
 http://supersonictv.live:8080/live/864072/196529/87757.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB59:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB59:
 http://supersonictv.live:8080/live/864072/196529/87758.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB60:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB60:
 http://supersonictv.live:8080/live/864072/196529/87759.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/20)",MLB61:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB LIVE GAME (03/21)",MLB61:
 http://supersonictv.live:8080/live/864072/196529/87760.m3u8
 
 # --- MLS SOCCER (03/15) (20) ---
@@ -12083,122 +12085,122 @@ http://supersonictv.live:8080/live/864072/196529/86055.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgnVzXz/NBA-LP.png" group-title="NBA LEAGUE PASS (03/20)",NBA LP15 :
 http://supersonictv.live:8080/live/864072/196529/86056.m3u8
 
-# --- NBA LIVE GAME (3/20) (58) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 01 :   ATL Hawks VS HOU Rockets ( NBA TV Feed ) @ 8:00 PM
+# --- NBA LIVE GAME (3/21) (58) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 01 :   LAL Lakers VS ORL Magic ( NBA TV Feed ) @ 7:00 PM
 http://supersonictv.live:8080/live/864072/196529/83043.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 02 :  New York Knicks vs Brooklyn Nets @ 07:30 PM EDT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 02 :  MIL Bucks VS PHX Suns ( NBA TV Feed ) @ 10:00 PM
 http://supersonictv.live:8080/live/864072/196529/83044.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 03 :  Golden State Warriors vs Detroit Pistons @ 07:30 PM EDT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 03 : Oklahoma City Thunder vs Washington Wizards @ 05:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/83045.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA04 : Boston Celtics vs Memphis Grizzlies @ 08:00 PM EDT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA04 :Memphis Grizzlies vs Charlotte Hornets @ 07:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/83046.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA05 :  Portland Trail Blazers vs Minnesota Timberwolves @ 08:00 PM EDT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA05 : Cleveland Cavaliers vs New Orleans Pelicans @ 07:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/83047.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA06 :  Toronto Raptors vs Denver Nuggets @ 09:00 PM EDT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA06 :  Golden State Warriors vs Atlanta Hawks @ 08:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/83048.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA07 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA07 :Miami Heat vs Houston Rockets @ 08:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/83049.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 08  :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 08  : Indiana Pacers vs San Antonio Spurs @ 08:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/83050.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA09 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA09 :   LA Clippers vs Dallas Mavericks @ 08:30 PM EDT
 http://supersonictv.live:8080/live/864072/196529/83052.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 11 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 11 :
 http://supersonictv.live:8080/live/864072/196529/83054.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 12:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 12:
 http://supersonictv.live:8080/live/864072/196529/83055.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 13:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 13:
 http://supersonictv.live:8080/live/864072/196529/83056.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 14 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 14 :
 http://supersonictv.live:8080/live/864072/196529/83057.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 15 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 15 :
 http://supersonictv.live:8080/live/864072/196529/83058.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 16 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 16 :
 http://supersonictv.live:8080/live/864072/196529/83059.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 17 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 17 :
 http://supersonictv.live:8080/live/864072/196529/83060.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 18 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 18 :
 http://supersonictv.live:8080/live/864072/196529/83061.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 19 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 19 :
 http://supersonictv.live:8080/live/864072/196529/83062.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 20:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 20:
 http://supersonictv.live:8080/live/864072/196529/83063.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA21:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA21:
 http://supersonictv.live:8080/live/864072/196529/83064.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 22:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 22:
 http://supersonictv.live:8080/live/864072/196529/83065.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 23:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 23:
 http://supersonictv.live:8080/live/864072/196529/83066.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 24 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 24 :
 http://supersonictv.live:8080/live/864072/196529/83067.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 25 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 25 :
 http://supersonictv.live:8080/live/864072/196529/83068.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 26 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 26 :
 http://supersonictv.live:8080/live/864072/196529/83069.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 27 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 27 :
 http://supersonictv.live:8080/live/864072/196529/83070.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 28 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 28 :
 http://supersonictv.live:8080/live/864072/196529/83071.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 29 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 29 :
 http://supersonictv.live:8080/live/864072/196529/83072.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA 30 :
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA 30 :
 http://supersonictv.live:8080/live/864072/196529/83073.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA32:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA32:
 http://supersonictv.live:8080/live/864072/196529/83074.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA33:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA33:
 http://supersonictv.live:8080/live/864072/196529/83075.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA34:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA34:
 http://supersonictv.live:8080/live/864072/196529/83076.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA35:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA35:
 http://supersonictv.live:8080/live/864072/196529/83077.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA36:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA36:
 http://supersonictv.live:8080/live/864072/196529/83078.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA37:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA37:
 http://supersonictv.live:8080/live/864072/196529/83079.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA38:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA38:
 http://supersonictv.live:8080/live/864072/196529/83080.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA39:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA39:
 http://supersonictv.live:8080/live/864072/196529/83081.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA40:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA40:
 http://supersonictv.live:8080/live/864072/196529/83082.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA41:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA41:
 http://supersonictv.live:8080/live/864072/196529/83083.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA42:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA42:
 http://supersonictv.live:8080/live/864072/196529/83084.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA43:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA43:
 http://supersonictv.live:8080/live/864072/196529/83085.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA44:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA44:
 http://supersonictv.live:8080/live/864072/196529/83086.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA45:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA45:
 http://supersonictv.live:8080/live/864072/196529/83087.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA46:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA46:
 http://supersonictv.live:8080/live/864072/196529/83088.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA47:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA47:
 http://supersonictv.live:8080/live/864072/196529/83089.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA48:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA48:
 http://supersonictv.live:8080/live/864072/196529/83090.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA49:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA49:
 http://supersonictv.live:8080/live/864072/196529/83091.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA50:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA50:
 http://supersonictv.live:8080/live/864072/196529/83092.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA51:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA51:
 http://supersonictv.live:8080/live/864072/196529/83093.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA52:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA52:
 http://supersonictv.live:8080/live/864072/196529/83094.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA53:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA53:
 http://supersonictv.live:8080/live/864072/196529/83095.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA54:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA54:
 http://supersonictv.live:8080/live/864072/196529/83096.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA55:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA55:
 http://supersonictv.live:8080/live/864072/196529/83097.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA56:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA56:
 http://supersonictv.live:8080/live/864072/196529/83098.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA57:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA57:
 http://supersonictv.live:8080/live/864072/196529/83099.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA58:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA58:
 http://supersonictv.live:8080/live/864072/196529/83100.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA59:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA59:
 http://supersonictv.live:8080/live/864072/196529/83101.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/20)",USA NBA60:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LIVE GAME (3/21)",USA NBA60:
 http://supersonictv.live:8080/live/864072/196529/83102.m3u8
 
 # --- NCAAB (03/20) (225) ---
@@ -13353,106 +13355,102 @@ http://supersonictv.live:8080/live/864072/196529/86099.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL CENTER ICE (03/20)",NHL CI15 :
 http://supersonictv.live:8080/live/864072/196529/88466.m3u8
 
-# --- NHL LIVE GAME (3/20) (50) ---
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL01:  CAR VS TOR (NHLN Feed ) @ 7:00 pm
+# --- NHL LIVE GAME (3/21) (48) ---
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL01:  WPG VS PIT (NHLN Feed ) @ 1:00 pm
 http://supersonictv.live:8080/live/864072/196529/82983.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL02 :  CAR VS TOR (TVAS Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL02 :  VGK VS NSH (SN1 Feed ) @ 2:00 pm
 http://supersonictv.live:8080/live/864072/196529/82984.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL03 :  NJD VS WSH (SN Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL03 :  VGK VS NSH (TVAS Feed ) @ 2:00 pm
 http://supersonictv.live:8080/live/864072/196529/82985.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL04 :  COL VS CHI (ALT Feed ) @ 8:30 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL04 :  PHI VS SJS (NBCSP Feed ) @ 4:00 pm
 http://supersonictv.live:8080/live/864072/196529/82986.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL05 :  FLA VS CGY (SNW Feed ) @ 9:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL05 : PHI VS SJS (NBCSCA Feed ) @ 4:00 pm
 http://supersonictv.live:8080/live/864072/196529/82987.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL06:  ANA VS UTA (TVAS Feed ) @ 10:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL06: NYI VS MTL (SNE Feed ) @ 7:00 pm
 http://supersonictv.live:8080/live/864072/196529/82988.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL07 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL07 :  NYI VS MTL (TVAS Feed ) @ 7:00 pm
 http://supersonictv.live:8080/live/864072/196529/82989.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL08 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL08 : TOR VS OTT (SN Feed ) @ 7:00 pm
 http://supersonictv.live:8080/live/864072/196529/82990.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL09 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL09 : TOR VS OTT (TVAS2 Feed ) @ 7:00 pm
 http://supersonictv.live:8080/live/864072/196529/82991.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL 10 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL 10 :  TBL VS EDM (SN Feed ) @ 10:00 pm
 http://supersonictv.live:8080/live/864072/196529/82992.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL 11 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL 11 :  TBL VS EDM (TVAS2 Feed ) @ 10:00 pm
 http://supersonictv.live:8080/live/864072/196529/82993.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL12 :  .
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL12 :  .Buffalo Sabres vs Los Angeles Kings @ 04:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/82994.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL 13 :
-http://supersonictv.live:8080/live/864072/196529/82995.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL 14 :
-http://supersonictv.live:8080/live/864072/196529/82996.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL 15 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL 15 : Boston Bruins vs Detroit Red Wings @ 08:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/82997.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL 16 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL 16 :
 http://supersonictv.live:8080/live/864072/196529/82998.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL 17 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL 17 :
 http://supersonictv.live:8080/live/864072/196529/82999.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL 18 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL 18 :
 http://supersonictv.live:8080/live/864072/196529/83000.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL 19 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL 19 :
 http://supersonictv.live:8080/live/864072/196529/83001.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL20 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL20 :
 http://supersonictv.live:8080/live/864072/196529/83002.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL21:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL21:
 http://supersonictv.live:8080/live/864072/196529/83003.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL22 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL22 :
 http://supersonictv.live:8080/live/864072/196529/83004.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL23:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL23:
 http://supersonictv.live:8080/live/864072/196529/83005.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL24:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL24:
 http://supersonictv.live:8080/live/864072/196529/83006.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL  25 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL  25 :
 http://supersonictv.live:8080/live/864072/196529/83007.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL26 :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL26 :
 http://supersonictv.live:8080/live/864072/196529/83008.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL 27:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL 27:
 http://supersonictv.live:8080/live/864072/196529/83009.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL28:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL28:
 http://supersonictv.live:8080/live/864072/196529/83010.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL29:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL29:
 http://supersonictv.live:8080/live/864072/196529/83011.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL30:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL30:
 http://supersonictv.live:8080/live/864072/196529/83012.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL31:   :
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL31:   :
 http://supersonictv.live:8080/live/864072/196529/83013.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL32:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL32:
 http://supersonictv.live:8080/live/864072/196529/83014.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL33:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL33:
 http://supersonictv.live:8080/live/864072/196529/83015.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL34:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL34:
 http://supersonictv.live:8080/live/864072/196529/83016.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL35:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL35:
 http://supersonictv.live:8080/live/864072/196529/83017.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL36:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL36:
 http://supersonictv.live:8080/live/864072/196529/83018.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL37:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL37:
 http://supersonictv.live:8080/live/864072/196529/83019.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL38:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL38:
 http://supersonictv.live:8080/live/864072/196529/83020.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL39:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL39:
 http://supersonictv.live:8080/live/864072/196529/83021.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL40:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL40:
 http://supersonictv.live:8080/live/864072/196529/83022.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL41:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL41:
 http://supersonictv.live:8080/live/864072/196529/83023.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL42:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL42:
 http://supersonictv.live:8080/live/864072/196529/83024.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL43:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL43:
 http://supersonictv.live:8080/live/864072/196529/83025.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL44:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL44:
 http://supersonictv.live:8080/live/864072/196529/83026.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL45:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL45:
 http://supersonictv.live:8080/live/864072/196529/83027.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL46:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL46:
 http://supersonictv.live:8080/live/864072/196529/83028.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL47:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL47:
 http://supersonictv.live:8080/live/864072/196529/83029.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL48:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL48:
 http://supersonictv.live:8080/live/864072/196529/83030.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL49:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL49:
 http://supersonictv.live:8080/live/864072/196529/83031.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/20)",USA NHL50:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL LIVE GAME (3/21)",USA NHL50:
 http://supersonictv.live:8080/live/864072/196529/83032.m3u8
 
 # --- OTHER SPORTS (US+UK+CA) (96) ---
@@ -14135,124 +14133,122 @@ http://supersonictv.live:8080/live/864072/196529/7747.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PORTUGUESE",PT ZAP Viva HD
 http://supersonictv.live:8080/live/864072/196529/7748.m3u8
 
-# --- PPV  (03/20) (59) ---
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV01: BKFC 87 Hollywood: Kai Stewart vs Nicolas Gaffie @ 08:00 PM EDT
+# --- PPV  (03/21) (58) ---
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV01: UFC Fight Night: Movsar Evloev vs Lerone Murphy (Paramount+) @ 01:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/86203.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV02: CMLL: Legends Tribute 2026 @ 10:30 PM EDT
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV02: Boxing: Liddard vs. Denny (DAZN) @ 03:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/86204.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV03: Magnolia Motor Speedway @ 07:15 PM EDT
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV03: Boxing: Adames vs. Williams (DAZN) @ 08:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/86205.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV04: Lawton Speedway @ 07:15 PM EDT
-http://supersonictv.live:8080/live/864072/196529/86206.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV05: Heartland Modified Tour Humboldt Speedway 3/20/26 @ 08:00 PM EDT
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV05: Volusia Speedway Park(dirtvision) @ 06:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/86207.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV06:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV06: Creek County Speedway(dirtvision) @ 07:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/86208.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV07:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV07: Magnolia Motor Speedway(dirtvision) @ 07:15 PM EDT
 http://supersonictv.live:8080/live/864072/196529/86209.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV08:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV08: Memphis Wrestling, Episode 265 - Incomparable (fite tv) @ 12:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/86210.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV09:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV09: IWC: Twenty Five (fite tv) @ 07:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/86211.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV10:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV10: Armored MMA 2026: Medieval Cage Fighting Championship, Pittsburgh (fite tv) @ 07:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/86212.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV11:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV11: IWS: UnFnSanctioned! 2026 (fite tv) @ 08:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/86213.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV12:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV12: HOG x BIG EVENT: Superclash 2026 (fite tv) @ 08:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/86214.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV13:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV13: Heartland Modified Tour Humboldt Speedway 3/21/26 (racindirt) @ 08:00 PM EDT
 http://supersonictv.live:8080/live/864072/196529/86215.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV14:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV14:
 http://supersonictv.live:8080/live/864072/196529/86216.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV15:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV15:
 http://supersonictv.live:8080/live/864072/196529/86217.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV16:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV16:
 http://supersonictv.live:8080/live/864072/196529/86218.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV17:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV17:
 http://supersonictv.live:8080/live/864072/196529/86219.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV18:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV18:
 http://supersonictv.live:8080/live/864072/196529/86220.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",USA PPV19:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",USA PPV19:
 http://supersonictv.live:8080/live/864072/196529/86221.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",PPV 20 :
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",PPV 20 :
 http://supersonictv.live:8080/live/864072/196529/86222.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",PPV 21 :
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",PPV 21 :
 http://supersonictv.live:8080/live/864072/196529/86223.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",PPV 22 :
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",PPV 22 :
 http://supersonictv.live:8080/live/864072/196529/86224.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",PPV 23 :
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",PPV 23 :
 http://supersonictv.live:8080/live/864072/196529/86225.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/20)",PPV 24 :
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PPV  (03/21)",PPV 24 :
 http://supersonictv.live:8080/live/864072/196529/86226.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",PPV 25 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",PPV 25 :
 http://supersonictv.live:8080/live/864072/196529/86227.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",PPV 26 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",PPV 26 :
 http://supersonictv.live:8080/live/864072/196529/86228.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",PPV 27 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",PPV 27 :
 http://supersonictv.live:8080/live/864072/196529/86229.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",PPV 28 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",PPV 28 :
 http://supersonictv.live:8080/live/864072/196529/86230.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",PPV 29 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",PPV 29 :
 http://supersonictv.live:8080/live/864072/196529/86231.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",PPV 30 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",PPV 30 :
 http://supersonictv.live:8080/live/864072/196529/86232.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",PPV 31 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",PPV 31 :
 http://supersonictv.live:8080/live/864072/196529/86233.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",PPV 32 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",PPV 32 :
 http://supersonictv.live:8080/live/864072/196529/86234.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",PPV 33 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",PPV 33 :
 http://supersonictv.live:8080/live/864072/196529/86235.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",PPV 34 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",PPV 34 :
 http://supersonictv.live:8080/live/864072/196529/86236.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",PPV 35 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",PPV 35 :
 http://supersonictv.live:8080/live/864072/196529/86237.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",PPV 36 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",PPV 36 :
 http://supersonictv.live:8080/live/864072/196529/86238.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",PPV 37 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",PPV 37 :
 http://supersonictv.live:8080/live/864072/196529/86239.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV38 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV38 :
 http://supersonictv.live:8080/live/864072/196529/86240.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV39 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV39 :
 http://supersonictv.live:8080/live/864072/196529/86241.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV40 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV40 :
 http://supersonictv.live:8080/live/864072/196529/86242.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV41 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV41 :
 http://supersonictv.live:8080/live/864072/196529/86243.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV42 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV42 :
 http://supersonictv.live:8080/live/864072/196529/86244.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV43 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV43 :
 http://supersonictv.live:8080/live/864072/196529/86245.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV44 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV44 :
 http://supersonictv.live:8080/live/864072/196529/86246.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV 45:
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV 45:
 http://supersonictv.live:8080/live/864072/196529/86247.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV46 :
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV46 :
 http://supersonictv.live:8080/live/864072/196529/86248.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV47:
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV47:
 http://supersonictv.live:8080/live/864072/196529/86249.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV48:
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV48:
 http://supersonictv.live:8080/live/864072/196529/86250.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV49:
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV49:
 http://supersonictv.live:8080/live/864072/196529/86251.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV50:
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV50:
 http://supersonictv.live:8080/live/864072/196529/86252.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV51:
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV51:
 http://supersonictv.live:8080/live/864072/196529/86253.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV52:
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV52:
 http://supersonictv.live:8080/live/864072/196529/86254.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV53:
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV53:
 http://supersonictv.live:8080/live/864072/196529/86255.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV54:
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV54:
 http://supersonictv.live:8080/live/864072/196529/86256.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV55:
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV55:
 http://supersonictv.live:8080/live/864072/196529/86257.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV56:
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV56:
 http://supersonictv.live:8080/live/864072/196529/86258.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV57:
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV57:
 http://supersonictv.live:8080/live/864072/196529/86259.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV58:
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV58:
 http://supersonictv.live:8080/live/864072/196529/86260.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  (03/20)",USA PPV59:
+#EXTINF:-1 tvg-logo="" group-title="PPV  (03/21)",USA PPV59:
 http://supersonictv.live:8080/live/864072/196529/86261.m3u8
 
 # --- PPV BACKUP (03/20) (21) ---
@@ -14829,146 +14825,146 @@ http://supersonictv.live:8080/live/864072/196529/84001.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",[RO]  ProTV International
 http://supersonictv.live:8080/live/864072/196529/84002.m3u8
 
-# --- SOCCER LIVE GAME (03/20) (70) ---
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/d7/19/e7d7190f0b5b3abd4f6c17e2c7989ec3.jpg" group-title="SOCCER LIVE GAME (03/20)",Soccer01:  England - Premier League : AFC Bournemouth vs Manchester United @ 04:00pm EDT
+# --- SOCCER LIVE GAME (03/21) (70) ---
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/d7/19/e7d7190f0b5b3abd4f6c17e2c7989ec3.jpg" group-title="SOCCER LIVE GAME (03/21)",Soccer01: England - Premier League : Brighton & Hove Albion vs Liverpool @ 08:30am EDT
 http://supersonictv.live:8080/live/864072/196529/87761.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer02:  Spain - La Liga : Villarreal vs Real Sociedad @ 04:00pm EDT
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer02:  England - Premier League : Fulham vs Burnley @ 11:00am EDT
 http://supersonictv.live:8080/live/864072/196529/87762.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer03:  Italy - Serie A : Cagliari vs Napoli @ 01:30pm EDT
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer03:  England - Premier League : Everton vs Chelsea @ 01:30pm EDT
 http://supersonictv.live:8080/live/864072/196529/87763.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer04 :  Italy - Serie A : Genoa vs Udinese @ 03:45pm EDT
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer04 : England - Premier League : Leeds United vs Brentford @ 04:00pm EDT
 http://supersonictv.live:8080/live/864072/196529/87764.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer 05 :  France - Ligue 1 : Lens vs Angers SCO @ 03:45pm EDT
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer 05 :  Spain - La Liga : Elche vs Mallorca @ 09:00am EDT
 http://supersonictv.live:8080/live/864072/196529/87765.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer06 :  Portugal - Primeira Liga : Estrela vs Casa Pia @ 04:15pm EDT
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer06 :   Spain - La Liga : Espanyol vs Getafe @ 11:15am EDT
 http://supersonictv.live:8080/live/864072/196529/87766.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer07 :   Mexico - Liga MX : Necaxa vs Tijuana @ 09:00pm EDT
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer07 :  Spain - La Liga : Levante vs Real Oviedo @ 01:30pm EDT
 http://supersonictv.live:8080/live/864072/196529/87767.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer08 .: Mexico - Liga MX : Mazatlán vs Cruz Azul @ 11:06pm EDT
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer08 .:Spain - La Liga : Osasuna vs Girona @ 01:30pm EDT
 http://supersonictv.live:8080/live/864072/196529/87768.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer09 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer09 :  Spain - La Liga : Sevilla vs Valencia @ 04:00pm EDT
 http://supersonictv.live:8080/live/864072/196529/87769.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer10 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer10 :   Italy - Serie A : Parma vs Cremonese @ 10:00am EDT
 http://supersonictv.live:8080/live/864072/196529/87770.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer11 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer11 :  Italy - Serie A : Milan vs Torino @ 01:00pm EDT
 http://supersonictv.live:8080/live/864072/196529/87771.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer12 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer12 :  Italy - Serie A : Juventus vs Sassuolo @ 03:45pm EDT
 http://supersonictv.live:8080/live/864072/196529/87772.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer13 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer13 :  France - Ligue 1 : Toulouse vs Lorient @ 12:00pm EDT
 http://supersonictv.live:8080/live/864072/196529/87773.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer14:
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer14:   France - Ligue 1 : Auxerre vs Brest @ 02:00pm EDT
 http://supersonictv.live:8080/live/864072/196529/87774.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer15 :
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer15 :   France - Ligue 1 : Nice vs PSG @ 04:05pm EDT
 http://supersonictv.live:8080/live/864072/196529/87775.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer16 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer16 :  Portugal - Primeira Liga : Famalicão vs Nacional @ 11:30am EDT
 http://supersonictv.live:8080/live/864072/196529/87776.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer17 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer17 :  Portugal - Primeira Liga : Santa Clara vs Gil Vicente @ 02:00pm EDT
 http://supersonictv.live:8080/live/864072/196529/87777.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer18 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer18 :    Portugal - Primeira Liga : Tondela vs AVS @ 04:30pm EDT
 http://supersonictv.live:8080/live/864072/196529/87778.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer19 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer19 :  Mexico - Liga MX : Monterrey vs Guadalajara @ 09:05pm EDT
 http://supersonictv.live:8080/live/864072/196529/87779.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer20 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer20 :  Mexico - Liga MX : Pumas UNAM vs América @ 11:10pm EDT
 http://supersonictv.live:8080/live/864072/196529/87780.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer21 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer21 :
 http://supersonictv.live:8080/live/864072/196529/87781.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer22:
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer22:
 http://supersonictv.live:8080/live/864072/196529/87782.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer23:
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer23:
 http://supersonictv.live:8080/live/864072/196529/87783.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer24:
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer24:
 http://supersonictv.live:8080/live/864072/196529/87784.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer25:
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer25:
 http://supersonictv.live:8080/live/864072/196529/87785.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer26:
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer26:
 http://supersonictv.live:8080/live/864072/196529/87786.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer27 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer27 :
 http://supersonictv.live:8080/live/864072/196529/87787.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer28:
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer28:
 http://supersonictv.live:8080/live/864072/196529/87788.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer29 :
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer29 :
 http://supersonictv.live:8080/live/864072/196529/87789.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/20)",Soccer30:
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SOCCER LIVE GAME (03/21)",Soccer30:
 http://supersonictv.live:8080/live/864072/196529/87790.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer31:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer31:
 http://supersonictv.live:8080/live/864072/196529/87791.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer32:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer32:
 http://supersonictv.live:8080/live/864072/196529/87792.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer33:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer33:
 http://supersonictv.live:8080/live/864072/196529/87793.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer34 :
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer34 :
 http://supersonictv.live:8080/live/864072/196529/87794.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer35:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer35:
 http://supersonictv.live:8080/live/864072/196529/87795.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer36:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer36:
 http://supersonictv.live:8080/live/864072/196529/87796.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer37:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer37:
 http://supersonictv.live:8080/live/864072/196529/87797.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer38:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer38:
 http://supersonictv.live:8080/live/864072/196529/87798.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer39:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer39:
 http://supersonictv.live:8080/live/864072/196529/87799.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer40:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer40:
 http://supersonictv.live:8080/live/864072/196529/87800.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer41:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer41:
 http://supersonictv.live:8080/live/864072/196529/87801.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer42:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer42:
 http://supersonictv.live:8080/live/864072/196529/87802.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer43:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer43:
 http://supersonictv.live:8080/live/864072/196529/87803.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer44:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer44:
 http://supersonictv.live:8080/live/864072/196529/87804.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer45:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer45:
 http://supersonictv.live:8080/live/864072/196529/87805.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer46:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer46:
 http://supersonictv.live:8080/live/864072/196529/87806.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer47:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer47:
 http://supersonictv.live:8080/live/864072/196529/87807.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer48:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer48:
 http://supersonictv.live:8080/live/864072/196529/87808.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer49:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer49:
 http://supersonictv.live:8080/live/864072/196529/87809.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer50:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer50:
 http://supersonictv.live:8080/live/864072/196529/87810.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer51:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer51:
 http://supersonictv.live:8080/live/864072/196529/87811.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer52:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer52:
 http://supersonictv.live:8080/live/864072/196529/87812.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer53:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer53:
 http://supersonictv.live:8080/live/864072/196529/87813.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer54:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer54:
 http://supersonictv.live:8080/live/864072/196529/87814.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer55:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer55:
 http://supersonictv.live:8080/live/864072/196529/87815.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer56:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer56:
 http://supersonictv.live:8080/live/864072/196529/87816.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer57:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer57:
 http://supersonictv.live:8080/live/864072/196529/87817.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer58:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer58:
 http://supersonictv.live:8080/live/864072/196529/87818.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer59:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer59:
 http://supersonictv.live:8080/live/864072/196529/87819.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer60:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer60:
 http://supersonictv.live:8080/live/864072/196529/87820.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer61:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer61:
 http://supersonictv.live:8080/live/864072/196529/87821.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer62:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer62:
 http://supersonictv.live:8080/live/864072/196529/87822.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer63:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer63:
 http://supersonictv.live:8080/live/864072/196529/87823.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer64:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer64:
 http://supersonictv.live:8080/live/864072/196529/87824.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer65:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer65:
 http://supersonictv.live:8080/live/864072/196529/87825.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer66 :
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer66 :
 http://supersonictv.live:8080/live/864072/196529/87826.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer67:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer67:
 http://supersonictv.live:8080/live/864072/196529/87827.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer68:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer68:
 http://supersonictv.live:8080/live/864072/196529/87828.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer69:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer69:
 http://supersonictv.live:8080/live/864072/196529/87829.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/20)",Soccer70:
+#EXTINF:-1 tvg-logo="" group-title="SOCCER LIVE GAME (03/21)",Soccer70:
 http://supersonictv.live:8080/live/864072/196529/87830.m3u8
 
 # --- SPAIN (81) ---
@@ -17987,4 +17983,4 @@ http://supersonictv.live:8080/live/864072/196529/87663.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gPiW5XF.png" group-title="XFL",XFL08 :
 http://supersonictv.live:8080/live/864072/196529/87664.m3u8
 
-# Total: 8922
+# Total: 8920

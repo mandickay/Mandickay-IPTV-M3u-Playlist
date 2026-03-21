@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-03-20 18:38:57
+# Generated: 2026-03-21 18:40:32
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1099,7 +1099,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1511) ---
+# --- Movies | Films (1512) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mNxebIggQk0mSZ0qF8MjCMTHYL4.jpg" group-title="Movies | Films",Do Not Enter (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25915.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dIQcDDuDPewwELfhmYMnt25AyZ6.jpg" group-title="Movies | Films",Under Fire (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25890.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o4GVOrhzO7qwg5CnDijkbYeQZ5M.jpg" group-title="Movies | Films",Jean Valjean (2026)
@@ -5043,7 +5045,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (451) ---
+# --- Movies | NETFLIX (452) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tHdBpAOJlX4EgrU2rvOUwP4JFMY.jpg" group-title="Movies | NETFLIX",Peaky Blinders : L'Immortel (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25900.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z2gBBxphhsCwrbk1w27PQLDFqNA.jpg" group-title="Movies | NETFLIX",Ballad of a Small Player (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25234.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/foEObhyAMM3dxYeBEr242EdQDB7.jpg" group-title="Movies | NETFLIX",Made In Korea (2026)
@@ -7681,4 +7685,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1069
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Halo
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1071
 
-# Total: 3807
+# Total: 3809

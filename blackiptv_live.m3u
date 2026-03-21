@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-21 07:24:32
+# Generated: 2026-03-21 18:41:28
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -4273,11 +4273,9 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25055.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bloomberg-ht-tr.png" group-title="TURK HABER",TR: BLOOMBERG HT
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/116.m3u8
 
-# --- TURK MUZIK (58) ---
+# --- TURK MUZIK (57) ---
 #EXTINF:-1 tvg-logo="https://kalpfm.com/wp-content/uploads/2024/12/kalpfm-logo-y-1a.png" group-title="TURK MUZIK",TR: KALP FM RADIO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69971.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURK MUZIK",TR: TELEON TV (MUZIK)
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60819.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/Flag_of_Turkey.png" group-title="TURK MUZIK",*****TURK MUZIK*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/4943.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/powerturk-tr.png" group-title="TURK MUZIK",TR: POWER TURK
@@ -4391,7 +4389,9 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/26530.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK MUZIK",TR: MMN TURK TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/92.m3u8
 
-# --- TURK SINEMA (314) ---
+# --- TURK SINEMA (315) ---
+#EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: MC EU TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/70107.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: KUZEYMAX TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69989.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: SDM TV Sinema
@@ -5387,9 +5387,13 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/110.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/line-tv-tr.png" group-title="TURK ULUSAL",TR: LINE TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/103.m3u8
 
-# --- TURK YEREL (68) ---
+# --- TURK YEREL (69) ---
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: TIVI 16
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/824.m3u8
+#EXTINF:-1 tvg-logo="https://www.alanyapostatv.com/wp-content/uploads/2019/03/ap_logo_trnsp_red.png" group-title="TURK YEREL",TR: ALANYA POSTA TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/26529.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: TV3
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60819.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tele1-tr.png" group-title="TURK YEREL",TR: TELE 1
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3350.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/Flag_of_Turkey.png" group-title="TURK YEREL",*****TURK YEREL*****
@@ -5480,8 +5484,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24281.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25048.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/birtv.png" group-title="TURK YEREL",TR: BIR TV (IZMIR)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25049.m3u8
-#EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/alanya_tv_tr.png" group-title="TURK YEREL",TR: ALANYA POSTA TV
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/26529.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/Frt_tv.png" group-title="TURK YEREL",TR: FRT Fethiye Tv
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/27010.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/Anadolu-Dernek-Tv.png" group-title="TURK YEREL",TR: ANADOLU Dernek Tv
@@ -6007,4 +6009,4 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR RADYO: ANKARA RADYO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43245.m3u8
 
-# Total: 2942
+# Total: 2943

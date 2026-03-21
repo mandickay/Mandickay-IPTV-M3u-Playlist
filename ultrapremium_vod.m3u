@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2026-03-21 07:22:55
+# Generated: 2026-03-21 18:40:40
 # Expires: 2026-05-28
 # Family Safe Edition
 # ==============================================
@@ -18727,7 +18727,7 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2547
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",El Asesino de TikTok
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2548
 
-# --- Series | → SERIES DRAMA ← (300) ---
+# --- Series | → SERIES DRAMA ← (301) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19328,6 +19328,8 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2552
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2553
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Mentes Extraordinarias
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2554
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",O11CE: Nueva generacion
+http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2555
 
 # --- Series | → SERIES INFANTILES ← (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19605,7 +19607,7 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2528
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",El Joven Sherlock
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2545
 
-# --- Series | → SERIES REALLITY ← (23) ---
+# --- Series | → SERIES REALLITY ← (24) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES REALLITY ←",La Isla de las Tentaciones Argentina & Chile
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2053
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES REALLITY ←",La Isla de las Tentaciones  Mexico
@@ -19652,6 +19654,8 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2284
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2312
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES REALLITY ←",Shark Tank Mexico
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2406
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES REALLITY ←",Dating Naked UK
+http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2556
 
 # --- Series | → SERIES RETRO ← (49) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES RETRO ←",Invasion Extraterrestre
@@ -19839,4 +19843,4 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2492
 
-# Total: 9843
+# Total: 9845

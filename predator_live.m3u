@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-03-20 18:41:38
+# Generated: 2026-03-21 07:14:32
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3050,7 +3050,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/59032.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/59033.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Solo Calcio
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77815.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sport Italia+ HD
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Top Calcio HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/3208.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sportitalia Live 24
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/61022.m3u8
@@ -3691,7 +3691,9 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORTING TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81960.m3u8
 
-# --- Shqiptare (447) ---
+# --- Shqiptare (448) ---
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Sofia Kids Club ᶠʰᵈ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84644.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -8879,4 +8881,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4409
+# Total: 4410

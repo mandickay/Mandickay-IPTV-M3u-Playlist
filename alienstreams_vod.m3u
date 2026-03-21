@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-03-20 18:45:03
+# Generated: 2026-03-21 07:19:29
 # Expires: 2026-03-22
 # Family Safe Edition
 # ==============================================
@@ -14284,8 +14284,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/471787
 http://alienstreams.fi:8080/series/hellhell/hellhell/471543
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Too Much
 http://alienstreams.fi:8080/series/hellhell/hellhell/464061
-#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Enlightened
-http://alienstreams.fi:8080/series/hellhell/hellhell/404291
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Space Force
 http://alienstreams.fi:8080/series/hellhell/hellhell/404301
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",It's a Sin
@@ -14664,6 +14662,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404173
 http://alienstreams.fi:8080/series/hellhell/hellhell/404192
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Derek
 http://alienstreams.fi:8080/series/hellhell/hellhell/404272
+#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Enlightened
+http://alienstreams.fi:8080/series/hellhell/hellhell/404291
 
 # --- Series | Crime [Series] (191) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Cross
@@ -18595,7 +18595,11 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405122
 #EXTINF:-1 tvg-logo="" group-title="Series | Sports[Series]",Startelvan
 http://alienstreams.fi:8080/series/hellhell/hellhell/403526
 
-# --- Series | Svenska Serier [Series] (288) ---
+# --- Series | Svenska Serier [Series] (287) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",LOL: Skrattar bäst som skrattar sist - Sverige
+http://alienstreams.fi:8080/series/hellhell/hellhell/403381
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Efterlyst
+http://alienstreams.fi:8080/series/hellhell/hellhell/478092
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bytt är bytt
 http://alienstreams.fi:8080/series/hellhell/hellhell/496762
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Muren
@@ -18638,8 +18642,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/489466
 http://alienstreams.fi:8080/series/hellhell/hellhell/493083
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Mästarnas mästare
 http://alienstreams.fi:8080/series/hellhell/hellhell/496816
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Efterlyst
-http://alienstreams.fi:8080/series/hellhell/hellhell/478092
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Carina Bergfeldt
 http://alienstreams.fi:8080/series/hellhell/hellhell/485474
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bäst i test
@@ -18870,8 +18872,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/459312
 http://alienstreams.fi:8080/series/hellhell/hellhell/452434
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Let's Dance
 http://alienstreams.fi:8080/series/hellhell/hellhell/450177
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",LOL
-http://alienstreams.fi:8080/series/hellhell/hellhell/449439
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bianca by Night
 http://alienstreams.fi:8080/series/hellhell/hellhell/448007
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Glaskupan
@@ -18998,8 +18998,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/403371
 http://alienstreams.fi:8080/series/hellhell/hellhell/403373
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Vi i villa
 http://alienstreams.fi:8080/series/hellhell/hellhell/403374
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",LOL: Skrattar bäst som skrattar sist - Sverige
-http://alienstreams.fi:8080/series/hellhell/hellhell/403381
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Stugdrömmar
 http://alienstreams.fi:8080/series/hellhell/hellhell/403384
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",En hederlig jul med Knyckertz
@@ -19227,4 +19225,4 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/hellhell/hellhell/459987
 
-# Total: 9554
+# Total: 9553

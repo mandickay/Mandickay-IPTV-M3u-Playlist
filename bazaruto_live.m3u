@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-03-20 18:47:43
+# Generated: 2026-03-21 07:17:41
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -2617,7 +2617,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1356.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALIJA",Top Crime  IT
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1358.m3u8
 
-# --- MAKEDONIJA (39) ---
+# --- MAKEDONIJA (45) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/MPT_1_HD_(MK).png" group-title="MAKEDONIJA",MRT  1
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/30.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/MPT_1_HD_(MK).png" group-title="MAKEDONIJA",MRT 1 HD
@@ -2696,6 +2696,18 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/360.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/669.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/VIASAT_EXPLORE_HD..png" group-title="MAKEDONIJA",Viasat explore MK
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/47193.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",24 Kitchen MK
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63585.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",T-Prime MK
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63586.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",T-Prime 2 MK
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63588.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",T-Prime Action MK
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63589.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",Discover Chanel MK
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63590.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",Animal Planet MK
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63591.m3u8
 
 # --- MUZIKA (41) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/GRAND_NOSTALGIJA_HD_.png" group-title="MUZIKA",Grand TV
@@ -4323,4 +4335,4 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Outside TV HD US
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53505.m3u8
 
-# Total: 2133
+# Total: 2139

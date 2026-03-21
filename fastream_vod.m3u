@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-03-20 18:38:33
+# Generated: 2026-03-21 07:28:20
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -13889,7 +13889,11 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (16) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (18) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEFMZGcmxBDCodbLAqmrjdjCTwm.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Zeta (2026)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280425.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Peaky Blinders: El hombre inmortal (2026)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280424.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",El Guardián: Último refugio (2026)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/280329.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foEObhyAMM3dxYeBEr242EdQDB7.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Un Destino en Corea (2026)
@@ -19835,4 +19839,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9841
+# Total: 9843

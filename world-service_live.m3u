@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-20 18:42:04
+# Generated: 2026-03-21 07:20:11
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -1145,26 +1145,6 @@ http://world-service.us:8080/live/giovanmer/merante/80949.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/calcio.png" group-title="SKY CALCIO",Sky Calcio 11 HD (261)
 http://world-service.us:8080/live/giovanmer/merante/80950.m3u8
 
-# --- SKY CINEMA FHD (9) ---
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8f9a405295b7999ab871755a682128d4.png" group-title="SKY CINEMA FHD",SKY Cinema Uno FHD
-http://world-service.us:8080/live/giovanmer/merante/250.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2beaafa677080141b4f220d9983f74f5.png" group-title="SKY CINEMA FHD",Sky Cinema Due FHD
-http://world-service.us:8080/live/giovanmer/merante/251.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/54781af25ae4bc92dcbbf855d5f3320f.png" group-title="SKY CINEMA FHD",Sky Cinema Action FHD
-http://world-service.us:8080/live/giovanmer/merante/255.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/99e04e23452e536b5b21c6bff701c4a2.png" group-title="SKY CINEMA FHD",Sky Cinema Family FHD
-http://world-service.us:8080/live/giovanmer/merante/254.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/0a5add9e0fe16f4e285e597c32100b66.png" group-title="SKY CINEMA FHD",Sky Cinema Collection FHD
-http://world-service.us:8080/live/giovanmer/merante/258.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/5e207734f2cb430919875d98e9e24e4e.png" group-title="SKY CINEMA FHD",Sky Cinema Suspense FHD
-http://world-service.us:8080/live/giovanmer/merante/256.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ba12b98e223b06df9babdce54c6ed6fa.png" group-title="SKY CINEMA FHD",Sky Cinema Drama FHD
-http://world-service.us:8080/live/giovanmer/merante/260.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/200d7c15c7477cbf96ceefc5036f6254.png" group-title="SKY CINEMA FHD",Sky Cinema Comedy FHD
-http://world-service.us:8080/live/giovanmer/merante/257.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/7c6d95efaae0fa898035c4b843fb5d1c.png" group-title="SKY CINEMA FHD",Sky Cinema Romance FHD
-http://world-service.us:8080/live/giovanmer/merante/259.m3u8
-
 # --- SKY CINEMA HD (11) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/8f9a405295b7999ab871755a682128d4.png" group-title="SKY CINEMA HD",SKY Cinema Uno HD
 http://world-service.us:8080/live/giovanmer/merante/15.m3u8
@@ -1188,26 +1168,6 @@ http://world-service.us:8080/live/giovanmer/merante/21.m3u8
 http://world-service.us:8080/live/giovanmer/merante/63062.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/2beaafa677080141b4f220d9983f74f5.png" group-title="SKY CINEMA HD",SKY CINEMA DUE 24 HD
 http://world-service.us:8080/live/giovanmer/merante/63063.m3u8
-
-# --- SKY CINEMA SD (9) ---
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/20d4e6fa0293ff5919f5eb444a76f290.png" group-title="SKY CINEMA SD",Sky Cinema Uno SD
-http://world-service.us:8080/live/giovanmer/merante/83899.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/189037a13e144e64d89a6e64120a1e3b.jpeg" group-title="SKY CINEMA SD",Sky Cinema Due SD
-http://world-service.us:8080/live/giovanmer/merante/83900.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9fa7d4cc72e57efe0b286a26dd184c2d.png" group-title="SKY CINEMA SD",Sky Cinema Action SD
-http://world-service.us:8080/live/giovanmer/merante/1883.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/74e862affa895e292798e8ab0050c376.png" group-title="SKY CINEMA SD",Sky Cinema Family SD
-http://world-service.us:8080/live/giovanmer/merante/1886.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/3a0819e54ef158b947890bb058a47ec3.png" group-title="SKY CINEMA SD",Sky Cinema Collection SD
-http://world-service.us:8080/live/giovanmer/merante/1885.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/5e207734f2cb430919875d98e9e24e4e.png" group-title="SKY CINEMA SD",Sky Cinema Suspense SD
-http://world-service.us:8080/live/giovanmer/merante/1890.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9bd61178ad3b3aa07b894fabadb94a89.png" group-title="SKY CINEMA SD",Sky Cinema Drama SD
-http://world-service.us:8080/live/giovanmer/merante/1893.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/04c9624f21060f24f1dac8bf2ac53ab4.png" group-title="SKY CINEMA SD",Sky Cinema Comedy SD
-http://world-service.us:8080/live/giovanmer/merante/1889.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a54a01de29a068d8e8eeda2f691828de.png" group-title="SKY CINEMA SD",Sky Cinema Romance SD
-http://world-service.us:8080/live/giovanmer/merante/1882.m3u8
 
 # --- SKY CULTURA (17) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="SKY CULTURA",=========SKY CULTURA=========
@@ -1720,5 +1680,43 @@ http://world-service.us:8080/live/giovanmer/merante/65387.m3u8
 http://world-service.us:8080/live/giovanmer/merante/65388.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",ES: NICKELODEON HD
 http://world-service.us:8080/live/giovanmer/merante/65389.m3u8
+
+# --- Unknown (18) ---
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/20d4e6fa0293ff5919f5eb444a76f290.png" group-title="Unknown",Sky Cinema Uno SD
+http://world-service.us:8080/live/giovanmer/merante/83899.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8f9a405295b7999ab871755a682128d4.png" group-title="Unknown",SKY Cinema Uno FHD
+http://world-service.us:8080/live/giovanmer/merante/250.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/189037a13e144e64d89a6e64120a1e3b.jpeg" group-title="Unknown",Sky Cinema Due SD
+http://world-service.us:8080/live/giovanmer/merante/83900.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2beaafa677080141b4f220d9983f74f5.png" group-title="Unknown",Sky Cinema Due FHD
+http://world-service.us:8080/live/giovanmer/merante/251.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9fa7d4cc72e57efe0b286a26dd184c2d.png" group-title="Unknown",Sky Cinema Action SD
+http://world-service.us:8080/live/giovanmer/merante/1883.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/54781af25ae4bc92dcbbf855d5f3320f.png" group-title="Unknown",Sky Cinema Action FHD
+http://world-service.us:8080/live/giovanmer/merante/255.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/74e862affa895e292798e8ab0050c376.png" group-title="Unknown",Sky Cinema Family SD
+http://world-service.us:8080/live/giovanmer/merante/1886.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/99e04e23452e536b5b21c6bff701c4a2.png" group-title="Unknown",Sky Cinema Family FHD
+http://world-service.us:8080/live/giovanmer/merante/254.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/3a0819e54ef158b947890bb058a47ec3.png" group-title="Unknown",Sky Cinema Collection SD
+http://world-service.us:8080/live/giovanmer/merante/1885.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/0a5add9e0fe16f4e285e597c32100b66.png" group-title="Unknown",Sky Cinema Collection FHD
+http://world-service.us:8080/live/giovanmer/merante/258.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/5e207734f2cb430919875d98e9e24e4e.png" group-title="Unknown",Sky Cinema Suspense SD
+http://world-service.us:8080/live/giovanmer/merante/1890.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/5e207734f2cb430919875d98e9e24e4e.png" group-title="Unknown",Sky Cinema Suspense FHD
+http://world-service.us:8080/live/giovanmer/merante/256.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9bd61178ad3b3aa07b894fabadb94a89.png" group-title="Unknown",Sky Cinema Drama SD
+http://world-service.us:8080/live/giovanmer/merante/1893.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ba12b98e223b06df9babdce54c6ed6fa.png" group-title="Unknown",Sky Cinema Drama FHD
+http://world-service.us:8080/live/giovanmer/merante/260.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/04c9624f21060f24f1dac8bf2ac53ab4.png" group-title="Unknown",Sky Cinema Comedy SD
+http://world-service.us:8080/live/giovanmer/merante/1889.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/200d7c15c7477cbf96ceefc5036f6254.png" group-title="Unknown",Sky Cinema Comedy FHD
+http://world-service.us:8080/live/giovanmer/merante/257.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a54a01de29a068d8e8eeda2f691828de.png" group-title="Unknown",Sky Cinema Romance SD
+http://world-service.us:8080/live/giovanmer/merante/1882.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/7c6d95efaae0fa898035c4b843fb5d1c.png" group-title="Unknown",Sky Cinema Romance FHD
+http://world-service.us:8080/live/giovanmer/merante/259.m3u8
 
 # Total: 815

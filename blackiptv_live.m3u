@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-22 18:33:09
+# Generated: 2026-03-23 07:37:04
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -4389,7 +4389,9 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/26530.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK MUZIK",TR: MMN TURK TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/92.m3u8
 
-# --- TURK SINEMA (315) ---
+# --- TURK SINEMA (316) ---
+#EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: RIZE TURK
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/529.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: TR10
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/70111.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: KUZEYMAX TV
@@ -5390,6 +5392,8 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/103.m3u8
 # --- TURK YEREL (72) ---
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: TIVI 16
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/824.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: FIT YASA TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/70116.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: MC EU TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/70107.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/ekoltv.png" group-title="TURK YEREL",TR: EKOL TV HD
@@ -5434,8 +5438,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/403.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/409.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: HUNAT TV (KAYSERI)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/414.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: RIZE TURK
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/529.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: ETV KAYSERI
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3126.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/Bursa-Tv.png" group-title="TURK YEREL",TR: Bursa AS Tv
@@ -6015,4 +6017,4 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR RADYO: ANKARA RADYO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43245.m3u8
 
-# Total: 2946
+# Total: 2947

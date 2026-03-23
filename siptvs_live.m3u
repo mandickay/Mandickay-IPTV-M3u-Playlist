@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-03-22 18:39:41
+# Generated: 2026-03-23 07:27:54
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -1023,7 +1023,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/129137.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/POLAND/AXNWHITE.png" group-title="|DE| SKY",AXN WHITE
 http://siptvs.com:8080/live/Biljana12/Biljana12/129138.m3u8
 
-# --- |DE| SPORT (99) ---
+# --- |DE| SPORT (97) ---
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/192-1927409_deutschland-flagge-png-clipart.png" group-title="|DE| SPORT",* * * *  GERMANY  * * * *
 http://siptvs.com:8080/live/Biljana12/Biljana12/35170.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/logonewtest/Sport1HD.png" group-title="|DE| SPORT",DE: SPORT 1ᴴᴰ
@@ -1218,10 +1218,6 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/112057.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/199383.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logonewtest/magentasport.png" group-title="|DE| SPORT",DE: MS GOLF 2
 http://siptvs.com:8080/live/Biljana12/Biljana12/199384.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/logonewtest/ddaznweb.png" group-title="|DE| SPORT",DE: DAZN FIFA WORLD CUP 2025
-http://siptvs.com:8080/live/Biljana12/Biljana12/191504.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/logonewtest/ddaznweb.png" group-title="|DE| SPORT",DE: DAZN FIFA WORLD CUP 2025 2
-http://siptvs.com:8080/live/Biljana12/Biljana12/191505.m3u8
 
 # --- |DE| ÖSTERREICH (32) ---
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/Austria/FLAG.png" group-title="|DE| ÖSTERREICH",* * * * AUSTRIA  * * * *
@@ -3255,4 +3251,4 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/85905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|WSP| WORLD SPORT",MUTV
 http://siptvs.com:8080/live/Biljana12/Biljana12/126239.m3u8
 
-# Total: 1594
+# Total: 1592

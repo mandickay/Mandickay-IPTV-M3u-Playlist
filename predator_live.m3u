@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-03-23 18:51:49
+# Generated: 2026-03-24 07:26:08
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -2445,7 +2445,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13414.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",FR: Automoto  HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13417.m3u8
 
-# --- Greece (144) ---
+# --- Greece (141) ---
 #EXTINF:-1 tvg-logo="" group-title="Greece",=====Greece=====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/16482.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: Cyta ERT 1 HD
@@ -2456,8 +2456,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/77634.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77633.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: Cyta Skai F HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77629.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greece",GR: Cyta Alpha F HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/77628.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: Cyta MakTV F HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77627.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: Cyta Mega F HD
@@ -2500,16 +2498,12 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/77609.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77608.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: Cyta Sport Plus F HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77607.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greece",GR: Cyta Alphasat F HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/77606.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: Cyta Mega Cosmos
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77605.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: Cyta MyZen
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77604.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: Cyta Nr1 F HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77603.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greece",GR: Cyta Alpha
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/77602.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: Cyta Capital TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77601.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: Cyta PLUS TV
@@ -8923,4 +8917,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4431
+# Total: 4428

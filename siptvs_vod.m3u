@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-03-23 18:49:57
+# Generated: 2026-03-24 07:20:38
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -2631,7 +2631,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/127285.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFSJMELO3oGJWJT7gtXb4Kf8FDk.jpg" group-title="Movies | |DE| ANIMATION",Paw Patrol: Der Mighty Kinofilm (2023)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/131253.mkv
 
-# --- Movies | |DE| BOLLYWOOD (144) ---
+# --- Movies | |DE| BOLLYWOOD (147) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3ANnag8WzQPZfMRWHwL7wH96uC.jpg" group-title="Movies | |DE| BOLLYWOOD",Sternenkind कोई मिल गया (2003)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/20426.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LZgpUyFEvqHaDVuveE002mhgTi.jpg" group-title="Movies | |DE| BOLLYWOOD",Chennai Express (2013)
@@ -2920,6 +2920,12 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/198755.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/198757.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/atJYHfZXN0vgQx3BuB5aDXw7ewb.jpg" group-title="Movies | |DE| BOLLYWOOD",Dil Bole Hadippa! - Mein Herz ruft nach Liebe (2009)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/201262.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lCyy2tQ14OmzYN7byobslSEOZz9.jpg" group-title="Movies | |DE| BOLLYWOOD",Laaga Chunari Mein Daag – Der Weg einer Frau (2007)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/201435.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i4bqpI1SyauVMyGCzZKjs4HR0pj.jpg" group-title="Movies | |DE| BOLLYWOOD",U Me Aur Hum – Für immer wir (2008)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/201436.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dy2qAtTqe83zCCB55sqVK2g7i1m.jpg" group-title="Movies | |DE| BOLLYWOOD",We Are Family (2010)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/201437.mkv
 
 # --- Movies | |DE| COMEDY (255) ---
 #EXTINF:-1 tvg-logo="http://siptvs.com:8080/images/6f0e72cb77814143c582f85116a8f38a.jpg" group-title="Movies | |DE| COMEDY",Desperados (2020)
@@ -11429,7 +11435,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/189305.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ri4XxXNCUKwlZWXgoVNftF7GIY.jpg" group-title="Movies | |DE| SCI-FI / FANTASY",Divinity (2023)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/191685.mkv
 
-# --- Movies | |DE| SERIEN (759) ---
+# --- Movies | |DE| SERIEN (760) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",Dragonball
 http://siptvs.com:8080/movie/Biljana12/Biljana12/11.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",Dragonball Z Kai
@@ -12948,6 +12954,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2431.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2439.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Peppa Wutz
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2447.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: This Is Us - Das ist Leben
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2448.mp4
 
 # --- Movies | |DE| THRILLER (20) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYNuJd1vHOtHyeKoO87ehsGpBva.jpg" group-title="Movies | |DE| THRILLER",Nomis - Die Nacht des Jägers (2019)
@@ -22923,7 +22931,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2066.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| SPANSKE SERIJE",Scars of Beauty (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2138.mp4
 
-# --- Movies | |EXYU| STRANE SERIJE (954) ---
+# --- Movies | |EXYU| STRANE SERIJE (955) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",YOU
 http://siptvs.com:8080/movie/Biljana12/Biljana12/22.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Breaking Bad
@@ -24832,6 +24840,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2444.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2445.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",The Lady (2026)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2446.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Lord of the Flies (2026)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2449.mp4
 
 # --- Movies | |EXYU| STRANI 2022 (351) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwIZp4fVMGK6GZVAM5SU5ZHXSoU.jpg" group-title="Movies | |EXYU| STRANI 2022",Amandla (2022)
@@ -34153,4 +34163,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 17010
+# Total: 17015

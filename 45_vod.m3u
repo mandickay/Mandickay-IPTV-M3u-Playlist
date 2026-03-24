@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-03-23 18:50:34
+# Generated: 2026-03-24 07:19:41
 # Expires: 2026-07-13
 # Family Safe Edition
 # ==============================================
@@ -1421,7 +1421,7 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2160326.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjWiVF2vFwd3mhs1dNoS0SOHxqt.jpg" group-title="Movies | Kids Movies",Ternet Ninja 2 [DK] [2021]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/135645.mkv
 
-# --- Movies | Old Popular Movies [Multi-Sub] (7592) ---
+# --- Movies | Old Popular Movies [Multi-Sub] (7593) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76twEOHXAM2oKnvZYBI5bP6GeDu.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",The Last Song [2010]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2337435.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLWeyvu0ZJrpxDsRrzsMeaGzyZp.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Ice Princess [2005]
@@ -16606,8 +16606,10 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2332148.mkv
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2332149.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BlH6ozzUcdFknK4iUk6akIfdkQ.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",The Terrornauts [PRE] [1967]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2332151.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oi4N7N5X2oF0W1MLx787rb9z3I.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Wuthering Heights [PRE] [2003]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2341850.mkv
 
-# --- Movies | Premiere Cinemas [Multi-Sub] (5571) ---
+# --- Movies | Premiere Cinemas [Multi-Sub] (5575) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nb4LpzoNCNMxxNv9RhuIySHBanW.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Testament of Ann Lee [PRE] [2025]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2333250.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nL2f1g1cMPUsPmFWB71qHqjyVFd.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Fukushima: A Nuclear Nightmare [PRE] [2026]
@@ -27750,6 +27752,14 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2337397.mkv
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2337398.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Peaky Blinders: The Immortal Man [PRE] [2026]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2337434.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC3iBspLAhr4PN5CVSDLjz7YWaF.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Alec Baldwin: Shock and Sadness [PRE] [2023]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2341790.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tztql23n2UCoM76KyCSKoZxVUL1.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",BTS THE COMEBACK LIVE | ARIRANG [PRE] [2026]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2341791.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6E6fBED3ix7FmrWUWZdeYG4vqK8.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Dark Match [PRE] [2024]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2341792.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Send Help [PRE] [2026]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2341793.mkv
 
 # --- Movies | Relaxing Music (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Relaxing Music",Fall Asleep Fast Eliminates All Negative Energy
@@ -27819,4 +27829,4 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/503111.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FrRyIOrnCin795JjaxJgu7VeHR.jpg" group-title="Movies | Svenska",När mörkret faller [SE] [2006]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/798230.mkv
 
-# Total: 13895
+# Total: 13900

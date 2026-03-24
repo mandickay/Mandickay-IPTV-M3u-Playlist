@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-03-23 18:55:28
+# Generated: 2026-03-24 07:21:13
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -7315,7 +7315,19 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (54) ---
+# --- Movies | Filme 2026 (60) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEXT4bXOrM0pqrK714NP3M69cWW.jpg" group-title="Movies | Filme 2026",Good Boy - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69082.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxGu6UZ6ErR5gyBJLcha4zi7OvM.jpg" group-title="Movies | Filme 2026",A Gangster's Life - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69078.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg" group-title="Movies | Filme 2026",Agent Zeta (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69067.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lltML74nj0XRdJ4f1J3YCrQcoTj.jpg" group-title="Movies | Filme 2026",The Plastic Detox - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69066.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26erl8fNKKheai9ygrtci5A5war.jpg" group-title="Movies | Filme 2026",The Cure - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69065.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFBu7tS0mlEZwYTkjJcKH48bV4m.jpg" group-title="Movies | Filme 2026",Naari Naari Naduma Murari - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69064.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iICU2CBNat7q9tm88SzrUFwR1hA.jpg" group-title="Movies | Filme 2026",Funky - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69063.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKn63ZWEVK66OaC1svlI7g6r9ah.jpg" group-title="Movies | Filme 2026",Subedaar - 2026
@@ -18661,6 +18673,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/715.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Scorpion",Scorpion
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/488.mp4
 
+# --- Movies | Scrubs (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Scrubs",Scrubs (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1235.mp4
+
 # --- Movies | Seal Team (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seal Team",SEAL Team (2017)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/911.mp4
@@ -20315,4 +20331,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8893
+# Total: 8900

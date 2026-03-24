@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-23 18:59:31
+# Generated: 2026-03-24 07:24:48
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -1105,11 +1105,7 @@ http://world-service.us:8080/live/giovanmer/merante/81920.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/serieafemminile.png" group-title="SERIE A FEMMINILE E EBAY",[TIM] Serie A Ebay Femminile 5 HD
 http://world-service.us:8080/live/giovanmer/merante/81921.m3u8
 
-# --- SKY CALCIO (23) ---
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/20d4e6fa0293ff5919f5eb444a76f290.png" group-title="SKY CALCIO",Sky Cinema Uno SD
-http://world-service.us:8080/live/giovanmer/merante/83899.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/189037a13e144e64d89a6e64120a1e3b.jpeg" group-title="SKY CALCIO",Sky Cinema Due SD
-http://world-service.us:8080/live/giovanmer/merante/83900.m3u8
+# --- SKY CALCIO (21) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="SKY CALCIO",=== SKY CALCIO ===
 http://world-service.us:8080/live/giovanmer/merante/80938.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/calcio.png" group-title="SKY CALCIO",Sky Sport Calcio  HD
@@ -1199,7 +1195,11 @@ http://world-service.us:8080/live/giovanmer/merante/63062.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2beaafa677080141b4f220d9983f74f5.png" group-title="SKY CINEMA HD",SKY CINEMA DUE 24 HD
 http://world-service.us:8080/live/giovanmer/merante/63063.m3u8
 
-# --- SKY CINEMA SD (7) ---
+# --- SKY CINEMA SD (9) ---
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/20d4e6fa0293ff5919f5eb444a76f290.png" group-title="SKY CINEMA SD",Sky Cinema Uno SD
+http://world-service.us:8080/live/giovanmer/merante/83899.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/189037a13e144e64d89a6e64120a1e3b.jpeg" group-title="SKY CINEMA SD",Sky Cinema Due SD
+http://world-service.us:8080/live/giovanmer/merante/83900.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9fa7d4cc72e57efe0b286a26dd184c2d.png" group-title="SKY CINEMA SD",Sky Cinema Action SD
 http://world-service.us:8080/live/giovanmer/merante/1883.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/74e862affa895e292798e8ab0050c376.png" group-title="SKY CINEMA SD",Sky Cinema Family SD

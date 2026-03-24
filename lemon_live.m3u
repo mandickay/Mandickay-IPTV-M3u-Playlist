@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-03-23 18:59:25
+# Generated: 2026-03-24 07:17:48
 # Expires: 2026-10-05
 # Family Safe Edition
 # ==============================================
@@ -3955,7 +3955,7 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157791.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/0f2153ba6b5f04ce205e9d1ac707084f.png" group-title="Duitsland / Germany SPORTS",DE: World of Freesports
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157841.m3u8
 
-# --- Engeland / United Kingdom (544) ---
+# --- Engeland / United Kingdom (465) ---
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/6d7b640f25abcda13596735cce562db0.png" group-title="Engeland / United Kingdom",UK: 4Seven  HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157871.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/6d7b640f25abcda13596735cce562db0.png" group-title="Engeland / United Kingdom",UK: 4Seven SD
@@ -4016,38 +4016,6 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157901.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157902.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One Channel Islands
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157904.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One East Midlands
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157905.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One East Yorkshire
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157906.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One East
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157907.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One London
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157908.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One North East & Cumbria
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157909.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One North West
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157910.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One Northern Ireland
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157911.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One Oxford
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157912.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One Scotland
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157913.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One South East
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157914.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One South West
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157915.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One South
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157916.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One Wales
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157917.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One West Midlands
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157918.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One West
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157919.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One Yorks
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157920.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157921.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b52bc4e801cbfa547811f20beeabcdf2.png" group-title="Engeland / United Kingdom",UK: BBC One HD
@@ -4134,12 +4102,8 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157962.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157963.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c5af9cd1e4d0a4ace6f4fa6bf09f8760.png" group-title="Engeland / United Kingdom",UK: Box Hits HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157964.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/92d6568d62bf9b44cb433eae721fbc4c.png" group-title="Engeland / United Kingdom",UK: British Muslim TV SD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157965.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/e9aad583b4a9098915cbd0ac47606883.png" group-title="Engeland / United Kingdom",UK: Cartoon Network +1
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157983.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/16e3f03450d87a72144869486bc81d0e.png" group-title="Engeland / United Kingdom",UK: Cartoon Network FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157984.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/16e3f03450d87a72144869486bc81d0e.png" group-title="Engeland / United Kingdom",UK: Cartoon Network HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157985.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/16e3f03450d87a72144869486bc81d0e.png" group-title="Engeland / United Kingdom",UK: Cartoon Network SD
@@ -4148,8 +4112,6 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157986.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157987.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b58dab3e2d5f0b933f342c233cb96fa1.png" group-title="Engeland / United Kingdom",UK: CBBC FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157988.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b58dab3e2d5f0b933f342c233cb96fa1.png" group-title="Engeland / United Kingdom",UK: CBBC HD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157989.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b58dab3e2d5f0b933f342c233cb96fa1.png" group-title="Engeland / United Kingdom",UK: CBBC SD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157990.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a6042f33e37fc97c2561a8b541c28cee.png" group-title="Engeland / United Kingdom",UK: Cbeebies HD
@@ -4158,36 +4120,24 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157991.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157992.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a2dd1aed172b2109895076aaa1b2bdda.png" group-title="Engeland / United Kingdom",UK: CBS Drama SD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157993.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/2b6428fa40a30e0d57a7049b8a503e64.png" group-title="Engeland / United Kingdom",UK: CBS Justice SD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157994.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/168092ee338a729f5bfbe5864d342252.png" group-title="Engeland / United Kingdom",UK: CBS Reality +1
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157995.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/9c143d23ba596a28ee2d71b6a5bc9f23.png" group-title="Engeland / United Kingdom",UK: CBS Reality SD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157996.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/32a5e32b0b7d99b003ed579ef64db099.png" group-title="Engeland / United Kingdom",UK: CGTN Documentary SD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157997.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/09410d59a7a236e2dcc29eedac1ba0e1.png" group-title="Engeland / United Kingdom",UK: CGTN World News FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157998.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/89d6db6f894d0223465ef6721639f44f.png" group-title="Engeland / United Kingdom",UK: Challenge HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157999.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/89d6db6f894d0223465ef6721639f44f.png" group-title="Engeland / United Kingdom",UK: Challenge SD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158000.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4b8f1430f1f5613e04a7acb43946ff44.png" group-title="Engeland / United Kingdom",UK: Channel 44 SD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158002.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/53f133369cc243652af5d1bc0757dd59.png" group-title="Engeland / United Kingdom",UK: Channel 4 FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158003.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/53f133369cc243652af5d1bc0757dd59.png" group-title="Engeland / United Kingdom",UK: Channel 4 HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158004.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/196a948d710bb4765031e75457999e2c.png" group-title="Engeland / United Kingdom",UK: Channel 4 SD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158005.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/7140de65919849dc7a52f9e29ef9e160.png" group-title="Engeland / United Kingdom",UK: Channel 5 +1
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158006.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/77f5a91be75996f70212114d29e96594.png" group-title="Engeland / United Kingdom",UK: Channel 5 FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158007.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/77f5a91be75996f70212114d29e96594.png" group-title="Engeland / United Kingdom",UK: Channel 5 HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158008.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/fc79cf0c486e71920d07af84138c30b5.png" group-title="Engeland / United Kingdom",UK: Channel 5 SD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158009.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="Engeland / United Kingdom",UK: Cinebox Action FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158011.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="Engeland / United Kingdom",UK: Cinebox Animation FHD
@@ -4198,8 +4148,6 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158013.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158015.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="Engeland / United Kingdom",UK: Cinebox Cult FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158016.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="Engeland / United Kingdom",UK: Cinebox Family FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158017.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="Engeland / United Kingdom",UK: Cinebox Greats FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158018.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="Engeland / United Kingdom",UK: Cinebox Hits FH
@@ -4208,20 +4156,14 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158019.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158020.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="Engeland / United Kingdom",UK: Cinebox Musical FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158021.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="Engeland / United Kingdom",UK: Cinebox Mystery FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158022.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="Engeland / United Kingdom",UK: Cinebox Premiere FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158023.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="Engeland / United Kingdom",UK: Cinebox Romance FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158024.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="Engeland / United Kingdom",UK: Cinebox Sci-Fi FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158025.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="Engeland / United Kingdom",UK: Cinebox Thriller FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158026.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="Engeland / United Kingdom",UK: Cinebox Western FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158027.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Engeland / United Kingdom",UK: CITV FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158028.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/7f465d5969bdeda4f0dca77c2f7d507a.png" group-title="Engeland / United Kingdom",UK: Clubbing TV HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158029.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/afeb93e316fa5f30ecac61d6607046a2.png" group-title="Engeland / United Kingdom",UK: Clubland TV SD
@@ -4252,14 +4194,10 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158041.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158042.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/da23ff3c37841056f1cd247b69b2ced1.png" group-title="Engeland / United Kingdom",UK: Craft Store HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158043.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/cb000abd7058856c02b94ea233a2bb27.png" group-title="Engeland / United Kingdom",UK: Create & Craft FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158044.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/e415831c62cc7fb18540ca9824f2351d.png" group-title="Engeland / United Kingdom",UK: Create & Craft HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158045.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/909b8a5132faf105826316f1b6c7258d.png" group-title="Engeland / United Kingdom",UK: Crime & Investigation FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158046.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/909b8a5132faf105826316f1b6c7258d.png" group-title="Engeland / United Kingdom",UK: Crime & Investigation HD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158047.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/909b8a5132faf105826316f1b6c7258d.png" group-title="Engeland / United Kingdom",UK: Crime & Investigation SD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158048.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/2e0dc9ec57e1d58c42775b0e566aa89c.png" group-title="Engeland / United Kingdom",UK: Cruise1st TV SD
@@ -4274,16 +4212,12 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158052.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158053.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/8089d4dce6970e2a464cd80136a2fe73.png" group-title="Engeland / United Kingdom",UK: Deluxe Lounge HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158054.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/8eec345dcb3dd6ea52411a0fae4a7135.png" group-title="Engeland / United Kingdom",UK: Discover Film HD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158055.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/813513ce030768aab17b38d54a047587.png" group-title="Engeland / United Kingdom",UK: Discovery +1
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158056.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/813513ce030768aab17b38d54a047587.png" group-title="Engeland / United Kingdom",UK: Discovery Channel FHD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158057.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/813513ce030768aab17b38d54a047587.png" group-title="Engeland / United Kingdom",UK: Discovery Channel HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158058.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/813513ce030768aab17b38d54a047587.png" group-title="Engeland / United Kingdom",UK: Discovery Channel SD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158059.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/478fddee98fed305e06a3f176398cd31.png" group-title="Engeland / United Kingdom",UK: Discovery History +1
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158060.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/708aa9ce2e34083fa25cb385195ff6e2.png" group-title="Engeland / United Kingdom",UK: Discovery History HD
@@ -4292,44 +4226,8 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158061.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158062.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/08cd13cf02ec49b5c7641e0ca4c1cf24.png" group-title="Engeland / United Kingdom",UK: Discovery Science HD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158063.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/84fa36847a64d2f5e24357e52045eb8d.png" group-title="Engeland / United Kingdom",UK: Discovery Turbo +1
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158064.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/cc8f333e810a0b724f1887dfc7e2f58e.png" group-title="Engeland / United Kingdom",UK: Discovery Turbo SD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158065.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/888d0d03549e54793050d64651d143fa.png" group-title="Engeland / United Kingdom",UK: DMAX SD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158067.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="Engeland / United Kingdom",UK: Docubox: 7News Spotlight
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158068.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="Engeland / United Kingdom",UK: Docubox: All Documentary
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158069.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="Engeland / United Kingdom",UK: Docubox: Discovery
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158070.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="Engeland / United Kingdom",UK: Docubox: DW Documentary
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158071.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="Engeland / United Kingdom",UK: Docubox: Free Documentary Anilams
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158072.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="Engeland / United Kingdom",UK: Docubox: Free Documentary
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158073.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="Engeland / United Kingdom",UK: Docubox: Frontline PBS
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158074.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="Engeland / United Kingdom",UK: Docubox: Independent POV
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158075.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="Engeland / United Kingdom",UK: Docubox: Nat Geo Wild
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158076.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="Engeland / United Kingdom",UK: Docubox: Nat Geo
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158077.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="Engeland / United Kingdom",UK: Docubox: Netflix
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158078.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="Engeland / United Kingdom",UK: Docubox: Real Crime
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158079.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="Engeland / United Kingdom",UK: Docubox: Real Stories
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158080.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="Engeland / United Kingdom",UK: Docubox: Real Wild
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158081.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="Engeland / United Kingdom",UK: Docubox: Retold
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158082.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="Engeland / United Kingdom",UK: Docubox: The Life Guide
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158083.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/87d5ff281cb6ddd3d72923e3f0e940b7.png" group-title="Engeland / United Kingdom",UK: Drama SD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158085.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/2885fbf301d9ea66e52698e4185a8186.png" group-title="Engeland / United Kingdom",UK: Duck TV SD
@@ -4924,40 +4822,6 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158423.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158424.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/1f1146db861cf7485d48e9ea3ac5c762.png" group-title="Engeland / United Kingdom",UK: TLC SD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158425.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/9eff05412a4a8f0f0cd1119ebd31e583.png" group-title="Engeland / United Kingdom",UK: TNT Sports 10 (Event Only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157966.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c1e766b9d470dde398f2673ff360fd4f.png" group-title="Engeland / United Kingdom",UK: TNT Sports 1 HD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157967.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c1e766b9d470dde398f2673ff360fd4f.png" group-title="Engeland / United Kingdom",UK: TNT Sports 1 SD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157968.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/9972dcc31632e53912def53891b26742.png" group-title="Engeland / United Kingdom",UK: TNT Sports 2 FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157969.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/9972dcc31632e53912def53891b26742.png" group-title="Engeland / United Kingdom",UK: TNT Sports 2 HD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157970.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/9972dcc31632e53912def53891b26742.png" group-title="Engeland / United Kingdom",UK: TNT Sports 2 SD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157971.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b03c8e48162dc26d9f78850e8621d5c9.png" group-title="Engeland / United Kingdom",UK: TNT Sports 3 HD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157972.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b03c8e48162dc26d9f78850e8621d5c9.png" group-title="Engeland / United Kingdom",UK: TNT Sports 3 SD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157973.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/272892b6239befd51b3bc0df51b9e47c.png" group-title="Engeland / United Kingdom",UK: TNT Sports 4 FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157974.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/272892b6239befd51b3bc0df51b9e47c.png" group-title="Engeland / United Kingdom",UK: TNT Sports 4 HD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157975.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/272892b6239befd51b3bc0df51b9e47c.png" group-title="Engeland / United Kingdom",UK: TNT Sports 4 SD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157976.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/cd9ebf857d7a3653dda25e964685b033.png" group-title="Engeland / United Kingdom",UK: TNT Sports 5 (Event Only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157977.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/79f4ab0d297159de6fd790f2c2c67364.png" group-title="Engeland / United Kingdom",UK: TNT Sports 6 (Event Only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157978.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/53baa92acd97a7baabc119aa72910eb0.png" group-title="Engeland / United Kingdom",UK: TNT Sports 7 (Event Only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157979.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/5d868b52eb3d8a0cc21c77cba80f8f21.png" group-title="Engeland / United Kingdom",UK: TNT Sports 8 (Event Only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157980.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/d1176df72e0f7c41ca0d4aecacd99f31.png" group-title="Engeland / United Kingdom",UK: TNT Sports 9 (Event Only)
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157981.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/3f19e0c1da0ef48b6f1fbb66879fd1bd.png" group-title="Engeland / United Kingdom",UK: TNT Sports Ultimate UHD 4K HEVC Test
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157982.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c40eaff0b1c1f6f3c917f992bf09e926.png" group-title="Engeland / United Kingdom",UK: Together TV SD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158426.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/6757aac9d5bda567001d63623a48be4c.png" group-title="Engeland / United Kingdom",UK: Toon Goggles HD
@@ -4992,28 +4856,6 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158441.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158442.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Engeland / United Kingdom",UK: Vevo Christmas
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158443.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/b8e76937958861f17c415afdb073e6d7.png" group-title="Engeland / United Kingdom",UK: VEVO Pop FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158444.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/87110d74d8e46017255b5f692fc1fc5e.png" group-title="Engeland / United Kingdom",UK: Viaplay Sports 1 50FPS
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158566.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/87110d74d8e46017255b5f692fc1fc5e.png" group-title="Engeland / United Kingdom",UK: Viaplay Sports 1 FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158445.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/87110d74d8e46017255b5f692fc1fc5e.png" group-title="Engeland / United Kingdom",UK: Viaplay Sports 1 HD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158446.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/87110d74d8e46017255b5f692fc1fc5e.png" group-title="Engeland / United Kingdom",UK: Viaplay Sports 1 SD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158447.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/87110d74d8e46017255b5f692fc1fc5e.png" group-title="Engeland / United Kingdom",UK: Viaplay Sports 2 50FPS
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158567.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/87110d74d8e46017255b5f692fc1fc5e.png" group-title="Engeland / United Kingdom",UK: Viaplay Sports 2 FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158448.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/87110d74d8e46017255b5f692fc1fc5e.png" group-title="Engeland / United Kingdom",UK: Viaplay Sports 2 HD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158449.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/87110d74d8e46017255b5f692fc1fc5e.png" group-title="Engeland / United Kingdom",UK: Viaplay Xtra FHD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158450.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/87110d74d8e46017255b5f692fc1fc5e.png" group-title="Engeland / United Kingdom",UK: Viaplay Xtra HD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158451.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/87110d74d8e46017255b5f692fc1fc5e.png" group-title="Engeland / United Kingdom",UK: Viaplay Xtra SD
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158452.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/774565b42aa2f423f2be69ddda4a1aca.png" group-title="Engeland / United Kingdom",UK: Vox Africa SD
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/158453.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/7e10aa08aede543e3a271cf07bf7fa68.png" group-title="Engeland / United Kingdom",UK: W +1
@@ -5066,7 +4908,7 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/41361.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/143293.m3u8
 
 # --- GAMEPASS NHL/NFL/MLB/NBA (LIVE) (94) ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 1 - 2026-03-22 20:00: - Predators @ Blackhawks
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 1 - 2026-03-24 00:30: - Senators @ Rangers
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16825.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 2 - 2026-03-22 20:00: - Hurricanes @ Penguins
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16826.m3u8
@@ -5190,45 +5032,45 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119328.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119329.m3u8
 #EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-01-06 01:00 - NFL Gamepass 15: Vikings @ Lions
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119330.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-22 21:50 - NBA Gamepass 1 : Trail Blazers @ Nuggets - FEED: NBA TV (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-23 23:50 - NBA Gamepass 1 : Lakers @ Pistons - FEED: Pistons (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139163.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-22 21:50 - NBA Gamepass 2 : Trail Blazers @ Nuggets - FEED: Nuggets (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-23 23:50 - NBA Gamepass 2 : Lakers @ Pistons - FEED: Lakers (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139164.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-22 21:50 - NBA Gamepass 3 : Trail Blazers @ Nuggets - FEED: Trail Blazers (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-23 23:50 - NBA Gamepass 3 : Pacers @ Magic - FEED: Magic (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139165.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-22 22:50 - NBA Gamepass 4 : Nets @ Kings - FEED: Kings (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-23 23:50 - NBA Gamepass 4 : Pacers @ Magic - FEED: Pacers (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139166.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-22 22:50 - NBA Gamepass 5 : Nets @ Kings - FEED: Nets (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-23 23:50 - NBA Gamepass 5 : Thunder @ 76ers - FEED: 76ers (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139167.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-23 00:20 - NBA Gamepass 6 : Wizards @ Knicks - FEED: Knicks (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-23 23:50 - NBA Gamepass 6 : Thunder @ 76ers - FEED: Thunder (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139168.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-23 00:20 - NBA Gamepass 7 : Wizards @ Knicks - FEED: Wizards (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-23 23:50 - NBA Gamepass 7 : Spurs @ Heat - FEED: NBC Sports Network (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139169.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-23 00:50 - NBA Gamepass 8 : Timberwolves @ Celtics - FEED: NBC (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-23 23:50 - NBA Gamepass 8 : Spurs @ Heat - FEED: Spurs (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139170.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-23 01:50 - NBA Gamepass 9 : Raptors @ Suns - FEED: Suns (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-24 00:20 - NBA Gamepass 9 : Grizzlies @ Hawks - FEED: Hawks (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139171.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-23 01:50 - NBA Gamepass 10 : Raptors @ Suns - FEED: Raptors (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-24 00:20 - NBA Gamepass 10 : Grizzlies @ Hawks - FEED: Grizzlies (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139172.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-22 00:50 - NBA Gamepass 11 : Warriors @ Hawks - FEED: Warriors (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-24 00:50 - NBA Gamepass 11 : Rockets @ Bulls - FEED: Bulls (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139183.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-22 00:50 - NBA Gamepass 12 : Heat @ Rockets - FEED: Rockets (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-24 00:50 - NBA Gamepass 12 : Rockets @ Bulls - FEED: Rockets (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139184.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-22 00:50 - NBA Gamepass 13 : Heat @ Rockets - FEED: Heat (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-24 01:50 - NBA Gamepass 13 : Raptors @ Jazz - FEED: Jazz (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139185.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-22 00:50 - NBA Gamepass 14 : Pacers @ Spurs - FEED: Spurs (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-24 01:50 - NBA Gamepass 14 : Raptors @ Jazz - FEED: Raptors (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139186.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-22 00:50 - NBA Gamepass 15 : Pacers @ Spurs - FEED: Pacers (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-24 02:20 - NBA Gamepass 15 : Warriors @ Mavericks - FEED: NBC Sports Network (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139187.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-22 01:20 - NBA Gamepass 16 : Clippers @ Mavericks - FEED: Mavericks (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-24 02:20 - NBA Gamepass 16 : Warriors @ Mavericks - FEED: Warriors (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157149.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-22 01:20 - NBA Gamepass 17 : Clippers @ Mavericks - FEED: Clippers (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-24 02:50 - NBA Gamepass 17 : Nets @ Trail Blazers - FEED: Trail Blazers (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157150.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-22 02:20 - NBA Gamepass 18 : 76ers @ Jazz - FEED: Jazz (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-24 02:50 - NBA Gamepass 18 : Nets @ Trail Blazers - FEED: Nets (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157151.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-22 02:20 - NBA Gamepass 19 : 76ers @ Jazz - FEED: 76ers (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-24 03:20 - NBA Gamepass 19 : Bucks @ Clippers - FEED: Clippers (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157152.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-22 02:50 - NBA Gamepass 20 : Bucks @ Suns - FEED: NBA TV (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-24 03:20 - NBA Gamepass 20 : Bucks @ Clippers - FEED: Bucks (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157153.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-22 02:50 - NBA Gamepass 21 : Bucks @ Suns - FEED: Suns (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157154.m3u8
@@ -6995,4 +6837,4 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37632.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Zuid Afrika / South Afrika",ZA: SuperSport Golf
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37635.m3u8
 
-# Total: 3466
+# Total: 3387

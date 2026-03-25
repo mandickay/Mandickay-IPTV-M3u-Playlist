@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-03-25 07:35:24
+# Generated: 2026-03-25 18:54:29
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -18727,7 +18727,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2547
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",El Asesino de TikTok
 http://fastream.xyz:8080/series/940246862tv/12ws79/2548
 
-# --- Series | → SERIES DRAMA ← (301) ---
+# --- Series | → SERIES DRAMA ← (302) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://fastream.xyz:8080/series/940246862tv/12ws79/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19330,6 +19330,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2553
 http://fastream.xyz:8080/series/940246862tv/12ws79/2554
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",O11CE: Nueva generacion
 http://fastream.xyz:8080/series/940246862tv/12ws79/2555
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Emergencia Radiactiva
+http://fastream.xyz:8080/series/940246862tv/12ws79/2558
 
 # --- Series | → SERIES INFANTILES ← (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19845,4 +19847,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9846
+# Total: 9847

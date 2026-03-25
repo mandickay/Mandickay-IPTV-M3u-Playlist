@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-03-25 07:26:19
+# Generated: 2026-03-25 18:48:34
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -1749,13 +1749,9 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/580017.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE DYN SPORT - RTL+ SPORT",DE: VIP RTL+ SPORT EVENT 13 HD (SPIELZEIT)
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/633970.m3u8
 
-# --- DE DYN SPORT EVENT (MIT EPG) (25) ---
+# --- DE DYN SPORT EVENT (MIT EPG) (23) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: ----- DYN SPORT EVENT -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/670872.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| POST SV MUHLHAUSEN - TTC SCHWALBE BERGNEUSTADT (2026-03-24 18:10:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/674896.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| BV BORUSSIA 09 DORTMUND - SV WERDER BREMEN (2026-03-24 18:40:00)
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/674895.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| BORUSSIA DUSSELDORF - TSV BAD KONIGSHOFEN (2026-03-25 18:10:00)
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/674894.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| TTC OE CLARITY TEL. BAD HOMBURG - 1. FC SAARBRUCKEN-TT (2026-03-25 18:40:00)
@@ -4801,4 +4797,4 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/210664.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/alsat.png" group-title="MK MACEDONIA",MK: ALSAT M TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/290212.m3u8
 
-# Total: 2362
+# Total: 2360

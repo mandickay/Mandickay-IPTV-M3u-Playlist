@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-03-25 07:25:53
+# Generated: 2026-03-25 18:52:52
 # Expires: 2027-03-22
 # Family Safe Edition
 # ==============================================
@@ -18658,6 +18658,10 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405122
 http://alienstreams.fi:8080/series/hellhell/hellhell/403526
 
 # --- Series | Svenska Serier [Series] (289) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Palmemordets Dolda Spår
+http://alienstreams.fi:8080/series/hellhell/hellhell/497835
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Kriminalarkivet - Mordet på Olof Palme
+http://alienstreams.fi:8080/series/hellhell/hellhell/497783
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Girls of Stockholm
 http://alienstreams.fi:8080/series/hellhell/hellhell/476061
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Pantbanken på turné
@@ -18670,8 +18674,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/477390
 http://alienstreams.fi:8080/series/hellhell/hellhell/493625
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Frusna Vägar
 http://alienstreams.fi:8080/series/hellhell/hellhell/489466
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Kriminalarkivet - Mordet på Olof Palme
-http://alienstreams.fi:8080/series/hellhell/hellhell/497783
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Jeopardy!
 http://alienstreams.fi:8080/series/hellhell/hellhell/477262
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Love Island Sverige
@@ -18682,8 +18684,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/485515
 http://alienstreams.fi:8080/series/hellhell/hellhell/492705
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Mästarnas mästare
 http://alienstreams.fi:8080/series/hellhell/hellhell/496816
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Palmemordets Dolda Spår
-http://alienstreams.fi:8080/series/hellhell/hellhell/497714
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska nyheter
 http://alienstreams.fi:8080/series/hellhell/hellhell/481045
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",LOL: Skrattar bäst som skrattar sist - Sverige

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-03-24 18:54:19
+# Generated: 2026-03-25 18:48:53
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -245,7 +245,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1542.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icq1eKLaijZmahCxVDWpuURNihv.jpg" group-title="Movies | Cowboys",Pat Garrett et Billy le Kid - 1973
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1805.mkv
 
-# --- Movies | Dessins Animés (235) ---
+# --- Movies | Dessins Animés (236) ---
 #EXTINF:-1 tvg-logo="https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABflz_TYZuBaWTGhUR26bQhrowP2jshvRck_G5ilViQv9DI47-w9YL-SFFPaML7aNHzoMYToV0v3op8_0pyBXV8B2mAN73aAXVDDtlkJKJPWyJsYhXOpZyM0Rx2k5-CG9coZpjw.jpg?r=77c" group-title="Movies | Dessins Animés",Les Deux Gredins (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/20327.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dBNi5XGc4Kw5bjxeRiGKCCvqbPC.jpg" group-title="Movies | Dessins Animés",Dora : à la recherche du Sol Dorado (2025)
@@ -342,6 +342,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1793.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1794.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KUhrtJN02RNt3Sxc4IMTa1d9Lt.jpg" group-title="Movies | Dessins Animés",Vice-versa - 2015
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1459.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3knwJCqriSz7mTM3vFJUqJOGty1.jpg" group-title="Movies | Dessins Animés",GOAT : Rêver plus haut (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25971.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xMWZ3fOdrkHsEBRFw5rmeaDmUC.jpg" group-title="Movies | Dessins Animés",Le secret des mésanges (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/23129.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wjMCp298feITxBpZx4zlU7g979r.jpg" group-title="Movies | Dessins Animés",Hopper et le Secret de la Marmotte (2025)
@@ -1101,7 +1103,13 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1513) ---
+# --- Movies | Films (1516) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2m5XLGvDFFbdC9A8Tf60aWa9lMS.jpg" group-title="Movies | Films",L'ultime Héritier (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25973.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4xx25oYs08myEelHiSbOuVi80Ki.jpg" group-title="Movies | Films",Worldbreaker (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25972.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q2pKtvYYYVPGO01kSvUjJLdFlPa.jpg" group-title="Movies | Films",Send Help (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25970.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mNxebIggQk0mSZ0qF8MjCMTHYL4.jpg" group-title="Movies | Films",Do Not Enter (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25915.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dIQcDDuDPewwELfhmYMnt25AyZ6.jpg" group-title="Movies | Films",Under Fire (2026)
@@ -7695,4 +7703,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1071
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",The Light in the Hall
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1075
 
-# Total: 3814
+# Total: 3818

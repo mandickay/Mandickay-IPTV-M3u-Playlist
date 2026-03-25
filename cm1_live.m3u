@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cm1.portaltv.info:777
-# Generated: 2026-03-25 07:36:05
+# Generated: 2026-03-25 18:49:12
 # Expires: 2026-04-14
 # Family Safe Edition
 # ==============================================
 
 
-# --- Albania (166) ---
+# --- Albania (159) ---
 #EXTINF:-1 tvg-logo="http://acs.infogis.net/logo/RTK1.jpg" group-title="Albania",AL: RTK 1
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/4935.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: RTK 1 HD
@@ -326,20 +326,6 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/2854.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3282.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/tvkopliku.png" group-title="Albania",AL: TV Kopliku HD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/397.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/sweeden/032mtv.png" group-title="Albania",SE: MTV
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/1052.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",EX-YU: SLO 3
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6125.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",EX-YU: SLO 2 HD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6124.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",EX-YU: SLO 1 HD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6123.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/turkey/NR1 HD.png" group-title="Albania",TR: NR1 HD
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5650.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Radio Tirana 2
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5758.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Radio Tirana 1
-http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5757.m3u8
 
 # --- Arabic (7) ---
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/arabic/alarabia.png" group-title="Arabic",AR: Al Arabia
@@ -663,7 +649,7 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/2542.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Denmark",DK: Comedy Central
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/2543.m3u8
 
-# --- EX YU (99) ---
+# --- EX YU (102) ---
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/ex-yu/Al_Jazeera_Balkans.png" group-title="EX YU",EX-YU: Al Jazeera Balkans
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/86.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX YU",EX-YU: RTS 1
@@ -832,6 +818,12 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/2881.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/971.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/ex-yu/KinoPop_Logo_Web_retina.png" group-title="EX YU",SLO: POP KINO
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/972.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX YU",EX-YU: SLO 1 HD
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6123.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX YU",EX-YU: SLO 2 HD
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6124.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EX YU",EX-YU: SLO 3
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6125.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX YU",EX-YU: BN Music
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3273.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EX YU",EX-YU: TV3
@@ -2433,7 +2425,7 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/931.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",HU:Digi Sport 1 HD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/2806.m3u8
 
-# --- Sweeden (69) ---
+# --- Sweeden (70) ---
 #EXTINF:-1 tvg-logo="" group-title="Sweeden",SE: C More Hits HD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6068.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweeden",SE: C More First HD
@@ -2450,6 +2442,8 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6063.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5193.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweeden",SE: SVT BARN
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5925.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/sweeden/032mtv.png" group-title="Sweeden",SE: MTV
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/1052.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/sweeden/svt1hd.png" group-title="Sweeden",SE: SVT1
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/1095.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/sweeden/svt2hd.png" group-title="Sweeden",SE: SVT2
@@ -2659,7 +2653,7 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/2089.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/switzerland/tb_fav_icon.png" group-title="Switzerland",CH: Telebasel
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/2088.m3u8
 
-# --- Turkey (39) ---
+# --- Turkey (40) ---
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/turkey/TRT 1.png" group-title="Turkey",TR: TRT 1
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3625.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/turkey/Trt 2.png" group-title="Turkey",TR: Trt 2
@@ -2688,6 +2682,8 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3622.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3619.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/turkey/TRT_Türk_logosu.png" group-title="Turkey",TR: TRT Turk
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/104.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/turkey/NR1 HD.png" group-title="Turkey",TR: NR1 HD
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5650.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/turkey/Ahaber_Logo.png" group-title="Turkey",TR: A Haber FHD
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3139.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",TR: Akit Tv ᶠᴴᴰ
@@ -3251,4 +3247,4 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",UK:Discovery Science
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/505.m3u8
 
-# Total: 1597
+# Total: 1595

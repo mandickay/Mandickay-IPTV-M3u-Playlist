@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-03-25 18:52:43
+# Generated: 2026-03-26 07:39:24
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1219,11 +1219,9 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (83) ---
+# --- DE-DAZN EVENT (82) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/l6n1bg2.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dg0nrsg0rnq32958f7kp3zbux_image-header_pDach_1774263863000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Kasachstan - Namibia (2026-03-25 12:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/179953.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bbzvftdfqli40lgoe6cszqf8u_image-header_pDach_1773400458000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Chess.com Open | Play-In 4 (2026-03-25 16:00:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/179954.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5t41u36q4fxvkdlpxppwcied6_image-header_pDach_1756977854000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",London Lions - Sheffield Sharks (2026-03-25 19:30:00)
@@ -1841,7 +1839,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/145056.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE-RTL+ SPORT",DE: RTL+ Sport Event 10 (only Matchtime)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/145071.m3u8
 
-# --- DE-SKY FILM (48) ---
+# --- DE-SKY FILM (47) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-SKY FILM",##### DE SKY FILM #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/36251.m3u8
 #EXTINF:-1 tvg-logo="https://www.sky.de/static/img/senderlogos_dark/535_sky_logo_sky1-hd_tvguide.png" group-title="DE-SKY FILM",DE: Sky One HD
@@ -1924,8 +1922,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/166998.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/166999.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE-SKY FILM",DE: MOVIES DOME HD  [JOYNDE]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-SKY FILM",DE: STARS IN GEFAR HD [JOYNDE]
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167003.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE-SKY FILM",DE: TOP FILM HD  [JOYNDE]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/167004.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE-SKY FILM",DE: WEDO BIG STORIES HD  [JOYNDE]
@@ -6189,4 +6185,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165948.m3u8
 
-# Total: 3034
+# Total: 3032

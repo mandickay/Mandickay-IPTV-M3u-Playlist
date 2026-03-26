@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: kstv.us:8080
-# Generated: 2026-03-25 18:57:57
+# Generated: 2026-03-26 07:35:54
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -1758,9 +1758,9 @@ http://kstv.us:8080/live/GX0PjEapsX/5128860596/49204.m3u8
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/49205.m3u8
 
 # --- MLB.2 (39) ---
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 01H:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 01H: 8:05pm Yankees at Giants (Netflix)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48165.m3u8
-#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 01A:
+#EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 01A: 8:05pm Yankees at Giants (Netflix)
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48166.m3u8
 #EXTINF:-1 tvg-logo="http://apk.eternaltv.net/icons/mlb.jpg" group-title="MLB.2",MLB GAME 02H:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/48167.m3u8
@@ -1840,7 +1840,7 @@ http://kstv.us:8080/live/GX0PjEapsX/5128860596/48203.m3u8
 # --- Main Events / PPV (26) ---
 #EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 01: 6:15pm Millbridge Sprints
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47695.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 02: 7:30pm High Limit Racing Vado
+#EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 02: 9pm KKM Challenge Series Lemoore
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47696.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Main Events / PPV",PPV 03:
 http://kstv.us:8080/live/GX0PjEapsX/5128860596/47697.m3u8

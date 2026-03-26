@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-25 19:02:16
+# Generated: 2026-03-26 07:41:16
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -961,7 +961,7 @@ http://world-service.us:8080/live/giovanmer/merante/82300.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR - Grecia",GR: ERT WORLD FHD
 http://world-service.us:8080/live/giovanmer/merante/82302.m3u8
 
-# --- MUSICA (40) ---
+# --- MUSICA (39) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="MUSICA",=== RADIO & TV MUSIC ===
 http://world-service.us:8080/live/giovanmer/merante/80649.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/16c56868bec3427c1db7d545d7fe6d0a.jpg" group-title="MUSICA",Giornale Radio TV
@@ -1012,36 +1012,34 @@ http://world-service.us:8080/live/giovanmer/merante/80672.m3u8
 http://world-service.us:8080/live/giovanmer/merante/80674.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",PrimaFree
 http://world-service.us:8080/live/giovanmer/merante/80675.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV 80s90s live
+http://world-service.us:8080/live/giovanmer/merante/17307.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV World disco live
+http://world-service.us:8080/live/giovanmer/merante/17288.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV World rockpop live
+http://world-service.us:8080/live/giovanmer/merante/17306.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia 60 live
 http://world-service.us:8080/live/giovanmer/merante/17247.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia 80&90 live
 http://world-service.us:8080/live/giovanmer/merante/17278.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia 17&18 live
 http://world-service.us:8080/live/giovanmer/merante/17280.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV 80s90s live
-http://world-service.us:8080/live/giovanmer/merante/17307.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV World disco live
-http://world-service.us:8080/live/giovanmer/merante/17288.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV World latino live
-http://world-service.us:8080/live/giovanmer/merante/17308.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV World rockpop live
-http://world-service.us:8080/live/giovanmer/merante/17306.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia Napoli live
-http://world-service.us:8080/live/giovanmer/merante/17312.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia Napoli new live
-http://world-service.us:8080/live/giovanmer/merante/17315.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia Romana live
-http://world-service.us:8080/live/giovanmer/merante/17356.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia Sicilia live
-http://world-service.us:8080/live/giovanmer/merante/17358.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia Puglia live
-http://world-service.us:8080/live/giovanmer/merante/17359.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia Calabria live
-http://world-service.us:8080/live/giovanmer/merante/17357.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia rap hip hop live
 http://world-service.us:8080/live/giovanmer/merante/17286.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia Napoli new live
+http://world-service.us:8080/live/giovanmer/merante/17315.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia Napoli live
+http://world-service.us:8080/live/giovanmer/merante/17312.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia Sicilia live
+http://world-service.us:8080/live/giovanmer/merante/17358.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia Calabria live
+http://world-service.us:8080/live/giovanmer/merante/17357.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia 70 live
 http://world-service.us:8080/live/giovanmer/merante/17260.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia Puglia live
+http://world-service.us:8080/live/giovanmer/merante/17359.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia Romana live
+http://world-service.us:8080/live/giovanmer/merante/17356.m3u8
 
 # --- PRIMAFILA (10) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="PRIMAFILA",=======PRIMAFILA=======
@@ -1731,4 +1729,4 @@ http://world-service.us:8080/live/giovanmer/merante/65388.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",ES: NICKELODEON HD
 http://world-service.us:8080/live/giovanmer/merante/65389.m3u8
 
-# Total: 819
+# Total: 818

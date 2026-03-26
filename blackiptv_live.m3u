@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-25 18:52:37
+# Generated: 2026-03-26 07:35:40
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -1761,7 +1761,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60043.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/M1QT8S9poU2vLEo6SWQ9555GuazG8ESWEd5r7isunLVDbhQc6g.png" group-title="FRANCE SPORTS",FR: DAZN EVENT 02 (ONLY MATSCHDAY)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60044.m3u8
 
-# --- GERMANY (56) ---
+# --- GERMANY (55) ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/flags/germany-flag.png" group-title="GERMANY",*****GERMANY CHANNEL*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/4947.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/zdf-de.png" group-title="GERMANY",DE: ZDF
@@ -1872,10 +1872,10 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/210.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5166.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/comedy-central-de.png" group-title="GERMANY",DE: VIVA/COMEDY CENTRAL
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/250.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/flags/germany-flag.png" group-title="GERMANY",*****SKY GERMANY*****
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/219.m3u8
 
-# --- GERMANY CINEMA (78) ---
+# --- GERMANY CINEMA (79) ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/flags/germany-flag.png" group-title="GERMANY CINEMA",*****SKY GERMANY*****
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/219.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/warner-tv-film-de.png" group-title="GERMANY CINEMA",DE: WARNER TV FILM HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/939.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/Germany/Logo-2/WarnerTV_FILM_Logo.png" group-title="GERMANY CINEMA",DE: WARNER TV FILM HD+

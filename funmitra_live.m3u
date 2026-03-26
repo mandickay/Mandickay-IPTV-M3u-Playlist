@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-03-26 07:35:18
+# Generated: 2026-03-26 18:56:57
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -1143,15 +1143,9 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/580017.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE DYN SPORT - RTL+ SPORT",DE: VIP RTL+ SPORT EVENT 13 HD (SPIELZEIT)
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/633970.m3u8
 
-# --- DE DYN SPORT EVENT (MIT EPG) (23) ---
+# --- DE DYN SPORT EVENT (MIT EPG) (20) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: ----- DYN SPORT EVENT -----
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/670872.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| BORUSSIA DUSSELDORF - TSV BAD KONIGSHOFEN (2026-03-25 18:10:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/674894.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| TTC OE CLARITY TEL. BAD HOMBURG - 1. FC SAARBRUCKEN-TT (2026-03-25 18:40:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/674893.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| BSV SACHSEN ZWICKAU - VFL OLDENBURG (2026-03-25 18:45:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/674892.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| HSV HAMBURG - BERGISCHER HC (2026-03-26 18:45:00)
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/674891.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| SCIENCE CITY JENA - VEOLIA TOWERS HAMBURG (2026-03-26 19:45:00)
@@ -9175,4 +9169,4 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199554.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="UK SPORT",UK: RED BULL TV FHD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199548.m3u8
 
-# Total: 4511
+# Total: 4508

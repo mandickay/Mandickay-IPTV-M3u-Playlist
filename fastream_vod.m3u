@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-03-26 07:28:26
+# Generated: 2026-03-26 19:05:16
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -18059,7 +18059,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2460
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Parallel Me
 http://fastream.xyz:8080/series/940246862tv/12ws79/2485
 
-# --- Series | → SERIES COMEDIA ← (60) ---
+# --- Series | → SERIES COMEDIA ← (61) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Al borde
 http://fastream.xyz:8080/series/940246862tv/12ws79/11
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Big Bang
@@ -18180,6 +18180,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2475
 http://fastream.xyz:8080/series/940246862tv/12ws79/2478
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Sin Frenos
 http://fastream.xyz:8080/series/940246862tv/12ws79/2481
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",El Señuelo
+http://fastream.xyz:8080/series/940246862tv/12ws79/2562
 
 # --- Series | → SERIES CRIMEN ← (161) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",¿Sabes quién es?
@@ -18727,7 +18729,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2547
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",El Asesino de TikTok
 http://fastream.xyz:8080/series/940246862tv/12ws79/2548
 
-# --- Series | → SERIES DRAMA ← (302) ---
+# --- Series | → SERIES DRAMA ← (303) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://fastream.xyz:8080/series/940246862tv/12ws79/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19332,6 +19334,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2554
 http://fastream.xyz:8080/series/940246862tv/12ws79/2555
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Emergencia Radiactiva
 http://fastream.xyz:8080/series/940246862tv/12ws79/2558
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Amor Animal
+http://fastream.xyz:8080/series/940246862tv/12ws79/2559
 
 # --- Series | → SERIES INFANTILES ← (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19487,7 +19491,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2469
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MARVEL ←",Wonder Man
 http://fastream.xyz:8080/series/940246862tv/12ws79/2532
 
-# --- Series | → SERIES MISTERIO ← (60) ---
+# --- Series | → SERIES MISTERIO ← (62) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",Instinto
 http://fastream.xyz:8080/series/940246862tv/12ws79/47
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",La Montaña De La Muerte: El Incidente del Paso Dyatlov
@@ -19608,6 +19612,10 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2517
 http://fastream.xyz:8080/series/940246862tv/12ws79/2528
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",El Joven Sherlock
 http://fastream.xyz:8080/series/940246862tv/12ws79/2545
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",La Caza
+http://fastream.xyz:8080/series/940246862tv/12ws79/2560
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",Day One
+http://fastream.xyz:8080/series/940246862tv/12ws79/2561
 
 # --- Series | → SERIES REALLITY ← (25) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES REALLITY ←",La Isla de las Tentaciones Argentina & Chile
@@ -19783,7 +19791,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2258
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES STAR WARS ←",Star Wars: Cronicas del Submundo
 http://fastream.xyz:8080/series/940246862tv/12ws79/2369
 
-# --- Series | → SERIES TERROR-THRILLER-SUSPENSO ← (31) ---
+# --- Series | → SERIES TERROR-THRILLER-SUSPENSO ← (30) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",The Walking Dead
 http://fastream.xyz:8080/series/940246862tv/12ws79/98
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",30 Monedas
@@ -19802,8 +19810,6 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/183
 http://fastream.xyz:8080/series/940246862tv/12ws79/197
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",Fear the Walking Dead
 http://fastream.xyz:8080/series/940246862tv/12ws79/293
-#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal
-http://fastream.xyz:8080/series/940246862tv/12ws79/306
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",Cronicas Vampiricas
 http://fastream.xyz:8080/series/940246862tv/12ws79/387
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",Penny Dreadful
@@ -19847,4 +19853,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9847
+# Total: 9850

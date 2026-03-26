@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-26 07:41:16
+# Generated: 2026-03-26 19:08:28
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -1193,7 +1193,7 @@ http://world-service.us:8080/live/giovanmer/merante/63062.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/2beaafa677080141b4f220d9983f74f5.png" group-title="SKY CINEMA HD",SKY CINEMA DUE 24 HD
 http://world-service.us:8080/live/giovanmer/merante/63063.m3u8
 
-# --- SKY CINEMA SD (11) ---
+# --- SKY CINEMA SD (9) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/20d4e6fa0293ff5919f5eb444a76f290.png" group-title="SKY CINEMA SD",Sky Cinema Uno SD
 http://world-service.us:8080/live/giovanmer/merante/83899.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/189037a13e144e64d89a6e64120a1e3b.jpeg" group-title="SKY CINEMA SD",Sky Cinema Due SD
@@ -1212,10 +1212,6 @@ http://world-service.us:8080/live/giovanmer/merante/1893.m3u8
 http://world-service.us:8080/live/giovanmer/merante/1889.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a54a01de29a068d8e8eeda2f691828de.png" group-title="SKY CINEMA SD",Sky Cinema Romance SD
 http://world-service.us:8080/live/giovanmer/merante/1882.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/20d4e6fa0293ff5919f5eb444a76f290.png" group-title="SKY CINEMA SD",SKY CINEMA UNO 24 SD
-http://world-service.us:8080/live/giovanmer/merante/87279.m3u8
-#EXTINF:-1 tvg-logo="http://world-forever.cc:80/images/c695113GmLkaZvKbncgXkNj9hL8cQJCSCjXscK.jpeg" group-title="SKY CINEMA SD",SKY CINEMA DUE 24 SD
-http://world-service.us:8080/live/giovanmer/merante/87280.m3u8
 
 # --- SKY CULTURA (17) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="SKY CULTURA",=========SKY CULTURA=========
@@ -1729,4 +1725,4 @@ http://world-service.us:8080/live/giovanmer/merante/65388.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",ES: NICKELODEON HD
 http://world-service.us:8080/live/giovanmer/merante/65389.m3u8
 
-# Total: 818
+# Total: 816

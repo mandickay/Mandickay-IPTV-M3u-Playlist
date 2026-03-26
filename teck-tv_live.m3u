@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2026-03-26 07:31:10
+# Generated: 2026-03-26 19:06:05
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -22413,7 +22413,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/272540.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/nasa.png" group-title="EU | EXYU | MAKEDONIJA",MK - NASA TV HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/272544.m3u8
 
-# --- EU | EXYU | SRBIJA (102) ---
+# --- EU | EXYU | SRBIJA (103) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/SRBIJA.png" group-title="EU | EXYU | SRBIJA",##### EXYU - SRBIJA GENERAL #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1277828.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/RTV_LUKAVAC.png" group-title="EU | EXYU | SRBIJA",RS - RTV LUKAVAC HD
@@ -22618,6 +22618,8 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1376367.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1397156.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/TVKLADOVO.png" group-title="EU | EXYU | SRBIJA",RS - TV KLADOVO
 http://teck-tv.com/live/2605201443100597/C655BF416768/1397157.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/PESTERTV.png" group-title="EU | EXYU | SRBIJA",RS - PESTER TV
+http://teck-tv.com/live/2605201443100597/C655BF416768/1399244.m3u8
 
 # --- EU | EXYU | ZABAVNI (23) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HAYAT.png" group-title="EU | EXYU | ZABAVNI",EXYU - HAYAT MUSIC FHD
@@ -27787,7 +27789,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1001753.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/57.png" group-title="VIP | LIGUE 1",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018316.m3u8
 
-# --- VIP | MUSIC CONCERTS (80) ---
+# --- VIP | MUSIC CONCERTS (81) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="VIP | MUSIC CONCERTS",VIP - MC MUSIC 90S
 http://teck-tv.com/live/2605201443100597/C655BF416768/1124927.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="VIP | MUSIC CONCERTS",VIP - MC MUSIC ALTERNATIVE
@@ -27948,6 +27950,8 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1125005.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1125008.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/stin-cou.png" group-title="VIP | MUSIC CONCERTS",VIP - STINGRAY COUNTRY CLASSICS
 http://teck-tv.com/live/2605201443100597/C655BF416768/1291998.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VIP | MUSIC CONCERTS",TR - ANADOLU DERNEK
+http://teck-tv.com/live/2605201443100597/C655BF416768/1399243.m3u8
 
 # --- VIP | PREMIER LEAGUE (42) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | PREMIER LEAGUE",##### ENGLISH #####
@@ -28367,4 +28371,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/682938.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/682939.m3u8
 
-# Total: 14017
+# Total: 14019

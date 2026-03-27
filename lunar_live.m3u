@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lunar.pm:8080
-# Generated: 2026-03-27 07:36:58
+# Generated: 2026-03-27 18:50:19
 # Expires: 2026-05-07
 # Family Safe Edition
 # ==============================================
@@ -7741,7 +7741,7 @@ http://lunar.pm:8080/live/Stephanie/time44/115201.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latin",UY: VTV PLUS
 http://lunar.pm:8080/live/Stephanie/time44/115202.m3u8
 
-# --- MLB (21) ---
+# --- MLB (23) ---
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/mlbguide.png" group-title="MLB",***MLB CHANNELS GUIDE***
 http://lunar.pm:8080/live/Stephanie/time44/108481.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/383px-MLBNetworkLogo.svg.png" group-title="MLB",MLB NETWORK
@@ -7784,50 +7784,54 @@ http://lunar.pm:8080/live/Stephanie/time44/108514.m3u8
 http://lunar.pm:8080/live/Stephanie/time44/108515.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/mlb_tv.png" group-title="MLB",MLB 18:
 http://lunar.pm:8080/live/Stephanie/time44/108580.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/mlb_tv.png" group-title="MLB",MLB 19:
+http://lunar.pm:8080/live/Stephanie/time44/132473.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/mlb_tv.png" group-title="MLB",MLB 20:
+http://lunar.pm:8080/live/Stephanie/time44/132474.m3u8
 
 # --- MLS (21) ---
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/mls-guide.png" group-title="MLS",***MLS CHANNEL LISTINGS***
 http://lunar.pm:8080/live/Stephanie/time44/117471.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 01:
-http://lunar.pm:8080/live/Stephanie/time44/117472.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 02:
-http://lunar.pm:8080/live/Stephanie/time44/117473.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 03:
-http://lunar.pm:8080/live/Stephanie/time44/117474.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 04:
-http://lunar.pm:8080/live/Stephanie/time44/117475.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 05:
-http://lunar.pm:8080/live/Stephanie/time44/117476.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 06:
-http://lunar.pm:8080/live/Stephanie/time44/117477.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 07:
-http://lunar.pm:8080/live/Stephanie/time44/117478.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 08:
-http://lunar.pm:8080/live/Stephanie/time44/117479.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 09:
-http://lunar.pm:8080/live/Stephanie/time44/117480.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 10:
-http://lunar.pm:8080/live/Stephanie/time44/117481.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 11:
-http://lunar.pm:8080/live/Stephanie/time44/117482.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 12:
-http://lunar.pm:8080/live/Stephanie/time44/117483.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 13:
-http://lunar.pm:8080/live/Stephanie/time44/117484.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 14:
-http://lunar.pm:8080/live/Stephanie/time44/117485.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 15:
-http://lunar.pm:8080/live/Stephanie/time44/117486.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 16:
-http://lunar.pm:8080/live/Stephanie/time44/117487.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 17:
-http://lunar.pm:8080/live/Stephanie/time44/117488.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 18:
-http://lunar.pm:8080/live/Stephanie/time44/117489.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 19:
-http://lunar.pm:8080/live/Stephanie/time44/117490.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 20:
-http://lunar.pm:8080/live/Stephanie/time44/117491.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 01
+http://lunar.pm:8080/live/Stephanie/time44/132515.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 02
+http://lunar.pm:8080/live/Stephanie/time44/132516.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 03
+http://lunar.pm:8080/live/Stephanie/time44/132517.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 04
+http://lunar.pm:8080/live/Stephanie/time44/132518.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 05
+http://lunar.pm:8080/live/Stephanie/time44/132519.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 06
+http://lunar.pm:8080/live/Stephanie/time44/132520.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 07
+http://lunar.pm:8080/live/Stephanie/time44/132521.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 08
+http://lunar.pm:8080/live/Stephanie/time44/132522.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 09
+http://lunar.pm:8080/live/Stephanie/time44/132523.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 10
+http://lunar.pm:8080/live/Stephanie/time44/132524.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 11
+http://lunar.pm:8080/live/Stephanie/time44/132525.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 12
+http://lunar.pm:8080/live/Stephanie/time44/132526.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 13
+http://lunar.pm:8080/live/Stephanie/time44/132527.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 14
+http://lunar.pm:8080/live/Stephanie/time44/132528.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 15
+http://lunar.pm:8080/live/Stephanie/time44/132529.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 16
+http://lunar.pm:8080/live/Stephanie/time44/132530.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 17
+http://lunar.pm:8080/live/Stephanie/time44/132531.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 18
+http://lunar.pm:8080/live/Stephanie/time44/132532.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 19
+http://lunar.pm:8080/live/Stephanie/time44/132533.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mls-logo-us.png" group-title="MLS",MLS 20
+http://lunar.pm:8080/live/Stephanie/time44/132534.m3u8
 
 # --- Mexico (104) ---
 #EXTINF:-1 tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBWhPbtjaMuxgFvWTkK0AxYmXIOnGNa4Z_v2GkMV0Zen6.png" group-title="Mexico",MEX: A&E
@@ -8201,103 +8205,51 @@ http://lunar.pm:8080/live/Stephanie/time44/118834.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/nascar/NASCAR_ON_TNT_logo_2025.png" group-title="NASCAR 2026 SEASON",TNT Nascar
 http://lunar.pm:8080/live/Stephanie/time44/123142.m3u8
 
-# --- NBA (17) ---
+# --- NBA (22) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="NBA",NBA Tv.
 http://lunar.pm:8080/live/Stephanie/time44/101962.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/nbapassguide2.png" group-title="NBA",***NBA Channels Guide***
 http://lunar.pm:8080/live/Stephanie/time44/109176.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nba-league-pass-us.png" group-title="NBA",NBA 01:
-http://lunar.pm:8080/live/Stephanie/time44/110615.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nba-league-pass-us.png" group-title="NBA",NBA 02:
-http://lunar.pm:8080/live/Stephanie/time44/110616.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nba-league-pass-us.png" group-title="NBA",NBA 03:
-http://lunar.pm:8080/live/Stephanie/time44/110617.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nba-league-pass-us.png" group-title="NBA",NBA 04:
-http://lunar.pm:8080/live/Stephanie/time44/110618.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nba-league-pass-us.png" group-title="NBA",NBA 05:
-http://lunar.pm:8080/live/Stephanie/time44/110619.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nba-league-pass-us.png" group-title="NBA",NBA 06:
-http://lunar.pm:8080/live/Stephanie/time44/110620.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nba-league-pass-us.png" group-title="NBA",NBA 07:
-http://lunar.pm:8080/live/Stephanie/time44/110621.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nba-league-pass-us.png" group-title="NBA",NBA 08:
-http://lunar.pm:8080/live/Stephanie/time44/110622.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nba-league-pass-us.png" group-title="NBA",NBA 09:
-http://lunar.pm:8080/live/Stephanie/time44/110623.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nba-league-pass-us.png" group-title="NBA",NBA 10:
-http://lunar.pm:8080/live/Stephanie/time44/110624.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nba-league-pass-us.png" group-title="NBA",NBA 11:
-http://lunar.pm:8080/live/Stephanie/time44/110625.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nba-league-pass-us.png" group-title="NBA",NBA 12:
-http://lunar.pm:8080/live/Stephanie/time44/110626.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nba-league-pass-us.png" group-title="NBA",NBA 13:
-http://lunar.pm:8080/live/Stephanie/time44/110627.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nba-league-pass-us.png" group-title="NBA",NBA 14:
-http://lunar.pm:8080/live/Stephanie/time44/110628.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nba-league-pass-us.png" group-title="NBA",NBA 15:
-http://lunar.pm:8080/live/Stephanie/time44/110629.m3u8
-
-# --- NBA by Teams (30) ---
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Atlanta Hawks
-http://lunar.pm:8080/live/Stephanie/time44/118475.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Boston Celtics
-http://lunar.pm:8080/live/Stephanie/time44/118476.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Brooklyn Nets
-http://lunar.pm:8080/live/Stephanie/time44/118477.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Charlotte Hornets
-http://lunar.pm:8080/live/Stephanie/time44/118478.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Chicago Bulls
-http://lunar.pm:8080/live/Stephanie/time44/118479.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Cleveland Cavaliers
-http://lunar.pm:8080/live/Stephanie/time44/118480.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Dallas Mavericks
-http://lunar.pm:8080/live/Stephanie/time44/118481.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Denver Nuggets
-http://lunar.pm:8080/live/Stephanie/time44/118482.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Detroit Pistons
-http://lunar.pm:8080/live/Stephanie/time44/118483.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Golden State Warriors
-http://lunar.pm:8080/live/Stephanie/time44/118484.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Houston Rockets
-http://lunar.pm:8080/live/Stephanie/time44/118485.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Indiana Pacers
-http://lunar.pm:8080/live/Stephanie/time44/118486.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Los Angeles Clippers
-http://lunar.pm:8080/live/Stephanie/time44/118487.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Los Angeles Lakers
-http://lunar.pm:8080/live/Stephanie/time44/118488.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Memphis Grizzlies
-http://lunar.pm:8080/live/Stephanie/time44/118489.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Miami Heat
-http://lunar.pm:8080/live/Stephanie/time44/118490.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Milwaukee Bucks
-http://lunar.pm:8080/live/Stephanie/time44/118491.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Minnesota Timberwolves
-http://lunar.pm:8080/live/Stephanie/time44/118492.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",New Orleans Pelicans
-http://lunar.pm:8080/live/Stephanie/time44/118493.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",New York Knicks
-http://lunar.pm:8080/live/Stephanie/time44/118494.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Oklahoma City Thunder
-http://lunar.pm:8080/live/Stephanie/time44/118495.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Orlando Magic
-http://lunar.pm:8080/live/Stephanie/time44/118496.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Philadelphia 76ers
-http://lunar.pm:8080/live/Stephanie/time44/118497.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Phoenix Suns
-http://lunar.pm:8080/live/Stephanie/time44/118498.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Portland Trail Blazers
-http://lunar.pm:8080/live/Stephanie/time44/118499.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Sacramento Kings
-http://lunar.pm:8080/live/Stephanie/time44/118500.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",San Antonio Spurs
-http://lunar.pm:8080/live/Stephanie/time44/118501.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Toronto Raptors
-http://lunar.pm:8080/live/Stephanie/time44/118502.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Utah Jazz
-http://lunar.pm:8080/live/Stephanie/time44/118503.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA by Teams",Washington Wizards
-http://lunar.pm:8080/live/Stephanie/time44/118504.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 01
+http://lunar.pm:8080/live/Stephanie/time44/132475.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 02
+http://lunar.pm:8080/live/Stephanie/time44/132476.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 03
+http://lunar.pm:8080/live/Stephanie/time44/132477.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 04
+http://lunar.pm:8080/live/Stephanie/time44/132478.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 05
+http://lunar.pm:8080/live/Stephanie/time44/132479.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 06
+http://lunar.pm:8080/live/Stephanie/time44/132480.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 07
+http://lunar.pm:8080/live/Stephanie/time44/132481.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 08
+http://lunar.pm:8080/live/Stephanie/time44/132482.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 09
+http://lunar.pm:8080/live/Stephanie/time44/132483.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 10
+http://lunar.pm:8080/live/Stephanie/time44/132484.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 11
+http://lunar.pm:8080/live/Stephanie/time44/132485.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 12
+http://lunar.pm:8080/live/Stephanie/time44/132486.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 13
+http://lunar.pm:8080/live/Stephanie/time44/132487.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 14
+http://lunar.pm:8080/live/Stephanie/time44/132488.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 15
+http://lunar.pm:8080/live/Stephanie/time44/132489.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 16
+http://lunar.pm:8080/live/Stephanie/time44/132490.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 17
+http://lunar.pm:8080/live/Stephanie/time44/132491.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 18
+http://lunar.pm:8080/live/Stephanie/time44/132492.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 19
+http://lunar.pm:8080/live/Stephanie/time44/132493.m3u8
+#EXTINF:-1 tvg-logo="https://eztvlink.net:443/images/Nk32XE43csq-_8ZCHEwT7pyIUtfLngem4NG943RtEaoWlWN8QiF3kcSD5ccLN37P9zfwgrmZaosxqiXHnsOUiKxdYhf0M3rFHLfw4cqQysDGdkkJdTDCDyKPao8zzDLh.jpg" group-title="NBA",NBA 20
+http://lunar.pm:8080/live/Stephanie/time44/132494.m3u8
 
 # --- NCAAF (86) ---
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/ncaaf-guide.png" group-title="NCAAF",NCAAF LISTINGS
@@ -8515,41 +8467,49 @@ http://lunar.pm:8080/live/Stephanie/time44/120192.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nfl-game-pass-hz-us.png" group-title="NFL",NFL 16
 http://lunar.pm:8080/live/Stephanie/time44/120177.m3u8
 
-# --- NHL (17) ---
+# --- NHL (21) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NHLNetwork.us.png" group-title="NHL",NHL Network
 http://lunar.pm:8080/live/Stephanie/time44/95681.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/nhl_tv_guide.png" group-title="NHL",***NHL CHANNELS GUIDE***
 http://lunar.pm:8080/live/Stephanie/time44/109332.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 01
-http://lunar.pm:8080/live/Stephanie/time44/109333.m3u8
+http://lunar.pm:8080/live/Stephanie/time44/132495.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 02
-http://lunar.pm:8080/live/Stephanie/time44/109334.m3u8
+http://lunar.pm:8080/live/Stephanie/time44/132496.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 03
-http://lunar.pm:8080/live/Stephanie/time44/109335.m3u8
+http://lunar.pm:8080/live/Stephanie/time44/132497.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 04
-http://lunar.pm:8080/live/Stephanie/time44/109336.m3u8
+http://lunar.pm:8080/live/Stephanie/time44/132498.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 05
-http://lunar.pm:8080/live/Stephanie/time44/109337.m3u8
+http://lunar.pm:8080/live/Stephanie/time44/132499.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 06
-http://lunar.pm:8080/live/Stephanie/time44/109338.m3u8
+http://lunar.pm:8080/live/Stephanie/time44/132500.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 07
-http://lunar.pm:8080/live/Stephanie/time44/109339.m3u8
+http://lunar.pm:8080/live/Stephanie/time44/132501.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 08
-http://lunar.pm:8080/live/Stephanie/time44/109340.m3u8
+http://lunar.pm:8080/live/Stephanie/time44/132502.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 09
-http://lunar.pm:8080/live/Stephanie/time44/109341.m3u8
+http://lunar.pm:8080/live/Stephanie/time44/132503.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 10
-http://lunar.pm:8080/live/Stephanie/time44/109342.m3u8
+http://lunar.pm:8080/live/Stephanie/time44/132504.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 11
-http://lunar.pm:8080/live/Stephanie/time44/109343.m3u8
+http://lunar.pm:8080/live/Stephanie/time44/132505.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 12
-http://lunar.pm:8080/live/Stephanie/time44/109344.m3u8
+http://lunar.pm:8080/live/Stephanie/time44/132506.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 13
-http://lunar.pm:8080/live/Stephanie/time44/109345.m3u8
+http://lunar.pm:8080/live/Stephanie/time44/132507.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 14
-http://lunar.pm:8080/live/Stephanie/time44/109346.m3u8
+http://lunar.pm:8080/live/Stephanie/time44/132508.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 15
-http://lunar.pm:8080/live/Stephanie/time44/109347.m3u8
+http://lunar.pm:8080/live/Stephanie/time44/132509.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 16
+http://lunar.pm:8080/live/Stephanie/time44/132510.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 17
+http://lunar.pm:8080/live/Stephanie/time44/132512.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 18
+http://lunar.pm:8080/live/Stephanie/time44/132513.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl.png" group-title="NHL",NHL 19
+http://lunar.pm:8080/live/Stephanie/time44/132514.m3u8
 
 # --- Norway (48) ---
 #EXTINF:-1 tvg-logo="" group-title="Norway",NO: ANIMAL PLANET
@@ -12253,4 +12213,4 @@ http://lunar.pm:8080/live/Stephanie/time44/120490.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/wnba4.png" group-title="WNBA",WNBA 10
 http://lunar.pm:8080/live/Stephanie/time44/120491.m3u8
 
-# Total: 6052
+# Total: 6033

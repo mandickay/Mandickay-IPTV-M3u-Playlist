@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: pedro00.net:88
-# Generated: 2026-03-27 07:28:04
+# Generated: 2026-03-27 18:43:58
 # Expires: 2026-04-24
 # Family Safe Edition
 # ==============================================
@@ -11379,4 +11379,16 @@ http://pedro00.net:88/movie/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/323529.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hoeyLiFCdAOKdRfLTuWBOJywia.jpg" group-title="Movies | |VOD| NETHERLAND",Circle Line (2023)
 http://pedro00.net:88/movie/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/323530.mp4
 
-# Total: 5677
+# --- Series | |SERIES| ARABIC ISLAMIC (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | |SERIES| ARABIC ISLAMIC",| The Night of Granada Fall | 1979 | ليلة سقوط غرناطة |
+http://pedro00.net:88/series/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/15734
+
+# --- Series | |SERIES| ITALIE (3) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | |SERIES| ITALIE",|| IT || I Tudors (2007)
+http://pedro00.net:88/series/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/19292
+#EXTINF:-1 tvg-logo="" group-title="Series | |SERIES| ITALIE",|| IT || Un giustiziere a New York (1985)
+http://pedro00.net:88/series/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/19293
+#EXTINF:-1 tvg-logo="" group-title="Series | |SERIES| ITALIE",|| IT || Una vita da Dug (2021)
+http://pedro00.net:88/series/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/19294
+
+# Total: 5681

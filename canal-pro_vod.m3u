@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-03-27 07:30:23
+# Generated: 2026-03-27 18:55:14
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -19791,7 +19791,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2258
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES STAR WARS ←",Star Wars: Cronicas del Submundo
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2369
 
-# --- Series | → SERIES TERROR-THRILLER-SUSPENSO ← (30) ---
+# --- Series | → SERIES TERROR-THRILLER-SUSPENSO ← (31) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",The Walking Dead
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/98
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",30 Monedas
@@ -19810,6 +19810,8 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/183
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/197
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",Fear the Walking Dead
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/293
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/306
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",Cronicas Vampiricas
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/387
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",Penny Dreadful
@@ -19853,4 +19855,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9850
+# Total: 9851

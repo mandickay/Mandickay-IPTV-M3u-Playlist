@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-03-27 07:30:38
+# Generated: 2026-03-27 18:55:11
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -19791,7 +19791,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2258
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES STAR WARS ←",Star Wars: Cronicas del Submundo
 http://fastream.xyz:8080/series/940246862tv/12ws79/2369
 
-# --- Series | → SERIES TERROR-THRILLER-SUSPENSO ← (30) ---
+# --- Series | → SERIES TERROR-THRILLER-SUSPENSO ← (31) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",The Walking Dead
 http://fastream.xyz:8080/series/940246862tv/12ws79/98
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",30 Monedas
@@ -19810,6 +19810,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/183
 http://fastream.xyz:8080/series/940246862tv/12ws79/197
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",Fear the Walking Dead
 http://fastream.xyz:8080/series/940246862tv/12ws79/293
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",Hannibal
+http://fastream.xyz:8080/series/940246862tv/12ws79/306
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",Cronicas Vampiricas
 http://fastream.xyz:8080/series/940246862tv/12ws79/387
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",Penny Dreadful
@@ -19853,4 +19855,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9850
+# Total: 9851

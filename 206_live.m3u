@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 206.212.244.71:8080
-# Generated: 2026-03-26 19:08:18
+# Generated: 2026-03-27 18:51:09
 # Expires: 2026-06-05
 # Family Safe Edition
 # ==============================================
@@ -3287,13 +3287,57 @@ http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/94384.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Radio",Radio1
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/94391.m3u8
 
-# --- MLB (3) ---
+# --- MLB (25) ---
 #EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fmlb.png" group-title="MLB",MLB Network
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/21360.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/sling-tv-adds-mlb-network-and-mlb-strike-zone-ahead-just-in-time-for-opening-day/de6b7ceff7-1618516374/cut-5-576x324.jpg" group-title="MLB",MLB Strike Zone
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/65699.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",MLB 01: 8:05PM New York Yankees vs San Francisco Giants
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265479.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 01: Nationals VS Cubs (Cubs Feed ) @ 14:20
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265491.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 02: Twins VS Orioles (Orioles Feed ) @ 15:05
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265492.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 03: Red Sox VS Reds (Red Sox Feed ) @ 16:10
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265493.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 04: Angels VS Astros (Astros Feed ) @ 16:10
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265494.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 05: Tigers VS Padres (MLBN Feed ) @ 16:10
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265495.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 06: Rangers VS Phillies (Phillies Feed ) @ 16:15
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265496.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 07: Rangers VS Phillies (Rangers Feed ) @ 16:15
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265497.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 08: Pittsburgh Pirates vs New York Mets @ 01:15 PM
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265498.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 09: Chicago White Sox vs Milwaukee Brewers @ 02:10 PM
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265499.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 10: Tampa Bay Rays vs St. Louis Cardinals @ 04:15 PM
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265500.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 11: Arizona Diamondbacks vs Los Angeles Dodgers @ 08:30 PM
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265501.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 12: Cleveland Guardians vs Seattle Mariners @ 10:10 PM
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265502.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 02: 2:10PM White Sox vs. Brewers
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265503.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 03: 2:20PM Nationals vs. Cubs
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265504.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 04: 3:05PM Twins vs. Orioles
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265505.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 05: 4:10PM Red Sox vs. Reds
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265506.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 06: 4:10PM Angels vs. Astros
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265507.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 07: 4:10PM Tigers vs. Padres
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265508.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 08: 4:15PM Rangers vs. Phillies
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265509.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 09: 4:15PM Rays vs. Cardinals
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265510.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 10: 8:30PM D-backs vs. Dodgers
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265511.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 11: 10:10PM Guardians vs. Mariners
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265512.m3u8
 
 # --- MOVIE NETWORKS (41) ---
 #EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
@@ -3379,7 +3423,7 @@ http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/21091.m3u8
 
-# --- NBA (14) ---
+# --- NBA (15) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
@@ -3408,6 +3452,8 @@ http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265476.m3u8
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265477.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Raptors @ Clippers 10:30pm
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265478.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Sacramento Kings vs Orlando Magic @ 07:00 PM EDT
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265490.m3u8
 
 # --- NCAAB (5) ---
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | MARYLAND EASTERN SHORE @ YOUNGSTOWN STATE (W) | 3.24 6:30 PM | ESPN+
@@ -3469,7 +3515,7 @@ http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/253677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 15:
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/253678.m3u8
 
-# --- NHL (5) ---
+# --- NHL (15) ---
 #EXTINF:-1 tvg-logo="" group-title="NHL",US NHL Network
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/253636.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: OTT VS NYR (NHLN Feed ) @ 7:30 pm
@@ -3480,6 +3526,26 @@ http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265481.m3u8
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265482.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: OTT VS NYR (MSG Feed ) @ 7:30 pm
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265483.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: COL VS WPG (ALT Feed ) @ 8:00 pm
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265513.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: ANA VS CGY (SNW Feed ) @ 9:00 pm
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265514.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: EDM VS VGK (SN1 Feed ) @ 9:30 pm
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265515.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: EDM VS VGK (TVAS Feed ) @ 9:30 pm
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265516.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: Minnesota Wild vs Florida Panthers @ 07:00 PM EDT
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265517.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 10: Pittsburgh Penguins vs Ottawa Senators @ 07:00 PM EDT
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265518.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 11: Dallas Stars vs New York Islanders @ 07:00 PM EDT
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265519.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 12: New Jersey Devils vs Nashville Predators @ 08:00 PM EDT
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265520.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 13: Washington Capitals vs Utah Mammoth @ 09:00 PM EDT
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265521.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 14: Los Angeles Kings vs Vancouver Canucks @ 10:00 PM EDT
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265522.m3u8
 
 # --- PERU (7) ---
 #EXTINF:-1 tvg-logo="" group-title="PERU",PE: PANAMERICANA HD
@@ -3509,13 +3575,41 @@ http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/101825.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PHILIPPINES",PH GMA Pinoy TV (X)
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/101826.m3u8
 
-# --- PPV | UFC (3) ---
+# --- PPV | UFC (17) ---
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV01: WWE RAW @ 08:00 PM EST
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/260494.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA | WWE
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/260495.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA | WWE Network
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/260496.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 01:UFC Fight Night:Evloev vs Murphy
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265523.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 02:UFC Fight Night en Espal:Evloev vs Murphy
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265524.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 03:UFC Fight Night: Multiview
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265525.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 04:RWS: Yothin vs. Chiabkard
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265526.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 05:Lapin vs. Bulmeistars
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265527.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 06:Liddard vs. Denny: Prelims
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265528.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 07:Liddard vs. Denny MAIN
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265529.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 08:Adames vs. Williams
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265530.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 09:Adames vs. Williams (en Espanol)
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265531.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 10:HOGxBIG EVENT: Superclash 2026
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265532.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 11:IWC: Twenty Five
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265533.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV01: 11:30am Gorilla 2
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265534.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV02: 7pm UWC 57
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265535.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV03: 8pm Anthony Pettis FC 22
+http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/265536.m3u8
 
 # --- Portugal (19) ---
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: CMTV
@@ -13307,4 +13401,4 @@ http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/121048.m3u8
 
-# Total: 6614
+# Total: 6661

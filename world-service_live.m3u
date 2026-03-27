@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-27 07:30:40
+# Generated: 2026-03-27 18:49:52
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -1318,7 +1318,7 @@ http://world-service.us:8080/live/giovanmer/merante/87.m3u8
 http://world-service.us:8080/live/giovanmer/merante/88.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/legend.jpg" group-title="SKY SPORT HD",sky Sport Legend HD
 http://world-service.us:8080/live/giovanmer/merante/83369.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/mix.jpg" group-title="SKY SPORT HD",sky  Sport Mix HD
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/mix.jpg" group-title="SKY SPORT HD",sky  Sport Max HD
 http://world-service.us:8080/live/giovanmer/merante/83370.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/SKYTENNIS.jpg" group-title="SKY SPORT HD",SKY Sport Tennis HD
 http://world-service.us:8080/live/giovanmer/merante/1559.m3u8
@@ -1368,7 +1368,7 @@ http://world-service.us:8080/live/giovanmer/merante/1895.m3u8
 http://world-service.us:8080/live/giovanmer/merante/1906.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/872ad5fdbaa07978d8d6f6eea86dd66e.png" group-title="SKY SPORT SD",SkY Sport Legend SD
 http://world-service.us:8080/live/giovanmer/merante/83917.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/385f506d814ee43ff3dcfb8936451825.png" group-title="SKY SPORT SD",Sky Sport Mix SD
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/385f506d814ee43ff3dcfb8936451825.png" group-title="SKY SPORT SD",Sky Sport Max SD
 http://world-service.us:8080/live/giovanmer/merante/83918.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/SKYTENNIS.jpg" group-title="SKY SPORT SD",SkySportTennis SD
 http://world-service.us:8080/live/giovanmer/merante/83919.m3u8

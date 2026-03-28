@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-03-28 07:32:03
+# Generated: 2026-03-28 18:36:47
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -19525,6 +19525,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/985.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Madame Blanc Mysteries",The Madame Blanc Mysteries (2021)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1148.mp4
 
+# --- Movies | The Madison (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Madison",The Madison (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1240.mp4
+
 # --- Movies | The Madness (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Madness",The Madness
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/23.mp4
@@ -20361,4 +20365,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8911
+# Total: 8912

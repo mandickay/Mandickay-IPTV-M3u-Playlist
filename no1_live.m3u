@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-03-28 07:33:17
+# Generated: 2026-03-28 18:47:56
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -2682,8 +2682,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173464.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173465.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/5b09fb0ef02df99ace9e5b3b1e620ede.jpg" group-title="GR: GREECE",GR: Nova sports 2
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173467.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/db84e4cab49518a4671bad903a694117.png" group-title="GR: GREECE",GR: Nova Sports 3
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173469.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/8ecc003e88923bf810aa95e20deb8ce0.png" group-title="GR: GREECE",GR: Nova Sports 4
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173471.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/38563dfe8e994c67749cc07d3d0df9a1.png" group-title="GR: GREECE",GR: Nova Sports 5
@@ -2992,6 +2990,8 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173517.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173523.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ad3256b481e0d9bede40d46f0f62da0e.png" group-title="GR: GREECE",GR: 4E
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173537.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/db84e4cab49518a4671bad903a694117.png" group-title="GR: GREECE",GR: Nova Sports 3
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/180116.m3u8
 
 # --- HU: HUNGARY (89) ---
 #EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",##### HUNGARY #####

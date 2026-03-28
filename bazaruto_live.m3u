@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-03-28 07:29:45
+# Generated: 2026-03-28 18:39:56
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -2617,7 +2617,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1356.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALIJA",Top Crime  IT
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1358.m3u8
 
-# --- MAKEDONIJA (48) ---
+# --- MAKEDONIJA (49) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/MPT_1_HD_(MK).png" group-title="MAKEDONIJA",MRT  1
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/30.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/MPT_1_HD_(MK).png" group-title="MAKEDONIJA",MRT 1 HD
@@ -2714,6 +2714,8 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63599.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63603.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",Travel Channel
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63613.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",Film Box Extra MK
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63629.m3u8
 
 # --- MUZIKA (41) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/GRAND_NOSTALGIJA_HD_.png" group-title="MUZIKA",Grand TV
@@ -4341,4 +4343,4 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Outside TV HD US
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53505.m3u8
 
-# Total: 2142
+# Total: 2143

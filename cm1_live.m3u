@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cm1.portaltv.info:777
-# Generated: 2026-03-28 07:32:34
+# Generated: 2026-03-28 18:38:27
 # Expires: 2026-04-14
 # Family Safe Edition
 # ==============================================
 
 
-# --- Albania (161) ---
+# --- Albania (169) ---
 #EXTINF:-1 tvg-logo="http://acs.infogis.net/logo/RTK1.jpg" group-title="Albania",AL: RTK 1
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/4935.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: RTK 1 HD
@@ -150,6 +150,22 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/43.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/46.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Film Drame.png" group-title="Albania",AL: Film Drame
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/44.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Komedi
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5995.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kino Dark HD.png" group-title="Albania",AL: Kino Dark HD
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3603.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Fantazi
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5989.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Hindi
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5985.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 1 HD
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5981.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 2 HD
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5982.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 3 HD
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5983.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 4 HD
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/5984.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Stinet.png" group-title="Albania",AL: Stinet
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/166.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/eurofilm.jpg" group-title="Albania",AL: EuroFilm
@@ -1775,7 +1791,7 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/2962.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/babytv.png" group-title="Italy",IT: EAGLE 4ᴷ ᵁᴴᴰ
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/2961.m3u8
 
-# --- Music (23) ---
+# --- Music (26) ---
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/tvllapi.png" group-title="Music",AL: TV Llapi
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/538.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Folk Plus.png" group-title="Music",AL: Folk+
@@ -1816,6 +1832,12 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6107.m3u8
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/3261.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Zico TV.png" group-title="Music",AL: TV Zico
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/210.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",AL: Dark Festive 4
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6009.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",AL: Dark Festive 3
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6008.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",AL: Dark Festive 1
+http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/6006.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Tv Sharri.png" group-title="Music",AL: ASHK  TV  ⁴ᴷ
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/4966.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Zjarr TV.png" group-title="Music",AL: Zjarr TV
@@ -3251,4 +3273,4 @@ http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",UK:Discovery Science
 http://cm1.portaltv.info:777/live/5R0Tqhz7bC/8biAnmNHif/505.m3u8
 
-# Total: 1597
+# Total: 1608

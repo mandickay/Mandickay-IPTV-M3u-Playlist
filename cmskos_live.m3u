@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cmskos.bekaks.net:777
-# Generated: 2026-03-28 07:23:51
+# Generated: 2026-03-28 18:44:33
 # Expires: 2026-11-30
 # Family Safe Edition
 # ==============================================
 
 
-# --- Albania (161) ---
+# --- Albania (169) ---
 #EXTINF:-1 tvg-logo="http://acs.infogis.net/logo/RTK1.jpg" group-title="Albania",AL: RTK 1
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/4935.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",AL: RTK 1 HD
@@ -150,6 +150,22 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/43.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/46.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Film Drame.png" group-title="Albania",AL: Film Drame
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/44.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Komedi
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5995.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kino Dark HD.png" group-title="Albania",AL: Kino Dark HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3603.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Fantazi
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5989.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Hindi
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5985.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 1 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5981.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 2 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5982.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 3 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5983.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 4 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5984.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Stinet.png" group-title="Albania",AL: Stinet
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/166.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/eurofilm.jpg" group-title="Albania",AL: EuroFilm
@@ -1775,7 +1791,7 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2962.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/babytv.png" group-title="Italy",IT: EAGLE 4ᴷ ᵁᴴᴰ
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2961.m3u8
 
-# --- Music (23) ---
+# --- Music (26) ---
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/tvllapi.png" group-title="Music",AL: TV Llapi
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/538.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Folk Plus.png" group-title="Music",AL: Folk+
@@ -1816,6 +1832,12 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6107.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3261.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Zico TV.png" group-title="Music",AL: TV Zico
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/210.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",AL: Dark Festive 4
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6009.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",AL: Dark Festive 3
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6008.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",AL: Dark Festive 1
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6006.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Tv Sharri.png" group-title="Music",AL: ASHK  TV  ⁴ᴷ
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/4966.m3u8
 #EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Zjarr TV.png" group-title="Music",AL: Zjarr TV
@@ -3251,4 +3273,4 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="United Kingdom",UK:Discovery Science
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/505.m3u8
 
-# Total: 1597
+# Total: 1608

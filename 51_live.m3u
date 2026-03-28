@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-03-28 07:25:20
+# Generated: 2026-03-28 18:36:46
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -2682,8 +2682,6 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173464.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173465.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/5b09fb0ef02df99ace9e5b3b1e620ede.jpg" group-title="GR: GREECE",GR: Nova sports 2
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173467.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/db84e4cab49518a4671bad903a694117.png" group-title="GR: GREECE",GR: Nova Sports 3
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173469.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/8ecc003e88923bf810aa95e20deb8ce0.png" group-title="GR: GREECE",GR: Nova Sports 4
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173471.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/38563dfe8e994c67749cc07d3d0df9a1.png" group-title="GR: GREECE",GR: Nova Sports 5
@@ -2992,6 +2990,8 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173517.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173523.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ad3256b481e0d9bede40d46f0f62da0e.png" group-title="GR: GREECE",GR: 4E
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173537.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/db84e4cab49518a4671bad903a694117.png" group-title="GR: GREECE",GR: Nova Sports 3
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180116.m3u8
 
 # --- HU: HUNGARY (89) ---
 #EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",##### HUNGARY #####

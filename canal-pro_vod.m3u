@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-03-28 07:32:04
+# Generated: 2026-03-28 18:44:32
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -5031,7 +5031,23 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/10108.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2I3Jorx96I4dRevKlKDMkCFhQ1R.jpg" group-title="Movies | → VOD CINE CHILENO ←",El Club (2015)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/10109.mkv
 
-# --- Movies | → VOD CLÁSICAS ← (159) ---
+# --- Movies | → VOD CLÁSICAS ← (167) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5sTLCpmqd6gWWbZ4cps9UkTKiN.jpg" group-title="Movies | → VOD CLÁSICAS ←",Abbott y Costello en la legion extranjera (1950)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280558.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSp2sMdtEq3bVp2sU5FSOaGZPDG.jpg" group-title="Movies | → VOD CLÁSICAS ←",Abbott y Costello: Vuelven los reclutas (1947)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280556.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9UqzbJFpQyvo34CdDOAZtuudLO.jpg" group-title="Movies | → VOD CLÁSICAS ←",Abbott y Costello: Los cabezudos (1945)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280557.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYI4gJvYt0zPdALsFcLxFMhuUBk.jpg" group-title="Movies | → VOD CLÁSICAS ←",Abbott y Costello: Dos locos tras un fantasma (1941)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280559.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68mtOrrMkv3ijguFg2p9M92CDHy.jpg" group-title="Movies | → VOD CLÁSICAS ←",Más vivo que muerto (1954)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280552.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPAFgEl0GFeLg7mNWRNhOD4t9JS.jpg" group-title="Movies | → VOD CLÁSICAS ←",Tú, mi conejo y yo (1958)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280553.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3I4kcAH8colH2eEzziKCtXOsknC.jpg" group-title="Movies | → VOD CLÁSICAS ←",El Bocon (1967)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280554.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jx2gS2xCmxgERLcefhOFayqYTR.jpg" group-title="Movies | → VOD CLÁSICAS ←",Artistas y Modelos (1955)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280555.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQ1AyWo5ifJTNup6w1QDOqZRWot.jpg" group-title="Movies | → VOD CLÁSICAS ←",Especialista en el Crimen
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280012.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lotsO2VRhsmeFKzqncMX9xrYMj6.jpg" group-title="Movies | → VOD CLÁSICAS ←",La Mosca
@@ -19855,4 +19871,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9851
+# Total: 9859

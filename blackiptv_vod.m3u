@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-28 18:38:55
+# Generated: 2026-03-29 07:46:18
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -11778,9 +11778,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/365.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/17071.mp4
 
 # --- Movies | TR/DIZI ~ CUMARTESI (3) ---
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Güller ve Günahlar 21.Bölüm (YENI DIZI)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Güller ve Günahlar 22.Bölüm (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48482.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vc20oOVlfVQI0YWocTvTv7wOILk.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Gönül Dagi 210.Bölüm (Yeni Sezon)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vc20oOVlfVQI0YWocTvTv7wOILk.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Gönül Dagi 211.Bölüm (Yeni Sezon)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/26836.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CMT: Sahtekarlar 22.Bölüm (YENI GÜNÜNDE)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60873.mp4
@@ -22253,8 +22253,12 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63325.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4UkHtgGbUFaUx2xQCR5JBmh139.jpg" group-title="Movies | TR/FILM ~ YERLI 2025",Ona Niyet Sana Kısmet (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 
+# --- Movies | TR/FILM ~ YERLI 2026 (1) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnBW7o8ycDi8WotGeRkGoDxrNMd.jpg" group-title="Movies | TR/FILM ~ YERLI 2026",Sonunda Sen - 2026
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/71030.mp4
+
 # --- Movies | TR/FILM ~ YILBASI ÖZEL (1) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10978
+# Total: 10979

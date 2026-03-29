@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv.streamid.tv:8080
-# Generated: 2026-03-28 18:45:50
+# Generated: 2026-03-29 07:46:15
 # Expires: 2026-05-22
 # Family Safe Edition
 # ==============================================
@@ -2713,7 +2713,7 @@ http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/323906.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ESPANA 2",ESP| M_#0 HD
 http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/323907.m3u8
 
-# --- EVENTOS DEL DIA (186) ---
+# --- EVENTOS DEL DIA (188) ---
 #EXTINF:-1 tvg-logo="" group-title="EVENTOS DEL DIA",SABADO 28 DE MARZO GTM-5
 http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/259499.m3u8
 #EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",00:00 ◘ #8 UC Santa Barbara vs. #2 Hawai'i ◘ NCAA Men's Volleyball ◘ 720p-en ◘
@@ -2924,6 +2924,10 @@ http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/324759.m3u8
 http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/324760.m3u8
 #EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/ncaa.png" group-title="EVENTOS DEL DIA",14:30 ◘ Yale vs. #9 Cornell ◘ NCAA Men's Lacrosse ◘ 720p-en ◘
 http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/324761.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS DEL DIA",15:00 | Ufc |  Adesanya Vs Pyfer = TNT1 Uk
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/324886.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS DEL DIA",15:00 | Ufc |  Adesanya Vs Pyfer = PRMT+ SPA
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/324887.m3u8
 #EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga2.png" group-title="EVENTOS DEL DIA",15:00 ◘ Albacete vs. CD Castellon ◘ LaLiga SmartBank ◘ 540p-es ◘
 http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/324762.m3u8
 #EXTINF:-1 tvg-logo="http://213.145.87.11:90/Logos/ppv/laliga2.png" group-title="EVENTOS DEL DIA",15:00 ◘ Albacete vs. CD Castellon ◘ LaLiga SmartBank ◘ 720p-es ◘
@@ -6647,4 +6651,4 @@ http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/85032.m3u8
 #EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/c172e27e81a0633908064de128594689.PNG" group-title="VENEZUELA",VENEZUELA| VIVE HD
 http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/85030.m3u8
 
-# Total: 3257
+# Total: 3259

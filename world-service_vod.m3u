@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-28 18:47:29
+# Generated: 2026-03-29 07:52:45
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -22507,7 +22507,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1648.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Le libere donne
 http://world-service.us:8080/movie/giovanmer/merante/1649.mp4
 
-# --- Movies | SERIE-TV-ITALIA (155) ---
+# --- Movies | SERIE-TV-ITALIA (156) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://world-service.us:8080/movie/giovanmer/merante/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22818,6 +22818,8 @@ http://world-service.us:8080/movie/giovanmer/merante/1633.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1641.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Avvocato Ligas
 http://world-service.us:8080/movie/giovanmer/merante/1646.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Altri tempi
+http://world-service.us:8080/movie/giovanmer/merante/1657.mp4
 
 # --- Movies | Serie-Tv-Ita (1231) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | Serie-Tv-Ita",==== Serie Tv Italia ====
@@ -33033,4 +33035,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16485
+# Total: 16486

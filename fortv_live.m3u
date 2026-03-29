@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fortv.cc:8080
-# Generated: 2026-03-28 18:37:52
+# Generated: 2026-03-29 07:54:55
 # Expires: 2026-04-10
 # Family Safe Edition
 # ==============================================
@@ -3287,41 +3287,71 @@ http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/94384.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Radio",Radio1
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/94391.m3u8
 
-# --- MLB (17) ---
+# --- MLB (32) ---
 #EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fmlb.png" group-title="MLB",MLB Network
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/21360.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/sling-tv-adds-mlb-network-and-mlb-strike-zone-ahead-just-in-time-for-opening-day/de6b7ceff7-1618516374/cut-5-576x324.jpg" group-title="MLB",MLB Strike Zone
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/65699.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 01: Yankees VS Giants (Yankees Feed ) @ 16:35
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265552.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 02: Yankees VS Giants (Giants Feed ) @ 16:35
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265553.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 06: Rockies VS Marlins (Rockies Feed ) @ 19:10
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265557.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 07: D-backs VS Dodgers (Dodgers Feed ) @ 22:10
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265558.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 08: D-backs VS Dodgers (D-backs Feed ) @ 22:10
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265559.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 09: D-backs VS Dodgers (MLBN Feed ) @ 22:10
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265560.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 10: Los Angeles Angels vs Houston Astros @ 08:10 am EDT
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265561.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 11: Cleveland Guardians vs Seattle Mariners @ 09:40 PM EDT
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265562.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 01: 4:35PM NY Yankees vs. SF Giants
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265563.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 03: 7:10PM Colorado Rockies vs. Miami Marlins
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265565.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 04: 7:15PM Kansas City Royals	vs. Atlanta Braves
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265566.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 05: 8:15PM LA Angels	vs. Houston Astros
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265567.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 06: 9:40PM Detroit Tigers vs. San Diego Padres
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265568.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 07: 9:45PM Cleveland Guardians vs. Seattle Mariners
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265569.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 08: 10:10PM	Arizona Diamondbacks vs. LA Dodgers
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265570.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 01: Nationals VS Cubs (Cubs Feed ) @ 14:20
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265679.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 04: Twins VS Orioles (Orioles Feed ) @ 16:05
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265682.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 05: Twins VS Orioles (FS1 Feed ) @ 16:05
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265683.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 06: Rangers VS Phillies (Phillies Feed ) @ 16:05
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265684.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 07: Rangers VS Phillies (Rangers Feed ) @ 16:05
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265685.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 08: Red Sox VS Reds (Red Sox Feed ) @ 16:10
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265686.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 09: Pirates VS Mets (Mets Feed ) @ 16:10
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265687.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 10: Rockies VS Marlins (Rockies Feed ) @ 16:10
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265688.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 11: Angels VS Astros (Astros Feed ) @ 19:10
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265689.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 12: Royals VS Braves (FOX Feed ) @ 19:15
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265690.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 13: Yankees VS Giants (FOX Feed ) @ 19:15
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265691.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 14: D-backs VS Dodgers (Dodgers Feed ) @ 21:10
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265692.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 15: D-backs VS Dodgers (D-backs Feed ) @ 21:10
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265693.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 16: Guardians VS Mariners (MLBN Feed ) @ 21:40
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265694.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 17: Tampa Bay Rays vs St. Louis Cardinals @ 02:15 PM
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265695.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 18: Chicago White Sox vs Milwaukee Brewers @ 07:10 PM
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265696.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 19: Detroit Tigers vs San Diego Padres @ 08:40 PM
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265697.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 01: 2:15PM Tampa Bay Rays vs. St. Louis Cardinals
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265698.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 02: 2:20PM Washington Nationals vs. Chicago Cubs
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265699.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 04: 4:05PM Minnesota Twins vs. Baltimore Orioles
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265701.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 05: 4:05PM Texas Rangers vs. Philadelphia Phillies
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265702.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 06: 4:10PM Boston Red Sox vs. Cincinnati Reds
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265703.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 07: 4:10PM Pittsburgh Pirates vs. New York Mets
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265704.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 08: 4:10PM Colorado Rockies vs. Miami Marlins
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265705.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 09: 7:10PM L.A. Angels vs. Houston Astros
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265706.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 10: 7:10PM Chicago White Sox vs. Milwaukee Brewers
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265707.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 11: 7:15PM Kansas City Royals vs. Atlanta Braves
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265708.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 13: 8:40PM Detroit Tigers vs. San Diego Padres
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265709.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 14: 9:10PM Arizona Diamondbacks	vs. Los Angeles Dodgers
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265710.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 15: 9:40PM Cleveland Guardians vs. Seattle Mariners
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265711.m3u8
 
 # --- MOVIE NETWORKS (41) ---
 #EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
@@ -3407,39 +3437,35 @@ http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/21091.m3u8
 
-# --- NBA (16) ---
+# --- NBA (14) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Los Angeles Clippers @ Indiana Pacers | Home Stream | 03/27/2026 7:00 PM ET
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265538.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Los Angeles Clippers @ Indiana Pacers | Away Stream | 03/27/2026 7:00 PM ET
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265539.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Atlanta Hawks @ Boston Celtics | Away Stream | 03/27/2026 7:30 PM ET
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265540.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Atlanta Hawks @ Boston Celtics | Home Stream | 03/27/2026 7:30 PM ET
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265541.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Miami Heat @ Cleveland Cavaliers | Away Stream | 03/27/2026 7:30 PM ET
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265542.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Miami Heat @ Cleveland Cavaliers | Home Stream | 03/27/2026 7:30 PM ET
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265543.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Houston Rockets @ Memphis Grizzlies | Away Stream | 03/27/2026 8:00 PM ET
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265544.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Houston Rockets @ Memphis Grizzlies | Home Stream | 03/27/2026 8:00 PM ET
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265545.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Chicago Bulls @ Oklahoma City Thunder | Away Stream | 03/27/2026 8:00 PM ET
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265546.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Chicago Bulls @ Oklahoma City Thunder | Home Stream | 03/27/2026 8:00 PM ET
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265547.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: New Orleans Pelicans @ Toronto Raptors | Away Stream | 03/27/2026 8:30 PM ET
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265548.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: New Orleans Pelicans @ Toronto Raptors | Home Stream | 03/27/2026 8:30 PM ET
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265549.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13: Utah Jazz @ Denver Nuggets | Away Stream | 03/27/2026 9:00 PM ET
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265550.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 14: Utah Jazz @ Denver Nuggets | Home Stream | 03/27/2026 9:00 PM ET
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265551.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: San Antonio Spurs @ Milwaukee Bucks | Away Stream | 03/28/2026 3:00 PM ET
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265667.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: San Antonio Spurs @ Milwaukee Bucks | Home Stream | 03/28/2026 3:00 PM ET
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265668.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Detroit Pistons @ Minnesota Timberwolves | Home Stream | 03/28/2026 5:30 PM ET
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265669.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Detroit Pistons @ Minnesota Timberwolves | Away Stream | 03/28/2026 5:30 PM ET
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265670.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Philadelphia 76ers @ Charlotte Hornets | Home Stream | 03/28/2026 6:00 PM ET
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265671.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Philadelphia 76ers @ Charlotte Hornets | Away Stream | 03/28/2026 6:00 PM ET
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265672.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Sacramento Kings @ Atlanta Hawks | Home Stream | 03/28/2026 7:30 PM ET
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265673.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Sacramento Kings @ Atlanta Hawks | Away Stream | 03/28/2026 7:30 PM ET
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265674.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: Chicago Bulls @ Memphis Grizzlies | Away Stream | 03/28/2026 8:00 PM ET
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265675.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: Chicago Bulls @ Memphis Grizzlies | Home Stream | 03/28/2026 8:00 PM ET
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265676.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Utah Jazz @ Phoenix Suns | Home Stream | 03/28/2026 10:00 PM ET
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265677.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Utah Jazz @ Phoenix Suns | Away Stream | 03/28/2026 10:00 PM ET
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265678.m3u8
 
 # --- NCAAB (5) ---
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | MARYLAND EASTERN SHORE @ YOUNGSTOWN STATE (W) | 3.24 6:30 PM | ESPN+
@@ -3501,15 +3527,75 @@ http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/253677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 15:
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/253678.m3u8
 
-# --- NHL (4) ---
+# --- NHL (34) ---
 #EXTINF:-1 tvg-logo="" group-title="NHL",US NHL Network
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/253636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: DET VS BUF (NHLN Feed ) @ 7:00 pm
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265571.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: DET VS BUF (TVAS2 Feed ) @ 7:00 pm
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265572.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: CHI VS NYR (MSG Feed ) @ 7:00 pm
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265573.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: OTT VS TBL (TVAS Feed ) @ 1:00 pm
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265595.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: FLA VS NYI (SN360 Feed ) @ 1:00 pm
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265596.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: ANA VS EDM (SNW Feed ) @ 3:30 pm
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265597.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: ANA VS EDM (TVAS Feed ) @ 3:30 pm
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265598.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: MIN VS BOS (NHLN Feed ) @ 5:00 pm
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265599.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: MIN VS BOS (NESN Feed ) @ 5:00 pm
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265600.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: TOR VS STL (SN Feed ) @ 7:00 pm
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265601.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: MTL VS NSH (SNE Feed ) @ 7:00 pm
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265602.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: MTL VS NSH (TVAS Feed ) @ 7:00 pm
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265603.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 10: WPG VS COL (SNW Feed ) @ 7:00 pm
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265604.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 11: WPG VS COL (ALT Feed ) @ 7:00 pm
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265605.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 12: VAN VS CGY (SN Feed ) @ 10:00 pm
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265606.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 13: Dallas Stars vs Pittsburgh Penguins @ 05:00 PM EDT
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265607.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 14: New Jersey Devils vs Carolina Hurricanes @ 05:00 PM EDT
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265608.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 16: Seattle Kraken vs Buffalo Sabres @ 05:30 PM EDT
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265610.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 17: Philadelphia Flyers vs Detroit Red Wings @ 08:00 PM EDT
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265611.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 18: Utah Mammoth vs Los Angeles Kings @ 09:00 PM EDT
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265612.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 19: Washington Capitals vs Vegas Golden Knights @ 10:30 PM EDT
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265613.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL01: 1PM Ottawa vs Tampa Bay
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265614.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL02: 1PM Florida vs New York
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265615.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL03: 3:30PM  Anaheim vs Edmonton
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265616.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL04: 5PM Minnesota vs Boston
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265617.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL05: 5PM Dallas vs Pittsburgh
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265618.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL06: 5PM New Jersey vs Carolina
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265619.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL07: 5PM San Jose vs Columbus
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265620.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL08: 5:30PM  Seattle vs Buffalo
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265621.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL09: 7PM Toronto vs St. Louis
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265622.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL10: 7PM Montreal vs Nashville
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265623.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL11: 7PM Winnipeg vs Colorado
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265624.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL12: 8PM Philadelphia vs Detroit
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265625.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL13: 9PM Utah vs Los Angeles
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265626.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL14: 10PM Vancouver vs Calgary
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265627.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL15: 10:30PM Washington vs Vegas
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265628.m3u8
 
 # --- PERU (7) ---
 #EXTINF:-1 tvg-logo="" group-title="PERU",PE: PANAMERICANA HD
@@ -3539,69 +3625,89 @@ http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/101825.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PHILIPPINES",PH GMA Pinoy TV (X)
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/101826.m3u8
 
-# --- PPV | UFC (31) ---
+# --- PPV | UFC (41) ---
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV01: WWE RAW @ 08:00 PM EST
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/260494.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA | WWE
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/260495.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA | WWE Network
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/260496.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 01:UFC Fight Night:Evloev vs Murphy
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265523.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 02:UFC Fight Night en Espal:Evloev vs Murphy
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265524.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 01:UFC Fight Night:ADESANYA VS PYFER
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265629.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 02:UFC Fight Night:ADESANYA VS PYFER Espal
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265630.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 03:UFC Fight Night: Multiview
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265525.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 04:RWS: Yothin vs. Chiabkard
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265526.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 05:Lapin vs. Bulmeistars
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265527.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 06:Liddard vs. Denny: Prelims
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265528.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 07:Liddard vs. Denny MAIN
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265529.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 08:Adames vs. Williams
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265530.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 09:Adames vs. Williams (en Espanol)
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265531.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 10:HOGxBIG EVENT: Superclash 2026
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265532.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 11:IWC: Twenty Five
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265533.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV01: 11:30am Gorilla 2
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265534.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV02: 7pm UWC 57
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265535.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV03: 8pm Anthony Pettis FC 22
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265536.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV02: ROH & MLP: Global Wars Canada & Uprising Pack 2026 @ 07:00 PM EDT
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265574.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV03: Thunder's Friday Night Fights: Night of Champions IX @ 10:00 PM EDT
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265575.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV04: East Alabama Motor Speedway @ 06:15 PM EDT
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV05: Williams Grove Speedway @ 07:00 PM EDT
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265577.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV06: US 36 Raceway @ 07:15 PM EDT
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265578.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV07: USMTS King of America Lucas Oil Speedway 3/27/26 @ 08:00 PM EDT
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265579.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV04: 2PM FIGHT CLUBBING 41
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265580.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV05: 7PM SAMOURAI MMA 18
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265581.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV06: 7PM ROH & MLP GLOBAL WARS CANADA
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265582.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV07: 8PM TNA SACRIFICE
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265583.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV08: 9PM CAGE FURY FC 152
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265584.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV09: 9PM MAFAUD V FARIAS (EN ESPANOL)
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265585.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV10: 10PM URIJAH FABERS A1 COMBAT 34
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265586.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV11: 10PM THUNDERS FRIDAY NIGHT FIGHTS NIGHT OF CHAMPIONS IX
-http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265587.m3u8
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265631.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV 04 |  UFC FN ADESANYA VS. PYFER (3.28 8:00 PM ET) UFC
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265632.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 05:WOW FC 28
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265633.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 06:UFC FIGHT NIGHT: ADESANYA VS PYFER PRELIMS
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265634.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 07:Morgan vs Wongsuwan
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265635.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 08:BKFC Mohegan Sun 3
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265636.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 09:Formula 1: Japan: Qualifying (English) (UHD) (2026-03-28 05:20:00)
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265637.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 10:Formula 1: Japan: Race (English) (UHD) (2026-03-29 03:45:00
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265638.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 11:Itauma vs. Franklin: Prelims
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265639.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 13:FUNDORA VS THURMAN
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265640.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 14:Itauma vs. Franklin: MAIN
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265641.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 15:RWS: Yothin vs. Chiabkard
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265642.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV02: Boxing: Itauma vs. Franklin (DAZN) @ 01:00 PM EDT
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265643.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV03: PBC PPV: Fundora vs Thurman @ 08:00 PM EDT
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265644.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV04: RAF 7: Tsarukyan vs Poullas 2 @ 08:00 PM EDT
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265645.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV05: 81 Speedway @ 07:15 PM EDT
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265646.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV06: USMTS King of America Lucas Oil Speedway 3/28/26 @ 08:00 PM EDT
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265647.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV08: wXw We Love Wrestling 75: 16 Carat Gold Revenge @ 01:00 PM EDT
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265648.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV09: BKFC Fight Night Mohegan Sun 3: Parker Porter vs Haze Wilson @ 06:00 PM EDT
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265649.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV10: MLP: Uprising 2026 @ 07:00 PM EDT
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265650.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV01: 5pm UFC Fight Night Adesanya v Pyfer
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265651.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV02: 5pm UFC Fight Night Adesanya v Pyfer BACKUP
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265652.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV03: 6pm BKFC FIght Night Porter v Wilson
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265653.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV04: 7pm PFL Pittsburgh Eblen v Battle
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265654.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV05: 8pm Fundora v Thurman
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265655.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV06: 10am UAE Warriors 69
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265656.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV07: 11am/1pm Itauma v Franklin
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265657.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV08: 11am ADCC Phoenix Open
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265658.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV09: 1pm wXw We Love Wrestling 75 16ct Gold Revenge
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265659.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV10: 3/4:45pm WOW FC 28
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265660.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV11: 4pm The Arena Blood & Glory
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265661.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV12: 6pm Acosta v Rios
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265662.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV13: 7pm MLP Uprising
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265663.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV14: 8pm BKB 52 No Turning Back
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265664.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV15: 1am The Main Event Morgan v Wongsuwan
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265665.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV16: 2:30am Glory 106
+http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/265666.m3u8
 
 # --- Portugal (19) ---
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: CMTV
@@ -13393,4 +13499,4 @@ http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://fortv.cc:8080/live/k4rGMRc/hh2m6S1xW6/121048.m3u8
 
-# Total: 6657
+# Total: 6710

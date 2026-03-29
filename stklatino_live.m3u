@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-03-28 18:40:03
+# Generated: 2026-03-29 07:52:23
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -1928,7 +1928,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/76241.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/76243.m3u8
 #EXTINF:-1 tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="DEPORTES PREMIUM",Tigo Sports Py
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/57108.m3u8
-#EXTINF:-1 tvg-logo="https://www.mundoprimaria.com/wp-content/uploads/2020/07/deporte.jpg" group-title="DEPORTES PREMIUM",EVENTOS DEL DIA
+#EXTINF:-1 tvg-logo="https://www.mundoprimaria.com/wp-content/uploads/2020/07/deporte.jpg" group-title="DEPORTES PREMIUM",EVENTOS HOY UFC
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/57133.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/168/253/png-clipart-disney-logo-tech-companies.png" group-title="DEPORTES PREMIUM",DISNEY+
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/56934.m3u8
@@ -3193,7 +3193,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/70174.m3u8
 #EXTINF:-1 tvg-logo="https://players.grupodial.cl/player/radio/img/45b312bfd616a3430ab90167854fe44b08121256.png" group-title="MUSICA",Radio Duna TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/30.m3u8
 
-# --- OTROS (6306) ---
+# --- OTROS (6305) ---
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/dark.jpg" group-title="OTROS",Dark
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/67762.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png" group-title="OTROS",Nubeh TV ✪ | VE
@@ -4022,8 +4022,6 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/75252.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/75253.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OTROS",24 TV Culturales (Peru)
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/40057.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OTROS",24 Канал (1080p)
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/40059.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OTROS",2TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/40071.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OTROS",3 Tamil TV (720p)
@@ -16243,7 +16241,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/77374.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rcD4Wq0/5361244b16c80785fcca912f562d359b-660x326.png" group-title="RELIGION",ASV TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/28840.m3u8
 
-# --- URUGUAY (10) ---
+# --- URUGUAY (11) ---
 #EXTINF:-1 tvg-logo="https://www.amasv.com.uy/images/LOGO-web-AMASV-MUCHA-COSA-BUENA.png" group-title="URUGUAY",A+V
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/2408.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_04/71490265071290.png.144c0633a7c84d85731ee9d392a2c826.png" group-title="URUGUAY",TV Ciudad
@@ -16264,6 +16262,8 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/40075.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/81929.m3u8
 #EXTINF:-1 tvg-logo="" group-title="URUGUAY",UCL
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/81930.m3u8
+#EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/CardinalTV-logo.jpg" group-title="URUGUAY",Cardinal TV
+http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/40059.m3u8
 
 # --- Unknown (64) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwsLPVG4/christmas-ra.png" group-title="Unknown",Radio Christmas Hits (Navidad)

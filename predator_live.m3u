@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-03-29 07:57:23
+# Generated: 2026-03-29 18:45:03
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3667,7 +3667,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORTING TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81960.m3u8
 
-# --- Shqiptare (451) ---
+# --- Shqiptare (446) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -3998,16 +3998,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/79450.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80318.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Cinema 2
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80319.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Cinestar 1
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/80320.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Cinestar 2
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/80321.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Cinestar Action
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/80322.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Cinestar Comedy
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/80323.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Cinestar Fantasy
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/80324.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: FilmBox Premium HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79726.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: T Prime 1
@@ -5349,125 +5339,261 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/21669.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Türkey",TR: TABII SPORT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/78929.m3u8
 
-# --- Uk (59) ---
+# --- Uk (127) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1920px-Flag_of_the_United_Kingdom.svg.png" group-title="Uk",=========Uk=========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75552.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",BBC One UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73736.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",BBC Two UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73726.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",BBC World News UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73725.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",BBC THREE CBBC UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73704.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",ITV 1
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78705.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",ITV 2
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78704.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",ITV 3
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78703.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",ITV 4
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78702.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",RTÉ News Now UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73597.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",GOLD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73654.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",MTV UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73623.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",The Box UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73536.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Arts UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73584.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",Comedy Central  UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73686.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Atlantic UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73582.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",Sky Showcase
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73578.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",Sky Max
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73580.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Cinema Action & Adventure HD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73581.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Cinema Comedy HD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73579.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Cinema Crime & Thriller UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73577.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Cinema Drama & Romance UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Cinema Family HD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73575.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Cinema Greats UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73573.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Cinema Premiere UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73571.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Cinema Sci-Fi & Horror UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73570.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",Sky Witness HD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73521.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Cinema Hits HD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73518.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Cinema Max FHD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73517.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",Turbo UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73674.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",History UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73650.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",Sky NATURE HD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73505.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",Sky DOCUMENTARIES FHD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73504.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",Boomerang UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73706.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",Cartoon Network UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73696.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",Cartoonito UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73695.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",Nick Jr. UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73612.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",NickSpongebob
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73611.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",Sky Kids
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73610.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",Nickelodeon UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73609.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",PREMIER SPORTS 1 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/77263.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",PREMIER SPORTS 2 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/77260.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",La Liga TV
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78706.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",TNT Sport 1 HD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73723.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",TNT Sport 2 HD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73721.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",TNT Sport 3 HD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73719.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",TNT Sport 4 HD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73718.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Sports Action HD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73566.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",Sky Sports + HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73564.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Sports Cricket HD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73562.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Sports F1 HD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73560.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Sports NFL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73559.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Sports Football HD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73558.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Sports Football UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73557.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",Sky Sports Golf HD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73556.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Sports Main Event HD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73554.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Sports Mix HD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73552.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",Sky Sports News HQ UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73551.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Uk",S Sports Premier League FHD UK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/73549.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: BBC1 HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84906.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: BBC FOUR SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84905.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: BBC News 24 SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84904.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: BBC News SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84903.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: BBC TWO HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84902.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Blaze SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84901.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Channel 4 HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84895.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Channel 4 SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84894.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: CNN FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84893.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: RTE News Now SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84859.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: RTE One FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84858.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: RTE Two FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84857.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Virgin Media One FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84811.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Virgin Media One +1 SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84810.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Virgin Media Two HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84809.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Virgin Media Three FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84808.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Comedy Central Extra SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84891.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Comedy Central HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84890.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Crime & Investigation FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84889.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Cula4 FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84888.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Animal Planet FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84907.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Discovery FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84887.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Discovery History SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84886.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Discovery Quest HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84885.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Discovery Science SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84884.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Discovery Turbo SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84883.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: DMAX SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84882.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: E4 HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84881.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Film4 FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84880.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Film Four SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84879.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Food Network SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84878.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: ID SD (Investigation Discovery)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84877.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: ITV3 SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84876.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: ITV4 SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84875.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: More4 HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84874.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: MTV 80s SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84873.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: MTV SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84872.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Nat Geo Wild SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84871.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: National Geographic FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84870.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Boomerang SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84900.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Cartoonito SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84899.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Cartoon Network SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84898.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: CBBC SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84897.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Cbeebies SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84896.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Nickelodeon FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84869.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Nick Junior SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84868.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Nick Toons SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84867.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: RTEjr SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84860.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Oireachtas TV SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84866.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Premier Sports 1 FHD (Ireland)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84865.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Premier Sports 2 FHD (Ireland)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84864.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Quest FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84863.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Quest Red SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84862.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Really SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84861.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Comedy Central +1 SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84892.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Arts HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84856.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Cinema Action FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84855.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Cinema Animation FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84854.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Cinema Comedy FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84853.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Cinema Drama FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84852.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Cinema Family FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84851.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Cinema Greats FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84850.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Cinema Hits FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84849.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Cinema Horror FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84848.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Cinema Premiere FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84847.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Cinema Thriller FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84846.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Comedy FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84845.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Crime FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84844.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Documentaries FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84843.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky History 2 SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84842.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky History FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84841.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: SKY Max
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84840.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: SKY Max HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84839.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Mix FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84838.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Nature FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84837.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky News FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84836.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Sci-Fi FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84835.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Select FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84834.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Sports+ FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84833.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Sports Action FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84832.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Sports Cricket FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84831.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Sports F1 FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84830.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Sports Football FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84829.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Sports Golf FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84828.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Sports Main Event FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84827.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Sports Mix FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84826.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Sports News FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84825.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Sports Premier League FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84824.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Sports Racing FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84823.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Sports Tennis FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84822.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Witness HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84821.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Sky Witness +1 SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84820.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: TG4 FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84819.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: TG4+1 FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84818.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: TLC HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84817.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: TNT Sports 1 FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84816.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: TNT Sports 2 FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84815.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: TNT Sports 3 FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84814.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: TNT Sports 4 FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84813.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: U&Drama SD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84812.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: RTE One.
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84932.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: RTE 2
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84931.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: TG4 HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84930.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: BBC Two Northern Ireland
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84929.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: Premier 1 HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84928.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: Premier 2 HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84927.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: GAAGO 01 (Direct)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84926.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: GAAGO 02 (Direct)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84925.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: GAAGO 03 (Direct)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84924.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: GAAGO 04 (Direct)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84923.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: GAAGO 05 (Direct)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84922.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: GAAGO 06 (Direct)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84921.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: League of Ireland TV 01 (Direct)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84920.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: League of Ireland TV 02 (Direct)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84919.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: League of Ireland TV 03 (Direct)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84918.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: League of Ireland TV 04 (Direct)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84917.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: League of Ireland TV 05 (Direct)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84916.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: League of Ireland TV 06 (Direct)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84915.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: League of Ireland TV 07 (Direct)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84914.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: League of Ireland TV 08 (Direct)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84913.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: League of Ireland TV 09 (Direct)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84912.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: Virgin Media One
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84911.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: Virgin Media One +1
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84910.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: Virgin Media Two
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84909.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",IE: Virgin Media Four
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84908.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uk",UK: Virgin Media Four FHD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/84807.m3u8
 
 # --- Unknown (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Unknown",=====Filma Per Femije=====
@@ -8863,4 +8989,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4401
+# Total: 4464

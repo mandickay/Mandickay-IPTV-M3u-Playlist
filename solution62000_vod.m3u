@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-03-27 18:57:39
+# Generated: 2026-03-29 18:40:23
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1105,7 +1105,11 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1519) ---
+# --- Movies | Films (1521) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xWVbtqUvuhAOYzkZV6YDQOnN5fQ.jpg" group-title="Movies | Films",Pretty Thing (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26040.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fmimhXqKUmpwaOrYS2TAcEWvcMv.jpg" group-title="Movies | Films",Mike & Nick & Nick & Alice (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26036.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cPVC1B80UTQZmjznvR1vNuuSisg.jpg" group-title="Movies | Films",L'ombre, la femme et le couteau (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26009.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6HfRj1DVTh3HwJyjbVZIHV6AtCA.jpg" group-title="Movies | Films",Crimes à Cluny
@@ -1792,7 +1796,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/16868.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/16865.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvTOD3cRH0iVMsHNOPncFByFU0q.jpg" group-title="Movies | Films",The Alto Knights (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/16712.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5w3Qjn4DMSWXYQTbbdCbbPoyH2.jpg" group-title="Movies | Films",Gunslingers (2025)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s5w3Qjn4DMSWXYQTbbdCbbPoyH2.jpg" group-title="Movies | Films",Gunslingers (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/16711.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27UdEf3BguQKPBPlYqHeWzOK2qr.jpg" group-title="Movies | Films",Novocaine (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/16606.mkv
@@ -5065,7 +5069,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (453) ---
+# --- Movies | NETFLIX (455) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tlgGaC3OZfs6F9Kcg4as6StvJFG.jpg" group-title="Movies | NETFLIX",53 domingos (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26035.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/at29WEJ7lmFua6eWz79B6XFhfu2.jpg" group-title="Movies | NETFLIX",The Red Line (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26029.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tHdBpAOJlX4EgrU2rvOUwP4JFMY.jpg" group-title="Movies | NETFLIX",Peaky Blinders : L'Immortel (2026)
@@ -5972,6 +5978,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1061.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1072.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Furies
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1074.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Harry Hole
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1087.mp4
 
 # --- Movies | RAMADAN ( 2026 ) (49) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",( 2021 ) المداح
@@ -7183,7 +7191,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1083
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) - مترجمة  Doktor: Başka Hayatta الطبيب
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1085
 
-# --- Series | Series divers (269) ---
+# --- Series | Series divers (270) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -7722,5 +7730,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1075
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1080
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Apparences
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1082
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Privilèges
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1086
 
-# Total: 3828
+# Total: 3833

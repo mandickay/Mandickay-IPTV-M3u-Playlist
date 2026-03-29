@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: izle.superhd.eu:80
-# Generated: 2026-03-28 07:20:59
+# Generated: 2026-03-29 18:38:07
 # Expires: 2026-09-11
 # Family Safe Edition
 # ==============================================
@@ -8919,7 +8919,7 @@ http://izle.superhd.eu:80/live/irfankrgz123/6myj3c426p/223.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR-SINEMA",TR: BeIN Box Office
 http://izle.superhd.eu:80/live/irfankrgz123/6myj3c426p/337661.m3u8
 
-# --- TR-SPOR (92) ---
+# --- TR-SPOR (93) ---
 #EXTINF:-1 tvg-logo="http://logo.multicms.info/tvlogo/maxsports.jpg" group-title="TR-SPOR",TR: MAXSPORTS 1
 http://izle.superhd.eu:80/live/irfankrgz123/6myj3c426p/61351.m3u8
 #EXTINF:-1 tvg-logo="http://logo.multicms.info/tvlogo/maxsports.jpg" group-title="TR-SPOR",TR: MAXSPORTS 2
@@ -8968,6 +8968,8 @@ http://izle.superhd.eu:80/live/irfankrgz123/6myj3c426p/223133.m3u8
 http://izle.superhd.eu:80/live/irfankrgz123/6myj3c426p/116677.m3u8
 #EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/beinsports4.png" group-title="TR-SPOR",TR: beIN SPORTS 4 HD
 http://izle.superhd.eu:80/live/irfankrgz123/6myj3c426p/81.m3u8
+#EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/beinsports4.png" group-title="TR-SPOR",TR: beIN SPORTS 4 FHD
+http://izle.superhd.eu:80/live/irfankrgz123/6myj3c426p/353187.m3u8
 #EXTINF:-1 tvg-logo="http://logo.multicms.info/logoslar/beinsports4.png" group-title="TR-SPOR",TR: Bein Sports 4 (Yuksek Kalite) Mac Zamani
 http://izle.superhd.eu:80/live/irfankrgz123/6myj3c426p/223134.m3u8
 #EXTINF:-1 tvg-logo="http://afis.unimaxapp.eu/logoslar/beinsports1.png" group-title="TR-SPOR",TR: beIN SPORTS 5 HD
@@ -10435,4 +10437,4 @@ http://izle.superhd.eu:80/live/irfankrgz123/6myj3c426p/49032.m3u8
 #EXTINF:-1 tvg-logo="" group-title="YABANCI MUZIK",TR: KONSERLER
 http://izle.superhd.eu:80/live/irfankrgz123/6myj3c426p/240402.m3u8
 
-# Total: 5171
+# Total: 5172

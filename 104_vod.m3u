@@ -1,13 +1,15 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 104.254.194.191:8080
-# Generated: 2026-03-31 07:29:16
+# Generated: 2026-04-01 07:52:01
 # Expires: 2027-03-06
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 4K FILMLER (549) ---
+# --- Movies | 4K FILMLER (550) ---
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg" group-title="Movies | 4K FILMLER",Avatar Fire and Ash (2025) 4K
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/353266.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IPxzGlE17fJAwUTMul4opMeutA.jpg" group-title="Movies | 4K FILMLER",The Lost Bus (2025) 4K
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/353222.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg" group-title="Movies | 4K FILMLER",The Tragedy of Macbeth (2022) 4K
@@ -6029,7 +6031,9 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8759.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | PARAMOUNT+ DIZILER",The Madison
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8815.mp4
 
-# --- Movies | SONVIZYON FILMLER (28) ---
+# --- Movies | SONVIZYON FILMLER (21) ---
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg" group-title="Movies | SONVIZYON FILMLER",Scream 7 (2026)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/353263.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnBW7o8ycDi8WotGeRkGoDxrNMd.jpg" group-title="Movies | SONVIZYON FILMLER",Sonunda Sen (2026)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/353183.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg" group-title="Movies | SONVIZYON FILMLER",Mike & Nick & Nick & Alice (2026)
@@ -6062,30 +6066,14 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/348813.mkv
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/348800.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/vX8HmfV7SGFeF2mW2JxDePV4T4e.jpg" group-title="Movies | SONVIZYON FILMLER",The Wrecking Crew (2026)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/348307.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg" group-title="Movies | SONVIZYON FILMLER",Anaconda (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/348234.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMVhZxgbFLXZcDUIZ10NGb6s8w4.jpg" group-title="Movies | SONVIZYON FILMLER",Kidnapped Elizabeth Smart (2026)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/348191.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | SONVIZYON FILMLER",The Rip (2026)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/347772.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg" group-title="Movies | SONVIZYON FILMLER",The Running Man (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/345545.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/s4LOi1nn6PemZLSG46g3MkwUKyF.jpg" group-title="Movies | SONVIZYON FILMLER",Predator Badlands (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/338213.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg" group-title="Movies | SONVIZYON FILMLER",One Battle After Another (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/337191.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTTURwDVR7ZZKhGFsH0MlX9LzpK.jpg" group-title="Movies | SONVIZYON FILMLER",Thunderbolts* (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336810.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg" group-title="Movies | SONVIZYON FILMLER",The Gorge (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336803.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg" group-title="Movies | SONVIZYON FILMLER",The Accountant 2 (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336798.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/705nQHqe4JGdEisrQmVYmXyjs1U.jpg" group-title="Movies | SONVIZYON FILMLER",Sinners (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336724.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iKPsC9EFUafRP9SrUznI61getVP.jpg" group-title="Movies | SONVIZYON FILMLER",Mission Impossible The Final Reckoning (2025)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336718.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PXZIUsSDh4alB80jheWX4fhZmy.jpg" group-title="Movies | SONVIZYON FILMLER",F1 (2025)
-http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/336701.mkv
 
 # --- Movies | TABii DIZILER (50) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TABii DIZILER",Aşkımız Yeter
@@ -9895,7 +9883,7 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8811.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | YABANCI DIZILER",The Lady
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/8812.mp4
 
-# --- Movies | YABANCI FILM BOXSET (284) ---
+# --- Movies | YABANCI FILM BOXSET (285) ---
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/sQckQRt17VaWbo39GIu0TMOiszq.jpg" group-title="Movies | YABANCI FILM BOXSET",28 Days Later (2002)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/351156.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ja8nzgtzhJq0vtX3BJcnbceIxCF.jpg" group-title="Movies | YABANCI FILM BOXSET",28 Weeks Later (2007)
@@ -10312,6 +10300,8 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/238990.mkv
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/238991.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sx5EuckP7SBQrlMlxg0PLt282WS.jpg" group-title="Movies | YABANCI FILM BOXSET",Predators (2010)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/238992.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/erTRAi241eYF4K8KoGGOI8kFPox.jpg" group-title="Movies | YABANCI FILM BOXSET",Predator Badlands (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/353254.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwSFEczP7AzqugAHHIX3zHniT0t.jpg" group-title="Movies | YABANCI FILM BOXSET",Tron (1982)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/239859.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuifSABRpSnxCAOxEnWpNbZSXpp.jpg" group-title="Movies | YABANCI FILM BOXSET",TRON: Legacy (2010)
@@ -10465,7 +10455,25 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/252764.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irEqWPmDqCuzsItzefFxX3xWpL8.jpg" group-title="Movies | YABANCI FILM BOXSET",My Big Fat Greek Wedding 3 (2023)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/252762.mkv
 
-# --- Movies | YABANCI FILMLER (4033) ---
+# --- Movies | YABANCI FILMLER (4042) ---
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg" group-title="Movies | YABANCI FILMLER",Avatar Fire and Ash (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/353265.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/sZ3ZxAjy26ZEo3WM4JFdOkoE5sS.jpg" group-title="Movies | YABANCI FILMLER",The Kings Daughter (2022)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/353264.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/705nQHqe4JGdEisrQmVYmXyjs1U.jpg" group-title="Movies | YABANCI FILMLER",Sinners (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/353262.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIFMjt5MllFA6TJFkNufJ7uxHvT.jpg" group-title="Movies | YABANCI FILMLER",Anakonda (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/353261.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0XqulO3M01pmrhaUoJ8H55Gcg1.jpg" group-title="Movies | YABANCI FILMLER",F1 (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/353260.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjubchd3QdoDOZ6zrghHjNB1Rqh.jpg" group-title="Movies | YABANCI FILMLER",Thunderbolts* (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/353259.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg" group-title="Movies | YABANCI FILMLER",The Gorge (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/353258.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg" group-title="Movies | YABANCI FILMLER",The Accountant 2 (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/353257.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg" group-title="Movies | YABANCI FILMLER",The Running Man (2025)
+http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/353256.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg" group-title="Movies | YABANCI FILMLER",The Tragedy of Macbeth (2022)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/353220.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVwu3mN7hr1yF467pGct3yQFM41.jpg" group-title="Movies | YABANCI FILMLER",Popeye the Slayer Man (2025)
@@ -18533,4 +18541,4 @@ http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/253153.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7dZpJDORYs5c56dydbrLFkEXpE.jpg" group-title="Movies | YABANCI FILMLER",Host (2020)
 http://104.254.194.191:8080/movie/fusatr284/dGzg2dniyD/262077.mkv
 
-# Total: 9235
+# Total: 9239

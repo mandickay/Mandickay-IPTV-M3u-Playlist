@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.streamid.tv:8080
-# Generated: 2026-03-31 19:03:07
+# Generated: 2026-04-01 07:51:40
 # Expires: 2026-05-22
 # Family Safe Edition
 # ==============================================
@@ -24530,8 +24530,8 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/1972.mp4
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/1973.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD TERROR",prueba
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/1974.mp4
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/2sOmoY2wnfTq9jaMSWUOHMToft0ixk8T.jpg" group-title="Movies | VOD TERROR",VOD | Annabelle vuelve a casa (2019)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/2146.mp4
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/2sOmoY2wnfTq9jaMSWUOHMToft0ixk8T.jpg" group-title="Movies | VOD TERROR",VOD | Annabelle vuelve a casa (2019) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/2146.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/Pd2yDRN2YTQpyePLgBQ38nt60zf4O2N8.jpg" group-title="Movies | VOD TERROR",VOD | Boo! (2019) lat
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/2154.mp4
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/3Xq7QAEL78KJoeDlFM9cOItS1lIbMRSg.jpg" group-title="Movies | VOD TERROR",VOD |  Chucky el muñeco diabolico (2019) LAT
@@ -25148,10 +25148,10 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/60420.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/60423.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2JFJ8x0IWligHyuLJbBjqNsySf.jpg" group-title="Movies | VOD TERROR",VOD | La monja (2018) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/60424.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCPwduyyqCrIpSk1kA0p8lwjveB.jpg" group-title="Movies | VOD TERROR",VOD | Annabelle (2014)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCPwduyyqCrIpSk1kA0p8lwjveB.jpg" group-title="Movies | VOD TERROR",VOD | Annabelle (2014) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/60425.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RVhY8O8AoL28aEQ59gAJAM2SFs.jpg" group-title="Movies | VOD TERROR",VOD  | Annabelle: Creation (2017) DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/60426.mp4
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/60426.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzx10sca3arCeYBAomHan4Q6wa1.jpg" group-title="Movies | VOD TERROR",VOD | Sinister (2012)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/60427.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nYzxKmVlMKEhzUHnQBz326OBWR.jpg" group-title="Movies | VOD TERROR",VOD | Mamá (2013)
@@ -28631,7 +28631,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4147
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIMACIÓN",Duck Dodgers (MAX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4156
 
-# --- Series | SERIES - ANIME (335) ---
+# --- Series | SERIES - ANIME (336) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIME",One Piece (lat)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/29
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIME",Nanatsu no Taizai
@@ -29302,6 +29302,8 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4159
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4161
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIME",Gate: Jieitai Kanochi nite, Kaku Tatakaeri (CRoll -LAT)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4162
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIME",Gunslinger Stratos The Animation (FUN -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4166
 
 # --- Series | SERIES - CHILE (45) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CHILE",Los 80
@@ -33633,7 +33635,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3433
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTIL RETRO",El show de Pebbles y Bamm-Bamm
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3434
 
-# --- Series | SERIES - INFANTILES (110) ---
+# --- Series | SERIES - INFANTILES (111) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTILES",Oye Arnold
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/55
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTILES",Robotech
@@ -33854,6 +33856,8 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4157
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4158
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTILES",Generator Rex
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4163
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTILES",Hi Hi Puffy AmiYumi (CN -LAT)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4169
 
 # --- Series | SERIES - MARVEL (11) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - MARVEL",Wandavision (DSNY+ DUAL)
@@ -34097,7 +34101,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4114
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - MISTERIO",El extraño retorno de Diana Salazar (VIX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4121
 
-# --- Series | SERIES - REALITY (75) ---
+# --- Series | SERIES - REALITY (76) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - REALITY",El piso es lava
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/761
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - REALITY",Nailed It! España
@@ -34248,6 +34252,8 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4048
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4050
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - REALITY",OASIS (Maty Mattel) (SIN CENSURA)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4064
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - REALITY",Vecinos al limite (C13-LAT)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4165
 
 # --- Series | SERIES - RETRO (101) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - RETRO",El Zorro SD LAT
@@ -35019,4 +35025,4 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3456
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES- ROMANCE",La Realeza (NTFX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3465
 
-# Total: 17429
+# Total: 17432

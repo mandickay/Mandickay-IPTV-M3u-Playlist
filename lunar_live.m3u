@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lunar.pm:8080
-# Generated: 2026-03-31 19:00:40
+# Generated: 2026-04-01 07:50:37
 # Expires: 2026-05-07
 # Family Safe Edition
 # ==============================================
@@ -11889,7 +11889,7 @@ http://lunar.pm:8080/live/Stephanie/time44/100366.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/CNN.us.png" group-title="USA News",CNN HD
 http://lunar.pm:8080/live/Stephanie/time44/104092.m3u8
 
-# --- USA Sports (77) ---
+# --- USA Sports (76) ---
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/altitude-sports-us.png" group-title="USA Sports",Altitude Sports
 http://lunar.pm:8080/live/Stephanie/time44/109824.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/altitude-sports-us.png" group-title="USA Sports",Altitude Sports 2
@@ -11966,8 +11966,6 @@ http://lunar.pm:8080/live/Stephanie/time44/9544.m3u8
 http://lunar.pm:8080/live/Stephanie/time44/9543.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbcsn-chicago-us.png" group-title="USA Sports",NBCSN CHICAGO
 http://lunar.pm:8080/live/Stephanie/time44/9542.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbcsn-northwest-us.png" group-title="USA Sports",NBCSN NORTH WEST
-http://lunar.pm:8080/live/Stephanie/time44/9541.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbcsn-philadelphia-us.png" group-title="USA Sports",NBCSN PHILLY
 http://lunar.pm:8080/live/Stephanie/time44/9540.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nesnlogo.png" group-title="USA Sports",NESN
@@ -12213,4 +12211,4 @@ http://lunar.pm:8080/live/Stephanie/time44/120490.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/wnba4.png" group-title="WNBA",WNBA 10
 http://lunar.pm:8080/live/Stephanie/time44/120491.m3u8
 
-# Total: 6033
+# Total: 6032

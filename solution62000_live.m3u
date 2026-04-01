@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-03-31 19:05:09
+# Generated: 2026-04-01 07:50:01
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1288,7 +1288,7 @@ http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/699.m3u8
 http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/32.m3u8
 #EXTINF:-1 tvg-logo="http://coulissesmedias.com/wp-content/uploads/logoBFMTV.png" group-title="INFORMATIONS",BFMTV
 http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/31.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFM2100x100.png" group-title="INFORMATIONS",BFM 2
+#EXTINF:-1 tvg-logo="" group-title="INFORMATIONS",BFM 2
 http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/12480.m3u8
 #EXTINF:-1 tvg-logo="http://183.81.169.72:8089/BFMBUIS.png" group-title="INFORMATIONS",BFM Business
 http://solution62000.mine.nu:8000/live/Medelle_khaled/23112017/30.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: supjaa.xyz
-# Generated: 2026-03-31 19:09:24
+# Generated: 2026-04-01 08:02:45
 # Expires: 2026-12-22
 # Family Safe Edition
 # ==============================================
@@ -500,7 +500,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1076687.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1076594.m3u8
 
 # --- AR | ABU DHABI SPORTS (32) ---
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ad.png" group-title="AR | ABU DHABI SPORTS",##### AR - AD SPORTS #####
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/adsports.png" group-title="AR | ABU DHABI SPORTS",##### AR - AD SPORTS #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1167411.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AD_SPORT1.png" group-title="AR | ABU DHABI SPORTS",AR - AD SPORTS 1 HEVC
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1123471.m3u8
@@ -514,7 +514,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1123472.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/975105.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AD_SPORT2.png" group-title="AR | ABU DHABI SPORTS",AR - AD SPORTS 2 HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/755.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ad.png" group-title="AR | ABU DHABI SPORTS",##### AR - AD SPORTS PREMIUM #####
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/adsports.png" group-title="AR | ABU DHABI SPORTS",##### AR - AD SPORTS PREMIUM #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1320953.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AD_SPORT1.png" group-title="AR | ABU DHABI SPORTS",AR - AD SPORTS PREMIUM 1 FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/992043.m3u8
@@ -530,7 +530,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1320905.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1320906.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AD_SPORT2.png" group-title="AR | ABU DHABI SPORTS",AR - AD SPORTS PREMIUM 2+ UHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1320907.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ad.png" group-title="AR | ABU DHABI SPORTS",##### AR - AD SPORTS ASIA #####
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/adsports.png" group-title="AR | ABU DHABI SPORTS",##### AR - AD SPORTS ASIA #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1320954.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AD_SPORT1.png" group-title="AR | ABU DHABI SPORTS",AR - AD SPORTS ASIA LIVE EVENT 1 FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1123488.m3u8
@@ -930,12 +930,12 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1224818.m3u8
 # --- AR | BEIN SPORTS (171) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="AR | BEIN SPORTS",##### AR - BEIN SPORTS FHD #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/79702.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NEWS FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986958.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS GLOBAL FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986957.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NBA.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NBA FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986969.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NEWS FHD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986958.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS 1 FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/73354.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS 1 FHD²
@@ -992,6 +992,10 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/551249.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986966.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="AR | BEIN SPORTS",##### AR - BEIN SPORTS HEVC #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/309057.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS GLOBAL HEVC
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986972.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NBA.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NBA HEVC
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986984.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS 1 HEVC
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986973.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS 2 HEVC
@@ -1010,12 +1014,26 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986979.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986980.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS 9 HEVC
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986981.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS GLOBAL HEVC
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986972.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NBA.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NBA HEVC
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986984.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="AR | BEIN SPORTS",##### AR - BEIN SPORTS HD #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/70207.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS GLOBAL HD¹
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/27902.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS GLOBAL HD²
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/551271.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS GLOBAL HD³
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986990.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NBA.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NBA HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/271227.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NBA.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NBA HD²
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/551289.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NEWS HD¹
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/27925.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NEWS HD²
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/551270.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NEWS HD³
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986992.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NEWS HD⁴
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986993.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS 1 HD¹ ◉
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/27898.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS 1 HD² ◉
@@ -1070,26 +1088,20 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/418583.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/551280.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS 9 HD³
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/987002.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NBA.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NBA HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/271227.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NBA.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NBA HD²
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/551289.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NEWS HD¹
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/27925.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NEWS HD²
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/551270.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NEWS HD³
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986992.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NEWS HD⁴
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986993.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS GLOBAL HD¹
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/27902.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS GLOBAL HD²
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/551271.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS GLOBAL HD³
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/986990.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="AR | BEIN SPORTS",##### AR - BEIN SPORTS SD #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/27924.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS GLOBAL SD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/987009.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS GLOBAL SD²
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/551291.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS",AR - BEIN GLOBAL SD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1347397.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NBA.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NBA SD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/987020.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NEWS SD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/987010.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NEWS SD²
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/551290.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS 1 SD²
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/551292.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS 1 SD³
@@ -1144,18 +1156,6 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/551300.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/987019.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS 9 SD⁴
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/550002.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NEWS SD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/987010.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NEWS SD²
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/551290.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS GLOBAL SD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/987009.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS GLOBAL SD²
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/551291.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS",AR - BEIN GLOBAL SD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1347397.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NBA.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS NBA SD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/987020.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/bein/bein-sports-special.png" group-title="AR | BEIN SPORTS",##### AR - BEIN SPORTS XTRA #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1142665.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_1.png" group-title="AR | BEIN SPORTS",AR - BEIN SPORTS XTRA 1 FHD¹
@@ -1274,12 +1274,12 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/550000.m3u8
 # --- AR | BEIN SPORTS 4K (75) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS 4K",##### AR - BEIN SPORTS 4K #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/207574.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS NEWS 4K
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/333932.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS GLOBAL 4K
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/333931.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NBA.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS NBA 4K
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/271226.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS NEWS 4K
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/333932.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS 1 4K
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/203885.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS 1 4K²
@@ -2683,7 +2683,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/273442.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/shahhid.png" group-title="AR | SHAHID",AR - SHAHID VIP 33
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/273443.m3u8
 
-# --- AR | SHAHID BUNDESLIGA (14) ---
+# --- AR | SHAHID BUNDESLIGA (15) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/shahhid.png" group-title="AR | SHAHID BUNDESLIGA",##### SHAHID BUNDESLIGA #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1308881.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/shahhid.png" group-title="AR | SHAHID BUNDESLIGA",AR - SHAHID BUNDESLIGA 1
@@ -2706,6 +2706,8 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1308892.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1308893.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/shahhid.png" group-title="AR | SHAHID BUNDESLIGA",AR - SHAHID BUNDESLIGA 10
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1308894.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/shahhid.png" group-title="AR | SHAHID BUNDESLIGA",##### SHAHID EVENT #####
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1402979.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/shahhid.png" group-title="AR | SHAHID BUNDESLIGA",AR - SHAHID 1 EVENT
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1308882.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/shahhid.png" group-title="AR | SHAHID BUNDESLIGA",AR - SHAHID 2 EVENT
@@ -8894,7 +8896,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/349599.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/349600.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FLAGS/IRELAND2.png" group-title="EU | IRELAND",##### IE - CLUBBER #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1304805.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 01 :  Clare vs waterford // UK Mon 30 Mar 6:00pm // ET Mon 30 Mar 1:00pm
+#EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 01 :
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/640936.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/IRELAND/Clubber.png" group-title="EU | IRELAND",IE - CLUBBER 02 :
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/640935.m3u8
@@ -12587,4 +12589,4 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682938.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682939.m3u8
 
-# Total: 6174
+# Total: 6175

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv14s.xyz:8080
-# Generated: 2026-03-31 18:58:44
+# Generated: 2026-04-01 07:55:50
 # Expires: 2026-06-13
 # Family Safe Edition
 # ==============================================
@@ -3287,71 +3287,69 @@ http://tv14s.xyz:8080/live/37376578/37376578/94384.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Radio",Radio1
 http://tv14s.xyz:8080/live/37376578/37376578/94391.m3u8
 
-# --- MLB (32) ---
+# --- MLB (31) ---
 #EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fmlb.png" group-title="MLB",MLB Network
 http://tv14s.xyz:8080/live/37376578/37376578/21360.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/sling-tv-adds-mlb-network-and-mlb-strike-zone-ahead-just-in-time-for-opening-day/de6b7ceff7-1618516374/cut-5-576x324.jpg" group-title="MLB",MLB Strike Zone
 http://tv14s.xyz:8080/live/37376578/37376578/65699.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 01: Rangers VS Orioles (Orioles Feed ) @ 18:35
-http://tv14s.xyz:8080/live/37376578/37376578/265774.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/265842.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 02: Rangers VS Orioles (Rangers Feed ) @ 18:35
-http://tv14s.xyz:8080/live/37376578/37376578/265775.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 03: Pirates VS Reds (FS1 Feed ) @ 18:40
-http://tv14s.xyz:8080/live/37376578/37376578/265776.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 04: Nationals VS Phillies (Phillies Feed ) @ 18:40
-http://tv14s.xyz:8080/live/37376578/37376578/265777.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/265843.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 03: Nationals VS Phillies (Phillies Feed ) @ 18:40
+http://tv14s.xyz:8080/live/37376578/37376578/265844.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 04: Nationals VS Phillies (MLBN Feed ) @ 18:40
+http://tv14s.xyz:8080/live/37376578/37376578/265845.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 07: Athletics VS Braves (Athletics Feed ) @ 19:15
-http://tv14s.xyz:8080/live/37376578/37376578/265780.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/265848.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 08: Angels VS Cubs (Cubs Feed ) @ 19:40
-http://tv14s.xyz:8080/live/37376578/37376578/265781.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/265849.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 09: Mets VS Cardinals (Mets Feed ) @ 19:45
-http://tv14s.xyz:8080/live/37376578/37376578/265782.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/265850.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 10: Red Sox VS Astros (Astros Feed ) @ 20:10
-http://tv14s.xyz:8080/live/37376578/37376578/265783.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/265851.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 11: Red Sox VS Astros (Red Sox Feed ) @ 20:10
-http://tv14s.xyz:8080/live/37376578/37376578/265784.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 12: Giants VS Padres (FS1 Feed ) @ 21:40
-http://tv14s.xyz:8080/live/37376578/37376578/265785.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/265852.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 12: Tigers VS D-backs (D-backs Feed ) @ 21:40
+http://tv14s.xyz:8080/live/37376578/37376578/265853.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 13: Giants VS Padres (Giants Feed ) @ 21:40
-http://tv14s.xyz:8080/live/37376578/37376578/265786.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/265854.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 14: Yankees VS Mariners (Yankees Feed ) @ 21:40
-http://tv14s.xyz:8080/live/37376578/37376578/265787.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 15: Tigers VS D-backs (D-backs Feed ) @ 22:10
-http://tv14s.xyz:8080/live/37376578/37376578/265788.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/265855.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 15: Yankees VS Mariners (Yankees Feed ) @ 21:40
+http://tv14s.xyz:8080/live/37376578/37376578/265856.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 16: Guardians VS Dodgers (Dodgers Feed ) @ 22:10
-http://tv14s.xyz:8080/live/37376578/37376578/265789.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 17: Minnesota Twins vs Kansas City Royals @ 4:10 pm EDT
-http://tv14s.xyz:8080/live/37376578/37376578/265790.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/265857.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 17: Pittsburgh Pirates vs Cincinnati Reds @ 6:40 pm EDT
+http://tv14s.xyz:8080/live/37376578/37376578/265858.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 18: Chicago White Sox vs Miami Marlins @ 6:40 pm EDT
-http://tv14s.xyz:8080/live/37376578/37376578/265791.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/265859.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 19: Tampa Bay Rays vs Milwaukee Brewers @ 7:40 pm EDT
-http://tv14s.xyz:8080/live/37376578/37376578/265792.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 01: 4:10PM Minnesota Twins vs. Kansas City Royals
-http://tv14s.xyz:8080/live/37376578/37376578/265793.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 02: 6:35PM Texas Rangers vs. Baltimore Orioles
-http://tv14s.xyz:8080/live/37376578/37376578/265794.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 03: 6:40PM Pittsburgh Pirates vs. Cincinnati Reds
-http://tv14s.xyz:8080/live/37376578/37376578/265795.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/265860.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 01: 6:35PM Texas Rangers vs. Baltimore Orioles
+http://tv14s.xyz:8080/live/37376578/37376578/265861.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 02: 6:40PM Pittsburgh Pirates vs. Cincinnati Reds
+http://tv14s.xyz:8080/live/37376578/37376578/265862.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 03: 6:40PM Chicago White Sox vs. Miami Marlins
+http://tv14s.xyz:8080/live/37376578/37376578/265863.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",MLB 04: 6:40PM Washington Nationals vs. Philadelphia Phillies
-http://tv14s.xyz:8080/live/37376578/37376578/265796.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 05: 6:40PM Chicago White Sox vs. Miami Marlins
-http://tv14s.xyz:8080/live/37376578/37376578/265797.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 07: 7:15PM Oakland Athletics vs. Atlanta Braves
-http://tv14s.xyz:8080/live/37376578/37376578/265799.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 08: 7:40PM Tampa Bay Rays vs. Milwaukee Brewers
-http://tv14s.xyz:8080/live/37376578/37376578/265800.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 09: 7:40PM Los Angeles Angels vs. Chicago Cubs
-http://tv14s.xyz:8080/live/37376578/37376578/265801.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 10: 7:45PM New York Mets vs. St. Louis Cardinals
-http://tv14s.xyz:8080/live/37376578/37376578/265802.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 11: 8:10PM Boston Red Sox vs. Houston Astros
-http://tv14s.xyz:8080/live/37376578/37376578/265803.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 13: 9:40PM New York Yankees vs. Seattle Mariners
-http://tv14s.xyz:8080/live/37376578/37376578/265804.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 14: 10:10PM Cleveland Guardians vs. LA Dodgers
-http://tv14s.xyz:8080/live/37376578/37376578/265805.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 15: 10:10PM Detroit Tigers vs. Arizona Diamondbacks
-http://tv14s.xyz:8080/live/37376578/37376578/265806.m3u8
+http://tv14s.xyz:8080/live/37376578/37376578/265864.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 06: 7:15PM Oakland Athletics vs. Atlanta Braves
+http://tv14s.xyz:8080/live/37376578/37376578/265866.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 07: 7:40PM Tampa Bay Rays vs. Milwaukee Brewers
+http://tv14s.xyz:8080/live/37376578/37376578/265867.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 08: 7:40PM Los Angeles Angels vs. Chicago Cubs
+http://tv14s.xyz:8080/live/37376578/37376578/265868.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 09: 7:45PM New York Mets vs. St. Louis Cardinals
+http://tv14s.xyz:8080/live/37376578/37376578/265869.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 10: 8:10PM Boston Red Sox vs. Houston Astros
+http://tv14s.xyz:8080/live/37376578/37376578/265870.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 11: 9:40PM Detroit Tigers vs. Arizona Diamondbacks
+http://tv14s.xyz:8080/live/37376578/37376578/265871.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 13: 8:40PM San Francisco Giants vs. San Diego Padres
+http://tv14s.xyz:8080/live/37376578/37376578/265872.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 14: 10:10PM Cleveland Guardians vs. L.A. Dodgers
+http://tv14s.xyz:8080/live/37376578/37376578/265873.m3u8
 
 # --- MOVIE NETWORKS (41) ---
 #EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
@@ -3437,27 +3435,39 @@ http://tv14s.xyz:8080/live/37376578/37376578/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://tv14s.xyz:8080/live/37376578/37376578/21091.m3u8
 
-# --- NBA (10) ---
+# --- NBA (16) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://tv14s.xyz:8080/live/37376578/37376578/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://tv14s.xyz:8080/live/37376578/37376578/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: Philadelphia 76ers vs Miami Heat @ 07:00 PM EDT
-http://tv14s.xyz:8080/live/37376578/37376578/265766.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Boston Celtics vs Atlanta Hawks @ 07:30 PM EDT
-http://tv14s.xyz:8080/live/37376578/37376578/265767.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Phoenix Suns vs Memphis Grizzlies @ 08:00 PM EDT
-http://tv14s.xyz:8080/live/37376578/37376578/265768.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Chicago Bulls vs San Antonio Spurs @ 08:00 PM EDT
-http://tv14s.xyz:8080/live/37376578/37376578/265769.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Minnesota Timberwolves vs Dallas Mavericks @ 08:30 PM EDT
-http://tv14s.xyz:8080/live/37376578/37376578/265770.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Cleveland Cavaliers vs Utah Jazz @ 09:00 PM EDT
-http://tv14s.xyz:8080/live/37376578/37376578/265771.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Detroit Pistons vs Oklahoma City Thunder @ 09:30 PM EDT
-http://tv14s.xyz:8080/live/37376578/37376578/265772.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 08: Washington Wizards vs Los Angeles Lakers @ 10:00 PM EDT
-http://tv14s.xyz:8080/live/37376578/37376578/265773.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01: Phoenix Suns @ Orlando Magic | Away Stream | 03/31/2026 7:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/265828.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02: Phoenix Suns @ Orlando Magic | Home Stream | 03/31/2026 7:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/265829.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03: Charlotte Hornets @ Brooklyn Nets | Away Stream | 03/31/2026 7:30 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/265830.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04: Charlotte Hornets @ Brooklyn Nets | Home Stream | 03/31/2026 7:30 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/265831.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05: Toronto Raptors @ Detroit Pistons | Away Stream | 03/31/2026 8:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/265832.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06: Dallas Mavericks @ Milwaukee Bucks | Away Stream | 03/31/2026 8:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/265833.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 07: Dallas Mavericks @ Milwaukee Bucks | Home Stream | 03/31/2026 8:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/265834.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 08: Toronto Raptors @ Detroit Pistons | Home Stream | 03/31/2026 8:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/265835.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 09: New York Knicks @ Houston Rockets | Away Stream | 03/31/2026 8:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/265836.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 10: New York Knicks @ Houston Rockets | Home Stream | 03/31/2026 8:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/265837.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 11: Cleveland Cavaliers @ Los Angeles Lakers | Away Stream | 03/31/2026 10:30 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/265838.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 12: Cleveland Cavaliers @ Los Angeles Lakers | Home Stream | 03/31/2026 10:30 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/265839.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 13: Portland Trail Blazers @ Los Angeles Clippers | Away Stream | 03/31/2026 11:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/265840.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 14: Portland Trail Blazers @ Los Angeles Clippers | Home Stream | 03/31/2026 11:00 PM ET
+http://tv14s.xyz:8080/live/37376578/37376578/265841.m3u8
 
 # --- NCAAB (5) ---
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | MARYLAND EASTERN SHORE @ YOUNGSTOWN STATE (W) | 3.24 6:30 PM | ESPN+
@@ -3519,31 +3529,49 @@ http://tv14s.xyz:8080/live/37376578/37376578/253677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 15:
 http://tv14s.xyz:8080/live/37376578/37376578/253678.m3u8
 
-# --- NHL (12) ---
+# --- NHL (21) ---
 #EXTINF:-1 tvg-logo="" group-title="NHL",US NHL Network
 http://tv14s.xyz:8080/live/37376578/37376578/253636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: PIT VS NYI (NHLN Feed ) @ 7:00 pm
-http://tv14s.xyz:8080/live/37376578/37376578/265807.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: PIT VS NYI (TVAS Feed ) @ 7:00 pm
-http://tv14s.xyz:8080/live/37376578/37376578/265808.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: CGY VS COL (Prime Feed ) @ 8:30 pm
-http://tv14s.xyz:8080/live/37376578/37376578/265809.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: CGY VS COL (ALT Feed ) @ 8:30 pm
-http://tv14s.xyz:8080/live/37376578/37376578/265810.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: TOR VS ANA (TVAS Feed ) @ 10:00 pm
-http://tv14s.xyz:8080/live/37376578/37376578/265811.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: Vancouver Canucks vs Vegas Golden Knights @ 10:00 PM EDT
-http://tv14s.xyz:8080/live/37376578/37376578/265812.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",NHL01: 7PM Pittsburgh vs New York
-http://tv14s.xyz:8080/live/37376578/37376578/265814.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",NHL02: 8:30PM Calgary vs Colorado
-http://tv14s.xyz:8080/live/37376578/37376578/265815.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",NHL03: 10PM Toronto vs Anaheim
-http://tv14s.xyz:8080/live/37376578/37376578/265816.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",NHL04: 10PM St. Louis vs San Jose
-http://tv14s.xyz:8080/live/37376578/37376578/265817.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",NHL05: 10PM Vancouver vs Vegas
-http://tv14s.xyz:8080/live/37376578/37376578/265818.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: DAL VS BOS (SN360 Feed ) @ 7:00 pm
+http://tv14s.xyz:8080/live/37376578/37376578/265874.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: DAL VS BOS (NESN Feed ) @ 7:00 pm
+http://tv14s.xyz:8080/live/37376578/37376578/265875.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: MTL VS TBL (RDS Feed ) @ 7:00 pm
+http://tv14s.xyz:8080/live/37376578/37376578/265876.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: PHI VS WSH (NBCSP Feed ) @ 7:00 pm
+http://tv14s.xyz:8080/live/37376578/37376578/265877.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: SEA VS EDM (SNW Feed ) @ 9:00 pm
+http://tv14s.xyz:8080/live/37376578/37376578/265878.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: New York Islanders vs Buffalo Sabres @ 07:00 PM EDT
+http://tv14s.xyz:8080/live/37376578/37376578/265879.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: Ottawa Senators vs Florida Panthers @ 07:00 PM EDT
+http://tv14s.xyz:8080/live/37376578/37376578/265880.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: New Jersey Devils vs New York Rangers @ 07:00 PM EDT
+http://tv14s.xyz:8080/live/37376578/37376578/265881.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: Detroit Red Wings vs Pittsburgh Penguins @ 07:00 PM EDT
+http://tv14s.xyz:8080/live/37376578/37376578/265882.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 11: Winnipeg Jets vs Chicago Blackhawks @ 08:30 PM EDT
+http://tv14s.xyz:8080/live/37376578/37376578/265884.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL01: 7PM Dallas vs Boston
+http://tv14s.xyz:8080/live/37376578/37376578/265885.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL02: 7PM New York vs Buffalo
+http://tv14s.xyz:8080/live/37376578/37376578/265886.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL03: 7PM Montreal vs Tampa Bay
+http://tv14s.xyz:8080/live/37376578/37376578/265887.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL04: 7PM Ottawa vs Florida
+http://tv14s.xyz:8080/live/37376578/37376578/265888.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL05: 7PM New Jersey vs New York
+http://tv14s.xyz:8080/live/37376578/37376578/265889.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL06: 7PM Detroit vs Pittsburgh
+http://tv14s.xyz:8080/live/37376578/37376578/265890.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL07: 7PM Philadelphia vs Washington
+http://tv14s.xyz:8080/live/37376578/37376578/265891.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL08: 7:30PM Carolina vs Columbus
+http://tv14s.xyz:8080/live/37376578/37376578/265892.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL09: 8:30PM Winnipeg vs Chicago
+http://tv14s.xyz:8080/live/37376578/37376578/265893.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",NHL10: 9PM Seattle vs Edmonton
+http://tv14s.xyz:8080/live/37376578/37376578/265894.m3u8
 
 # --- PERU (7) ---
 #EXTINF:-1 tvg-logo="" group-title="PERU",PE: PANAMERICANA HD
@@ -13371,4 +13399,4 @@ http://tv14s.xyz:8080/live/37376578/37376578/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://tv14s.xyz:8080/live/37376578/37376578/121048.m3u8
 
-# Total: 6646
+# Total: 6660

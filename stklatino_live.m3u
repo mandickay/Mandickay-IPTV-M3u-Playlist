@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-03-31 18:59:47
+# Generated: 2026-04-01 08:03:56
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -1913,7 +1913,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/130533.m3u8
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/bandsports.png" group-title="DEPORTES",Band Sports
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/5190.m3u8
 
-# --- DEPORTES PREMIUM (23) ---
+# --- DEPORTES PREMIUM (24) ---
 #EXTINF:-1 tvg-logo="https://auvaromaia.com/wp-content/uploads/2024/10/Max-e-TNT-900x333.png" group-title="DEPORTES PREMIUM",TNT SPORTS MAX
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/57153.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sp4wTqb/descarga.png" group-title="DEPORTES PREMIUM",TNT CHILE PREMIUM SD
@@ -1960,6 +1960,8 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/56938.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/76712.m3u8
 #EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zappingsports.jpg" group-title="DEPORTES PREMIUM",ZAPPING SPORTS
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/76741.m3u8
+#EXTINF:-1 tvg-logo="https://auvaromaia.com/wp-content/uploads/2024/10/Max-e-TNT-900x333.png" group-title="DEPORTES PREMIUM",TNT - MAX (Solo Eventos)
+http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/137065.m3u8
 
 # --- ECUADOR (14) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="ECUADOR",Canela TV
@@ -16549,4 +16551,4 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/2429.m3u8
 
-# Total: 8239
+# Total: 8240

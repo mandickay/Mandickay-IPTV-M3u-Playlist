@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-04-01 07:56:23
+# Generated: 2026-04-01 19:08:38
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1619,19 +1619,9 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (30) ---
+# --- DE-DAZN EVENT (25) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/l6n1bg2.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3mmmkfkmgbko2jlp3fy1mrg4n_image-header_pDach_1773664694000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Dienstags-Konferenz | Play-offs (Finale) (2026-03-31 18:15:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180393.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1co8ac6uwo6arzynh8s9mw59r_image-header_pDach_1774605139000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Bosnien-Herzegowina - Italien | Finale (2026-03-31 18:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180397.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/78583ur214lshzy2zg65ad5yj_image-header_pDach_1774605358000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",DR Kongo - Jamaika | Finale (2026-03-31 21:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180404.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/btomtfrstn9z135ay3zmfftff_image-header_pDach_1773209236000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Brasilien - Kroatien (2026-04-01 00:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180405.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ezrrcbqqvk5kvjiwa658etuuz_image-header_pDach_1774606144000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Irak - Bolivien | Finale (2026-04-01 03:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180406.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ueqjnqoph6tz1tia1rr2x25hv_image-header_pDach_1774622697000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Brown vs. Ducar: Pressekonferenz (2026-04-01 13:00:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180407.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1kp6nab322c1yygdd7qlmk5go_image-header_pDach_1773524202000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Santander - Gijon (2026-04-01 19:30:00)
@@ -6475,4 +6465,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3177
+# Total: 3172

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: supjaa.xyz
-# Generated: 2026-04-01 19:13:49
+# Generated: 2026-04-02 07:39:33
 # Expires: 2026-12-22
 # Family Safe Edition
 # ==============================================
@@ -566,7 +566,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/583887.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/583808.m3u8
 
 # --- AR | ALWAN ENTERTAINMENT (15) ---
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",##### AR | ALWAN ENTERTAINMENT#####
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan1.png" group-title="AR | ALWAN ENTERTAINMENT",##### AR - ALWAN ENTERTAINMENT#####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1388358.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",AR - ALWAN QURAN 4K
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1339235.m3u8
@@ -597,17 +597,21 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1339247.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",AR - ALWAN AFLAM 4 4K
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1339248.m3u8
 
-# --- AR | ALWAN SPORTS (26) ---
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",##### ALWAN SPORTS #####
+# --- AR | ALWAN SPORTS (28) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan1.png" group-title="AR | ALWAN SPORTS",##### AR - ALWAN SPORTS #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1339208.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN WWE 4K
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1339210.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN F1 4K
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1339211.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN F1 4K¹
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1322608.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN UFC 4K
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1339212.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 1 4K
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1339213.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 1 4K¹
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1322607.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 1 HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1339223.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 1 SD
@@ -741,13 +745,33 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/929.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/rtarabic.png" group-title="AR | ARABIC NEWS",AR - RT ARABIC HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/926.m3u8
 
-# --- AR | ARABIC SPORTS (23) ---
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="AR | ARABIC SPORTS",##### ARABIC SPORTS #####
+# --- AR | ARABIC SPORTS (21) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="AR | ARABIC SPORTS",##### AR - THMANYAH #####
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1279495.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/thmanyah.png" group-title="AR | ARABIC SPORTS",SA - THMANYAH 1 FHD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1279494.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/thmanyah.png" group-title="AR | ARABIC SPORTS",SA - THMANYAH 1 HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1279492.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/thmanyah.png" group-title="AR | ARABIC SPORTS",SA - THMANYAH 2 FHD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1279493.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/thmanyah.png" group-title="AR | ARABIC SPORTS",SA - THMANYAH 2 HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1279491.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/thmanyah.png" group-title="AR | ARABIC SPORTS",SA - THMANYAH 3 FHD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1286659.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/thmanyah.png" group-title="AR | ARABIC SPORTS",SA - THMANYAH 3 HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1286660.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="AR | ARABIC SPORTS",##### AR - KSA SPORTS #####
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1142441.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/KSASPORTS.png" group-title="AR | ARABIC SPORTS",SA - KSA SPORTS 1 HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/19164.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/KSASPORTS.png" group-title="AR | ARABIC SPORTS",SA - KSA SPORTS 2 HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/26603.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/KSASPORTS.png" group-title="AR | ARABIC SPORTS",SA - KSA SPORTS 3 HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/79800.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/KSASPORTS.png" group-title="AR | ARABIC SPORTS",SA - KSA SPORTS 4 HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/79801.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="AR | ARABIC SPORTS",##### AR - ARABIC SPORTS #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1322617.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ARABIC SPORTS",AR - ALWAN SPORT 1 4K
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1322607.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ARABIC SPORTS",AR - ALWAN F1 4K
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1322608.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/shasha.png" group-title="AR | ARABIC SPORTS",AR - SHASHA 1 SERIE A FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1322609.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/shasha.png" group-title="AR | ARABIC SPORTS",AR - SHASHA 1 SERIE A FHD
@@ -764,34 +788,12 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1322614.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1322615.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/serie_a.png" group-title="AR | ARABIC SPORTS",AR - SERIE A ARABIC 3 FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1322616.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="AR | ARABIC SPORTS",##### THMANYAH #####
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1279495.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/thmanyah.png" group-title="AR | ARABIC SPORTS",SA - THMANYAH 1 FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1279494.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/thmanyah.png" group-title="AR | ARABIC SPORTS",SA - THMANYAH 1 HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1279492.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/thmanyah.png" group-title="AR | ARABIC SPORTS",SA - THMANYAH 2 FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1279493.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/thmanyah.png" group-title="AR | ARABIC SPORTS",SA - THMANYAH 2 HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1279491.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/thmanyah.png" group-title="AR | ARABIC SPORTS",SA - THMANYAH 3 FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1286659.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/thmanyah.png" group-title="AR | ARABIC SPORTS",SA - THMANYAH 3 HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1286660.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="AR | ARABIC SPORTS",##### KSA SPORTS #####
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1142441.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/KSASPORTS.png" group-title="AR | ARABIC SPORTS",SA - KSA SPORTS 1 HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/19164.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/KSASPORTS.png" group-title="AR | ARABIC SPORTS",SA - KSA SPORTS 2 HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/26603.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/KSASPORTS.png" group-title="AR | ARABIC SPORTS",SA - KSA SPORTS 3 HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/79800.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/KSASPORTS.png" group-title="AR | ARABIC SPORTS",SA - KSA SPORTS 4 HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/79801.m3u8
 
 # --- AR | ART (6) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/art0.png" group-title="AR | ART",##### AR - ART #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1306328.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ART_CINEMA.png" group-title="AR | ART",AR - ART CINEMA FHD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/982.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ART_AFLAM1.png" group-title="AR | ART",AR - ART AFLAM 1 FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/984.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ART_AFLAM2.png" group-title="AR | ART",AR - ART AFLAM 2 FHD
@@ -800,8 +802,6 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/983.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/981.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ART_HEKAYAT_2.png" group-title="AR | ART",AR - ART HEKAYAT 2 FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/980.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ART_CINEMA.png" group-title="AR | ART",AR - ART CINEMA FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/982.m3u8
 
 # --- AR | BAHRAIN (6) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/BAHRAIN/BAHRAIN.png" group-title="AR | BAHRAIN",##### BH - BAHRAIN #####
@@ -1500,7 +1500,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/167199.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/835.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/nogoum.png" group-title="AR | EGYPT",EG - NOGOUM FM TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/254918.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/TENTVAR.png" group-title="AR | EGYPT",EG - TEN TV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/TEN0.png" group-title="AR | EGYPT",EG - TEN TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/841.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ARABICA.png" group-title="AR | EGYPT",EG - ARABICA TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/826.m3u8
@@ -1822,7 +1822,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/913.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/891.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/HUDA_TV.png" group-title="AR | ISLAMIC",AR - HUDA TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/905639.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="AR | ISLAMIC",##### Quran #####
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="AR | ISLAMIC",##### AR - Quran #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1155916.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/QURAN.png" group-title="AR | ISLAMIC",Quran - اسلام صبحي
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/909118.m3u8
@@ -2402,7 +2402,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/48920.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/107381.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/SCANDINAVIAN/VIASATHISTORY.png" group-title="AR | OSN",OSN - HISTORY HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/48917.m3u8
-#EXTINF:-1 tvg-logo="NATIONIALGEOGRAPHICCHANNELHD" group-title="AR | OSN",OSN - NAT GEO HD
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="AR | OSN",OSN - NAT GEO HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/48910.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NATGEOWILD-1.png" group-title="AR | OSN",OSN - NAT GEO WILD HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/48909.m3u8
@@ -2684,7 +2684,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/273442.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/273443.m3u8
 
 # --- AR | SHAHID BUNDESLIGA (15) ---
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/shahhid.png" group-title="AR | SHAHID BUNDESLIGA",##### SHAHID BUNDESLIGA #####
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/shahhid1.png" group-title="AR | SHAHID BUNDESLIGA",##### AR - SHAHID BUNDESLIGA #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1308881.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/shahhid.png" group-title="AR | SHAHID BUNDESLIGA",AR - SHAHID BUNDESLIGA 1
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1308885.m3u8
@@ -2706,7 +2706,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1308892.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1308893.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/shahhid.png" group-title="AR | SHAHID BUNDESLIGA",AR - SHAHID BUNDESLIGA 10
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1308894.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/shahhid.png" group-title="AR | SHAHID BUNDESLIGA",##### SHAHID EVENT #####
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/shahhid1.png" group-title="AR | SHAHID BUNDESLIGA",##### AR - SHAHID EVENT #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1402979.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/shahhid.png" group-title="AR | SHAHID BUNDESLIGA",AR - SHAHID 1 EVENT
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1308882.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-04-01 18:59:56
+# Generated: 2026-04-02 07:34:16
 # Expires: 2026-04-14
 # Family Safe Edition
 # ==============================================
@@ -12131,7 +12131,7 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2471.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOCUMENTALES",De polo a polo con Will Smith
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2536.mp4
 
-# --- Movies | DRAMA (1363) ---
+# --- Movies | DRAMA (1365) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YcjGJtW4AEHyNH8yrs8FAaPBM.jpg" group-title="Movies | DRAMA",12 valientes (2018)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/3344.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XbNkZMLXD9dYGZJ87nmQ62Mp2l.jpg" group-title="Movies | DRAMA",127 Horas (2010)
@@ -14858,6 +14858,10 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2575.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2576.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",O11CE: Nueva generación
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2577.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Algo terrible está a punto de suceder
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2581.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Beso de sirena
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2582.mp4
 
 # --- Movies | INFANTILES (909) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp7d1OGYpBGyG5E6fr1fMi01bvK.jpg" group-title="Movies | INFANTILES",Abominable (2019)
@@ -22385,7 +22389,7 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/89878.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRRe7UqPvkMSRgUk1xRNayRvBiO.jpg" group-title="Movies | WESTERN",Dos mulas para la hermana Sara (1970)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/90187.mkv
 
-# --- Series | TELESERIES (131) ---
+# --- Series | TELESERIES (133) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",La familia P. Luche
 http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/1417
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Vencer el Desamor
@@ -22648,5 +22652,9 @@ http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2511
 http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2529
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",La Hija Del Mariachi 2025
 http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2534
+#EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Las de siempre
+http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2579
+#EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Hermanas, un amor compartido
+http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2580
 
-# Total: 11289
+# Total: 11293

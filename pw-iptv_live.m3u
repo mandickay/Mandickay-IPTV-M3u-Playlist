@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-04-01 19:07:17
+# Generated: 2026-04-02 07:28:20
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -925,7 +925,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/678354.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/5015.jpg?32147" group-title="AR| AL-MAJD TV 4K ▶ المجد",AR: AL MAJD BASMAH
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/214815.m3u8
 
-# --- AR| ALGERIA 4K ▶ الجزائر (32) ---
+# --- AR| ALGERIA 4K ▶ الجزائر (33) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Animated-Flag-Algeria.gif" group-title="AR| ALGERIA 4K ▶ الجزائر",###### ALGERIA TV ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/251802.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/108.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Echourouk TV 4K
@@ -988,6 +988,8 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/499155.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/243373.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13489.png?42868" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: EL Fadjer Drama DZ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/411440.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9373.png?93056" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Programme National HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1903923.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/857.jpg?4260" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Zahra TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/318682.m3u8
 
@@ -13423,7 +13425,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/285326.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13425.png?54984" group-title="IT| SPORT HD/4K",IT: CLASS HORSE TV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/285390.m3u8
 
-# --- KU| KURDISH GENERAL HD/4K (71) ---
+# --- KU| KURDISH GENERAL HD/4K (70) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Kurdish.gif" group-title="KU| KURDISH GENERAL HD/4K",#### KURDISH GENERAL HD/4K ####
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/509119.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1351.jpg?99267" group-title="KU| KURDISH GENERAL HD/4K",KU: KURD MAX KERMANCI 4K
@@ -13550,8 +13552,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/201907.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/201993.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10574.jpg?14677" group-title="KU| KURDISH GENERAL HD/4K",KU: SHA FILM 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/380721.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8448.png?42195" group-title="KU| KURDISH GENERAL HD/4K",KU: SIMA MOVIES 4K
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/380717.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/973.jpg?47390" group-title="KU| KURDISH GENERAL HD/4K",KU: STERK TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/201909.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12645.jpg?36123" group-title="KU| KURDISH GENERAL HD/4K",KU: TASAWF 4K

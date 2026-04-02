@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-04-01 07:51:07
+# Generated: 2026-04-02 07:38:56
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -1143,15 +1143,9 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/580017.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE DYN SPORT - RTL+ SPORT",DE: VIP RTL+ SPORT EVENT 13 HD (SPIELZEIT)
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/633970.m3u8
 
-# --- DE DYN SPORT EVENT (MIT EPG) (30) ---
+# --- DE DYN SPORT EVENT (MIT EPG) (27) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: ----- DYN SPORT EVENT -----
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/670872.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| HC ZAGREB U19 - FUCHSE BERLIN U19 | EHF YOUTH CLUB TROPHY (2026-03-30 13:20:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/678950.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| SKANDERBORG-AARHUS HAANDBOLD - SG FLENSBURG-HANDEWITT (2026-03-31 17:35:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/678949.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| FREDERICIA HK 1990 - MT MELSUNGEN (2026-03-31 19:35:00)
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/678948.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| READING HC - MANNHEIMER HC (DAMEN) (2026-04-01 16:10:00)
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/678947.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT (MIT EPG)",DE: |DYN| ROSTOCK SEAWOLVES - BASKETBALL LOWEN BRAUNSCHWEIG (2026-04-01 17:15:00)
@@ -9189,4 +9183,4 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199554.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="UK SPORT",UK: RED BULL TV FHD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199548.m3u8
 
-# Total: 4518
+# Total: 4515
